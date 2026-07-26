@@ -4833,6 +4833,11 @@
         },
         {
             "game": "Harvest Moon 64",
+            "file": "jingles/n64/Brookenium/Harvest Moon 64 (Brookenium).ogg",
+            "regex": "^harvest[^a-z0-9]*moon[^a-z0-9]*64$|^harvestmoon64$"
+        },
+        {
+            "game": "Harvest Moon 64",
             "file": "jingles/n64/flapperultra/Harvest Moon 64 (flapperultra).ogg",
             "regex": "^harvest[^a-z0-9]*moon[^a-z0-9]*64$|^harvestmoon64$"
         },
@@ -4882,9 +4887,19 @@
             "regex": "^kirby[^a-z0-9]*64[^a-z0-9]*the[^a-z0-9]*crystal[^a-z0-9]*shards$|^kirby64thecrystalshards$"
         },
         {
+            "game": "Mario Golf (64)",
+            "file": "jingles/n64/Brookenium/Mario Golf (64) (Brookenium).ogg",
+            "regex": "^mario[^a-z0-9]*golf[^a-z0-9]*64$|^mariogolf64$"
+        },
+        {
             "game": "Mario Kart 64",
             "file": "jingles/n64/Natalie/Mario Kart 64 (Natalie).ogg",
             "regex": "^mario[^a-z0-9]*kart[^a-z0-9]*64$|^mariokart64$"
+        },
+        {
+            "game": "Mario Tennis (64)",
+            "file": "jingles/n64/Brookenium/Mario Tennis (64) (Brookenium).ogg",
+            "regex": "^mario[^a-z0-9]*tennis[^a-z0-9]*64$|^mariotennis64$"
         },
         {
             "game": "MarioGolf",
@@ -4915,6 +4930,11 @@
             "game": "Mystical Ninja staring Goemon 64",
             "file": "jingles/n64/flapperultra/Mystical Ninja staring Goemon 64 (flapperultra).ogg",
             "regex": "^mystical[^a-z0-9]*ninja[^a-z0-9]*staring[^a-z0-9]*goemon[^a-z0-9]*64$|^mysticalninjastaringgoemon64$"
+        },
+        {
+            "game": "N64 DD (Title Screen)",
+            "file": "jingles/n64/Brookenium/N64 DD (Title Screen) (Brookenium).ogg",
+            "regex": "^n64[^a-z0-9]*dd[^a-z0-9]*title[^a-z0-9]*screen$|^n64ddtitlescreen$"
         },
         {
             "game": "Ogre Battle 64",
@@ -4990,6 +5010,26 @@
             "game": "Star Fox 64",
             "file": "jingles/n64/flapperultra/Star Fox 64 (flapperultra).ogg",
             "regex": "^star[^a-z0-9]*fox[^a-z0-9]*64$|^starfox64$"
+        },
+        {
+            "game": "Star Wars - Episode 1 Pod Racer (64)",
+            "file": "jingles/n64/Brookenium/Star Wars - Episode 1 Pod Racer (64) (Brookenium).ogg",
+            "regex": "^star[^a-z0-9]*wars[^a-z0-9]*episode[^a-z0-9]*1[^a-z0-9]*pod[^a-z0-9]*racer[^a-z0-9]*64$|^starwarsepisode1podracer64$"
+        },
+        {
+            "game": "Star Wars - Rogue Squadron (64)",
+            "file": "jingles/n64/Brookenium/Star Wars - Rogue Squadron (64) (Brookenium).ogg",
+            "regex": "^star[^a-z0-9]*wars[^a-z0-9]*rogue[^a-z0-9]*squadron[^a-z0-9]*64$|^starwarsroguesquadron64$"
+        },
+        {
+            "game": "StarCraft",
+            "file": "jingles/n64/Brookenium/StarCraft (Brookenium).ogg",
+            "regex": "^starcraft$|^starcraft$"
+        },
+        {
+            "game": "StarCraft (Alt)",
+            "file": "jingles/n64/Brookenium/StarCraft (Alt) (Brookenium).ogg",
+            "regex": "^starcraft[^a-z0-9]*alt$|^starcraftalt$"
         },
         {
             "game": "Super Mario 64",
