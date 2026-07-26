@@ -235,12 +235,12 @@
         },
         {
             "game": "Fire Emblem Echoes Shadows of Valentia",
-            "file": "jingles/3ds/BennyTheFirstHunter/Fire Emblem Echoes Shadows of Valentia (Jalmoc).ogg",
+            "file": "jingles/3ds/EatsDirt/Fire Emblem Echoes Shadows of Valentia (EatsDirt).ogg",
             "regex": "^fire[^a-z0-9]*emblem[^a-z0-9]*echoes[^a-z0-9]*shadows[^a-z0-9]*of[^a-z0-9]*valentia$|^fireemblemechoesshadowsofvalentia$"
         },
         {
             "game": "Fire Emblem Echoes Shadows of Valentia",
-            "file": "jingles/3ds/EatsDirt/Fire Emblem Echoes Shadows of Valentia (EatsDirt).ogg",
+            "file": "jingles/3ds/BennyTheFirstHunter/Fire Emblem Echoes Shadows of Valentia (Jalmoc).ogg",
             "regex": "^fire[^a-z0-9]*emblem[^a-z0-9]*echoes[^a-z0-9]*shadows[^a-z0-9]*of[^a-z0-9]*valentia$|^fireemblemechoesshadowsofvalentia$"
         },
         {
@@ -362,6 +362,11 @@
             "game": "Kirby Planet Robobot",
             "file": "jingles/3ds/EatsDirt/Kirby Planet Robobot (EatsDirt).ogg",
             "regex": "^kirby[^a-z0-9]*planet[^a-z0-9]*robobot$|^kirbyplanetrobobot$"
+        },
+        {
+            "game": "Kirby Triple Deluxe",
+            "file": "jingles/3ds/EatsDirt/Kirby Triple Deluxe (EatsDirt).ogg",
+            "regex": "^kirby[^a-z0-9]*triple[^a-z0-9]*deluxe$|^kirbytripledeluxe$"
         },
         {
             "game": "Kirby's Extra Epic Yarn",
@@ -530,12 +535,12 @@
         },
         {
             "game": "Metroid - Samus Returns",
-            "file": "jingles/3ds/BennyTheFirstHunter/Metroid - Samus Returns (BennyTheFirstHunter).ogg",
+            "file": "jingles/3ds/EatsDirt/Metroid - Samus Returns (EatsDirt).ogg",
             "regex": "^metroid[^a-z0-9]*samus[^a-z0-9]*returns$|^metroidsamusreturns$"
         },
         {
             "game": "Metroid - Samus Returns",
-            "file": "jingles/3ds/EatsDirt/Metroid - Samus Returns (EatsDirt).ogg",
+            "file": "jingles/3ds/BennyTheFirstHunter/Metroid - Samus Returns (BennyTheFirstHunter).ogg",
             "regex": "^metroid[^a-z0-9]*samus[^a-z0-9]*returns$|^metroidsamusreturns$"
         },
         {
@@ -965,17 +970,17 @@
         },
         {
             "game": "Resident Evil Revelations",
-            "file": "jingles/3ds/BennyTheFirstHunter/Resident Evil Revelations (BennyTheFirstHunter).ogg",
-            "regex": "^resident[^a-z0-9]*evil[^a-z0-9]*revelations$|^residentevilrevelations$"
-        },
-        {
-            "game": "Resident Evil Revelations",
             "file": "jingles/3ds/EatsDirt/Resident Evil Revelations (EatsDirt).ogg",
             "regex": "^resident[^a-z0-9]*evil[^a-z0-9]*revelations$|^residentevilrevelations$"
         },
         {
             "game": "Resident Evil Revelations",
             "file": "jingles/3ds/EvilMain/Resident Evil Revelations (EvilMain).ogg",
+            "regex": "^resident[^a-z0-9]*evil[^a-z0-9]*revelations$|^residentevilrevelations$"
+        },
+        {
+            "game": "Resident Evil Revelations",
+            "file": "jingles/3ds/BennyTheFirstHunter/Resident Evil Revelations (BennyTheFirstHunter).ogg",
             "regex": "^resident[^a-z0-9]*evil[^a-z0-9]*revelations$|^residentevilrevelations$"
         },
         {
@@ -1200,12 +1205,12 @@
         },
         {
             "game": "WarioWare Gold",
-            "file": "jingles/3ds/CirnoWaifu/WarioWare Gold (CirnoWaifu).ogg",
+            "file": "jingles/3ds/EatsDirt/WarioWare Gold (EatsDirt).ogg",
             "regex": "^warioware[^a-z0-9]*gold$|^wariowaregold$"
         },
         {
             "game": "WarioWare Gold",
-            "file": "jingles/3ds/EatsDirt/WarioWare Gold (EatsDirt).ogg",
+            "file": "jingles/3ds/CirnoWaifu/WarioWare Gold (CirnoWaifu).ogg",
             "regex": "^warioware[^a-z0-9]*gold$|^wariowaregold$"
         },
         {
@@ -1660,6 +1665,7 @@
             "regex": "^tetris$|^tetris$"
         }
     ],
+    "cocoon": [],
     "dreamcast": [
         {
             "game": "Crazy Taxi",
@@ -1708,11 +1714,6 @@
         },
         {
             "game": "Sonic Adventure",
-            "file": "jingles/dreamcast/Gracie Failfox/Sonic Adventure (Gracie Failfox).ogg",
-            "regex": "^sonic[^a-z0-9]*adventure$|^sonicadventure$"
-        },
-        {
-            "game": "Sonic Adventure",
             "file": "jingles/dreamcast/Natalie/Sonic Adventure (Natalie).ogg",
             "regex": "^sonic[^a-z0-9]*adventure$|^sonicadventure$"
         },
@@ -1722,14 +1723,9 @@
             "regex": "^sonic[^a-z0-9]*adventure$|^sonicadventure$"
         },
         {
-            "game": "Sonic Adventure 2",
-            "file": "jingles/dreamcast/CirnoWaifu/Sonic Adventure 2 (CirnoWaifu).ogg",
-            "regex": "^sonic[^a-z0-9]*adventure[^a-z0-9]*2$|^sonicadventure2$"
-        },
-        {
-            "game": "Sonic Adventure 2",
-            "file": "jingles/dreamcast/Gracie Failfox/Sonic Adventure 2 (Gracie Failfox).ogg",
-            "regex": "^sonic[^a-z0-9]*adventure[^a-z0-9]*2$|^sonicadventure2$"
+            "game": "Sonic Adventure",
+            "file": "jingles/dreamcast/Gracie Failfox/Sonic Adventure (Gracie Failfox).ogg",
+            "regex": "^sonic[^a-z0-9]*adventure$|^sonicadventure$"
         },
         {
             "game": "Sonic Adventure 2",
@@ -1738,7 +1734,17 @@
         },
         {
             "game": "Sonic Adventure 2",
+            "file": "jingles/dreamcast/CirnoWaifu/Sonic Adventure 2 (CirnoWaifu).ogg",
+            "regex": "^sonic[^a-z0-9]*adventure[^a-z0-9]*2$|^sonicadventure2$"
+        },
+        {
+            "game": "Sonic Adventure 2",
             "file": "jingles/dreamcast/RetroWave64/Sonic Adventure 2 (RetroWave64).ogg",
+            "regex": "^sonic[^a-z0-9]*adventure[^a-z0-9]*2$|^sonicadventure2$"
+        },
+        {
+            "game": "Sonic Adventure 2",
+            "file": "jingles/dreamcast/Gracie Failfox/Sonic Adventure 2 (Gracie Failfox).ogg",
             "regex": "^sonic[^a-z0-9]*adventure[^a-z0-9]*2$|^sonicadventure2$"
         },
         {
@@ -1765,12 +1771,12 @@
     "gamecube": [
         {
             "game": "Alien Hominid",
-            "file": "jingles/gamecube/CirnoWaifu/Alien Hominid (CirnoWaifu).ogg",
+            "file": "jingles/gamecube/flapperultra/Alien Hominid (flapperultra).ogg",
             "regex": "^alien[^a-z0-9]*hominid$|^alienhominid$"
         },
         {
             "game": "Alien Hominid",
-            "file": "jingles/gamecube/flapperultra/Alien Hominid (flapperultra).ogg",
+            "file": "jingles/gamecube/CirnoWaifu/Alien Hominid (CirnoWaifu).ogg",
             "regex": "^alien[^a-z0-9]*hominid$|^alienhominid$"
         },
         {
@@ -1814,13 +1820,13 @@
             "regex": "^cubivore$|^cubivore$"
         },
         {
-            "game": "custom robo",
-            "file": "jingles/gamecube/BennyTheFirstHunter/custom robo (BennyTheFirstHunter).ogg",
+            "game": "Custom Robo",
+            "file": "jingles/gamecube/flapperultra/Custom Robo (flapperultra).ogg",
             "regex": "^custom[^a-z0-9]*robo$|^customrobo$"
         },
         {
-            "game": "Custom Robo",
-            "file": "jingles/gamecube/flapperultra/Custom Robo (flapperultra).ogg",
+            "game": "custom robo",
+            "file": "jingles/gamecube/BennyTheFirstHunter/custom robo (BennyTheFirstHunter).ogg",
             "regex": "^custom[^a-z0-9]*robo$|^customrobo$"
         },
         {
@@ -1990,12 +1996,12 @@
         },
         {
             "game": "Resident Evil 4",
-            "file": "jingles/gamecube/BennyTheFirstHunter/Resident Evil 4 (BennyTheFirstHunter).ogg",
+            "file": "jingles/gamecube/EvilMain/Resident Evil 4 (EvilMain).ogg",
             "regex": "^resident[^a-z0-9]*evil[^a-z0-9]*4$|^residentevil4$"
         },
         {
             "game": "Resident Evil 4",
-            "file": "jingles/gamecube/EvilMain/Resident Evil 4 (EvilMain).ogg",
+            "file": "jingles/gamecube/BennyTheFirstHunter/Resident Evil 4 (BennyTheFirstHunter).ogg",
             "regex": "^resident[^a-z0-9]*evil[^a-z0-9]*4$|^residentevil4$"
         },
         {
@@ -2020,12 +2026,12 @@
         },
         {
             "game": "Shadow the Hedgehog",
-            "file": "jingles/gamecube/Gracie Failfox/Shadow the Hedgehog (Gracie Failfox).ogg",
+            "file": "jingles/gamecube/RetroWave64/Shadow the Hedgehog (RetroWave64).ogg",
             "regex": "^shadow[^a-z0-9]*the[^a-z0-9]*hedgehog$|^shadowthehedgehog$"
         },
         {
             "game": "Shadow the Hedgehog",
-            "file": "jingles/gamecube/RetroWave64/Shadow the Hedgehog (RetroWave64).ogg",
+            "file": "jingles/gamecube/Gracie Failfox/Shadow the Hedgehog (Gracie Failfox).ogg",
             "regex": "^shadow[^a-z0-9]*the[^a-z0-9]*hedgehog$|^shadowthehedgehog$"
         },
         {
@@ -2045,12 +2051,12 @@
         },
         {
             "game": "Sonic Heroes",
-            "file": "jingles/gamecube/CirnoWaifu/Sonic Heroes (CirnoWaifu).ogg",
+            "file": "jingles/gamecube/flapperultra/Sonic Heroes (flapperultra).ogg",
             "regex": "^sonic[^a-z0-9]*heroes$|^sonicheroes$"
         },
         {
             "game": "Sonic Heroes",
-            "file": "jingles/gamecube/flapperultra/Sonic Heroes (flapperultra).ogg",
+            "file": "jingles/gamecube/CirnoWaifu/Sonic Heroes (CirnoWaifu).ogg",
             "regex": "^sonic[^a-z0-9]*heroes$|^sonicheroes$"
         },
         {
@@ -2110,12 +2116,12 @@
         },
         {
             "game": "Super Monkey Ball",
-            "file": "jingles/gamecube/CirnoWaifu/Super Monkey Ball (CirnoWaifu).ogg",
+            "file": "jingles/gamecube/flapperultra/Super Monkey Ball (flapperultra).ogg",
             "regex": "^super[^a-z0-9]*monkey[^a-z0-9]*ball$|^supermonkeyball$"
         },
         {
             "game": "Super Monkey Ball",
-            "file": "jingles/gamecube/flapperultra/Super Monkey Ball (flapperultra).ogg",
+            "file": "jingles/gamecube/CirnoWaifu/Super Monkey Ball (CirnoWaifu).ogg",
             "regex": "^super[^a-z0-9]*monkey[^a-z0-9]*ball$|^supermonkeyball$"
         },
         {
@@ -2135,12 +2141,12 @@
         },
         {
             "game": "The Legend of Zelda - Four Swords Adventures",
-            "file": "jingles/gamecube/CirnoWaifu/The Legend of Zelda - Four Swords Adventures (CirnoWaifu).ogg",
+            "file": "jingles/gamecube/flapperultra/The Legend of Zelda - Four Swords Adventures (flapperultra).ogg",
             "regex": "^the[^a-z0-9]*legend[^a-z0-9]*of[^a-z0-9]*zelda[^a-z0-9]*four[^a-z0-9]*swords[^a-z0-9]*adventures$|^thelegendofzeldafourswordsadventures$"
         },
         {
             "game": "The Legend of Zelda - Four Swords Adventures",
-            "file": "jingles/gamecube/flapperultra/The Legend of Zelda - Four Swords Adventures (flapperultra).ogg",
+            "file": "jingles/gamecube/CirnoWaifu/The Legend of Zelda - Four Swords Adventures (CirnoWaifu).ogg",
             "regex": "^the[^a-z0-9]*legend[^a-z0-9]*of[^a-z0-9]*zelda[^a-z0-9]*four[^a-z0-9]*swords[^a-z0-9]*adventures$|^thelegendofzeldafourswordsadventures$"
         },
         {
@@ -2159,13 +2165,13 @@
             "regex": "^the[^a-z0-9]*legend[^a-z0-9]*of[^a-z0-9]*zelda[^a-z0-9]*wind[^a-z0-9]*waker$|^thelegendofzeldawindwaker$"
         },
         {
-            "game": "TimeSplitters",
-            "file": "jingles/gamecube/CirnoWaifu/TimeSplitters (CirnoWaifu).ogg",
+            "game": "Timesplitters",
+            "file": "jingles/gamecube/flapperultra/Timesplitters (flapperultra).ogg",
             "regex": "^timesplitters$|^timesplitters$"
         },
         {
-            "game": "Timesplitters",
-            "file": "jingles/gamecube/flapperultra/Timesplitters (flapperultra).ogg",
+            "game": "TimeSplitters",
+            "file": "jingles/gamecube/CirnoWaifu/TimeSplitters (CirnoWaifu).ogg",
             "regex": "^timesplitters$|^timesplitters$"
         },
         {
@@ -2174,13 +2180,13 @@
             "regex": "^timesplitters[^a-z0-9]*future[^a-z0-9]*perfect$|^timesplittersfutureperfect$"
         },
         {
-            "game": "TimeSplitters 2",
-            "file": "jingles/gamecube/CirnoWaifu/TimeSplitters 2 (CirnoWaifu).ogg",
+            "game": "Timesplitters 2",
+            "file": "jingles/gamecube/flapperultra/Timesplitters 2 (flapperultra).ogg",
             "regex": "^timesplitters[^a-z0-9]*2$|^timesplitters2$"
         },
         {
-            "game": "Timesplitters 2",
-            "file": "jingles/gamecube/flapperultra/Timesplitters 2 (flapperultra).ogg",
+            "game": "TimeSplitters 2",
+            "file": "jingles/gamecube/CirnoWaifu/TimeSplitters 2 (CirnoWaifu).ogg",
             "regex": "^timesplitters[^a-z0-9]*2$|^timesplitters2$"
         },
         {
@@ -2190,12 +2196,12 @@
         },
         {
             "game": "Viewtiful Joe",
-            "file": "jingles/gamecube/CirnoWaifu/Viewtiful Joe (CirnoWaifu).ogg",
+            "file": "jingles/gamecube/flapperultra/Viewtiful Joe (flapperultra).ogg",
             "regex": "^viewtiful[^a-z0-9]*joe$|^viewtifuljoe$"
         },
         {
             "game": "Viewtiful Joe",
-            "file": "jingles/gamecube/flapperultra/Viewtiful Joe (flapperultra).ogg",
+            "file": "jingles/gamecube/CirnoWaifu/Viewtiful Joe (CirnoWaifu).ogg",
             "regex": "^viewtiful[^a-z0-9]*joe$|^viewtifuljoe$"
         },
         {
@@ -2210,12 +2216,12 @@
         },
         {
             "game": "Wario World",
-            "file": "jingles/gamecube/CirnoWaifu/Wario World (CirnoWaifu).ogg",
+            "file": "jingles/gamecube/flapperultra/Wario World (flapperultra).ogg",
             "regex": "^wario[^a-z0-9]*world$|^warioworld$"
         },
         {
             "game": "Wario World",
-            "file": "jingles/gamecube/flapperultra/Wario World (flapperultra).ogg",
+            "file": "jingles/gamecube/CirnoWaifu/Wario World (CirnoWaifu).ogg",
             "regex": "^wario[^a-z0-9]*world$|^warioworld$"
         },
         {
@@ -2489,12 +2495,12 @@
         },
         {
             "game": "Boktai - The Sun is in Your Hand",
-            "file": "jingles/gba/CirnoWaifu/Boktai - The Sun is in Your Hand (CirnoWaifu).ogg",
+            "file": "jingles/gba/flapperultra/Boktai - The Sun is in Your Hand (flapperultra).ogg",
             "regex": "^boktai[^a-z0-9]*the[^a-z0-9]*sun[^a-z0-9]*is[^a-z0-9]*in[^a-z0-9]*your[^a-z0-9]*hand$|^boktaithesunisinyourhand$"
         },
         {
             "game": "Boktai - The Sun is in Your Hand",
-            "file": "jingles/gba/flapperultra/Boktai - The Sun is in Your Hand (flapperultra).ogg",
+            "file": "jingles/gba/CirnoWaifu/Boktai - The Sun is in Your Hand (CirnoWaifu).ogg",
             "regex": "^boktai[^a-z0-9]*the[^a-z0-9]*sun[^a-z0-9]*is[^a-z0-9]*in[^a-z0-9]*your[^a-z0-9]*hand$|^boktaithesunisinyourhand$"
         },
         {
@@ -2639,17 +2645,17 @@
         },
         {
             "game": "Golden Sun",
+            "file": "jingles/gba/flapperultra/Golden Sun (flapperultra).ogg",
+            "regex": "^golden[^a-z0-9]*sun$|^goldensun$"
+        },
+        {
+            "game": "Golden Sun",
             "file": "jingles/gba/BennyTheFirstHunter/Golden Sun (BennyTheFirstHunter).ogg",
             "regex": "^golden[^a-z0-9]*sun$|^goldensun$"
         },
         {
             "game": "Golden Sun",
             "file": "jingles/gba/CirnoWaifu/Golden Sun (CirnoWaifu).ogg",
-            "regex": "^golden[^a-z0-9]*sun$|^goldensun$"
-        },
-        {
-            "game": "Golden Sun",
-            "file": "jingles/gba/flapperultra/Golden Sun (flapperultra).ogg",
             "regex": "^golden[^a-z0-9]*sun$|^goldensun$"
         },
         {
@@ -2674,12 +2680,12 @@
         },
         {
             "game": "Gunstar Super Heroes",
-            "file": "jingles/gba/CirnoWaifu/Gunstar Super Heroes (CirnoWaifu).ogg",
+            "file": "jingles/gba/flapperultra/Gunstar Super Heroes (flapperultra).ogg",
             "regex": "^gunstar[^a-z0-9]*super[^a-z0-9]*heroes$|^gunstarsuperheroes$"
         },
         {
             "game": "Gunstar Super Heroes",
-            "file": "jingles/gba/flapperultra/Gunstar Super Heroes (flapperultra).ogg",
+            "file": "jingles/gba/CirnoWaifu/Gunstar Super Heroes (CirnoWaifu).ogg",
             "regex": "^gunstar[^a-z0-9]*super[^a-z0-9]*heroes$|^gunstarsuperheroes$"
         },
         {
@@ -2729,22 +2735,22 @@
         },
         {
             "game": "Klonoa - Empire of Dreams",
-            "file": "jingles/gba/CirnoWaifu/Klonoa - Empire of Dreams (CirnoWaifu).ogg",
-            "regex": "^klonoa[^a-z0-9]*empire[^a-z0-9]*of[^a-z0-9]*dreams$|^klonoaempireofdreams$"
-        },
-        {
-            "game": "Klonoa - Empire of Dreams",
             "file": "jingles/gba/flapperultra/Klonoa - Empire of Dreams (flapperultra).ogg",
             "regex": "^klonoa[^a-z0-9]*empire[^a-z0-9]*of[^a-z0-9]*dreams$|^klonoaempireofdreams$"
         },
         {
-            "game": "Klonoa 2 - Dream Champ Tournament",
-            "file": "jingles/gba/CirnoWaifu/Klonoa 2 - Dream Champ Tournament (CirnoWaifu).ogg",
-            "regex": "^klonoa[^a-z0-9]*2[^a-z0-9]*dream[^a-z0-9]*champ[^a-z0-9]*tournament$|^klonoa2dreamchamptournament$"
+            "game": "Klonoa - Empire of Dreams",
+            "file": "jingles/gba/CirnoWaifu/Klonoa - Empire of Dreams (CirnoWaifu).ogg",
+            "regex": "^klonoa[^a-z0-9]*empire[^a-z0-9]*of[^a-z0-9]*dreams$|^klonoaempireofdreams$"
         },
         {
             "game": "Klonoa 2 - Dream Champ Tournament",
             "file": "jingles/gba/flapperultra/Klonoa 2 - Dream Champ Tournament (flapperultra).ogg",
+            "regex": "^klonoa[^a-z0-9]*2[^a-z0-9]*dream[^a-z0-9]*champ[^a-z0-9]*tournament$|^klonoa2dreamchamptournament$"
+        },
+        {
+            "game": "Klonoa 2 - Dream Champ Tournament",
+            "file": "jingles/gba/CirnoWaifu/Klonoa 2 - Dream Champ Tournament (CirnoWaifu).ogg",
             "regex": "^klonoa[^a-z0-9]*2[^a-z0-9]*dream[^a-z0-9]*champ[^a-z0-9]*tournament$|^klonoa2dreamchamptournament$"
         },
         {
@@ -2879,12 +2885,12 @@
         },
         {
             "game": "Mega Man Zero",
-            "file": "jingles/gba/CirnoWaifu/Mega Man Zero (CirnoWaifu).ogg",
+            "file": "jingles/gba/flapperultra/Mega Man Zero (flapperultra).ogg",
             "regex": "^mega[^a-z0-9]*man[^a-z0-9]*zero$|^megamanzero$"
         },
         {
             "game": "Mega Man Zero",
-            "file": "jingles/gba/flapperultra/Mega Man Zero (flapperultra).ogg",
+            "file": "jingles/gba/CirnoWaifu/Mega Man Zero (CirnoWaifu).ogg",
             "regex": "^mega[^a-z0-9]*man[^a-z0-9]*zero$|^megamanzero$"
         },
         {
@@ -2894,12 +2900,12 @@
         },
         {
             "game": "Mega Man Zero 2",
-            "file": "jingles/gba/CirnoWaifu/Mega Man Zero 2 (CirnoWaifu).ogg",
+            "file": "jingles/gba/flapperultra/Mega Man Zero 2 (flapperultra).ogg",
             "regex": "^mega[^a-z0-9]*man[^a-z0-9]*zero[^a-z0-9]*2$|^megamanzero2$"
         },
         {
             "game": "Mega Man Zero 2",
-            "file": "jingles/gba/flapperultra/Mega Man Zero 2 (flapperultra).ogg",
+            "file": "jingles/gba/CirnoWaifu/Mega Man Zero 2 (CirnoWaifu).ogg",
             "regex": "^mega[^a-z0-9]*man[^a-z0-9]*zero[^a-z0-9]*2$|^megamanzero2$"
         },
         {
@@ -2909,12 +2915,12 @@
         },
         {
             "game": "Mega Man Zero 3",
-            "file": "jingles/gba/CirnoWaifu/Mega Man Zero 3 (CirnoWaifu).ogg",
+            "file": "jingles/gba/flapperultra/Mega Man Zero 3 (flapperultra).ogg",
             "regex": "^mega[^a-z0-9]*man[^a-z0-9]*zero[^a-z0-9]*3$|^megamanzero3$"
         },
         {
             "game": "Mega Man Zero 3",
-            "file": "jingles/gba/flapperultra/Mega Man Zero 3 (flapperultra).ogg",
+            "file": "jingles/gba/CirnoWaifu/Mega Man Zero 3 (CirnoWaifu).ogg",
             "regex": "^mega[^a-z0-9]*man[^a-z0-9]*zero[^a-z0-9]*3$|^megamanzero3$"
         },
         {
@@ -2924,12 +2930,12 @@
         },
         {
             "game": "Mega Man Zero 4",
-            "file": "jingles/gba/CirnoWaifu/Mega Man Zero 4 (CirnoWaifu).ogg",
+            "file": "jingles/gba/flapperultra/Mega Man Zero 4 (flapperultra).ogg",
             "regex": "^mega[^a-z0-9]*man[^a-z0-9]*zero[^a-z0-9]*4$|^megamanzero4$"
         },
         {
             "game": "Mega Man Zero 4",
-            "file": "jingles/gba/flapperultra/Mega Man Zero 4 (flapperultra).ogg",
+            "file": "jingles/gba/CirnoWaifu/Mega Man Zero 4 (CirnoWaifu).ogg",
             "regex": "^mega[^a-z0-9]*man[^a-z0-9]*zero[^a-z0-9]*4$|^megamanzero4$"
         },
         {
@@ -2959,11 +2965,6 @@
         },
         {
             "game": "Metroid Fusion",
-            "file": "jingles/gba/CirnoWaifu/Metroid Fusion (CirnoWaifu).ogg",
-            "regex": "^metroid[^a-z0-9]*fusion$|^metroidfusion$"
-        },
-        {
-            "game": "Metroid Fusion",
             "file": "jingles/gba/flapperultra/Metroid Fusion (flapperultra).ogg",
             "regex": "^metroid[^a-z0-9]*fusion$|^metroidfusion$"
         },
@@ -2973,9 +2974,9 @@
             "regex": "^metroid[^a-z0-9]*fusion$|^metroidfusion$"
         },
         {
-            "game": "Metroid Zero Mission",
-            "file": "jingles/gba/CirnoWaifu/Metroid Zero Mission (CirnoWaifu).ogg",
-            "regex": "^metroid[^a-z0-9]*zero[^a-z0-9]*mission$|^metroidzeromission$"
+            "game": "Metroid Fusion",
+            "file": "jingles/gba/CirnoWaifu/Metroid Fusion (CirnoWaifu).ogg",
+            "regex": "^metroid[^a-z0-9]*fusion$|^metroidfusion$"
         },
         {
             "game": "Metroid Zero Mission",
@@ -2985,6 +2986,11 @@
         {
             "game": "Metroid Zero Mission",
             "file": "jingles/gba/Natalie/Metroid Zero Mission (Natalie).ogg",
+            "regex": "^metroid[^a-z0-9]*zero[^a-z0-9]*mission$|^metroidzeromission$"
+        },
+        {
+            "game": "Metroid Zero Mission",
+            "file": "jingles/gba/CirnoWaifu/Metroid Zero Mission (CirnoWaifu).ogg",
             "regex": "^metroid[^a-z0-9]*zero[^a-z0-9]*mission$|^metroidzeromission$"
         },
         {
@@ -3008,6 +3014,11 @@
             "regex": "^monsters[^a-z0-9]*inc[^a-z0-9]*v4$|^monstersincv4$"
         },
         {
+            "game": "Mother 3",
+            "file": "jingles/gba/flapperultra/Mother 3 (flapperultra).ogg",
+            "regex": "^mother[^a-z0-9]*3$|^mother3$"
+        },
+        {
             "game": "mother 3",
             "file": "jingles/gba/BennyTheFirstHunter/mother 3 (BennyTheFirstHunter).ogg",
             "regex": "^mother[^a-z0-9]*3$|^mother3$"
@@ -3020,11 +3031,6 @@
         {
             "game": "Mother 3",
             "file": "jingles/gba/Felipne87r/Mother 3 (Felipne87r).ogg",
-            "regex": "^mother[^a-z0-9]*3$|^mother3$"
-        },
-        {
-            "game": "Mother 3",
-            "file": "jingles/gba/flapperultra/Mother 3 (flapperultra).ogg",
             "regex": "^mother[^a-z0-9]*3$|^mother3$"
         },
         {
@@ -3049,12 +3055,12 @@
         },
         {
             "game": "Pokemon Mystery Dungeon - Red Rescue Team",
-            "file": "jingles/gba/CirnoWaifu/Pokemon Mystery Dungeon - Red Rescue Team (CirnoWaifu).ogg",
+            "file": "jingles/gba/flapperultra/Pokemon Mystery Dungeon - Red Rescue Team (flapperultra).ogg",
             "regex": "^pokemon[^a-z0-9]*mystery[^a-z0-9]*dungeon[^a-z0-9]*red[^a-z0-9]*rescue[^a-z0-9]*team$|^pokemonmysterydungeonredrescueteam$"
         },
         {
             "game": "Pokemon Mystery Dungeon - Red Rescue Team",
-            "file": "jingles/gba/flapperultra/Pokemon Mystery Dungeon - Red Rescue Team (flapperultra).ogg",
+            "file": "jingles/gba/CirnoWaifu/Pokemon Mystery Dungeon - Red Rescue Team (CirnoWaifu).ogg",
             "regex": "^pokemon[^a-z0-9]*mystery[^a-z0-9]*dungeon[^a-z0-9]*red[^a-z0-9]*rescue[^a-z0-9]*team$|^pokemonmysterydungeonredrescueteam$"
         },
         {
@@ -3089,17 +3095,12 @@
         },
         {
             "game": "Sonic Advance",
-            "file": "jingles/gba/CirnoWaifu/Sonic Advance (CirnoWaifu).ogg",
-            "regex": "^sonic[^a-z0-9]*advance$|^sonicadvance$"
-        },
-        {
-            "game": "Sonic Advance",
             "file": "jingles/gba/flapperultra/Sonic Advance (flapperultra).ogg",
             "regex": "^sonic[^a-z0-9]*advance$|^sonicadvance$"
         },
         {
             "game": "Sonic Advance",
-            "file": "jingles/gba/Gracie Failfox/Sonic Advance (Gracie Failfox).ogg",
+            "file": "jingles/gba/CirnoWaifu/Sonic Advance (CirnoWaifu).ogg",
             "regex": "^sonic[^a-z0-9]*advance$|^sonicadvance$"
         },
         {
@@ -3108,9 +3109,9 @@
             "regex": "^sonic[^a-z0-9]*advance$|^sonicadvance$"
         },
         {
-            "game": "Sonic Advance 2",
-            "file": "jingles/gba/CirnoWaifu/Sonic Advance 2 (CirnoWaifu).ogg",
-            "regex": "^sonic[^a-z0-9]*advance[^a-z0-9]*2$|^sonicadvance2$"
+            "game": "Sonic Advance",
+            "file": "jingles/gba/Gracie Failfox/Sonic Advance (Gracie Failfox).ogg",
+            "regex": "^sonic[^a-z0-9]*advance$|^sonicadvance$"
         },
         {
             "game": "Sonic Advance 2",
@@ -3119,7 +3120,7 @@
         },
         {
             "game": "Sonic Advance 2",
-            "file": "jingles/gba/Gracie Failfox/Sonic Advance 2 (Gracie Failfox).ogg",
+            "file": "jingles/gba/CirnoWaifu/Sonic Advance 2 (CirnoWaifu).ogg",
             "regex": "^sonic[^a-z0-9]*advance[^a-z0-9]*2$|^sonicadvance2$"
         },
         {
@@ -3128,9 +3129,9 @@
             "regex": "^sonic[^a-z0-9]*advance[^a-z0-9]*2$|^sonicadvance2$"
         },
         {
-            "game": "Sonic Advance 3",
-            "file": "jingles/gba/CirnoWaifu/Sonic Advance 3 (CirnoWaifu).ogg",
-            "regex": "^sonic[^a-z0-9]*advance[^a-z0-9]*3$|^sonicadvance3$"
+            "game": "Sonic Advance 2",
+            "file": "jingles/gba/Gracie Failfox/Sonic Advance 2 (Gracie Failfox).ogg",
+            "regex": "^sonic[^a-z0-9]*advance[^a-z0-9]*2$|^sonicadvance2$"
         },
         {
             "game": "Sonic Advance 3",
@@ -3139,7 +3140,7 @@
         },
         {
             "game": "Sonic Advance 3",
-            "file": "jingles/gba/Gracie Failfox/Sonic Advance 3 (Gracie Failfox).ogg",
+            "file": "jingles/gba/CirnoWaifu/Sonic Advance 3 (CirnoWaifu).ogg",
             "regex": "^sonic[^a-z0-9]*advance[^a-z0-9]*3$|^sonicadvance3$"
         },
         {
@@ -3148,13 +3149,18 @@
             "regex": "^sonic[^a-z0-9]*advance[^a-z0-9]*3$|^sonicadvance3$"
         },
         {
-            "game": "Sonic Battle",
-            "file": "jingles/gba/Gracie Failfox/Sonic Battle (Gracie Failfox).ogg",
-            "regex": "^sonic[^a-z0-9]*battle$|^sonicbattle$"
+            "game": "Sonic Advance 3",
+            "file": "jingles/gba/Gracie Failfox/Sonic Advance 3 (Gracie Failfox).ogg",
+            "regex": "^sonic[^a-z0-9]*advance[^a-z0-9]*3$|^sonicadvance3$"
         },
         {
             "game": "Sonic Battle",
             "file": "jingles/gba/RetroWave64/Sonic Battle (RetroWave64).ogg",
+            "regex": "^sonic[^a-z0-9]*battle$|^sonicbattle$"
+        },
+        {
+            "game": "Sonic Battle",
+            "file": "jingles/gba/Gracie Failfox/Sonic Battle (Gracie Failfox).ogg",
             "regex": "^sonic[^a-z0-9]*battle$|^sonicbattle$"
         },
         {
@@ -3309,18 +3315,23 @@
         },
         {
             "game": "Tomato Adventure",
-            "file": "jingles/gba/CirnoWaifu/Tomato Adventure (CirnoWaifu).ogg",
+            "file": "jingles/gba/flapperultra/Tomato Adventure (flapperultra).ogg",
             "regex": "^tomato[^a-z0-9]*adventure$|^tomatoadventure$"
         },
         {
             "game": "Tomato Adventure",
-            "file": "jingles/gba/flapperultra/Tomato Adventure (flapperultra).ogg",
+            "file": "jingles/gba/CirnoWaifu/Tomato Adventure (CirnoWaifu).ogg",
             "regex": "^tomato[^a-z0-9]*adventure$|^tomatoadventure$"
         },
         {
             "game": "Wade Hixons Counter Punch",
             "file": "jingles/gba/BennyTheFirstHunter/Wade Hixons Counter Punch (BennyTheFirstHunter).ogg",
             "regex": "^wade[^a-z0-9]*hixons[^a-z0-9]*counter[^a-z0-9]*punch$|^wadehixonscounterpunch$"
+        },
+        {
+            "game": "Wario Land 4",
+            "file": "jingles/gba/flapperultra/Wario Land 4 (flapperultra).ogg",
+            "regex": "^wario[^a-z0-9]*land[^a-z0-9]*4$|^warioland4$"
         },
         {
             "game": "Wario land 4",
@@ -3330,11 +3341,6 @@
         {
             "game": "Wario Land 4",
             "file": "jingles/gba/CirnoWaifu/Wario Land 4 (CirnoWaifu).ogg",
-            "regex": "^wario[^a-z0-9]*land[^a-z0-9]*4$|^warioland4$"
-        },
-        {
-            "game": "Wario Land 4",
-            "file": "jingles/gba/flapperultra/Wario Land 4 (flapperultra).ogg",
             "regex": "^wario[^a-z0-9]*land[^a-z0-9]*4$|^warioland4$"
         },
         {
@@ -3436,22 +3442,22 @@
         },
         {
             "game": "Mario Golf",
-            "file": "jingles/gbc/CirnoWaifu/Mario Golf (CirnoWaifu).ogg",
-            "regex": "^mario[^a-z0-9]*golf$|^mariogolf$"
-        },
-        {
-            "game": "Mario Golf",
             "file": "jingles/gbc/flapperultra/Mario Golf (flapperultra).ogg",
             "regex": "^mario[^a-z0-9]*golf$|^mariogolf$"
         },
         {
-            "game": "Mario Tennis",
-            "file": "jingles/gbc/CirnoWaifu/Mario Tennis (CirnoWaifu).ogg",
-            "regex": "^mario[^a-z0-9]*tennis$|^mariotennis$"
+            "game": "Mario Golf",
+            "file": "jingles/gbc/CirnoWaifu/Mario Golf (CirnoWaifu).ogg",
+            "regex": "^mario[^a-z0-9]*golf$|^mariogolf$"
         },
         {
             "game": "Mario Tennis",
             "file": "jingles/gbc/flapperultra/Mario Tennis (flapperultra).ogg",
+            "regex": "^mario[^a-z0-9]*tennis$|^mariotennis$"
+        },
+        {
+            "game": "Mario Tennis",
+            "file": "jingles/gbc/CirnoWaifu/Mario Tennis (CirnoWaifu).ogg",
             "regex": "^mario[^a-z0-9]*tennis$|^mariotennis$"
         },
         {
@@ -3481,12 +3487,12 @@
         },
         {
             "game": "Metal Gear Solid - Ghost Babel",
-            "file": "jingles/gbc/BennyTheFirstHunter/Metal Gear Solid - Ghost Babel (BennyTheFirstHunter).ogg",
+            "file": "jingles/gbc/flapperultra/Metal Gear Solid - Ghost Babel (flapperultra).ogg",
             "regex": "^metal[^a-z0-9]*gear[^a-z0-9]*solid[^a-z0-9]*ghost[^a-z0-9]*babel$|^metalgearsolidghostbabel$"
         },
         {
             "game": "Metal Gear Solid - Ghost Babel",
-            "file": "jingles/gbc/flapperultra/Metal Gear Solid - Ghost Babel (flapperultra).ogg",
+            "file": "jingles/gbc/BennyTheFirstHunter/Metal Gear Solid - Ghost Babel (BennyTheFirstHunter).ogg",
             "regex": "^metal[^a-z0-9]*gear[^a-z0-9]*solid[^a-z0-9]*ghost[^a-z0-9]*babel$|^metalgearsolidghostbabel$"
         },
         {
@@ -3516,12 +3522,12 @@
         },
         {
             "game": "Pokemon Pinball",
-            "file": "jingles/gbc/CirnoWaifu/Pokemon Pinball (CirnoWaifu).ogg",
+            "file": "jingles/gbc/flapperultra/Pokemon Pinball (flapperultra).ogg",
             "regex": "^pokemon[^a-z0-9]*pinball$|^pokemonpinball$"
         },
         {
             "game": "Pokemon Pinball",
-            "file": "jingles/gbc/flapperultra/Pokemon Pinball (flapperultra).ogg",
+            "file": "jingles/gbc/CirnoWaifu/Pokemon Pinball (CirnoWaifu).ogg",
             "regex": "^pokemon[^a-z0-9]*pinball$|^pokemonpinball$"
         },
         {
@@ -3531,12 +3537,12 @@
         },
         {
             "game": "Pokemon Puzzle Challenge",
-            "file": "jingles/gbc/CirnoWaifu/Pokemon Puzzle Challenge (CirnoWaifu).ogg",
+            "file": "jingles/gbc/flapperultra/Pokemon Puzzle Challenge (flapperultra).ogg",
             "regex": "^pokemon[^a-z0-9]*puzzle[^a-z0-9]*challenge$|^pokemonpuzzlechallenge$"
         },
         {
             "game": "Pokemon Puzzle Challenge",
-            "file": "jingles/gbc/flapperultra/Pokemon Puzzle Challenge (flapperultra).ogg",
+            "file": "jingles/gbc/CirnoWaifu/Pokemon Puzzle Challenge (CirnoWaifu).ogg",
             "regex": "^pokemon[^a-z0-9]*puzzle[^a-z0-9]*challenge$|^pokemonpuzzlechallenge$"
         },
         {
@@ -3576,12 +3582,12 @@
         },
         {
             "game": "Resident Evil Gaiden",
-            "file": "jingles/gbc/CirnoWaifu/Resident Evil Gaiden (CirnoWaifu).ogg",
+            "file": "jingles/gbc/flapperultra/Resident Evil Gaiden (flapperultra).ogg",
             "regex": "^resident[^a-z0-9]*evil[^a-z0-9]*gaiden$|^residentevilgaiden$"
         },
         {
             "game": "Resident Evil Gaiden",
-            "file": "jingles/gbc/flapperultra/Resident Evil Gaiden (flapperultra).ogg",
+            "file": "jingles/gbc/CirnoWaifu/Resident Evil Gaiden (CirnoWaifu).ogg",
             "regex": "^resident[^a-z0-9]*evil[^a-z0-9]*gaiden$|^residentevilgaiden$"
         },
         {
@@ -3666,12 +3672,12 @@
         },
         {
             "game": "Wario Land 3",
-            "file": "jingles/gbc/CirnoWaifu/Wario Land 3 (CirnoWaifu).ogg",
+            "file": "jingles/gbc/flapperultra/Wario Land 3 (flapperultra).ogg",
             "regex": "^wario[^a-z0-9]*land[^a-z0-9]*3$|^warioland3$"
         },
         {
             "game": "Wario Land 3",
-            "file": "jingles/gbc/flapperultra/Wario Land 3 (flapperultra).ogg",
+            "file": "jingles/gbc/CirnoWaifu/Wario Land 3 (CirnoWaifu).ogg",
             "regex": "^wario[^a-z0-9]*land[^a-z0-9]*3$|^warioland3$"
         }
     ],
@@ -3693,12 +3699,12 @@
         },
         {
             "game": "Sonic CD",
-            "file": "jingles/mega cd/CirnoWaifu/Sonic CD (CirnoWaifu).ogg",
+            "file": "jingles/mega cd/flapperultra/Sonic CD (flapperultra).ogg",
             "regex": "^sonic[^a-z0-9]*cd$|^soniccd$"
         },
         {
             "game": "Sonic CD",
-            "file": "jingles/mega cd/flapperultra/Sonic CD (flapperultra).ogg",
+            "file": "jingles/mega cd/CirnoWaifu/Sonic CD (CirnoWaifu).ogg",
             "regex": "^sonic[^a-z0-9]*cd$|^soniccd$"
         },
         {
@@ -3745,12 +3751,12 @@
         },
         {
             "game": "Alex Kidd in the Enchanted Castle",
-            "file": "jingles/megadrive/CirnoWaifu/Alex Kidd in the Enchanted Castle (CirnoWaifu).ogg",
+            "file": "jingles/megadrive/flapperultra/Alex Kidd in the Enchanted Castle (flapperultra).ogg",
             "regex": "^alex[^a-z0-9]*kidd[^a-z0-9]*in[^a-z0-9]*the[^a-z0-9]*enchanted[^a-z0-9]*castle$|^alexkiddintheenchantedcastle$"
         },
         {
             "game": "Alex Kidd in the Enchanted Castle",
-            "file": "jingles/megadrive/flapperultra/Alex Kidd in the Enchanted Castle (flapperultra).ogg",
+            "file": "jingles/megadrive/CirnoWaifu/Alex Kidd in the Enchanted Castle (CirnoWaifu).ogg",
             "regex": "^alex[^a-z0-9]*kidd[^a-z0-9]*in[^a-z0-9]*the[^a-z0-9]*enchanted[^a-z0-9]*castle$|^alexkiddintheenchantedcastle$"
         },
         {
@@ -3785,12 +3791,12 @@
         },
         {
             "game": "Castlevania Bloodlines",
-            "file": "jingles/megadrive/CirnoWaifu/Castlevania Bloodlines (CirnoWaifu).ogg",
+            "file": "jingles/megadrive/flapperultra/Castlevania Bloodlines (flapperultra).ogg",
             "regex": "^castlevania[^a-z0-9]*bloodlines$|^castlevaniabloodlines$"
         },
         {
             "game": "Castlevania Bloodlines",
-            "file": "jingles/megadrive/flapperultra/Castlevania Bloodlines (flapperultra).ogg",
+            "file": "jingles/megadrive/CirnoWaifu/Castlevania Bloodlines (CirnoWaifu).ogg",
             "regex": "^castlevania[^a-z0-9]*bloodlines$|^castlevaniabloodlines$"
         },
         {
@@ -3810,12 +3816,12 @@
         },
         {
             "game": "Comix Zone",
-            "file": "jingles/megadrive/CirnoWaifu/Comix Zone (CirnoWaifu).ogg",
+            "file": "jingles/megadrive/flapperultra/Comix Zone (flapperultra).ogg",
             "regex": "^comix[^a-z0-9]*zone$|^comixzone$"
         },
         {
             "game": "Comix Zone",
-            "file": "jingles/megadrive/flapperultra/Comix Zone (flapperultra).ogg",
+            "file": "jingles/megadrive/CirnoWaifu/Comix Zone (CirnoWaifu).ogg",
             "regex": "^comix[^a-z0-9]*zone$|^comixzone$"
         },
         {
@@ -3860,12 +3866,12 @@
         },
         {
             "game": "Earthworm Jim",
-            "file": "jingles/megadrive/BennyTheFirstHunter/Earthworm Jim (BennyTheFirstHunter).ogg",
+            "file": "jingles/megadrive/flapperultra/Earthworm Jim (flapperultra).ogg",
             "regex": "^earthworm[^a-z0-9]*jim$|^earthwormjim$"
         },
         {
             "game": "Earthworm Jim",
-            "file": "jingles/megadrive/flapperultra/Earthworm Jim (flapperultra).ogg",
+            "file": "jingles/megadrive/BennyTheFirstHunter/Earthworm Jim (BennyTheFirstHunter).ogg",
             "regex": "^earthworm[^a-z0-9]*jim$|^earthwormjim$"
         },
         {
@@ -3875,12 +3881,12 @@
         },
         {
             "game": "Ecco the Dolphin",
-            "file": "jingles/megadrive/CirnoWaifu/Ecco the Dolphin (CirnoWaifu).ogg",
+            "file": "jingles/megadrive/flapperultra/Ecco the Dolphin (flapperultra).ogg",
             "regex": "^ecco[^a-z0-9]*the[^a-z0-9]*dolphin$|^eccothedolphin$"
         },
         {
             "game": "Ecco the Dolphin",
-            "file": "jingles/megadrive/flapperultra/Ecco the Dolphin (flapperultra).ogg",
+            "file": "jingles/megadrive/CirnoWaifu/Ecco the Dolphin (CirnoWaifu).ogg",
             "regex": "^ecco[^a-z0-9]*the[^a-z0-9]*dolphin$|^eccothedolphin$"
         },
         {
@@ -3925,12 +3931,12 @@
         },
         {
             "game": "Golden Axe",
-            "file": "jingles/megadrive/CirnoWaifu/Golden Axe (CirnoWaifu).ogg",
+            "file": "jingles/megadrive/flapperultra/Golden Axe (flapperultra).ogg",
             "regex": "^golden[^a-z0-9]*axe$|^goldenaxe$"
         },
         {
             "game": "Golden Axe",
-            "file": "jingles/megadrive/flapperultra/Golden Axe (flapperultra).ogg",
+            "file": "jingles/megadrive/CirnoWaifu/Golden Axe (CirnoWaifu).ogg",
             "regex": "^golden[^a-z0-9]*axe$|^goldenaxe$"
         },
         {
@@ -3950,12 +3956,12 @@
         },
         {
             "game": "Gunstar Heroes",
-            "file": "jingles/megadrive/CirnoWaifu/Gunstar Heroes (CirnoWaifu).ogg",
+            "file": "jingles/megadrive/flapperultra/Gunstar Heroes (flapperultra).ogg",
             "regex": "^gunstar[^a-z0-9]*heroes$|^gunstarheroes$"
         },
         {
             "game": "Gunstar Heroes",
-            "file": "jingles/megadrive/flapperultra/Gunstar Heroes (flapperultra).ogg",
+            "file": "jingles/megadrive/CirnoWaifu/Gunstar Heroes (CirnoWaifu).ogg",
             "regex": "^gunstar[^a-z0-9]*heroes$|^gunstarheroes$"
         },
         {
@@ -4130,12 +4136,12 @@
         },
         {
             "game": "Pulseman",
-            "file": "jingles/megadrive/CirnoWaifu/Pulseman (CirnoWaifu).ogg",
+            "file": "jingles/megadrive/flapperultra/Pulseman (flapperultra).ogg",
             "regex": "^pulseman$|^pulseman$"
         },
         {
             "game": "Pulseman",
-            "file": "jingles/megadrive/flapperultra/Pulseman (flapperultra).ogg",
+            "file": "jingles/megadrive/CirnoWaifu/Pulseman (CirnoWaifu).ogg",
             "regex": "^pulseman$|^pulseman$"
         },
         {
@@ -4165,22 +4171,22 @@
         },
         {
             "game": "Ristar",
-            "file": "jingles/megadrive/CirnoWaifu/Ristar (CirnoWaifu).ogg",
-            "regex": "^ristar$|^ristar$"
-        },
-        {
-            "game": "Ristar",
             "file": "jingles/megadrive/flapperultra/Ristar (flapperultra).ogg",
             "regex": "^ristar$|^ristar$"
         },
         {
-            "game": "Rocket Knight Adventures",
-            "file": "jingles/megadrive/CirnoWaifu/Rocket Knight Adventures (CirnoWaifu).ogg",
-            "regex": "^rocket[^a-z0-9]*knight[^a-z0-9]*adventures$|^rocketknightadventures$"
+            "game": "Ristar",
+            "file": "jingles/megadrive/CirnoWaifu/Ristar (CirnoWaifu).ogg",
+            "regex": "^ristar$|^ristar$"
         },
         {
             "game": "Rocket Knight Adventures",
             "file": "jingles/megadrive/flapperultra/Rocket Knight Adventures (flapperultra).ogg",
+            "regex": "^rocket[^a-z0-9]*knight[^a-z0-9]*adventures$|^rocketknightadventures$"
+        },
+        {
+            "game": "Rocket Knight Adventures",
+            "file": "jingles/megadrive/CirnoWaifu/Rocket Knight Adventures (CirnoWaifu).ogg",
             "regex": "^rocket[^a-z0-9]*knight[^a-z0-9]*adventures$|^rocketknightadventures$"
         },
         {
@@ -4200,12 +4206,12 @@
         },
         {
             "game": "Shining Force",
-            "file": "jingles/megadrive/CirnoWaifu/Shining Force (CirnoWaifu).ogg",
+            "file": "jingles/megadrive/flapperultra/Shining Force (flapperultra).ogg",
             "regex": "^shining[^a-z0-9]*force$|^shiningforce$"
         },
         {
             "game": "Shining Force",
-            "file": "jingles/megadrive/flapperultra/Shining Force (flapperultra).ogg",
+            "file": "jingles/megadrive/CirnoWaifu/Shining Force (CirnoWaifu).ogg",
             "regex": "^shining[^a-z0-9]*force$|^shiningforce$"
         },
         {
@@ -4260,12 +4266,12 @@
         },
         {
             "game": "Sonic 3D Blast",
-            "file": "jingles/megadrive/CirnoWaifu/Sonic 3D Blast (CirnoWaifu).ogg",
+            "file": "jingles/megadrive/flapperultra/Sonic 3D Blast (flapperultra).ogg",
             "regex": "^sonic[^a-z0-9]*3d[^a-z0-9]*blast$|^sonic3dblast$"
         },
         {
             "game": "Sonic 3D Blast",
-            "file": "jingles/megadrive/flapperultra/Sonic 3D Blast (flapperultra).ogg",
+            "file": "jingles/megadrive/CirnoWaifu/Sonic 3D Blast (CirnoWaifu).ogg",
             "regex": "^sonic[^a-z0-9]*3d[^a-z0-9]*blast$|^sonic3dblast$"
         },
         {
@@ -4300,12 +4306,12 @@
         },
         {
             "game": "Sonic Spinball",
-            "file": "jingles/megadrive/CirnoWaifu/Sonic Spinball (CirnoWaifu).ogg",
+            "file": "jingles/megadrive/flapperultra/Sonic Spinball (flapperultra).ogg",
             "regex": "^sonic[^a-z0-9]*spinball$|^sonicspinball$"
         },
         {
             "game": "Sonic Spinball",
-            "file": "jingles/megadrive/flapperultra/Sonic Spinball (flapperultra).ogg",
+            "file": "jingles/megadrive/CirnoWaifu/Sonic Spinball (CirnoWaifu).ogg",
             "regex": "^sonic[^a-z0-9]*spinball$|^sonicspinball$"
         },
         {
@@ -4355,18 +4361,13 @@
         },
         {
             "game": "Streets of Rage",
-            "file": "jingles/megadrive/CirnoWaifu/Streets of Rage (CirnoWaifu).ogg",
-            "regex": "^streets[^a-z0-9]*of[^a-z0-9]*rage$|^streetsofrage$"
-        },
-        {
-            "game": "Streets of Rage",
             "file": "jingles/megadrive/flapperultra/Streets of Rage (flapperultra).ogg",
             "regex": "^streets[^a-z0-9]*of[^a-z0-9]*rage$|^streetsofrage$"
         },
         {
-            "game": "Streets of Rage 2",
-            "file": "jingles/megadrive/CirnoWaifu/Streets of Rage 2 (CirnoWaifu).ogg",
-            "regex": "^streets[^a-z0-9]*of[^a-z0-9]*rage[^a-z0-9]*2$|^streetsofrage2$"
+            "game": "Streets of Rage",
+            "file": "jingles/megadrive/CirnoWaifu/Streets of Rage (CirnoWaifu).ogg",
+            "regex": "^streets[^a-z0-9]*of[^a-z0-9]*rage$|^streetsofrage$"
         },
         {
             "game": "Streets of Rage 2",
@@ -4374,13 +4375,18 @@
             "regex": "^streets[^a-z0-9]*of[^a-z0-9]*rage[^a-z0-9]*2$|^streetsofrage2$"
         },
         {
-            "game": "Streets of Rage 3",
-            "file": "jingles/megadrive/CirnoWaifu/Streets of Rage 3 (CirnoWaifu).ogg",
-            "regex": "^streets[^a-z0-9]*of[^a-z0-9]*rage[^a-z0-9]*3$|^streetsofrage3$"
+            "game": "Streets of Rage 2",
+            "file": "jingles/megadrive/CirnoWaifu/Streets of Rage 2 (CirnoWaifu).ogg",
+            "regex": "^streets[^a-z0-9]*of[^a-z0-9]*rage[^a-z0-9]*2$|^streetsofrage2$"
         },
         {
             "game": "Streets of Rage 3",
             "file": "jingles/megadrive/flapperultra/Streets of Rage 3 (flapperultra).ogg",
+            "regex": "^streets[^a-z0-9]*of[^a-z0-9]*rage[^a-z0-9]*3$|^streetsofrage3$"
+        },
+        {
+            "game": "Streets of Rage 3",
+            "file": "jingles/megadrive/CirnoWaifu/Streets of Rage 3 (CirnoWaifu).ogg",
             "regex": "^streets[^a-z0-9]*of[^a-z0-9]*rage[^a-z0-9]*3$|^streetsofrage3$"
         },
         {
@@ -4512,12 +4518,12 @@
         },
         {
             "game": "Banjo Kazooie",
-            "file": "jingles/n64/BennyTheFirstHunter/Banjo Kazooie (BennyTheFirstHunter).ogg",
+            "file": "jingles/n64/flapperultra/Banjo Kazooie (flapperultra).ogg",
             "regex": "^banjo[^a-z0-9]*kazooie$|^banjokazooie$"
         },
         {
             "game": "Banjo Kazooie",
-            "file": "jingles/n64/flapperultra/Banjo Kazooie (flapperultra).ogg",
+            "file": "jingles/n64/BennyTheFirstHunter/Banjo Kazooie (BennyTheFirstHunter).ogg",
             "regex": "^banjo[^a-z0-9]*kazooie$|^banjokazooie$"
         },
         {
@@ -4527,12 +4533,12 @@
         },
         {
             "game": "Banjo Tooie",
-            "file": "jingles/n64/BennyTheFirstHunter/Banjo Tooie (BennyTheFirstHunter).ogg",
+            "file": "jingles/n64/flapperultra/Banjo Tooie (flapperultra).ogg",
             "regex": "^banjo[^a-z0-9]*tooie$|^banjotooie$"
         },
         {
             "game": "Banjo Tooie",
-            "file": "jingles/n64/flapperultra/Banjo Tooie (flapperultra).ogg",
+            "file": "jingles/n64/BennyTheFirstHunter/Banjo Tooie (BennyTheFirstHunter).ogg",
             "regex": "^banjo[^a-z0-9]*tooie$|^banjotooie$"
         },
         {
@@ -4587,18 +4593,13 @@
         },
         {
             "game": "Chameleon Twist",
-            "file": "jingles/n64/BennyTheFirstHunter/Chameleon Twist (BennyTheFirstHunter).ogg",
-            "regex": "^chameleon[^a-z0-9]*twist$|^chameleontwist$"
-        },
-        {
-            "game": "Chameleon Twist",
             "file": "jingles/n64/flapperultra/Chameleon Twist (flapperultra).ogg",
             "regex": "^chameleon[^a-z0-9]*twist$|^chameleontwist$"
         },
         {
-            "game": "Chameleon Twist 2",
-            "file": "jingles/n64/BennyTheFirstHunter/Chameleon Twist 2 (BennyTheFirstHunter).ogg",
-            "regex": "^chameleon[^a-z0-9]*twist[^a-z0-9]*2$|^chameleontwist2$"
+            "game": "Chameleon Twist",
+            "file": "jingles/n64/BennyTheFirstHunter/Chameleon Twist (BennyTheFirstHunter).ogg",
+            "regex": "^chameleon[^a-z0-9]*twist$|^chameleontwist$"
         },
         {
             "game": "Chameleon Twist 2",
@@ -4606,13 +4607,18 @@
             "regex": "^chameleon[^a-z0-9]*twist[^a-z0-9]*2$|^chameleontwist2$"
         },
         {
-            "game": "Conkers Bad Fur Day",
-            "file": "jingles/n64/BennyTheFirstHunter/Conkers Bad Fur Day (BennyTheFirstHunter).ogg",
-            "regex": "^conkers[^a-z0-9]*bad[^a-z0-9]*fur[^a-z0-9]*day$|^conkersbadfurday$"
+            "game": "Chameleon Twist 2",
+            "file": "jingles/n64/BennyTheFirstHunter/Chameleon Twist 2 (BennyTheFirstHunter).ogg",
+            "regex": "^chameleon[^a-z0-9]*twist[^a-z0-9]*2$|^chameleontwist2$"
         },
         {
             "game": "Conkers Bad Fur Day",
             "file": "jingles/n64/flapperultra/Conkers Bad Fur Day (flapperultra).ogg",
+            "regex": "^conkers[^a-z0-9]*bad[^a-z0-9]*fur[^a-z0-9]*day$|^conkersbadfurday$"
+        },
+        {
+            "game": "Conkers Bad Fur Day",
+            "file": "jingles/n64/BennyTheFirstHunter/Conkers Bad Fur Day (BennyTheFirstHunter).ogg",
             "regex": "^conkers[^a-z0-9]*bad[^a-z0-9]*fur[^a-z0-9]*day$|^conkersbadfurday$"
         },
         {
@@ -4622,12 +4628,12 @@
         },
         {
             "game": "Diddy Kong Racing",
-            "file": "jingles/n64/BennyTheFirstHunter/Diddy Kong Racing (BennyTheFirstHunter).ogg",
+            "file": "jingles/n64/flapperultra/Diddy Kong Racing (flapperultra).ogg",
             "regex": "^diddy[^a-z0-9]*kong[^a-z0-9]*racing$|^diddykongracing$"
         },
         {
             "game": "Diddy Kong Racing",
-            "file": "jingles/n64/flapperultra/Diddy Kong Racing (flapperultra).ogg",
+            "file": "jingles/n64/BennyTheFirstHunter/Diddy Kong Racing (BennyTheFirstHunter).ogg",
             "regex": "^diddy[^a-z0-9]*kong[^a-z0-9]*racing$|^diddykongracing$"
         },
         {
@@ -4642,18 +4648,13 @@
         },
         {
             "game": "Donkey Kong 64",
-            "file": "jingles/n64/BennyTheFirstHunter/Donkey Kong 64 (BennyTheFirstHunter).ogg",
-            "regex": "^donkey[^a-z0-9]*kong[^a-z0-9]*64$|^donkeykong64$"
-        },
-        {
-            "game": "Donkey Kong 64",
             "file": "jingles/n64/flapperultra/Donkey Kong 64 (flapperultra).ogg",
             "regex": "^donkey[^a-z0-9]*kong[^a-z0-9]*64$|^donkeykong64$"
         },
         {
-            "game": "Doom 64",
-            "file": "jingles/n64/CirnoWaifu/Doom 64 (CirnoWaifu).ogg",
-            "regex": "^doom[^a-z0-9]*64$|^doom64$"
+            "game": "Donkey Kong 64",
+            "file": "jingles/n64/BennyTheFirstHunter/Donkey Kong 64 (BennyTheFirstHunter).ogg",
+            "regex": "^donkey[^a-z0-9]*kong[^a-z0-9]*64$|^donkeykong64$"
         },
         {
             "game": "Doom 64",
@@ -4661,13 +4662,18 @@
             "regex": "^doom[^a-z0-9]*64$|^doom64$"
         },
         {
-            "game": "F-Zero X",
-            "file": "jingles/n64/CirnoWaifu/F-Zero X (CirnoWaifu).ogg",
-            "regex": "^f[^a-z0-9]*zero[^a-z0-9]*x$|^fzerox$"
+            "game": "Doom 64",
+            "file": "jingles/n64/CirnoWaifu/Doom 64 (CirnoWaifu).ogg",
+            "regex": "^doom[^a-z0-9]*64$|^doom64$"
         },
         {
             "game": "F-Zero X",
             "file": "jingles/n64/flapperultra/F-Zero X (flapperultra).ogg",
+            "regex": "^f[^a-z0-9]*zero[^a-z0-9]*x$|^fzerox$"
+        },
+        {
+            "game": "F-Zero X",
+            "file": "jingles/n64/CirnoWaifu/F-Zero X (CirnoWaifu).ogg",
             "regex": "^f[^a-z0-9]*zero[^a-z0-9]*x$|^fzerox$"
         },
         {
@@ -4687,12 +4693,12 @@
         },
         {
             "game": "Goldeneye 007",
-            "file": "jingles/n64/BennyTheFirstHunter/Goldeneye 007 (BennyTheFirstHunter).ogg",
+            "file": "jingles/n64/flapperultra/Goldeneye 007 (flapperultra).ogg",
             "regex": "^goldeneye[^a-z0-9]*007$|^goldeneye007$"
         },
         {
             "game": "Goldeneye 007",
-            "file": "jingles/n64/flapperultra/Goldeneye 007 (flapperultra).ogg",
+            "file": "jingles/n64/BennyTheFirstHunter/Goldeneye 007 (BennyTheFirstHunter).ogg",
             "regex": "^goldeneye[^a-z0-9]*007$|^goldeneye007$"
         },
         {
@@ -4712,12 +4718,12 @@
         },
         {
             "game": "Jet Force Gemini",
-            "file": "jingles/n64/BennyTheFirstHunter/Jet Force Gemini (BennyTheFirstHunter).ogg",
+            "file": "jingles/n64/flapperultra/Jet Force Gemini (flapperultra).ogg",
             "regex": "^jet[^a-z0-9]*force[^a-z0-9]*gemini$|^jetforcegemini$"
         },
         {
             "game": "Jet Force Gemini",
-            "file": "jingles/n64/flapperultra/Jet Force Gemini (flapperultra).ogg",
+            "file": "jingles/n64/BennyTheFirstHunter/Jet Force Gemini (BennyTheFirstHunter).ogg",
             "regex": "^jet[^a-z0-9]*force[^a-z0-9]*gemini$|^jetforcegemini$"
         },
         {
@@ -4767,12 +4773,12 @@
         },
         {
             "game": "Mischief Makers",
-            "file": "jingles/n64/CirnoWaifu/Mischief Makers (CirnoWaifu).ogg",
+            "file": "jingles/n64/flapperultra/Mischief Makers (flapperultra).ogg",
             "regex": "^mischief[^a-z0-9]*makers$|^mischiefmakers$"
         },
         {
             "game": "Mischief Makers",
-            "file": "jingles/n64/flapperultra/Mischief Makers (flapperultra).ogg",
+            "file": "jingles/n64/CirnoWaifu/Mischief Makers (CirnoWaifu).ogg",
             "regex": "^mischief[^a-z0-9]*makers$|^mischiefmakers$"
         },
         {
@@ -4787,12 +4793,12 @@
         },
         {
             "game": "Paper Mario",
-            "file": "jingles/n64/CirnoWaifu/Paper Mario (CirnoWaifu).ogg",
+            "file": "jingles/n64/flapperultra/Paper Mario (flapperultra).ogg",
             "regex": "^paper[^a-z0-9]*mario$|^papermario$"
         },
         {
             "game": "Paper Mario",
-            "file": "jingles/n64/flapperultra/Paper Mario (flapperultra).ogg",
+            "file": "jingles/n64/CirnoWaifu/Paper Mario (CirnoWaifu).ogg",
             "regex": "^paper[^a-z0-9]*mario$|^papermario$"
         },
         {
@@ -4807,12 +4813,12 @@
         },
         {
             "game": "Pokemon Snap",
-            "file": "jingles/n64/BennyTheFirstHunter/Pokemon Snap (BennyTheFirstHunter).ogg",
+            "file": "jingles/n64/flapperultra/Pokemon Snap (flapperultra).ogg",
             "regex": "^pokemon[^a-z0-9]*snap$|^pokemonsnap$"
         },
         {
             "game": "Pokemon Snap",
-            "file": "jingles/n64/flapperultra/Pokemon Snap (flapperultra).ogg",
+            "file": "jingles/n64/BennyTheFirstHunter/Pokemon Snap (BennyTheFirstHunter).ogg",
             "regex": "^pokemon[^a-z0-9]*snap$|^pokemonsnap$"
         },
         {
@@ -4857,17 +4863,17 @@
         },
         {
             "game": "Super Mario 64",
+            "file": "jingles/n64/flapperultra/Super Mario 64 (flapperultra).ogg",
+            "regex": "^super[^a-z0-9]*mario[^a-z0-9]*64$|^supermario64$"
+        },
+        {
+            "game": "Super Mario 64",
             "file": "jingles/n64/CirnoWaifu/Super Mario 64 (CirnoWaifu).ogg",
             "regex": "^super[^a-z0-9]*mario[^a-z0-9]*64$|^supermario64$"
         },
         {
             "game": "Super Mario 64",
             "file": "jingles/n64/Felipne87r/Super Mario 64 (Felipne87r).ogg",
-            "regex": "^super[^a-z0-9]*mario[^a-z0-9]*64$|^supermario64$"
-        },
-        {
-            "game": "Super Mario 64",
-            "file": "jingles/n64/flapperultra/Super Mario 64 (flapperultra).ogg",
             "regex": "^super[^a-z0-9]*mario[^a-z0-9]*64$|^supermario64$"
         },
         {
@@ -4987,12 +4993,12 @@
         },
         {
             "game": "Yoshi's Story",
-            "file": "jingles/n64/CirnoWaifu/Yoshi's Story (CirnoWaifu).ogg",
+            "file": "jingles/n64/flapperultra/Yoshi's Story (flapperultra).ogg",
             "regex": "^yoshi[^a-z0-9]*s[^a-z0-9]*story$|^yoshisstory$"
         },
         {
             "game": "Yoshi's Story",
-            "file": "jingles/n64/flapperultra/Yoshi's Story (flapperultra).ogg",
+            "file": "jingles/n64/CirnoWaifu/Yoshi's Story (CirnoWaifu).ogg",
             "regex": "^yoshi[^a-z0-9]*s[^a-z0-9]*story$|^yoshisstory$"
         },
         {
@@ -5009,12 +5015,12 @@
         },
         {
             "game": "Ace Attorney Investigations",
-            "file": "jingles/nds/alive-dead/Ace Attorney Investigations (alive-dead).ogg",
+            "file": "jingles/nds/CirnoWaifu/Ace Attorney Investigations (CirnoWaifu).ogg",
             "regex": "^ace[^a-z0-9]*attorney[^a-z0-9]*investigations$|^aceattorneyinvestigations$"
         },
         {
             "game": "Ace Attorney Investigations",
-            "file": "jingles/nds/CirnoWaifu/Ace Attorney Investigations (CirnoWaifu).ogg",
+            "file": "jingles/nds/alive-dead/Ace Attorney Investigations (alive-dead).ogg",
             "regex": "^ace[^a-z0-9]*attorney[^a-z0-9]*investigations$|^aceattorneyinvestigations$"
         },
         {
@@ -5564,12 +5570,12 @@
         },
         {
             "game": "Mario and Luigi - Bowsers Inside Story",
-            "file": "jingles/nds/CirnoWaifu/Mario and Luigi - Bowsers Inside Story (CirnoWaifu).ogg",
+            "file": "jingles/nds/flapperultra/Mario and Luigi - Bowsers Inside Story (flapperultra).ogg",
             "regex": "^mario[^a-z0-9]*and[^a-z0-9]*luigi[^a-z0-9]*bowsers[^a-z0-9]*inside[^a-z0-9]*story$|^marioandluigibowsersinsidestory$"
         },
         {
             "game": "Mario and Luigi - Bowsers Inside Story",
-            "file": "jingles/nds/flapperultra/Mario and Luigi - Bowsers Inside Story (flapperultra).ogg",
+            "file": "jingles/nds/CirnoWaifu/Mario and Luigi - Bowsers Inside Story (CirnoWaifu).ogg",
             "regex": "^mario[^a-z0-9]*and[^a-z0-9]*luigi[^a-z0-9]*bowsers[^a-z0-9]*inside[^a-z0-9]*story$|^marioandluigibowsersinsidestory$"
         },
         {
@@ -5659,22 +5665,22 @@
         },
         {
             "game": "Mega Man ZX",
-            "file": "jingles/nds/CirnoWaifu/Mega Man ZX (CirnoWaifu).ogg",
-            "regex": "^mega[^a-z0-9]*man[^a-z0-9]*zx$|^megamanzx$"
-        },
-        {
-            "game": "Mega Man ZX",
             "file": "jingles/nds/flapperultra/Mega Man ZX (flapperultra).ogg",
             "regex": "^mega[^a-z0-9]*man[^a-z0-9]*zx$|^megamanzx$"
         },
         {
-            "game": "Mega Man ZX Advent",
-            "file": "jingles/nds/CirnoWaifu/Mega Man ZX Advent (CirnoWaifu).ogg",
-            "regex": "^mega[^a-z0-9]*man[^a-z0-9]*zx[^a-z0-9]*advent$|^megamanzxadvent$"
+            "game": "Mega Man ZX",
+            "file": "jingles/nds/CirnoWaifu/Mega Man ZX (CirnoWaifu).ogg",
+            "regex": "^mega[^a-z0-9]*man[^a-z0-9]*zx$|^megamanzx$"
         },
         {
             "game": "Mega Man ZX Advent",
             "file": "jingles/nds/flapperultra/Mega Man ZX Advent (flapperultra).ogg",
+            "regex": "^mega[^a-z0-9]*man[^a-z0-9]*zx[^a-z0-9]*advent$|^megamanzxadvent$"
+        },
+        {
+            "game": "Mega Man ZX Advent",
+            "file": "jingles/nds/CirnoWaifu/Mega Man ZX Advent (CirnoWaifu).ogg",
             "regex": "^mega[^a-z0-9]*man[^a-z0-9]*zx[^a-z0-9]*advent$|^megamanzxadvent$"
         },
         {
@@ -5704,12 +5710,12 @@
         },
         {
             "game": "New Super Mario Bros",
-            "file": "jingles/nds/Felipne87r/New Super Mario Bros (Felipne87r).ogg",
+            "file": "jingles/nds/flapperultra/New Super Mario Bros (flapperultra).ogg",
             "regex": "^new[^a-z0-9]*super[^a-z0-9]*mario[^a-z0-9]*bros$|^newsupermariobros$"
         },
         {
             "game": "New Super Mario Bros",
-            "file": "jingles/nds/flapperultra/New Super Mario Bros (flapperultra).ogg",
+            "file": "jingles/nds/Felipne87r/New Super Mario Bros (Felipne87r).ogg",
             "regex": "^new[^a-z0-9]*super[^a-z0-9]*mario[^a-z0-9]*bros$|^newsupermariobros$"
         },
         {
@@ -5894,12 +5900,12 @@
         },
         {
             "game": "Picross DS",
-            "file": "jingles/nds/CirnoWaifu/Picross DS (CirnoWaifu).ogg",
+            "file": "jingles/nds/flapperultra/Picross DS (flapperultra).ogg",
             "regex": "^picross[^a-z0-9]*ds$|^picrossds$"
         },
         {
             "game": "Picross DS",
-            "file": "jingles/nds/flapperultra/Picross DS (flapperultra).ogg",
+            "file": "jingles/nds/CirnoWaifu/Picross DS (CirnoWaifu).ogg",
             "regex": "^picross[^a-z0-9]*ds$|^picrossds$"
         },
         {
@@ -5954,22 +5960,22 @@
         },
         {
             "game": "Professor Layton and the Curious Village",
-            "file": "jingles/nds/CirnoWaifu/Professor Layton and the Curious Village (CirnoWaifu).ogg",
-            "regex": "^professor[^a-z0-9]*layton[^a-z0-9]*and[^a-z0-9]*the[^a-z0-9]*curious[^a-z0-9]*village$|^professorlaytonandthecuriousvillage$"
-        },
-        {
-            "game": "Professor Layton and the Curious Village",
             "file": "jingles/nds/flapperultra/Professor Layton and the Curious Village (flapperultra).ogg",
             "regex": "^professor[^a-z0-9]*layton[^a-z0-9]*and[^a-z0-9]*the[^a-z0-9]*curious[^a-z0-9]*village$|^professorlaytonandthecuriousvillage$"
         },
         {
-            "game": "Professor Layton and the Lost Future",
-            "file": "jingles/nds/CirnoWaifu/Professor Layton and the Lost Future (CirnoWaifu).ogg",
-            "regex": "^professor[^a-z0-9]*layton[^a-z0-9]*and[^a-z0-9]*the[^a-z0-9]*lost[^a-z0-9]*future$|^professorlaytonandthelostfuture$"
+            "game": "Professor Layton and the Curious Village",
+            "file": "jingles/nds/CirnoWaifu/Professor Layton and the Curious Village (CirnoWaifu).ogg",
+            "regex": "^professor[^a-z0-9]*layton[^a-z0-9]*and[^a-z0-9]*the[^a-z0-9]*curious[^a-z0-9]*village$|^professorlaytonandthecuriousvillage$"
         },
         {
             "game": "Professor Layton and the Lost Future",
             "file": "jingles/nds/flapperultra/Professor Layton and the Lost Future.ogg",
+            "regex": "^professor[^a-z0-9]*layton[^a-z0-9]*and[^a-z0-9]*the[^a-z0-9]*lost[^a-z0-9]*future$|^professorlaytonandthelostfuture$"
+        },
+        {
+            "game": "Professor Layton and the Lost Future",
+            "file": "jingles/nds/CirnoWaifu/Professor Layton and the Lost Future (CirnoWaifu).ogg",
             "regex": "^professor[^a-z0-9]*layton[^a-z0-9]*and[^a-z0-9]*the[^a-z0-9]*lost[^a-z0-9]*future$|^professorlaytonandthelostfuture$"
         },
         {
@@ -6029,12 +6035,12 @@
         },
         {
             "game": "Sonic Rush",
-            "file": "jingles/nds/Gracie Failfox/Sonic Rush (Gracie Failfox).ogg",
+            "file": "jingles/nds/RetroWave64/Sonic Rush (RetroWave64).ogg",
             "regex": "^sonic[^a-z0-9]*rush$|^sonicrush$"
         },
         {
             "game": "Sonic Rush",
-            "file": "jingles/nds/RetroWave64/Sonic Rush (RetroWave64).ogg",
+            "file": "jingles/nds/Gracie Failfox/Sonic Rush (Gracie Failfox).ogg",
             "regex": "^sonic[^a-z0-9]*rush$|^sonicrush$"
         },
         {
@@ -6044,12 +6050,12 @@
         },
         {
             "game": "Sonic Rush Adventure",
-            "file": "jingles/nds/Gracie Failfox/Sonic Rush Adventure (Gracie Failfox).ogg",
+            "file": "jingles/nds/RetroWave64/Sonic Rush Adventure (RetroWave64).ogg",
             "regex": "^sonic[^a-z0-9]*rush[^a-z0-9]*adventure$|^sonicrushadventure$"
         },
         {
             "game": "Sonic Rush Adventure",
-            "file": "jingles/nds/RetroWave64/Sonic Rush Adventure (RetroWave64).ogg",
+            "file": "jingles/nds/Gracie Failfox/Sonic Rush Adventure (Gracie Failfox).ogg",
             "regex": "^sonic[^a-z0-9]*rush[^a-z0-9]*adventure$|^sonicrushadventure$"
         },
         {
@@ -6119,12 +6125,12 @@
         },
         {
             "game": "Super Princess Peach",
-            "file": "jingles/nds/CirnoWaifu/Super Princess Peach (CirnoWaifu).ogg",
+            "file": "jingles/nds/flapperultra/Super Princess Peach (flapperultra).ogg",
             "regex": "^super[^a-z0-9]*princess[^a-z0-9]*peach$|^superprincesspeach$"
         },
         {
             "game": "Super Princess Peach",
-            "file": "jingles/nds/flapperultra/Super Princess Peach (flapperultra).ogg",
+            "file": "jingles/nds/CirnoWaifu/Super Princess Peach (CirnoWaifu).ogg",
             "regex": "^super[^a-z0-9]*princess[^a-z0-9]*peach$|^superprincesspeach$"
         },
         {
@@ -6144,17 +6150,17 @@
         },
         {
             "game": "Tetris DS",
-            "file": "jingles/nds/CirnoWaifu/Tetris DS (CirnoWaifu).ogg",
-            "regex": "^tetris[^a-z0-9]*ds$|^tetrisds$"
-        },
-        {
-            "game": "Tetris DS",
             "file": "jingles/nds/flapperultra/Tetris DS (flapperultra).ogg",
             "regex": "^tetris[^a-z0-9]*ds$|^tetrisds$"
         },
         {
             "game": "Tetris DS",
             "file": "jingles/nds/Natalie/Tetris DS (Natalie).ogg",
+            "regex": "^tetris[^a-z0-9]*ds$|^tetrisds$"
+        },
+        {
+            "game": "Tetris DS",
+            "file": "jingles/nds/CirnoWaifu/Tetris DS (CirnoWaifu).ogg",
             "regex": "^tetris[^a-z0-9]*ds$|^tetrisds$"
         },
         {
@@ -6184,22 +6190,22 @@
         },
         {
             "game": "The Legend of Zelda Phantom Hourglass",
-            "file": "jingles/nds/EvilMain/The Legend of Zelda Phantom Hourglass (EvilMain).ogg",
-            "regex": "^the[^a-z0-9]*legend[^a-z0-9]*of[^a-z0-9]*zelda[^a-z0-9]*phantom[^a-z0-9]*hourglass$|^thelegendofzeldaphantomhourglass$"
-        },
-        {
-            "game": "The Legend of Zelda Phantom Hourglass",
             "file": "jingles/nds/flapperultra/The Legend of Zelda Phantom Hourglass (flapperultra).ogg",
             "regex": "^the[^a-z0-9]*legend[^a-z0-9]*of[^a-z0-9]*zelda[^a-z0-9]*phantom[^a-z0-9]*hourglass$|^thelegendofzeldaphantomhourglass$"
         },
         {
             "game": "The Legend of Zelda Phantom Hourglass",
-            "file": "jingles/nds/Gracie Failfox/The Legend of Zelda Phantom Hourglass (Gracie Failfox).ogg",
+            "file": "jingles/nds/EvilMain/The Legend of Zelda Phantom Hourglass (EvilMain).ogg",
             "regex": "^the[^a-z0-9]*legend[^a-z0-9]*of[^a-z0-9]*zelda[^a-z0-9]*phantom[^a-z0-9]*hourglass$|^thelegendofzeldaphantomhourglass$"
         },
         {
             "game": "The Legend of Zelda Phantom Hourglass",
             "file": "jingles/nds/Jalmoc/The Legend of Zelda Phantom Hourglass (Jalmoc).ogg",
+            "regex": "^the[^a-z0-9]*legend[^a-z0-9]*of[^a-z0-9]*zelda[^a-z0-9]*phantom[^a-z0-9]*hourglass$|^thelegendofzeldaphantomhourglass$"
+        },
+        {
+            "game": "The Legend of Zelda Phantom Hourglass",
+            "file": "jingles/nds/Gracie Failfox/The Legend of Zelda Phantom Hourglass (Gracie Failfox).ogg",
             "regex": "^the[^a-z0-9]*legend[^a-z0-9]*of[^a-z0-9]*zelda[^a-z0-9]*phantom[^a-z0-9]*hourglass$|^thelegendofzeldaphantomhourglass$"
         },
         {
@@ -6497,12 +6503,12 @@
         },
         {
             "game": "Castlevania",
-            "file": "jingles/nes/CirnoWaifu/Castlevania (CirnoWaifu).ogg",
+            "file": "jingles/nes/flapperultra/Castlevania (flapperultra).ogg",
             "regex": "^castlevania$|^castlevania$"
         },
         {
             "game": "Castlevania",
-            "file": "jingles/nes/flapperultra/Castlevania (flapperultra).ogg",
+            "file": "jingles/nes/CirnoWaifu/Castlevania (CirnoWaifu).ogg",
             "regex": "^castlevania$|^castlevania$"
         },
         {
@@ -6597,22 +6603,22 @@
         },
         {
             "game": "Crystalis",
-            "file": "jingles/nes/CirnoWaifu/Crystalis (CirnoWaifu).ogg",
-            "regex": "^crystalis$|^crystalis$"
-        },
-        {
-            "game": "Crystalis",
             "file": "jingles/nes/flapperultra/Crystalis (flapperultra).ogg",
             "regex": "^crystalis$|^crystalis$"
         },
         {
-            "game": "Darkwing Duck",
-            "file": "jingles/nes/CirnoWaifu/Darkwing Duck (CirnoWaifu).ogg",
-            "regex": "^darkwing[^a-z0-9]*duck$|^darkwingduck$"
+            "game": "Crystalis",
+            "file": "jingles/nes/CirnoWaifu/Crystalis (CirnoWaifu).ogg",
+            "regex": "^crystalis$|^crystalis$"
         },
         {
             "game": "Darkwing Duck",
             "file": "jingles/nes/flapperultra/Darkwing Duck (flapperultra).ogg",
+            "regex": "^darkwing[^a-z0-9]*duck$|^darkwingduck$"
+        },
+        {
+            "game": "Darkwing Duck",
+            "file": "jingles/nes/CirnoWaifu/Darkwing Duck (CirnoWaifu).ogg",
             "regex": "^darkwing[^a-z0-9]*duck$|^darkwingduck$"
         },
         {
@@ -6702,12 +6708,12 @@
         },
         {
             "game": "Ducktales",
-            "file": "jingles/nes/CirnoWaifu/Ducktales (CirnoWaifu).ogg",
+            "file": "jingles/nes/flapperultra/Ducktales (flapperultra).ogg",
             "regex": "^ducktales$|^ducktales$"
         },
         {
             "game": "Ducktales",
-            "file": "jingles/nes/flapperultra/Ducktales (flapperultra).ogg",
+            "file": "jingles/nes/CirnoWaifu/Ducktales (CirnoWaifu).ogg",
             "regex": "^ducktales$|^ducktales$"
         },
         {
@@ -6907,12 +6913,12 @@
         },
         {
             "game": "Mega Man",
-            "file": "jingles/nes/CirnoWaifu/Mega Man (CirnoWaifu).ogg",
+            "file": "jingles/nes/flapperultra/Mega Man (flapperultra).ogg",
             "regex": "^mega[^a-z0-9]*man$|^megaman$"
         },
         {
             "game": "Mega Man",
-            "file": "jingles/nes/flapperultra/Mega Man (flapperultra).ogg",
+            "file": "jingles/nes/CirnoWaifu/Mega Man (CirnoWaifu).ogg",
             "regex": "^mega[^a-z0-9]*man$|^megaman$"
         },
         {
@@ -6922,12 +6928,12 @@
         },
         {
             "game": "Mega Man 2",
-            "file": "jingles/nes/CirnoWaifu/Mega Man 2 (CirnoWaifu).ogg",
+            "file": "jingles/nes/flapperultra/Mega Man 2 (flapperultra).ogg",
             "regex": "^mega[^a-z0-9]*man[^a-z0-9]*2$|^megaman2$"
         },
         {
             "game": "Mega Man 2",
-            "file": "jingles/nes/flapperultra/Mega Man 2 (flapperultra).ogg",
+            "file": "jingles/nes/CirnoWaifu/Mega Man 2 (CirnoWaifu).ogg",
             "regex": "^mega[^a-z0-9]*man[^a-z0-9]*2$|^megaman2$"
         },
         {
@@ -6937,18 +6943,13 @@
         },
         {
             "game": "Mega Man 3",
-            "file": "jingles/nes/CirnoWaifu/Mega Man 3 (CirnoWaifu).ogg",
-            "regex": "^mega[^a-z0-9]*man[^a-z0-9]*3$|^megaman3$"
-        },
-        {
-            "game": "Mega Man 3",
             "file": "jingles/nes/flapperultra/Mega Man 3 (flapperultra).ogg",
             "regex": "^mega[^a-z0-9]*man[^a-z0-9]*3$|^megaman3$"
         },
         {
-            "game": "Mega Man 4",
-            "file": "jingles/nes/CirnoWaifu/Mega Man 4 (CirnoWaifu).ogg",
-            "regex": "^mega[^a-z0-9]*man[^a-z0-9]*4$|^megaman4$"
+            "game": "Mega Man 3",
+            "file": "jingles/nes/CirnoWaifu/Mega Man 3 (CirnoWaifu).ogg",
+            "regex": "^mega[^a-z0-9]*man[^a-z0-9]*3$|^megaman3$"
         },
         {
             "game": "Mega Man 4",
@@ -6956,9 +6957,9 @@
             "regex": "^mega[^a-z0-9]*man[^a-z0-9]*4$|^megaman4$"
         },
         {
-            "game": "Mega Man 5",
-            "file": "jingles/nes/CirnoWaifu/Mega Man 5 (CirnoWaifu).ogg",
-            "regex": "^mega[^a-z0-9]*man[^a-z0-9]*5$|^megaman5$"
+            "game": "Mega Man 4",
+            "file": "jingles/nes/CirnoWaifu/Mega Man 4 (CirnoWaifu).ogg",
+            "regex": "^mega[^a-z0-9]*man[^a-z0-9]*4$|^megaman4$"
         },
         {
             "game": "Mega Man 5",
@@ -6966,13 +6967,18 @@
             "regex": "^mega[^a-z0-9]*man[^a-z0-9]*5$|^megaman5$"
         },
         {
-            "game": "Mega Man 6",
-            "file": "jingles/nes/CirnoWaifu/Mega Man 6 (CirnoWaifu).ogg",
-            "regex": "^mega[^a-z0-9]*man[^a-z0-9]*6$|^megaman6$"
+            "game": "Mega Man 5",
+            "file": "jingles/nes/CirnoWaifu/Mega Man 5 (CirnoWaifu).ogg",
+            "regex": "^mega[^a-z0-9]*man[^a-z0-9]*5$|^megaman5$"
         },
         {
             "game": "Mega Man 6",
             "file": "jingles/nes/flapperultra/Mega Man 6 (flapperultra).ogg",
+            "regex": "^mega[^a-z0-9]*man[^a-z0-9]*6$|^megaman6$"
+        },
+        {
+            "game": "Mega Man 6",
+            "file": "jingles/nes/CirnoWaifu/Mega Man 6 (CirnoWaifu).ogg",
             "regex": "^mega[^a-z0-9]*man[^a-z0-9]*6$|^megaman6$"
         },
         {
@@ -7092,12 +7098,12 @@
         },
         {
             "game": "River City Ransom",
-            "file": "jingles/nes/CirnoWaifu/River City Ransom (CirnoWaifu).ogg",
+            "file": "jingles/nes/flapperultra/River City Ransom (flapperultra).ogg",
             "regex": "^river[^a-z0-9]*city[^a-z0-9]*ransom$|^rivercityransom$"
         },
         {
             "game": "River City Ransom",
-            "file": "jingles/nes/flapperultra/River City Ransom (flapperultra).ogg",
+            "file": "jingles/nes/CirnoWaifu/River City Ransom (CirnoWaifu).ogg",
             "regex": "^river[^a-z0-9]*city[^a-z0-9]*ransom$|^rivercityransom$"
         },
         {
@@ -7131,13 +7137,13 @@
             "regex": "^solstice$|^solstice$"
         },
         {
-            "game": "StarTropics",
-            "file": "jingles/nes/CirnoWaifu/StarTropics (CirnoWaifu).ogg",
+            "game": "Startropics",
+            "file": "jingles/nes/flapperultra/Startropics (flapperultra).ogg",
             "regex": "^startropics$|^startropics$"
         },
         {
-            "game": "Startropics",
-            "file": "jingles/nes/flapperultra/Startropics (flapperultra).ogg",
+            "game": "StarTropics",
+            "file": "jingles/nes/CirnoWaifu/StarTropics (CirnoWaifu).ogg",
             "regex": "^startropics$|^startropics$"
         },
         {
@@ -7227,12 +7233,12 @@
         },
         {
             "game": "The Legend of Zelda",
-            "file": "jingles/nes/CirnoWaifu/The Legend of Zelda (CirnoWaifu).ogg",
+            "file": "jingles/nes/flapperultra/The Legend of Zelda (flapperultra).ogg",
             "regex": "^the[^a-z0-9]*legend[^a-z0-9]*of[^a-z0-9]*zelda$|^thelegendofzelda$"
         },
         {
             "game": "The Legend of Zelda",
-            "file": "jingles/nes/flapperultra/The Legend of Zelda (flapperultra).ogg",
+            "file": "jingles/nes/CirnoWaifu/The Legend of Zelda (CirnoWaifu).ogg",
             "regex": "^the[^a-z0-9]*legend[^a-z0-9]*of[^a-z0-9]*zelda$|^thelegendofzelda$"
         },
         {
@@ -7954,12 +7960,12 @@
         },
         {
             "game": "Fallout 3",
-            "file": "jingles/pc steam & multiplat/CirnoWaifu/Fallout 3 (CirnoWaifu).ogg",
+            "file": "jingles/pc steam & multiplat/Natalie/Fallout 3 (Natalie).ogg",
             "regex": "^fallout[^a-z0-9]*3$|^fallout3$"
         },
         {
             "game": "Fallout 3",
-            "file": "jingles/pc steam & multiplat/Natalie/Fallout 3 (Natalie).ogg",
+            "file": "jingles/pc steam & multiplat/CirnoWaifu/Fallout 3 (CirnoWaifu).ogg",
             "regex": "^fallout[^a-z0-9]*3$|^fallout3$"
         },
         {
@@ -7969,12 +7975,12 @@
         },
         {
             "game": "Fallout New Vegas",
-            "file": "jingles/pc steam & multiplat/CirnoWaifu/Fallout New Vegas (CirnoWaifu).ogg",
+            "file": "jingles/pc steam & multiplat/Natalie/Fallout New Vegas (Natalie).ogg",
             "regex": "^fallout[^a-z0-9]*new[^a-z0-9]*vegas$|^falloutnewvegas$"
         },
         {
             "game": "Fallout New Vegas",
-            "file": "jingles/pc steam & multiplat/Natalie/Fallout New Vegas (Natalie).ogg",
+            "file": "jingles/pc steam & multiplat/CirnoWaifu/Fallout New Vegas (CirnoWaifu).ogg",
             "regex": "^fallout[^a-z0-9]*new[^a-z0-9]*vegas$|^falloutnewvegas$"
         },
         {
@@ -8131,6 +8137,11 @@
             "game": "Gato Roboto",
             "file": "jingles/pc steam & multiplat/CirnoWaifu/Gato Roboto (CirnoWaifu).ogg",
             "regex": "^gato[^a-z0-9]*roboto$|^gatoroboto$"
+        },
+        {
+            "game": "Genshin Impact",
+            "file": "jingles/pc steam & multiplat/EvilMain/Genshin Impact (EvilMain).ogg",
+            "regex": "^genshin[^a-z0-9]*impact$|^genshinimpact$"
         },
         {
             "game": "Geometry Dash",
@@ -8331,6 +8342,11 @@
             "game": "Gurumin - A Monstrous Adventure",
             "file": "jingles/pc steam & multiplat/CirnoWaifu/Gurumin - A Monstrous Adventure (CirnoWaifu).ogg",
             "regex": "^gurumin[^a-z0-9]*a[^a-z0-9]*monstrous[^a-z0-9]*adventure$|^guruminamonstrousadventure$"
+        },
+        {
+            "game": "Half Life",
+            "file": "jingles/pc steam & multiplat/somecallmesean/Half Life (somecallmesean).ogg",
+            "regex": "^half[^a-z0-9]*life$|^halflife$"
         },
         {
             "game": "Hearthstone",
@@ -8709,12 +8725,12 @@
         },
         {
             "game": "Mewgenics",
-            "file": "jingles/pc steam & multiplat/CirnoWaifu/Mewgenics (CirnoWaifu).ogg",
+            "file": "jingles/pc steam & multiplat/Natalie/Mewgenics (Natalie).ogg",
             "regex": "^mewgenics$|^mewgenics$"
         },
         {
             "game": "Mewgenics",
-            "file": "jingles/pc steam & multiplat/Natalie/Mewgenics (Natalie).ogg",
+            "file": "jingles/pc steam & multiplat/CirnoWaifu/Mewgenics (CirnoWaifu).ogg",
             "regex": "^mewgenics$|^mewgenics$"
         },
         {
@@ -8733,6 +8749,11 @@
             "regex": "^miles[^a-z0-9]*edgeworth[^a-z0-9]*collection$|^milesedgeworthcollection$"
         },
         {
+            "game": "Mina The Hollower",
+            "file": "jingles/pc steam & multiplat/EvilMain/Mina The Hollower (EvilMain).ogg",
+            "regex": "^mina[^a-z0-9]*the[^a-z0-9]*hollower$|^minathehollower$"
+        },
+        {
             "game": "Mina the Hollower",
             "file": "jingles/pc steam & multiplat/BennyTheFirstHunter/Mina the Hollower (BennyTheFirstHunter).ogg",
             "regex": "^mina[^a-z0-9]*the[^a-z0-9]*hollower$|^minathehollower$"
@@ -8740,11 +8761,6 @@
         {
             "game": "Mina the Hollower",
             "file": "jingles/pc steam & multiplat/CirnoWaifu/Mina the Hollower (CirnoWaifu).ogg",
-            "regex": "^mina[^a-z0-9]*the[^a-z0-9]*hollower$|^minathehollower$"
-        },
-        {
-            "game": "Mina The Hollower",
-            "file": "jingles/pc steam & multiplat/EvilMain/Mina The Hollower (EvilMain).ogg",
             "regex": "^mina[^a-z0-9]*the[^a-z0-9]*hollower$|^minathehollower$"
         },
         {
@@ -8838,13 +8854,13 @@
             "regex": "^nubby[^a-z0-9]*s[^a-z0-9]*number[^a-z0-9]*factory$|^nubbysnumberfactory$"
         },
         {
-            "game": "ObsCure",
-            "file": "jingles/pc steam & multiplat/CirnoWaifu/ObsCure (CirnoWaifu).ogg",
+            "game": "Obscure",
+            "file": "jingles/pc steam & multiplat/EvilMain/Obscure (EvilMain).ogg",
             "regex": "^obscure$|^obscure$"
         },
         {
-            "game": "Obscure",
-            "file": "jingles/pc steam & multiplat/EvilMain/Obscure (EvilMain).ogg",
+            "game": "ObsCure",
+            "file": "jingles/pc steam & multiplat/CirnoWaifu/ObsCure (CirnoWaifu).ogg",
             "regex": "^obscure$|^obscure$"
         },
         {
@@ -9784,12 +9800,12 @@
         },
         {
             "game": "The Binding of Isaac",
-            "file": "jingles/pc steam & multiplat/CirnoWaifu/The Binding of Isaac (CirnoWaifu).ogg",
+            "file": "jingles/pc steam & multiplat/flapperultra/The Binding of Isaac (flapperultra).ogg",
             "regex": "^the[^a-z0-9]*binding[^a-z0-9]*of[^a-z0-9]*isaac$|^thebindingofisaac$"
         },
         {
             "game": "The Binding of Isaac",
-            "file": "jingles/pc steam & multiplat/flapperultra/The Binding of Isaac (flapperultra).ogg",
+            "file": "jingles/pc steam & multiplat/CirnoWaifu/The Binding of Isaac (CirnoWaifu).ogg",
             "regex": "^the[^a-z0-9]*binding[^a-z0-9]*of[^a-z0-9]*isaac$|^thebindingofisaac$"
         },
         {
@@ -10141,12 +10157,12 @@
         },
         {
             "game": "Neutopia",
-            "file": "jingles/pce/CirnoWaifu/Neutopia (CirnoWaifu).ogg",
+            "file": "jingles/pce/flapperultra/Neutopia (flapperultra).ogg",
             "regex": "^neutopia$|^neutopia$"
         },
         {
             "game": "Neutopia",
-            "file": "jingles/pce/flapperultra/Neutopia (flapperultra).ogg",
+            "file": "jingles/pce/CirnoWaifu/Neutopia (CirnoWaifu).ogg",
             "regex": "^neutopia$|^neutopia$"
         },
         {
@@ -11367,13 +11383,13 @@
             "regex": "^alundra$|^alundra$"
         },
         {
-            "game": "ape escape",
-            "file": "jingles/psx/BennyTheFirstHunter/ape escape (BennyTheFirstHunter).ogg",
+            "game": "Ape Escape",
+            "file": "jingles/psx/flapperultra/Ape Escape (flapperultra).ogg",
             "regex": "^ape[^a-z0-9]*escape$|^apeescape$"
         },
         {
-            "game": "Ape Escape",
-            "file": "jingles/psx/flapperultra/Ape Escape (flapperultra).ogg",
+            "game": "ape escape",
+            "file": "jingles/psx/BennyTheFirstHunter/ape escape (BennyTheFirstHunter).ogg",
             "regex": "^ape[^a-z0-9]*escape$|^apeescape$"
         },
         {
@@ -11393,12 +11409,12 @@
         },
         {
             "game": "Brave Fencer Musashi",
-            "file": "jingles/psx/CirnoWaifu/Brave Fencer Musashi (CirnoWaifu).ogg",
+            "file": "jingles/psx/flapperultra/Brave Fencer Musashi (flapperultra).ogg",
             "regex": "^brave[^a-z0-9]*fencer[^a-z0-9]*musashi$|^bravefencermusashi$"
         },
         {
             "game": "Brave Fencer Musashi",
-            "file": "jingles/psx/flapperultra/Brave Fencer Musashi (flapperultra).ogg",
+            "file": "jingles/psx/CirnoWaifu/Brave Fencer Musashi (CirnoWaifu).ogg",
             "regex": "^brave[^a-z0-9]*fencer[^a-z0-9]*musashi$|^bravefencermusashi$"
         },
         {
@@ -11433,12 +11449,12 @@
         },
         {
             "game": "Castlevania Symphony of the Night",
-            "file": "jingles/psx/BennyTheFirstHunter/Castlevania Symphony of the Night (BennyTheFirstHunter).ogg",
+            "file": "jingles/psx/flapperultra/Castlevania Symphony of the Night (flapperultra).ogg",
             "regex": "^castlevania[^a-z0-9]*symphony[^a-z0-9]*of[^a-z0-9]*the[^a-z0-9]*night$|^castlevaniasymphonyofthenight$"
         },
         {
             "game": "Castlevania Symphony of the Night",
-            "file": "jingles/psx/flapperultra/Castlevania Symphony of the Night (flapperultra).ogg",
+            "file": "jingles/psx/BennyTheFirstHunter/Castlevania Symphony of the Night (BennyTheFirstHunter).ogg",
             "regex": "^castlevania[^a-z0-9]*symphony[^a-z0-9]*of[^a-z0-9]*the[^a-z0-9]*night$|^castlevaniasymphonyofthenight$"
         },
         {
@@ -11458,12 +11474,12 @@
         },
         {
             "game": "Crash Bandicoot",
-            "file": "jingles/psx/CirnoWaifu/Crash Bandicoot (CirnoWaifu).ogg",
+            "file": "jingles/psx/flapperultra/Crash Bandicoot (flapperultra).ogg",
             "regex": "^crash[^a-z0-9]*bandicoot$|^crashbandicoot$"
         },
         {
             "game": "Crash Bandicoot",
-            "file": "jingles/psx/flapperultra/Crash Bandicoot (flapperultra).ogg",
+            "file": "jingles/psx/CirnoWaifu/Crash Bandicoot (CirnoWaifu).ogg",
             "regex": "^crash[^a-z0-9]*bandicoot$|^crashbandicoot$"
         },
         {
@@ -11478,22 +11494,22 @@
         },
         {
             "game": "Crash Bandicoot 3 - Warped",
-            "file": "jingles/psx/CirnoWaifu/Crash Bandicoot 3 - Warped (CirnoWaifu).ogg",
-            "regex": "^crash[^a-z0-9]*bandicoot[^a-z0-9]*3[^a-z0-9]*warped$|^crashbandicoot3warped$"
-        },
-        {
-            "game": "Crash Bandicoot 3 - Warped",
             "file": "jingles/psx/flapperultra/Crash Bandicoot 3 - Warped (flapperultra).ogg",
             "regex": "^crash[^a-z0-9]*bandicoot[^a-z0-9]*3[^a-z0-9]*warped$|^crashbandicoot3warped$"
         },
         {
-            "game": "Crash Team Racing",
-            "file": "jingles/psx/CirnoWaifu/Crash Team Racing (CirnoWaifu).ogg",
-            "regex": "^crash[^a-z0-9]*team[^a-z0-9]*racing$|^crashteamracing$"
+            "game": "Crash Bandicoot 3 - Warped",
+            "file": "jingles/psx/CirnoWaifu/Crash Bandicoot 3 - Warped (CirnoWaifu).ogg",
+            "regex": "^crash[^a-z0-9]*bandicoot[^a-z0-9]*3[^a-z0-9]*warped$|^crashbandicoot3warped$"
         },
         {
             "game": "Crash Team Racing",
             "file": "jingles/psx/flapperultra/Crash Team Racing (flapperultra).ogg",
+            "regex": "^crash[^a-z0-9]*team[^a-z0-9]*racing$|^crashteamracing$"
+        },
+        {
+            "game": "Crash Team Racing",
+            "file": "jingles/psx/CirnoWaifu/Crash Team Racing (CirnoWaifu).ogg",
             "regex": "^crash[^a-z0-9]*team[^a-z0-9]*racing$|^crashteamracing$"
         },
         {
@@ -11678,22 +11694,22 @@
         },
         {
             "game": "Mega Man 8",
-            "file": "jingles/psx/CirnoWaifu/Mega Man 8 (CirnoWaifu).ogg",
-            "regex": "^mega[^a-z0-9]*man[^a-z0-9]*8$|^megaman8$"
-        },
-        {
-            "game": "Mega Man 8",
             "file": "jingles/psx/flapperultra/Mega Man 8 (flapperultra).ogg",
             "regex": "^mega[^a-z0-9]*man[^a-z0-9]*8$|^megaman8$"
         },
         {
-            "game": "Mega Man Legends",
-            "file": "jingles/psx/CirnoWaifu/Mega Man Legends (CirnoWaifu).ogg",
-            "regex": "^mega[^a-z0-9]*man[^a-z0-9]*legends$|^megamanlegends$"
+            "game": "Mega Man 8",
+            "file": "jingles/psx/CirnoWaifu/Mega Man 8 (CirnoWaifu).ogg",
+            "regex": "^mega[^a-z0-9]*man[^a-z0-9]*8$|^megaman8$"
         },
         {
             "game": "Mega Man Legends",
             "file": "jingles/psx/flapperultra/Mega Man Legends (flapperultra).ogg",
+            "regex": "^mega[^a-z0-9]*man[^a-z0-9]*legends$|^megamanlegends$"
+        },
+        {
+            "game": "Mega Man Legends",
+            "file": "jingles/psx/CirnoWaifu/Mega Man Legends (CirnoWaifu).ogg",
             "regex": "^mega[^a-z0-9]*man[^a-z0-9]*legends$|^megamanlegends$"
         },
         {
@@ -11703,18 +11719,13 @@
         },
         {
             "game": "Mega Man Legends 2",
-            "file": "jingles/psx/CirnoWaifu/Mega Man Legends 2 (CirnoWaifu).ogg",
-            "regex": "^mega[^a-z0-9]*man[^a-z0-9]*legends[^a-z0-9]*2$|^megamanlegends2$"
-        },
-        {
-            "game": "Mega Man Legends 2",
             "file": "jingles/psx/flapperultra/Mega Man Legends 2 (flapperultra).ogg",
             "regex": "^mega[^a-z0-9]*man[^a-z0-9]*legends[^a-z0-9]*2$|^megamanlegends2$"
         },
         {
-            "game": "Mega Man X4",
-            "file": "jingles/psx/CirnoWaifu/Mega Man X4 (CirnoWaifu).ogg",
-            "regex": "^mega[^a-z0-9]*man[^a-z0-9]*x4$|^megamanx4$"
+            "game": "Mega Man Legends 2",
+            "file": "jingles/psx/CirnoWaifu/Mega Man Legends 2 (CirnoWaifu).ogg",
+            "regex": "^mega[^a-z0-9]*man[^a-z0-9]*legends[^a-z0-9]*2$|^megamanlegends2$"
         },
         {
             "game": "Mega Man X4",
@@ -11722,9 +11733,9 @@
             "regex": "^mega[^a-z0-9]*man[^a-z0-9]*x4$|^megamanx4$"
         },
         {
-            "game": "Mega Man X5",
-            "file": "jingles/psx/CirnoWaifu/Mega Man X5 (CirnoWaifu).ogg",
-            "regex": "^mega[^a-z0-9]*man[^a-z0-9]*x5$|^megamanx5$"
+            "game": "Mega Man X4",
+            "file": "jingles/psx/CirnoWaifu/Mega Man X4 (CirnoWaifu).ogg",
+            "regex": "^mega[^a-z0-9]*man[^a-z0-9]*x4$|^megamanx4$"
         },
         {
             "game": "Mega Man X5",
@@ -11732,14 +11743,24 @@
             "regex": "^mega[^a-z0-9]*man[^a-z0-9]*x5$|^megamanx5$"
         },
         {
-            "game": "Mega Man X6",
-            "file": "jingles/psx/CirnoWaifu/Mega Man X6 (CirnoWaifu).ogg",
-            "regex": "^mega[^a-z0-9]*man[^a-z0-9]*x6$|^megamanx6$"
+            "game": "Mega Man X5",
+            "file": "jingles/psx/CirnoWaifu/Mega Man X5 (CirnoWaifu).ogg",
+            "regex": "^mega[^a-z0-9]*man[^a-z0-9]*x5$|^megamanx5$"
         },
         {
             "game": "Mega Man X6",
             "file": "jingles/psx/flapperultra/Mega Man X6 (flapperultra).ogg",
             "regex": "^mega[^a-z0-9]*man[^a-z0-9]*x6$|^megamanx6$"
+        },
+        {
+            "game": "Mega Man X6",
+            "file": "jingles/psx/CirnoWaifu/Mega Man X6 (CirnoWaifu).ogg",
+            "regex": "^mega[^a-z0-9]*man[^a-z0-9]*x6$|^megamanx6$"
+        },
+        {
+            "game": "Metal Gear Solid",
+            "file": "jingles/psx/flapperultra/Metal Gear Solid (flapperultra).ogg",
+            "regex": "^metal[^a-z0-9]*gear[^a-z0-9]*solid$|^metalgearsolid$"
         },
         {
             "game": "metal gear solid",
@@ -11749,11 +11770,6 @@
         {
             "game": "Metal Gear Solid",
             "file": "jingles/psx/CirnoWaifu/Metal Gear Solid (CirnoWaifu).ogg",
-            "regex": "^metal[^a-z0-9]*gear[^a-z0-9]*solid$|^metalgearsolid$"
-        },
-        {
-            "game": "Metal Gear Solid",
-            "file": "jingles/psx/flapperultra/Metal Gear Solid (flapperultra).ogg",
             "regex": "^metal[^a-z0-9]*gear[^a-z0-9]*solid$|^metalgearsolid$"
         },
         {
@@ -11818,18 +11834,13 @@
         },
         {
             "game": "Rayman",
-            "file": "jingles/psx/CirnoWaifu/Rayman (CirnoWaifu).ogg",
-            "regex": "^rayman$|^rayman$"
-        },
-        {
-            "game": "Rayman",
             "file": "jingles/psx/flapperultra/Rayman (flapperultra).ogg",
             "regex": "^rayman$|^rayman$"
         },
         {
-            "game": "Rayman 2",
-            "file": "jingles/psx/CirnoWaifu/Rayman 2 (CirnoWaifu).ogg",
-            "regex": "^rayman[^a-z0-9]*2$|^rayman2$"
+            "game": "Rayman",
+            "file": "jingles/psx/CirnoWaifu/Rayman (CirnoWaifu).ogg",
+            "regex": "^rayman$|^rayman$"
         },
         {
             "game": "Rayman 2",
@@ -11837,13 +11848,18 @@
             "regex": "^rayman[^a-z0-9]*2$|^rayman2$"
         },
         {
-            "game": "Resident Evil",
-            "file": "jingles/psx/EvilMain/Resident Evil (EvilMain).ogg",
-            "regex": "^resident[^a-z0-9]*evil$|^residentevil$"
+            "game": "Rayman 2",
+            "file": "jingles/psx/CirnoWaifu/Rayman 2 (CirnoWaifu).ogg",
+            "regex": "^rayman[^a-z0-9]*2$|^rayman2$"
         },
         {
             "game": "Resident Evil",
             "file": "jingles/psx/flapperultra/Resident Evil (flapperultra).ogg",
+            "regex": "^resident[^a-z0-9]*evil$|^residentevil$"
+        },
+        {
+            "game": "Resident Evil",
+            "file": "jingles/psx/EvilMain/Resident Evil (EvilMain).ogg",
             "regex": "^resident[^a-z0-9]*evil$|^residentevil$"
         },
         {
@@ -11852,13 +11868,13 @@
             "regex": "^resident[^a-z0-9]*evil[^a-z0-9]*1$|^residentevil1$"
         },
         {
-            "game": "Resident Evil 2",
-            "file": "jingles/psx/EvilMain/Resident Evil 2 (EvilMain).ogg",
+            "game": "Resident evil 2",
+            "file": "jingles/psx/flapperultra/Resident evil 2 (flapperultra).ogg",
             "regex": "^resident[^a-z0-9]*evil[^a-z0-9]*2$|^residentevil2$"
         },
         {
-            "game": "Resident evil 2",
-            "file": "jingles/psx/flapperultra/Resident evil 2 (flapperultra).ogg",
+            "game": "Resident Evil 2",
+            "file": "jingles/psx/EvilMain/Resident Evil 2 (EvilMain).ogg",
             "regex": "^resident[^a-z0-9]*evil[^a-z0-9]*2$|^residentevil2$"
         },
         {
@@ -11868,12 +11884,12 @@
         },
         {
             "game": "Resident Evil 3",
-            "file": "jingles/psx/EvilMain/Resident Evil 3 (EvilMain).ogg",
+            "file": "jingles/psx/flapperultra/Resident Evil 3 (flapperultra).ogg",
             "regex": "^resident[^a-z0-9]*evil[^a-z0-9]*3$|^residentevil3$"
         },
         {
             "game": "Resident Evil 3",
-            "file": "jingles/psx/flapperultra/Resident Evil 3 (flapperultra).ogg",
+            "file": "jingles/psx/EvilMain/Resident Evil 3 (EvilMain).ogg",
             "regex": "^resident[^a-z0-9]*evil[^a-z0-9]*3$|^residentevil3$"
         },
         {
@@ -11893,17 +11909,17 @@
         },
         {
             "game": "Silent Hill",
+            "file": "jingles/psx/flapperultra/Silent Hill (flapperultra).ogg",
+            "regex": "^silent[^a-z0-9]*hill$|^silenthill$"
+        },
+        {
+            "game": "Silent Hill",
             "file": "jingles/psx/BennyTheFirstHunter/Silent Hill (BennyTheFirstHunter).ogg",
             "regex": "^silent[^a-z0-9]*hill$|^silenthill$"
         },
         {
             "game": "Silent Hill",
             "file": "jingles/psx/CirnoWaifu/Silent Hill (CirnoWaifu).ogg",
-            "regex": "^silent[^a-z0-9]*hill$|^silenthill$"
-        },
-        {
-            "game": "Silent Hill",
-            "file": "jingles/psx/flapperultra/Silent Hill (flapperultra).ogg",
             "regex": "^silent[^a-z0-9]*hill$|^silenthill$"
         },
         {
@@ -12155,12 +12171,12 @@
         },
         {
             "game": "Panzer Dragoon",
-            "file": "jingles/saturn/CirnoWaifu/Panzer Dragoon (CirnoWaifu).ogg",
+            "file": "jingles/saturn/flapperultra/Panzer Dragoon (flapperultra).ogg",
             "regex": "^panzer[^a-z0-9]*dragoon$|^panzerdragoon$"
         },
         {
             "game": "Panzer Dragoon",
-            "file": "jingles/saturn/flapperultra/Panzer Dragoon (flapperultra).ogg",
+            "file": "jingles/saturn/CirnoWaifu/Panzer Dragoon (CirnoWaifu).ogg",
             "regex": "^panzer[^a-z0-9]*dragoon$|^panzerdragoon$"
         },
         {
@@ -12205,12 +12221,12 @@
         },
         {
             "game": "Sonic R",
-            "file": "jingles/saturn/CirnoWaifu/Sonic R (CirnoWaifu).ogg",
+            "file": "jingles/saturn/flapperultra/Sonic R (flapperultra).ogg",
             "regex": "^sonic[^a-z0-9]*r$|^sonicr$"
         },
         {
             "game": "Sonic R",
-            "file": "jingles/saturn/flapperultra/Sonic R (flapperultra).ogg",
+            "file": "jingles/saturn/CirnoWaifu/Sonic R (CirnoWaifu).ogg",
             "regex": "^sonic[^a-z0-9]*r$|^sonicr$"
         },
         {
@@ -12287,12 +12303,12 @@
         },
         {
             "game": "Chrono Trigger",
-            "file": "jingles/snes/CirnoWaifu/Chrono Trigger (CirnoWaifu).ogg",
+            "file": "jingles/snes/flapperultra/Chrono Trigger (flapperultra).ogg",
             "regex": "^chrono[^a-z0-9]*trigger$|^chronotrigger$"
         },
         {
             "game": "Chrono Trigger",
-            "file": "jingles/snes/flapperultra/Chrono Trigger (flapperultra).ogg",
+            "file": "jingles/snes/CirnoWaifu/Chrono Trigger (CirnoWaifu).ogg",
             "regex": "^chrono[^a-z0-9]*trigger$|^chronotrigger$"
         },
         {
@@ -12482,18 +12498,13 @@
         },
         {
             "game": "Mega Man 7",
-            "file": "jingles/snes/CirnoWaifu/Mega Man 7 (CirnoWaifu).ogg",
-            "regex": "^mega[^a-z0-9]*man[^a-z0-9]*7$|^megaman7$"
-        },
-        {
-            "game": "Mega Man 7",
             "file": "jingles/snes/flapperultra/Mega Man 7 (flapperultra).ogg",
             "regex": "^mega[^a-z0-9]*man[^a-z0-9]*7$|^megaman7$"
         },
         {
-            "game": "Mega Man and Bass",
-            "file": "jingles/snes/CirnoWaifu/Mega Man and Bass (CirnoWaifu).ogg",
-            "regex": "^mega[^a-z0-9]*man[^a-z0-9]*and[^a-z0-9]*bass$|^megamanandbass$"
+            "game": "Mega Man 7",
+            "file": "jingles/snes/CirnoWaifu/Mega Man 7 (CirnoWaifu).ogg",
+            "regex": "^mega[^a-z0-9]*man[^a-z0-9]*7$|^megaman7$"
         },
         {
             "game": "Mega Man and Bass",
@@ -12501,9 +12512,9 @@
             "regex": "^mega[^a-z0-9]*man[^a-z0-9]*and[^a-z0-9]*bass$|^megamanandbass$"
         },
         {
-            "game": "Mega Man X",
-            "file": "jingles/snes/CirnoWaifu/Mega Man X (CirnoWaifu).ogg",
-            "regex": "^mega[^a-z0-9]*man[^a-z0-9]*x$|^megamanx$"
+            "game": "Mega Man and Bass",
+            "file": "jingles/snes/CirnoWaifu/Mega Man and Bass (CirnoWaifu).ogg",
+            "regex": "^mega[^a-z0-9]*man[^a-z0-9]*and[^a-z0-9]*bass$|^megamanandbass$"
         },
         {
             "game": "Mega Man X",
@@ -12511,9 +12522,9 @@
             "regex": "^mega[^a-z0-9]*man[^a-z0-9]*x$|^megamanx$"
         },
         {
-            "game": "Mega Man X2",
-            "file": "jingles/snes/CirnoWaifu/Mega Man X2 (CirnoWaifu).ogg",
-            "regex": "^mega[^a-z0-9]*man[^a-z0-9]*x2$|^megamanx2$"
+            "game": "Mega Man X",
+            "file": "jingles/snes/CirnoWaifu/Mega Man X (CirnoWaifu).ogg",
+            "regex": "^mega[^a-z0-9]*man[^a-z0-9]*x$|^megamanx$"
         },
         {
             "game": "Mega Man X2",
@@ -12521,13 +12532,18 @@
             "regex": "^mega[^a-z0-9]*man[^a-z0-9]*x2$|^megamanx2$"
         },
         {
-            "game": "Mega Man X3",
-            "file": "jingles/snes/CirnoWaifu/Mega Man X3 (CirnoWaifu).ogg",
-            "regex": "^mega[^a-z0-9]*man[^a-z0-9]*x3$|^megamanx3$"
+            "game": "Mega Man X2",
+            "file": "jingles/snes/CirnoWaifu/Mega Man X2 (CirnoWaifu).ogg",
+            "regex": "^mega[^a-z0-9]*man[^a-z0-9]*x2$|^megamanx2$"
         },
         {
             "game": "Mega Man X3",
             "file": "jingles/snes/flapperultra/Mega Man X3 (flapperultra).ogg",
+            "regex": "^mega[^a-z0-9]*man[^a-z0-9]*x3$|^megamanx3$"
+        },
+        {
+            "game": "Mega Man X3",
+            "file": "jingles/snes/CirnoWaifu/Mega Man X3 (CirnoWaifu).ogg",
             "regex": "^mega[^a-z0-9]*man[^a-z0-9]*x3$|^megamanx3$"
         },
         {
@@ -12632,12 +12648,12 @@
         },
         {
             "game": "Star Fox",
-            "file": "jingles/snes/CirnoWaifu/Star Fox (CirnoWaifu).ogg",
+            "file": "jingles/snes/flapperultra/Star Fox (flapperultra).ogg",
             "regex": "^star[^a-z0-9]*fox$|^starfox$"
         },
         {
             "game": "Star Fox",
-            "file": "jingles/snes/flapperultra/Star Fox (flapperultra).ogg",
+            "file": "jingles/snes/CirnoWaifu/Star Fox (CirnoWaifu).ogg",
             "regex": "^star[^a-z0-9]*fox$|^starfox$"
         },
         {
@@ -12707,12 +12723,12 @@
         },
         {
             "game": "Super Castlevania IV",
-            "file": "jingles/snes/CirnoWaifu/Super Castlevania IV (CirnoWaifu).ogg",
+            "file": "jingles/snes/flapperultra/Super Castlevania IV (flapperultra).ogg",
             "regex": "^super[^a-z0-9]*castlevania[^a-z0-9]*iv$|^supercastlevaniaiv$"
         },
         {
             "game": "Super Castlevania IV",
-            "file": "jingles/snes/flapperultra/Super Castlevania IV (flapperultra).ogg",
+            "file": "jingles/snes/CirnoWaifu/Super Castlevania IV (CirnoWaifu).ogg",
             "regex": "^super[^a-z0-9]*castlevania[^a-z0-9]*iv$|^supercastlevaniaiv$"
         },
         {
@@ -12772,12 +12788,12 @@
         },
         {
             "game": "Super Mario World",
-            "file": "jingles/snes/CirnoWaifu/Super Mario World (CirnoWaifu).ogg",
+            "file": "jingles/snes/flapperultra/Super Mario World (flapperultra).ogg",
             "regex": "^super[^a-z0-9]*mario[^a-z0-9]*world$|^supermarioworld$"
         },
         {
             "game": "Super Mario World",
-            "file": "jingles/snes/flapperultra/Super Mario World (flapperultra).ogg",
+            "file": "jingles/snes/CirnoWaifu/Super Mario World (CirnoWaifu).ogg",
             "regex": "^super[^a-z0-9]*mario[^a-z0-9]*world$|^supermarioworld$"
         },
         {
@@ -12792,17 +12808,17 @@
         },
         {
             "game": "Super Metroid",
-            "file": "jingles/snes/CirnoWaifu/Super Metroid (CirnoWaifu).ogg",
-            "regex": "^super[^a-z0-9]*metroid$|^supermetroid$"
-        },
-        {
-            "game": "Super Metroid",
             "file": "jingles/snes/flapperultra/Super Metroid (flapperultra).ogg",
             "regex": "^super[^a-z0-9]*metroid$|^supermetroid$"
         },
         {
             "game": "Super Metroid",
             "file": "jingles/snes/Natalie/Super Metroid (Natalie).ogg",
+            "regex": "^super[^a-z0-9]*metroid$|^supermetroid$"
+        },
+        {
+            "game": "Super Metroid",
+            "file": "jingles/snes/CirnoWaifu/Super Metroid (CirnoWaifu).ogg",
             "regex": "^super[^a-z0-9]*metroid$|^supermetroid$"
         },
         {
@@ -12842,12 +12858,12 @@
         },
         {
             "game": "The Legend of Zelda - A Link to the Past",
-            "file": "jingles/snes/CirnoWaifu/The Legend of Zelda - A Link to the Past (CirnoWaifu).ogg",
+            "file": "jingles/snes/flapperultra/The Legend of Zelda - A Link to the Past (flapperultra).ogg",
             "regex": "^the[^a-z0-9]*legend[^a-z0-9]*of[^a-z0-9]*zelda[^a-z0-9]*a[^a-z0-9]*link[^a-z0-9]*to[^a-z0-9]*the[^a-z0-9]*past$|^thelegendofzeldaalinktothepast$"
         },
         {
             "game": "The Legend of Zelda - A Link to the Past",
-            "file": "jingles/snes/flapperultra/The Legend of Zelda - A Link to the Past (flapperultra).ogg",
+            "file": "jingles/snes/CirnoWaifu/The Legend of Zelda - A Link to the Past (CirnoWaifu).ogg",
             "regex": "^the[^a-z0-9]*legend[^a-z0-9]*of[^a-z0-9]*zelda[^a-z0-9]*a[^a-z0-9]*link[^a-z0-9]*to[^a-z0-9]*the[^a-z0-9]*past$|^thelegendofzeldaalinktothepast$"
         },
         {
@@ -12954,12 +12970,12 @@
         },
         {
             "game": "Bayonetta 3",
-            "file": "jingles/switch/CirnoWaifu/Bayonetta 3 (CirnoWaifu).ogg",
+            "file": "jingles/switch/flapperultra/Bayonetta 3 (flapperultra).ogg",
             "regex": "^bayonetta[^a-z0-9]*3$|^bayonetta3$"
         },
         {
             "game": "Bayonetta 3",
-            "file": "jingles/switch/flapperultra/Bayonetta 3 (flapperultra).ogg",
+            "file": "jingles/switch/CirnoWaifu/Bayonetta 3 (CirnoWaifu).ogg",
             "regex": "^bayonetta[^a-z0-9]*3$|^bayonetta3$"
         },
         {
@@ -13059,12 +13075,12 @@
         },
         {
             "game": "Luigi's Mansion 3",
-            "file": "jingles/switch/CirnoWaifu/Luigi's Mansion 3 (CirnoWaifu).ogg",
+            "file": "jingles/switch/flapperultra/Luigi's Mansion 3 (flapperultra).ogg",
             "regex": "^luigi[^a-z0-9]*s[^a-z0-9]*mansion[^a-z0-9]*3$|^luigismansion3$"
         },
         {
             "game": "Luigi's Mansion 3",
-            "file": "jingles/switch/flapperultra/Luigi's Mansion 3 (flapperultra).ogg",
+            "file": "jingles/switch/CirnoWaifu/Luigi's Mansion 3 (CirnoWaifu).ogg",
             "regex": "^luigi[^a-z0-9]*s[^a-z0-9]*mansion[^a-z0-9]*3$|^luigismansion3$"
         },
         {
@@ -13089,12 +13105,12 @@
         },
         {
             "game": "Mega Man 11",
-            "file": "jingles/switch/CirnoWaifu/Mega Man 11 (CirnoWaifu).ogg",
+            "file": "jingles/switch/flapperultra/Mega Man 11 (flapperultra).ogg",
             "regex": "^mega[^a-z0-9]*man[^a-z0-9]*11$|^megaman11$"
         },
         {
             "game": "Mega Man 11",
-            "file": "jingles/switch/flapperultra/Mega Man 11 (flapperultra).ogg",
+            "file": "jingles/switch/CirnoWaifu/Mega Man 11 (CirnoWaifu).ogg",
             "regex": "^mega[^a-z0-9]*man[^a-z0-9]*11$|^megaman11$"
         },
         {
@@ -13284,12 +13300,12 @@
         },
         {
             "game": "Super Mario Maker 2",
-            "file": "jingles/switch/CirnoWaifu/Super Mario Maker 2 (CirnoWaifu).ogg",
+            "file": "jingles/switch/flapperultra/Super Mario Maker 2 (flapperultra).ogg",
             "regex": "^super[^a-z0-9]*mario[^a-z0-9]*maker[^a-z0-9]*2$|^supermariomaker2$"
         },
         {
             "game": "Super Mario Maker 2",
-            "file": "jingles/switch/flapperultra/Super Mario Maker 2 (flapperultra).ogg",
+            "file": "jingles/switch/CirnoWaifu/Super Mario Maker 2 (CirnoWaifu).ogg",
             "regex": "^super[^a-z0-9]*mario[^a-z0-9]*maker[^a-z0-9]*2$|^supermariomaker2$"
         },
         {
@@ -13394,17 +13410,17 @@
         },
         {
             "game": "Xenoblade Chronicles 2",
-            "file": "jingles/switch/CirnoWaifu/Xenoblade Chronicles 2 (CirnoWaifu).ogg",
-            "regex": "^xenoblade[^a-z0-9]*chronicles[^a-z0-9]*2$|^xenobladechronicles2$"
-        },
-        {
-            "game": "Xenoblade Chronicles 2",
             "file": "jingles/switch/flapperultra/Xenoblade Chronicles 2 (flapperultra).ogg",
             "regex": "^xenoblade[^a-z0-9]*chronicles[^a-z0-9]*2$|^xenobladechronicles2$"
         },
         {
             "game": "Xenoblade Chronicles 2",
             "file": "jingles/switch/Natalie/Xenoblade Chronicles 2 (Natalie).ogg",
+            "regex": "^xenoblade[^a-z0-9]*chronicles[^a-z0-9]*2$|^xenobladechronicles2$"
+        },
+        {
+            "game": "Xenoblade Chronicles 2",
+            "file": "jingles/switch/CirnoWaifu/Xenoblade Chronicles 2 (CirnoWaifu).ogg",
             "regex": "^xenoblade[^a-z0-9]*chronicles[^a-z0-9]*2$|^xenobladechronicles2$"
         },
         {
@@ -13828,13 +13844,18 @@
         },
         {
             "game": "Sonic Colors",
-            "file": "jingles/wii/RetroWave64/Sonic Colors (RetroWave64).ogg",
+            "file": "jingles/wii/somecallmesean/Sonic Colors (somecallmesean).ogg",
             "regex": "^sonic[^a-z0-9]*colors$|^soniccolors$"
         },
         {
             "game": "Sonic Colors",
-            "file": "jingles/wii/somecallmesean/Sonic Colors (somecallmesean).ogg",
+            "file": "jingles/wii/RetroWave64/Sonic Colors (RetroWave64).ogg",
             "regex": "^sonic[^a-z0-9]*colors$|^soniccolors$"
+        },
+        {
+            "game": "Sonic Unleashed",
+            "file": "jingles/wii/somecallmesean/Sonic Unleashed (somecallmesean).ogg",
+            "regex": "^sonic[^a-z0-9]*unleashed$|^sonicunleashed$"
         },
         {
             "game": "Sonic Unleashed",
@@ -13844,11 +13865,6 @@
         {
             "game": "Sonic Unleashed",
             "file": "jingles/wii/RetroWave64/Sonic Unleashed (RetroWave64).ogg",
-            "regex": "^sonic[^a-z0-9]*unleashed$|^sonicunleashed$"
-        },
-        {
-            "game": "Sonic Unleashed",
-            "file": "jingles/wii/somecallmesean/Sonic Unleashed (somecallmesean).ogg",
             "regex": "^sonic[^a-z0-9]*unleashed$|^sonicunleashed$"
         },
         {
@@ -13883,12 +13899,12 @@
         },
         {
             "game": "Super Mario Galaxy 2",
-            "file": "jingles/wii/RetroWave64/Super Mario Galaxy 2 (RetroWave64).ogg",
+            "file": "jingles/wii/SJH/Super Mario Galaxy 2 (SJH).mp3",
             "regex": "^super[^a-z0-9]*mario[^a-z0-9]*galaxy[^a-z0-9]*2$|^supermariogalaxy2$"
         },
         {
             "game": "Super Mario Galaxy 2",
-            "file": "jingles/wii/SJH/Super Mario Galaxy 2 (SJH).mp3",
+            "file": "jingles/wii/RetroWave64/Super Mario Galaxy 2 (RetroWave64).ogg",
             "regex": "^super[^a-z0-9]*mario[^a-z0-9]*galaxy[^a-z0-9]*2$|^supermariogalaxy2$"
         },
         {
@@ -13923,12 +13939,12 @@
         },
         {
             "game": "Xenoblade Chronicles",
-            "file": "jingles/wii/CirnoWaifu/Xenoblade Chronicles (CirnoWaifu).ogg",
+            "file": "jingles/wii/Natalie/Xenoblade Chronicles (Natalie).ogg",
             "regex": "^xenoblade[^a-z0-9]*chronicles$|^xenobladechronicles$"
         },
         {
             "game": "Xenoblade Chronicles",
-            "file": "jingles/wii/Natalie/Xenoblade Chronicles (Natalie).ogg",
+            "file": "jingles/wii/CirnoWaifu/Xenoblade Chronicles (CirnoWaifu).ogg",
             "regex": "^xenoblade[^a-z0-9]*chronicles$|^xenobladechronicles$"
         }
     ],
@@ -14005,12 +14021,12 @@
         },
         {
             "game": "The Wonderful 101",
-            "file": "jingles/wiiu/CirnoWaifu/The Wonderful 101 (CirnoWaifu).ogg",
+            "file": "jingles/wiiu/flapperultra/The Wonderful 101 (flapperultra).ogg",
             "regex": "^the[^a-z0-9]*wonderful[^a-z0-9]*101$|^thewonderful101$"
         },
         {
             "game": "The Wonderful 101",
-            "file": "jingles/wiiu/flapperultra/The Wonderful 101 (flapperultra).ogg",
+            "file": "jingles/wiiu/CirnoWaifu/The Wonderful 101 (CirnoWaifu).ogg",
             "regex": "^the[^a-z0-9]*wonderful[^a-z0-9]*101$|^thewonderful101$"
         },
         {
