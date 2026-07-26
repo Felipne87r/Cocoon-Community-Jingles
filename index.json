@@ -6084,29 +6084,54 @@
             "regex": "^plants[^a-z0-9]*vs[^a-z0-9]*zombies$|^plantsvszombies$"
         },
         {
-            "game": "Pokemon Black",
-            "file": "jingles/nds/Brookenium/Pokemon Black (Brookenium).ogg",
-            "regex": "^pokemon[^a-z0-9]*black$|^pokemonblack$"
+            "game": "Pokemon - Black Version",
+            "file": "jingles/nds/Brookenium/Pokemon - Black Version (Brookenium).ogg",
+            "regex": "^pokemon[^a-z0-9]*black[^a-z0-9]*version$|^pokemonblackversion$"
         },
         {
-            "game": "Pokemon Black 2",
-            "file": "jingles/nds/Brookenium/Pokemon Black 2 (Brookenium).ogg",
-            "regex": "^pokemon[^a-z0-9]*black[^a-z0-9]*2$|^pokemonblack2$"
+            "game": "Pokemon - Black Version 2",
+            "file": "jingles/nds/Brookenium/Pokemon - Black Version 2 (Brookenium).ogg",
+            "regex": "^pokemon[^a-z0-9]*black[^a-z0-9]*version[^a-z0-9]*2$|^pokemonblackversion2$"
+        },
+        {
+            "game": "Pokemon - Diamond Version",
+            "file": "jingles/nds/Brookenium/Pokemon - Diamond Version (Brookenium).ogg",
+            "regex": "^pokemon[^a-z0-9]*diamond[^a-z0-9]*version$|^pokemondiamondversion$"
+        },
+        {
+            "game": "Pokemon - HeartGold Version",
+            "file": "jingles/nds/Brookenium/Pokemon - HeartGold Version (Brookenium).ogg",
+            "regex": "^pokemon[^a-z0-9]*heartgold[^a-z0-9]*version$|^pokemonheartgoldversion$"
+        },
+        {
+            "game": "Pokemon - Pearl Version",
+            "file": "jingles/nds/Brookenium/Pokemon - Pearl Version (Brookenium).ogg",
+            "regex": "^pokemon[^a-z0-9]*pearl[^a-z0-9]*version$|^pokemonpearlversion$"
+        },
+        {
+            "game": "Pokemon - Platinum Version",
+            "file": "jingles/nds/Brookenium/Pokemon - Platinum Version (Brookenium).ogg",
+            "regex": "^pokemon[^a-z0-9]*platinum[^a-z0-9]*version$|^pokemonplatinumversion$"
+        },
+        {
+            "game": "Pokemon - SoulSilver Version",
+            "file": "jingles/nds/Brookenium/Pokemon - SoulSilver Version (Brookenium).ogg",
+            "regex": "^pokemon[^a-z0-9]*soulsilver[^a-z0-9]*version$|^pokemonsoulsilverversion$"
+        },
+        {
+            "game": "Pokemon - White Version",
+            "file": "jingles/nds/Brookenium/Pokemon - White Version (Brookenium).ogg",
+            "regex": "^pokemon[^a-z0-9]*white[^a-z0-9]*version$|^pokemonwhiteversion$"
+        },
+        {
+            "game": "Pokemon - White Version 2",
+            "file": "jingles/nds/Brookenium/Pokemon - White Version 2 (Brookenium).ogg",
+            "regex": "^pokemon[^a-z0-9]*white[^a-z0-9]*version[^a-z0-9]*2$|^pokemonwhiteversion2$"
         },
         {
             "game": "Pokemon Conquest",
             "file": "jingles/nds/flapperultra/Pokemon Conquest (flapperultra).ogg",
             "regex": "^pokemon[^a-z0-9]*conquest$|^pokemonconquest$"
-        },
-        {
-            "game": "Pokemon Diamond",
-            "file": "jingles/nds/Brookenium/Pokemon Diamond (Brookenium).ogg",
-            "regex": "^pokemon[^a-z0-9]*diamond$|^pokemondiamond$"
-        },
-        {
-            "game": "Pokemon HeartGold",
-            "file": "jingles/nds/Brookenium/Pokemon HeartGold (Brookenium).ogg",
-            "regex": "^pokemon[^a-z0-9]*heartgold$|^pokemonheartgold$"
         },
         {
             "game": "Pokemon Link (V1)",
@@ -6129,16 +6154,6 @@
             "regex": "^pokemon[^a-z0-9]*mystery[^a-z0-9]*dungeon[^a-z0-9]*explorers[^a-z0-9]*of[^a-z0-9]*sky$|^pokemonmysterydungeonexplorersofsky$"
         },
         {
-            "game": "Pokemon Pearl",
-            "file": "jingles/nds/Brookenium/Pokemon Pearl (Brookenium).ogg",
-            "regex": "^pokemon[^a-z0-9]*pearl$|^pokemonpearl$"
-        },
-        {
-            "game": "Pokemon Platinum",
-            "file": "jingles/nds/Brookenium/Pokemon Platinum (Brookenium).ogg",
-            "regex": "^pokemon[^a-z0-9]*platinum$|^pokemonplatinum$"
-        },
-        {
             "game": "Pokemon Ranger",
             "file": "jingles/nds/flapperultra/Pokemon Ranger (flapperultra).ogg",
             "regex": "^pokemon[^a-z0-9]*ranger$|^pokemonranger$"
@@ -6152,21 +6167,6 @@
             "game": "Pokemon Ranger 3 - Guardian Signs",
             "file": "jingles/nds/flapperultra/Pokemon Ranger 3 - Guardian Signs (flapperultra).ogg",
             "regex": "^pokemon[^a-z0-9]*ranger[^a-z0-9]*3[^a-z0-9]*guardian[^a-z0-9]*signs$|^pokemonranger3guardiansigns$"
-        },
-        {
-            "game": "Pokemon SoulSilver",
-            "file": "jingles/nds/Brookenium/Pokemon SoulSilver (Brookenium).ogg",
-            "regex": "^pokemon[^a-z0-9]*soulsilver$|^pokemonsoulsilver$"
-        },
-        {
-            "game": "Pokemon White",
-            "file": "jingles/nds/Brookenium/Pokemon White (Brookenium).ogg",
-            "regex": "^pokemon[^a-z0-9]*white$|^pokemonwhite$"
-        },
-        {
-            "game": "Pokemon White 2",
-            "file": "jingles/nds/Brookenium/Pokemon White 2 (Brookenium).ogg",
-            "regex": "^pokemon[^a-z0-9]*white[^a-z0-9]*2$|^pokemonwhite2$"
         },
         {
             "game": "Professor Layton and Pandora's Box",
@@ -14233,9 +14233,9 @@
             "regex": "^super[^a-z0-9]*paper[^a-z0-9]*mario$|^superpapermario$"
         },
         {
-            "game": "Super Smash Bros. Brawl",
-            "file": "jingles/wii/Brookenium/Super Smash Bros. Brawl (Brookenium).ogg",
-            "regex": "^super[^a-z0-9]*smash[^a-z0-9]*bros$|^supersmashbros$"
+            "game": "Super Smash Bros Brawl",
+            "file": "jingles/wii/Brookenium/Super Smash Bros Brawl (Brookenium).ogg",
+            "regex": "^super[^a-z0-9]*smash[^a-z0-9]*bros[^a-z0-9]*brawl$|^supersmashbrosbrawl$"
         },
         {
             "game": "The Legend of Zelda - Skyward Sword",
