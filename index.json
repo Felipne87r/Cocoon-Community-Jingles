@@ -364,6 +364,11 @@
             "regex": "^kirby[^a-z0-9]*planet[^a-z0-9]*robobot$|^kirbyplanetrobobot$"
         },
         {
+            "game": "Kirby Triple Deluxe",
+            "file": "jingles/3ds/EatsDirt/Kirby Triple Deluxe (EatsDirt).ogg",
+            "regex": "^kirby[^a-z0-9]*triple[^a-z0-9]*deluxe$|^kirbytripledeluxe$"
+        },
+        {
             "game": "Kirby's Extra Epic Yarn",
             "file": "jingles/3ds/EatsDirt/Kirby's Extra Epic Yarn (EatsDirt).ogg",
             "regex": "^kirby[^a-z0-9]*s[^a-z0-9]*extra[^a-z0-9]*epic[^a-z0-9]*yarn$|^kirbysextraepicyarn$"
