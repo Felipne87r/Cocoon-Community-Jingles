@@ -8339,6 +8339,11 @@
             "regex": "^gurumin[^a-z0-9]*a[^a-z0-9]*monstrous[^a-z0-9]*adventure$|^guruminamonstrousadventure$"
         },
         {
+            "game": "Half Life",
+            "file": "jingles/pc steam & multiplat/somecallmesean/Half Life (somecallmesean).ogg",
+            "regex": "^half[^a-z0-9]*life$|^halflife$"
+        },
+        {
             "game": "Hearthstone",
             "file": "jingles/pc steam & multiplat/Natalie/Hearthstone (Natalie).ogg",
             "regex": "^hearthstone$|^hearthstone$"
