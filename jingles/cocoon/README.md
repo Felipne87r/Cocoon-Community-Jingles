@@ -4,6 +4,8 @@ You can upload both music and sound effects here for use within the Cocoon app.
 
 See below what the folders are for and how to structure your files.
 
+NOTE: Please do NOT delete any "test" files until there is at least one user folder/file within the directory.
+
 ## Miscellaneous:
 Use this for any uncategorised audio.\
 There are sub-folders inside for music and sound effects.
