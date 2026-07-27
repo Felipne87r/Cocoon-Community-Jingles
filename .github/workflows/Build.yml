@@ -10,7 +10,7 @@ permissions:
   contents: write
 
 jobs:
-  Build Pack:
+  Package:
     runs-on: windows-latest
 
     env:
