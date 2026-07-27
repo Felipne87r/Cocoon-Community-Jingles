@@ -4,6 +4,8 @@ import shutil
 import subprocess
 from pathlib import Path
 
+print("Equalizer started", flush=True)
+
 # Find ffmpeg
 if os.getenv("GITHUB_ACTIONS") == "true":
     # GitHub Actions installs ffmpeg on the PATH
