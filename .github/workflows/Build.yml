@@ -33,7 +33,7 @@ jobs:
           choco install ffmpeg -y
       
       - name: Equalize audio
-        run: python Equalizer.py
+        run: python -u Equalizer.py
 
       - name: Generate index
         run: python "Index Gen.py"
