@@ -21,12 +21,10 @@ jobs:
         with:
           python-version: "3.13"
 
-      - name: Verify FFmpeg exists
+      - name: Install FFmpeg
         shell: pwsh
         run: |
-          if (!(Test-Path "ffmpeg\bin\ffmpeg.exe")) {
-            throw "ffmpeg.exe not found!"
-          }
+          choco install ffmpeg -y
 
       - name: Equalize audio
         run: python Equalizer.py
