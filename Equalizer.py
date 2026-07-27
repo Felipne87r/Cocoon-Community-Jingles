@@ -99,11 +99,11 @@ for file in AUDIO_DIR.rglob("*"):
             json.dump(sorted(completed), f, indent=2)
 
         processed += 1
-        print("  ✓ Done")
+        print("  [OK] Done")
 
     except subprocess.CalledProcessError as e:
         failed += 1
-        print(f"  ✗ Failed: {e}")
+        print(f"  [FAIL] Failed: {e}")
 
         if temp_file.exists():
             temp_file.unlink()
