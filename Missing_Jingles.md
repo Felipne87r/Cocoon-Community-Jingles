@@ -139,7 +139,6 @@
 - Mario Party DS
 - McDonalds eCDP Training Game
 - Pokemon Dash
-- Pokemon Trozei
 - Pokemon Typing Adventure
 - Resident Evil Deadly Silence
 - Rhythm Heaven
