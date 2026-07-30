@@ -344,7 +344,6 @@
 - Ori and the Will of the Wisps
 - Pac-Man Museum
 - Pokemon Legends Arceus
-- Pokemon Legends Z-A
 - Pokemon Let's Go Eevee
 - Pokemon Let's Go Pikachu
 - Pokemon Swsh
@@ -356,7 +355,7 @@
 - Super Mario Odyssey
 - Super Monkey Ball Banana Blitz HD
 - Super Monkey Ball Banana Mania
-- You Tube
+- YouTube
 
 ### Sega 32X (0)
 
