@@ -13644,6 +13644,156 @@
             "regex": "^pokemon[^a-z0-9]*brilliant[^a-z0-9]*diamond$|^pokemonbrilliantdiamond$"
         },
         {
+            "game": "Pokemon Legends ZA (SFX1)",
+            "file": "jingles/switch/SJH/Pokemon Legends ZA (SFX1) (SJH).ogg",
+            "regex": "^pokemon[^a-z0-9]*legends[^a-z0-9]*za[^a-z0-9]*sfx1$|^pokemonlegendszasfx1$"
+        },
+        {
+            "game": "Pokemon Legends ZA (SFX10)",
+            "file": "jingles/switch/SJH/Pokemon Legends ZA (SFX10) (SJH).ogg",
+            "regex": "^pokemon[^a-z0-9]*legends[^a-z0-9]*za[^a-z0-9]*sfx10$|^pokemonlegendszasfx10$"
+        },
+        {
+            "game": "Pokemon Legends ZA (SFX11)",
+            "file": "jingles/switch/SJH/Pokemon Legends ZA (SFX11) (SJH).ogg",
+            "regex": "^pokemon[^a-z0-9]*legends[^a-z0-9]*za[^a-z0-9]*sfx11$|^pokemonlegendszasfx11$"
+        },
+        {
+            "game": "Pokemon Legends ZA (SFX12)",
+            "file": "jingles/switch/SJH/Pokemon Legends ZA (SFX12) (SJH).ogg",
+            "regex": "^pokemon[^a-z0-9]*legends[^a-z0-9]*za[^a-z0-9]*sfx12$|^pokemonlegendszasfx12$"
+        },
+        {
+            "game": "Pokemon Legends ZA (SFX13)",
+            "file": "jingles/switch/SJH/Pokemon Legends ZA (SFX13) (SJH).ogg",
+            "regex": "^pokemon[^a-z0-9]*legends[^a-z0-9]*za[^a-z0-9]*sfx13$|^pokemonlegendszasfx13$"
+        },
+        {
+            "game": "Pokemon Legends ZA (SFX14)",
+            "file": "jingles/switch/SJH/Pokemon Legends ZA (SFX14) (SJH).ogg",
+            "regex": "^pokemon[^a-z0-9]*legends[^a-z0-9]*za[^a-z0-9]*sfx14$|^pokemonlegendszasfx14$"
+        },
+        {
+            "game": "Pokemon Legends ZA (SFX15)",
+            "file": "jingles/switch/SJH/Pokemon Legends ZA (SFX15) (SJH).ogg",
+            "regex": "^pokemon[^a-z0-9]*legends[^a-z0-9]*za[^a-z0-9]*sfx15$|^pokemonlegendszasfx15$"
+        },
+        {
+            "game": "Pokemon Legends ZA (SFX2)",
+            "file": "jingles/switch/SJH/Pokemon Legends ZA (SFX2) (SJH).ogg",
+            "regex": "^pokemon[^a-z0-9]*legends[^a-z0-9]*za[^a-z0-9]*sfx2$|^pokemonlegendszasfx2$"
+        },
+        {
+            "game": "Pokemon Legends ZA (SFX3)",
+            "file": "jingles/switch/SJH/Pokemon Legends ZA (SFX3) (SJH).ogg",
+            "regex": "^pokemon[^a-z0-9]*legends[^a-z0-9]*za[^a-z0-9]*sfx3$|^pokemonlegendszasfx3$"
+        },
+        {
+            "game": "Pokemon Legends ZA (SFX4)",
+            "file": "jingles/switch/SJH/Pokemon Legends ZA (SFX4) (SJH).ogg",
+            "regex": "^pokemon[^a-z0-9]*legends[^a-z0-9]*za[^a-z0-9]*sfx4$|^pokemonlegendszasfx4$"
+        },
+        {
+            "game": "Pokemon Legends ZA (SFX5)",
+            "file": "jingles/switch/SJH/Pokemon Legends ZA (SFX5) (SJH).ogg",
+            "regex": "^pokemon[^a-z0-9]*legends[^a-z0-9]*za[^a-z0-9]*sfx5$|^pokemonlegendszasfx5$"
+        },
+        {
+            "game": "Pokemon Legends ZA (SFX6)",
+            "file": "jingles/switch/SJH/Pokemon Legends ZA (SFX6) (SJH).ogg",
+            "regex": "^pokemon[^a-z0-9]*legends[^a-z0-9]*za[^a-z0-9]*sfx6$|^pokemonlegendszasfx6$"
+        },
+        {
+            "game": "Pokemon Legends ZA (SFX7)",
+            "file": "jingles/switch/SJH/Pokemon Legends ZA (SFX7) (SJH).ogg",
+            "regex": "^pokemon[^a-z0-9]*legends[^a-z0-9]*za[^a-z0-9]*sfx7$|^pokemonlegendszasfx7$"
+        },
+        {
+            "game": "Pokemon Legends ZA (SFX8)",
+            "file": "jingles/switch/SJH/Pokemon Legends ZA (SFX8) (SJH).ogg",
+            "regex": "^pokemon[^a-z0-9]*legends[^a-z0-9]*za[^a-z0-9]*sfx8$|^pokemonlegendszasfx8$"
+        },
+        {
+            "game": "Pokemon Legends ZA (SFX9)",
+            "file": "jingles/switch/SJH/Pokemon Legends ZA (SFX9) (SJH).ogg",
+            "regex": "^pokemon[^a-z0-9]*legends[^a-z0-9]*za[^a-z0-9]*sfx9$|^pokemonlegendszasfx9$"
+        },
+        {
+            "game": "Pokemon Legends ZA (V1)",
+            "file": "jingles/switch/SJH/Pokemon Legends ZA (V1) (SJH).ogg",
+            "regex": "^pokemon[^a-z0-9]*legends[^a-z0-9]*za[^a-z0-9]*v1$|^pokemonlegendszav1$"
+        },
+        {
+            "game": "Pokemon Legends ZA (V10)",
+            "file": "jingles/switch/SJH/Pokemon Legends ZA (V10) (SJH).ogg",
+            "regex": "^pokemon[^a-z0-9]*legends[^a-z0-9]*za[^a-z0-9]*v10$|^pokemonlegendszav10$"
+        },
+        {
+            "game": "Pokemon Legends ZA (V11)",
+            "file": "jingles/switch/SJH/Pokemon Legends ZA (V11) (SJH).ogg",
+            "regex": "^pokemon[^a-z0-9]*legends[^a-z0-9]*za[^a-z0-9]*v11$|^pokemonlegendszav11$"
+        },
+        {
+            "game": "Pokemon Legends ZA (V12)",
+            "file": "jingles/switch/SJH/Pokemon Legends ZA (V12) (SJH).ogg",
+            "regex": "^pokemon[^a-z0-9]*legends[^a-z0-9]*za[^a-z0-9]*v12$|^pokemonlegendszav12$"
+        },
+        {
+            "game": "Pokemon Legends ZA (V13)",
+            "file": "jingles/switch/SJH/Pokemon Legends ZA (V13) (SJH).ogg",
+            "regex": "^pokemon[^a-z0-9]*legends[^a-z0-9]*za[^a-z0-9]*v13$|^pokemonlegendszav13$"
+        },
+        {
+            "game": "Pokemon Legends ZA (V14)",
+            "file": "jingles/switch/SJH/Pokemon Legends ZA (V14) (SJH).ogg",
+            "regex": "^pokemon[^a-z0-9]*legends[^a-z0-9]*za[^a-z0-9]*v14$|^pokemonlegendszav14$"
+        },
+        {
+            "game": "Pokemon Legends ZA (V15)",
+            "file": "jingles/switch/SJH/Pokemon Legends ZA (V15) (SJH).ogg",
+            "regex": "^pokemon[^a-z0-9]*legends[^a-z0-9]*za[^a-z0-9]*v15$|^pokemonlegendszav15$"
+        },
+        {
+            "game": "Pokemon Legends ZA (V2)",
+            "file": "jingles/switch/SJH/Pokemon Legends ZA (V2) (SJH).ogg",
+            "regex": "^pokemon[^a-z0-9]*legends[^a-z0-9]*za[^a-z0-9]*v2$|^pokemonlegendszav2$"
+        },
+        {
+            "game": "Pokemon Legends ZA (V3)",
+            "file": "jingles/switch/SJH/Pokemon Legends ZA (V3) (SJH).ogg",
+            "regex": "^pokemon[^a-z0-9]*legends[^a-z0-9]*za[^a-z0-9]*v3$|^pokemonlegendszav3$"
+        },
+        {
+            "game": "Pokemon Legends ZA (V4)",
+            "file": "jingles/switch/SJH/Pokemon Legends ZA (V4) (SJH).ogg",
+            "regex": "^pokemon[^a-z0-9]*legends[^a-z0-9]*za[^a-z0-9]*v4$|^pokemonlegendszav4$"
+        },
+        {
+            "game": "Pokemon Legends ZA (V5)",
+            "file": "jingles/switch/SJH/Pokemon Legends ZA (V5) (SJH).ogg",
+            "regex": "^pokemon[^a-z0-9]*legends[^a-z0-9]*za[^a-z0-9]*v5$|^pokemonlegendszav5$"
+        },
+        {
+            "game": "Pokemon Legends ZA (V6)",
+            "file": "jingles/switch/SJH/Pokemon Legends ZA (V6) (SJH).ogg",
+            "regex": "^pokemon[^a-z0-9]*legends[^a-z0-9]*za[^a-z0-9]*v6$|^pokemonlegendszav6$"
+        },
+        {
+            "game": "Pokemon Legends ZA (V7)",
+            "file": "jingles/switch/SJH/Pokemon Legends ZA (V7) (SJH).ogg",
+            "regex": "^pokemon[^a-z0-9]*legends[^a-z0-9]*za[^a-z0-9]*v7$|^pokemonlegendszav7$"
+        },
+        {
+            "game": "Pokemon Legends ZA (V8)",
+            "file": "jingles/switch/SJH/Pokemon Legends ZA (V8) (SJH).ogg",
+            "regex": "^pokemon[^a-z0-9]*legends[^a-z0-9]*za[^a-z0-9]*v8$|^pokemonlegendszav8$"
+        },
+        {
+            "game": "Pokemon Legends ZA (V9)",
+            "file": "jingles/switch/SJH/Pokemon Legends ZA (V9) (SJH).ogg",
+            "regex": "^pokemon[^a-z0-9]*legends[^a-z0-9]*za[^a-z0-9]*v9$|^pokemonlegendszav9$"
+        },
+        {
             "game": "Pokemon Mystery Dungeon Rescue Team DX",
             "file": "jingles/switch/flapperultra/Pokemon Mystery Dungeon Rescue Team DX (flapperultra).ogg",
             "regex": "^pokemon[^a-z0-9]*mystery[^a-z0-9]*dungeon[^a-z0-9]*rescue[^a-z0-9]*team[^a-z0-9]*dx$|^pokemonmysterydungeonrescueteamdx$"
