@@ -176,7 +176,6 @@
 - Nights Journey of Dreams
 - No More Heroes
 - Pandoras Tower
-- Pokemon Battle Revolution
 - Puyo Puyo!! 20th Anniversary
 - Rhythm Heaven Fever
 - Samurai Warriors 3
