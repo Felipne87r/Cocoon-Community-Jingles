@@ -14301,6 +14301,63 @@
             "regex": "^yoiyami[^a-z0-9]*dancers[^a-z0-9]*twilight[^a-z0-9]*danmaku[^a-z0-9]*dancers$|^yoiyamidancerstwilightdanmakudancers$"
         }
     ],
+    "vb": [
+        {
+            "game": "3D Tetris",
+            "file": "jingles/vb/3D Tetris (flapperultra).ogg",
+            "regex": "^3d[^a-z0-9]*tetris$|^3dtetris$"
+        },
+        {
+            "game": "Bound High",
+            "file": "jingles/vb/Bound High (flapperultra).ogg",
+            "regex": "^bound[^a-z0-9]*high$|^boundhigh$"
+        },
+        {
+            "game": "Galactic Pinball",
+            "file": "jingles/vb/Galactic Pinball (flapperultra).ogg",
+            "regex": "^galactic[^a-z0-9]*pinball$|^galacticpinball$"
+        },
+        {
+            "game": "innsmouth no yakata",
+            "file": "jingles/vb/innsmouth no yakata.ogg",
+            "regex": "^innsmouth[^a-z0-9]*no[^a-z0-9]*yakata$|^innsmouthnoyakata$"
+        },
+        {
+            "game": "Jack Bros",
+            "file": "jingles/vb/Jack Bros (flapperultra).ogg",
+            "regex": "^jack[^a-z0-9]*bros$|^jackbros$"
+        },
+        {
+            "game": "Mario Clash",
+            "file": "jingles/vb/Mario Clash (flapperultra).ogg",
+            "regex": "^mario[^a-z0-9]*clash$|^marioclash$"
+        },
+        {
+            "game": "Panic Bomber",
+            "file": "jingles/vb/Panic Bomber (flapperultra).ogg",
+            "regex": "^panic[^a-z0-9]*bomber$|^panicbomber$"
+        },
+        {
+            "game": "Red Alarm",
+            "file": "jingles/vb/Red Alarm (flapperultra).ogg",
+            "regex": "^red[^a-z0-9]*alarm$|^redalarm$"
+        },
+        {
+            "game": "Teleroboxer",
+            "file": "jingles/vb/Teleroboxer (flapperultra).ogg",
+            "regex": "^teleroboxer$|^teleroboxer$"
+        },
+        {
+            "game": "Vertical Force",
+            "file": "jingles/vb/Vertical Force (flapperultra).ogg",
+            "regex": "^vertical[^a-z0-9]*force$|^verticalforce$"
+        },
+        {
+            "game": "Virtual Wario Land",
+            "file": "jingles/vb/Virtual Wario Land (flapperultra).ogg",
+            "regex": "^virtual[^a-z0-9]*wario[^a-z0-9]*land$|^virtualwarioland$"
+        }
+    ],
     "wii": [
         {
             "game": "Animal Crossing - City Folk",
@@ -14401,6 +14458,36 @@
             "game": "One Piece Unlimited Adventure",
             "file": "jingles/wii/somecallmesean/One Piece Unlimited Adventure (somecallmesean).ogg",
             "regex": "^one[^a-z0-9]*piece[^a-z0-9]*unlimited[^a-z0-9]*adventure$|^onepieceunlimitedadventure$"
+        },
+        {
+            "game": "Pokemon Battle Revolution",
+            "file": "jingles/wii/Sleeknb/Pokemon Battle Revolution (V2 Extended).ogg",
+            "regex": "^pokemon[^a-z0-9]*battle[^a-z0-9]*revolution$|^pokemonbattlerevolution$"
+        },
+        {
+            "game": "Pokemon Battle Revolution",
+            "file": "jingles/wii/Sleeknb/Pokemon Battle Revolution (V2).ogg",
+            "regex": "^pokemon[^a-z0-9]*battle[^a-z0-9]*revolution$|^pokemonbattlerevolution$"
+        },
+        {
+            "game": "Pokemon Battle Revolution",
+            "file": "jingles/wii/Sleeknb/Pokemon Battle Revolution (V3).ogg",
+            "regex": "^pokemon[^a-z0-9]*battle[^a-z0-9]*revolution$|^pokemonbattlerevolution$"
+        },
+        {
+            "game": "Pokemon Battle Revolution",
+            "file": "jingles/wii/Sleeknb/Pokemon Battle Revolution (V4 Extended).ogg",
+            "regex": "^pokemon[^a-z0-9]*battle[^a-z0-9]*revolution$|^pokemonbattlerevolution$"
+        },
+        {
+            "game": "Pokemon Battle Revolution",
+            "file": "jingles/wii/Sleeknb/Pokemon Battle Revolution (V4).ogg",
+            "regex": "^pokemon[^a-z0-9]*battle[^a-z0-9]*revolution$|^pokemonbattlerevolution$"
+        },
+        {
+            "game": "Pokemon Battle Revolution",
+            "file": "jingles/wii/Sleeknb/Pokemon Battle Revolution.ogg",
+            "regex": "^pokemon[^a-z0-9]*battle[^a-z0-9]*revolution$|^pokemonbattlerevolution$"
         },
         {
             "game": "Resident Evil - The Darkside Chronicles",
