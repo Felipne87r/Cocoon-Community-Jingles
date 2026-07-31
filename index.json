@@ -14304,57 +14304,57 @@
     "vb": [
         {
             "game": "3D Tetris",
-            "file": "jingles/vb/3D Tetris (flapperultra).ogg",
+            "file": "jingles/vb/flapperultra/3D Tetris (flapperultra).ogg",
             "regex": "^3d[^a-z0-9]*tetris$|^3dtetris$"
         },
         {
             "game": "Bound High",
-            "file": "jingles/vb/Bound High (flapperultra).ogg",
+            "file": "jingles/vb/flapperultra/Bound High (flapperultra).ogg",
             "regex": "^bound[^a-z0-9]*high$|^boundhigh$"
         },
         {
             "game": "Galactic Pinball",
-            "file": "jingles/vb/Galactic Pinball (flapperultra).ogg",
+            "file": "jingles/vb/flapperultra/Galactic Pinball (flapperultra).ogg",
             "regex": "^galactic[^a-z0-9]*pinball$|^galacticpinball$"
         },
         {
             "game": "innsmouth no yakata",
-            "file": "jingles/vb/innsmouth no yakata.ogg",
+            "file": "jingles/vb/flapperultra/innsmouth no yakata.ogg",
             "regex": "^innsmouth[^a-z0-9]*no[^a-z0-9]*yakata$|^innsmouthnoyakata$"
         },
         {
             "game": "Jack Bros",
-            "file": "jingles/vb/Jack Bros (flapperultra).ogg",
+            "file": "jingles/vb/flapperultra/Jack Bros (flapperultra).ogg",
             "regex": "^jack[^a-z0-9]*bros$|^jackbros$"
         },
         {
             "game": "Mario Clash",
-            "file": "jingles/vb/Mario Clash (flapperultra).ogg",
+            "file": "jingles/vb/flapperultra/Mario Clash (flapperultra).ogg",
             "regex": "^mario[^a-z0-9]*clash$|^marioclash$"
         },
         {
             "game": "Panic Bomber",
-            "file": "jingles/vb/Panic Bomber (flapperultra).ogg",
+            "file": "jingles/vb/flapperultra/Panic Bomber (flapperultra).ogg",
             "regex": "^panic[^a-z0-9]*bomber$|^panicbomber$"
         },
         {
             "game": "Red Alarm",
-            "file": "jingles/vb/Red Alarm (flapperultra).ogg",
+            "file": "jingles/vb/flapperultra/Red Alarm (flapperultra).ogg",
             "regex": "^red[^a-z0-9]*alarm$|^redalarm$"
         },
         {
             "game": "Teleroboxer",
-            "file": "jingles/vb/Teleroboxer (flapperultra).ogg",
+            "file": "jingles/vb/flapperultra/Teleroboxer (flapperultra).ogg",
             "regex": "^teleroboxer$|^teleroboxer$"
         },
         {
             "game": "Vertical Force",
-            "file": "jingles/vb/Vertical Force (flapperultra).ogg",
+            "file": "jingles/vb/flapperultra/Vertical Force (flapperultra).ogg",
             "regex": "^vertical[^a-z0-9]*force$|^verticalforce$"
         },
         {
             "game": "Virtual Wario Land",
-            "file": "jingles/vb/Virtual Wario Land (flapperultra).ogg",
+            "file": "jingles/vb/flapperultra/Virtual Wario Land (flapperultra).ogg",
             "regex": "^virtual[^a-z0-9]*wario[^a-z0-9]*land$|^virtualwarioland$"
         }
     ],
