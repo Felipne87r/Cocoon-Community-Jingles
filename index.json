@@ -3209,6 +3209,11 @@
             "regex": "^metroid[^a-z0-9]*zero[^a-z0-9]*mission$|^metroidzeromission$"
         },
         {
+            "game": "Monkey Ball Jr",
+            "file": "jingles/gba/flapperultra/Monkey Ball Jr (flapperultra).ogg",
+            "regex": "^monkey[^a-z0-9]*ball[^a-z0-9]*jr$|^monkeyballjr$"
+        },
+        {
             "game": "Monsters Inc (V1)",
             "file": "jingles/gba/SJH/Monsters Inc (V1) (SJH).mp3",
             "regex": "^monsters[^a-z0-9]*inc[^a-z0-9]*v1$|^monstersincv1$"
