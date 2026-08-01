@@ -60,7 +60,6 @@
 
 ### Game Boy Advance (13)
 
-- Apotris
 - Duel Masters Kaijudo Showdown
 - Duel Masters Sempai Legends
 - Duel Masters Shadow of the Code
@@ -137,7 +136,6 @@
 - Kirby Canvas Curse
 - Mario Hoops 3-on-3
 - Mario Party DS
-- McDonalds eCDP Training Game
 - Pokemon Dash
 - Pokemon Typing Adventure
 - Resident Evil Deadly Silence
