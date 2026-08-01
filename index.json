@@ -7,9 +7,34 @@
             "regex": "^knuckles[^a-z0-9]*chaotix$|^knuckleschaotix$"
         },
         {
+            "game": "Knuckles' Chaotix",
+            "file": "jingles/32x/DJ Ki-sikil/Knuckles' Chaotix (DJ Ki-sikil).ogg",
+            "regex": "^knuckles[^a-z0-9]*chaotix$|^knuckleschaotix$"
+        },
+        {
             "game": "Shadow Squadron",
             "file": "jingles/32x/CirnoWaifu/Shadow Squadron (CirnoWaifu).ogg",
             "regex": "^shadow[^a-z0-9]*squadron$|^shadowsquadron$"
+        },
+        {
+            "game": "Shadow Squadron",
+            "file": "jingles/32x/flapperultra/Shadow Squadron (flapperultra).ogg",
+            "regex": "^shadow[^a-z0-9]*squadron$|^shadowsquadron$"
+        },
+        {
+            "game": "Star Wars Arcade 32X",
+            "file": "jingles/32x/flapperultra/Star Wars Arcade 32X (flapperultra).ogg",
+            "regex": "^star[^a-z0-9]*wars[^a-z0-9]*arcade[^a-z0-9]*32x$|^starwarsarcade32x$"
+        },
+        {
+            "game": "Tempo",
+            "file": "jingles/32x/flapperultra/Tempo (flapperultra).ogg",
+            "regex": "^tempo$|^tempo$"
+        },
+        {
+            "game": "Virtua Racing Deluxe",
+            "file": "jingles/32x/flapperultra/Virtua Racing Deluxe (flapperultra).ogg",
+            "regex": "^virtua[^a-z0-9]*racing[^a-z0-9]*deluxe$|^virtuaracingdeluxe$"
         }
     ],
     "3ds": [
@@ -3833,9 +3858,24 @@
     ],
     "mega cd": [
         {
+            "game": "Android Assault",
+            "file": "jingles/mega cd/flapperultra/Android Assault (flapperultra).ogg",
+            "regex": "^android[^a-z0-9]*assault$|^androidassault$"
+        },
+        {
             "game": "Earthworm Jim 2",
             "file": "jingles/mega cd/CirnoWaifu/Earthworm Jim 2 (CirnoWaifu).ogg",
             "regex": "^earthworm[^a-z0-9]*jim[^a-z0-9]*2$|^earthwormjim2$"
+        },
+        {
+            "game": "Popful Mail",
+            "file": "jingles/mega cd/flapperultra/Popful Mail (flapperultra).ogg",
+            "regex": "^popful[^a-z0-9]*mail$|^popfulmail$"
+        },
+        {
+            "game": "Robo Aleste",
+            "file": "jingles/mega cd/flapperultra/Robo Aleste (flapperultra).ogg",
+            "regex": "^robo[^a-z0-9]*aleste$|^roboaleste$"
         },
         {
             "game": "Shining Force CD",
@@ -3843,8 +3883,18 @@
             "regex": "^shining[^a-z0-9]*force[^a-z0-9]*cd$|^shiningforcecd$"
         },
         {
+            "game": "Shining Force CD",
+            "file": "jingles/mega cd/flapperultra/Shining Force CD (flapperultra).ogg",
+            "regex": "^shining[^a-z0-9]*force[^a-z0-9]*cd$|^shiningforcecd$"
+        },
+        {
             "game": "Snatcher",
             "file": "jingles/mega cd/BennyTheFirstHunter/Snatcher (BennyTheFirstHunter).ogg",
+            "regex": "^snatcher$|^snatcher$"
+        },
+        {
+            "game": "Snatcher",
+            "file": "jingles/mega cd/flapperultra/Snatcher (flapperultra).ogg",
             "regex": "^snatcher$|^snatcher$"
         },
         {
@@ -5889,6 +5939,16 @@
             "regex": "^mario[^a-z0-9]*vs[^a-z0-9]*donkey[^a-z0-9]*kong[^a-z0-9]*3[^a-z0-9]*miniland[^a-z0-9]*mayhem$|^mariovsdonkeykong3minilandmayhem$"
         },
         {
+            "game": "McDonald's eCrew Development Program",
+            "file": "jingles/nds/DJ Ki-sikil/McDonald's eCrew Development Program (DJ Ki-sikil).ogg",
+            "regex": "^mcdonald[^a-z0-9]*s[^a-z0-9]*ecrew[^a-z0-9]*development[^a-z0-9]*program$|^mcdonaldsecrewdevelopmentprogram$"
+        },
+        {
+            "game": "McDonald's eCrew Development Program (Alt)",
+            "file": "jingles/nds/DJ Ki-sikil/McDonald's eCrew Development Program (Alt) (DJ Ki-sikil).ogg",
+            "regex": "^mcdonald[^a-z0-9]*s[^a-z0-9]*ecrew[^a-z0-9]*development[^a-z0-9]*program[^a-z0-9]*alt$|^mcdonaldsecrewdevelopmentprogramalt$"
+        },
+        {
             "game": "Mega Man Battle Network 5",
             "file": "jingles/nds/flapperultra/Mega Man Battle Network 5 (flapperultra).ogg",
             "regex": "^mega[^a-z0-9]*man[^a-z0-9]*battle[^a-z0-9]*network[^a-z0-9]*5$|^megamanbattlenetwork5$"
@@ -7402,6 +7462,11 @@
             "regex": "^pac[^a-z0-9]*man$|^pacman$"
         },
         {
+            "game": "Pac-Man Championship Edition (NES)",
+            "file": "jingles/nes/DJ Ki-Sikil/Pac-Man Championship Edition (NES) (DJ Ki-sikil).ogg",
+            "regex": "^pac[^a-z0-9]*man[^a-z0-9]*championship[^a-z0-9]*edition[^a-z0-9]*nes$|^pacmanchampionshipeditionnes$"
+        },
+        {
             "game": "Panic Restaurant",
             "file": "jingles/nes/flapperultra/Panic Restaurant (flapperultra).ogg",
             "regex": "^panic[^a-z0-9]*restaurant$|^panicrestaurant$"
@@ -7747,6 +7812,11 @@
             "game": "Atomic Exile",
             "file": "jingles/pc steam & multiplat/BennyTheFirstHunter/Atomic Exile (BennyTheFirstHunter).ogg",
             "regex": "^atomic[^a-z0-9]*exile$|^atomicexile$"
+        },
+        {
+            "game": "Bakugan Battle Brawlers",
+            "file": "jingles/pc steam & multiplat/DJ Ki-sikil/Bakugan Battle Brawlers (DJ Ki-sikil).ogg",
+            "regex": "^bakugan[^a-z0-9]*battle[^a-z0-9]*brawlers$|^bakuganbattlebrawlers$"
         },
         {
             "game": "Balatro",
@@ -10653,9 +10723,89 @@
             "regex": "^castlevania[^a-z0-9]*rondo[^a-z0-9]*of[^a-z0-9]*blood$|^castlevaniarondoofblood$"
         },
         {
+            "game": "Castlevania - Rondo of Blood",
+            "file": "jingles/pce cd/flapperultra/Castlevania - Rondo of Blood (flapperultra).ogg",
+            "regex": "^castlevania[^a-z0-9]*rondo[^a-z0-9]*of[^a-z0-9]*blood$|^castlevaniarondoofblood$"
+        },
+        {
+            "game": "Fantastic Night Dreams Cotton",
+            "file": "jingles/pce cd/flapperultra/Fantastic Night Dreams Cotton.ogg",
+            "regex": "^fantastic[^a-z0-9]*night[^a-z0-9]*dreams[^a-z0-9]*cotton$|^fantasticnightdreamscotton$"
+        },
+        {
+            "game": "Forgotten Worlds",
+            "file": "jingles/pce cd/flapperultra/Forgotten Worlds (flapperultra).ogg",
+            "regex": "^forgotten[^a-z0-9]*worlds$|^forgottenworlds$"
+        },
+        {
+            "game": "Gate of Thunder",
+            "file": "jingles/pce cd/flapperultra/Gate of Thunder (flapperultra).ogg",
+            "regex": "^gate[^a-z0-9]*of[^a-z0-9]*thunder$|^gateofthunder$"
+        },
+        {
             "game": "Lords of Thunder",
             "file": "jingles/pce cd/CirnoWaifu/Lords of Thunder (CirnoWaifu).ogg",
             "regex": "^lords[^a-z0-9]*of[^a-z0-9]*thunder$|^lordsofthunder$"
+        },
+        {
+            "game": "Lords of Thunder",
+            "file": "jingles/pce cd/flapperultra/Lords of Thunder (flapperultra).ogg",
+            "regex": "^lords[^a-z0-9]*of[^a-z0-9]*thunder$|^lordsofthunder$"
+        },
+        {
+            "game": "R-Type Complete CD",
+            "file": "jingles/pce cd/flapperultra/R-Type Complete CD (flapperultra).ogg",
+            "regex": "^r[^a-z0-9]*type[^a-z0-9]*complete[^a-z0-9]*cd$|^rtypecompletecd$"
+        },
+        {
+            "game": "Rainbow Islands",
+            "file": "jingles/pce cd/flapperultra/Rainbow Islands (flapperultra).ogg",
+            "regex": "^rainbow[^a-z0-9]*islands$|^rainbowislands$"
+        },
+        {
+            "game": "Star Parodier",
+            "file": "jingles/pce cd/flapperultra/Star Parodier (flapperultra).ogg",
+            "regex": "^star[^a-z0-9]*parodier$|^starparodier$"
+        },
+        {
+            "game": "Super Air Zonk",
+            "file": "jingles/pce cd/flapperultra/Super Air Zonk (flapperultra).ogg",
+            "regex": "^super[^a-z0-9]*air[^a-z0-9]*zonk$|^superairzonk$"
+        },
+        {
+            "game": "Super Darius",
+            "file": "jingles/pce cd/flapperultra/Super Darius (flapperultra).ogg",
+            "regex": "^super[^a-z0-9]*darius$|^superdarius$"
+        },
+        {
+            "game": "Valis - The Legend of the Phantasm Soldier",
+            "file": "jingles/pce cd/flapperultra/Valis - The Legend of the Phantasm Soldier (flapperultra).ogg",
+            "regex": "^valis[^a-z0-9]*the[^a-z0-9]*legend[^a-z0-9]*of[^a-z0-9]*the[^a-z0-9]*phantasm[^a-z0-9]*soldier$|^valisthelegendofthephantasmsoldier$"
+        },
+        {
+            "game": "Valis II",
+            "file": "jingles/pce cd/flapperultra/Valis II (flapperultra).ogg",
+            "regex": "^valis[^a-z0-9]*ii$|^valisii$"
+        },
+        {
+            "game": "Valis III",
+            "file": "jingles/pce cd/flapperultra/Valis III (flapperultra).ogg",
+            "regex": "^valis[^a-z0-9]*iii$|^valisiii$"
+        },
+        {
+            "game": "Valis IV",
+            "file": "jingles/pce cd/flapperultra/Valis IV (flapperultra).ogg",
+            "regex": "^valis[^a-z0-9]*iv$|^valisiv$"
+        },
+        {
+            "game": "Ys Book I II",
+            "file": "jingles/pce cd/flapperultra/Ys Book I II (flapperultra).ogg",
+            "regex": "^ys[^a-z0-9]*book[^a-z0-9]*i[^a-z0-9]*ii$|^ysbookiii$"
+        },
+        {
+            "game": "Ys IV",
+            "file": "jingles/pce cd/flapperultra/Ys IV (flapperultra).ogg",
+            "regex": "^ys[^a-z0-9]*iv$|^ysiv$"
         }
     ],
     "pico8": [
@@ -12938,6 +13088,11 @@
         },
         {
             "game": "Mega Man X",
+            "file": "jingles/snes/DJ Ki-sikil/Mega Man X (DJ Ki-sikil).ogg",
+            "regex": "^mega[^a-z0-9]*man[^a-z0-9]*x$|^megamanx$"
+        },
+        {
+            "game": "Mega Man X",
             "file": "jingles/snes/flapperultra/Mega Man X (flapperultra).ogg",
             "regex": "^mega[^a-z0-9]*man[^a-z0-9]*x$|^megamanx$"
         },
@@ -13240,6 +13395,11 @@
             "game": "Super Metroid X-Fusion (hack)",
             "file": "jingles/snes/DJ Ki-sikil/Super Metroid X-Fusion (hack) (DJ Ki-sikil).ogg",
             "regex": "^super[^a-z0-9]*metroid[^a-z0-9]*x[^a-z0-9]*fusion[^a-z0-9]*hack$|^supermetroidxfusionhack$"
+        },
+        {
+            "game": "Super Metroid X-Fusion (hack) (Alt)",
+            "file": "jingles/snes/DJ Ki-sikil/Super Metroid X-Fusion (hack) (Alt) (DJ Ki-sikil).ogg",
+            "regex": "^super[^a-z0-9]*metroid[^a-z0-9]*x[^a-z0-9]*fusion[^a-z0-9]*hack[^a-z0-9]*alt$|^supermetroidxfusionhackalt$"
         },
         {
             "game": "Super Tennis",
