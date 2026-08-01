@@ -2599,6 +2599,11 @@
     ],
     "gba": [
         {
+            "game": "Advance Guardian Heroes",
+            "file": "jingles/gba/flapperultra/Advance Guardian Heroes (flapperultra).ogg",
+            "regex": "^advance[^a-z0-9]*guardian[^a-z0-9]*heroes$|^advanceguardianheroes$"
+        },
+        {
             "game": "Advance Wars",
             "file": "jingles/gba/BennyTheFirstHunter/Advance Wars (BennyTheFirstHunter).ogg",
             "regex": "^advance[^a-z0-9]*wars$|^advancewars$"
@@ -2612,6 +2617,16 @@
             "game": "Astro Boy Omega Factor",
             "file": "jingles/gba/flapperultra/Astro Boy Omega Factor (flapperultra).ogg",
             "regex": "^astro[^a-z0-9]*boy[^a-z0-9]*omega[^a-z0-9]*factor$|^astroboyomegafactor$"
+        },
+        {
+            "game": "Banjo Kazooie - Grunty's Revenge",
+            "file": "jingles/gba/flapperultra/Banjo Kazooie - Grunty's Revenge (flapperultra).ogg",
+            "regex": "^banjo[^a-z0-9]*kazooie[^a-z0-9]*grunty[^a-z0-9]*s[^a-z0-9]*revenge$|^banjokazooiegruntysrevenge$"
+        },
+        {
+            "game": "Banjo Pilot",
+            "file": "jingles/gba/flapperultra/Banjo Pilot (flapperultra).ogg",
+            "regex": "^banjo[^a-z0-9]*pilot$|^banjopilot$"
         },
         {
             "game": "Black Matrix Zero",
@@ -2674,6 +2689,11 @@
             "regex": "^celia[^a-z0-9]*s[^a-z0-9]*stupid[^a-z0-9]*romhack[^a-z0-9]*hack$|^celiasstupidromhackhack$"
         },
         {
+            "game": "CIMA - The Enemy",
+            "file": "jingles/gba/flapperultra/CIMA - The Enemy (flapperultra).ogg",
+            "regex": "^cima[^a-z0-9]*the[^a-z0-9]*enemy$|^cimatheenemy$"
+        },
+        {
             "game": "CIMA The Enemy",
             "file": "jingles/gba/Jalmoc/CIMA The Enemy (Jalmoc).ogg",
             "regex": "^cima[^a-z0-9]*the[^a-z0-9]*enemy$|^cimatheenemy$"
@@ -2702,6 +2722,11 @@
             "game": "Dragon Ball Z - Supersonic Warriors Occidental",
             "file": "jingles/gba/Felipne87r/Dragon Ball Z - Supersonic Warriors Occidental (Felipne87r).ogg",
             "regex": "^dragon[^a-z0-9]*ball[^a-z0-9]*z[^a-z0-9]*supersonic[^a-z0-9]*warriors[^a-z0-9]*occidental$|^dragonballzsupersonicwarriorsoccidental$"
+        },
+        {
+            "game": "Dragon Quest Monsters - Caravan Heart",
+            "file": "jingles/gba/flapperultra/Dragon Quest Monsters - Caravan Heart (flapperultra).ogg",
+            "regex": "^dragon[^a-z0-9]*quest[^a-z0-9]*monsters[^a-z0-9]*caravan[^a-z0-9]*heart$|^dragonquestmonsterscaravanheart$"
         },
         {
             "game": "Drill Dozer",
@@ -2769,6 +2794,11 @@
             "regex": "^froggers[^a-z0-9]*adventures$|^froggersadventures$"
         },
         {
+            "game": "gba jingle - Apotris",
+            "file": "jingles/gba/flapperultra/gba jingle - Apotris.wav",
+            "regex": "^gba[^a-z0-9]*jingle[^a-z0-9]*apotris$|^gbajingleapotris$"
+        },
+        {
             "game": "Golden Sun",
             "file": "jingles/gba/BennyTheFirstHunter/Golden Sun (BennyTheFirstHunter).ogg",
             "regex": "^golden[^a-z0-9]*sun$|^goldensun$"
@@ -2824,9 +2854,24 @@
             "regex": "^hamtaro[^a-z0-9]*rainbow[^a-z0-9]*rescue$|^hamtarorainbowrescue$"
         },
         {
+            "game": "Invader",
+            "file": "jingles/gba/flapperultra/Invader (flapperultra).ogg",
+            "regex": "^invader$|^invader$"
+        },
+        {
+            "game": "Iridion 3D",
+            "file": "jingles/gba/flapperultra/Iridion 3D (flapperultra).ogg",
+            "regex": "^iridion[^a-z0-9]*3d$|^iridion3d$"
+        },
+        {
             "game": "Iridion II",
             "file": "jingles/gba/flapperultra/Iridion II (flapperultra).ogg",
             "regex": "^iridion[^a-z0-9]*ii$|^iridionii$"
+        },
+        {
+            "game": "Juka and the Monophonic Menace",
+            "file": "jingles/gba/flapperultra/Juka and the Monophonic Menace (flapperultra).ogg",
+            "regex": "^juka[^a-z0-9]*and[^a-z0-9]*the[^a-z0-9]*monophonic[^a-z0-9]*menace$|^jukaandthemonophonicmenace$"
         },
         {
             "game": "Jurrasic Park Builder",
@@ -2911,6 +2956,11 @@
         {
             "game": "Magical Vacation",
             "file": "jingles/gba/CirnoWaifu/Magical Vacation (CirnoWaifu).ogg",
+            "regex": "^magical[^a-z0-9]*vacation$|^magicalvacation$"
+        },
+        {
+            "game": "Magical Vacation",
+            "file": "jingles/gba/flapperultra/Magical Vacation (flapperultra).ogg",
             "regex": "^magical[^a-z0-9]*vacation$|^magicalvacation$"
         },
         {
@@ -3239,6 +3289,11 @@
             "regex": "^sabre[^a-z0-9]*wulf$|^sabrewulf$"
         },
         {
+            "game": "Scurge - Hive",
+            "file": "jingles/gba/flapperultra/Scurge - Hive (flapperultra).ogg",
+            "regex": "^scurge[^a-z0-9]*hive$|^scurgehive$"
+        },
+        {
             "game": "Shining Soul",
             "file": "jingles/gba/flapperultra/Shining Soul (flapperultra).ogg",
             "regex": "^shining[^a-z0-9]*soul$|^shiningsoul$"
@@ -3359,6 +3414,16 @@
             "regex": "^spyro[^a-z0-9]*season[^a-z0-9]*of[^a-z0-9]*ice$|^spyroseasonofice$"
         },
         {
+            "game": "Summon Night - Swordcraft Story",
+            "file": "jingles/gba/flapperultra/Summon Night - Swordcraft Story (flapperultra).ogg",
+            "regex": "^summon[^a-z0-9]*night[^a-z0-9]*swordcraft[^a-z0-9]*story$|^summonnightswordcraftstory$"
+        },
+        {
+            "game": "Summon Night - Swordcraft Story 2",
+            "file": "jingles/gba/flapperultra/Summon Night - Swordcraft Story 2 (flapperultra).ogg",
+            "regex": "^summon[^a-z0-9]*night[^a-z0-9]*swordcraft[^a-z0-9]*story[^a-z0-9]*2$|^summonnightswordcraftstory2$"
+        },
+        {
             "game": "Summon Night Swordcraft Story",
             "file": "jingles/gba/CirnoWaifu/Summon Night Swordcraft Story (CirnoWaifu).ogg",
             "regex": "^summon[^a-z0-9]*night[^a-z0-9]*swordcraft[^a-z0-9]*story$|^summonnightswordcraftstory$"
@@ -3432,6 +3497,11 @@
             "game": "Tetris Worlds (V4)",
             "file": "jingles/gba/SJH/Tetris Worlds (V4) (SJH).mp3",
             "regex": "^tetris[^a-z0-9]*worlds[^a-z0-9]*v4$|^tetrisworldsv4$"
+        },
+        {
+            "game": "The Invincible Iron Man",
+            "file": "jingles/gba/flapperultra/The Invincible Iron Man (flapperultra).ogg",
+            "regex": "^the[^a-z0-9]*invincible[^a-z0-9]*iron[^a-z0-9]*man$|^theinvincibleironman$"
         },
         {
             "game": "The Legend of Zelda - A Link to the Past + Four Swords",
@@ -3519,9 +3589,19 @@
             "regex": "^warioware[^a-z0-9]*inc$|^wariowareinc$"
         },
         {
+            "game": "Yggdra Union - We'll Never Fight Alone",
+            "file": "jingles/gba/flapperultra/Yggdra Union - We'll Never Fight Alone (flapperultra).ogg",
+            "regex": "^yggdra[^a-z0-9]*union[^a-z0-9]*we[^a-z0-9]*ll[^a-z0-9]*never[^a-z0-9]*fight[^a-z0-9]*alone$|^yggdraunionwellneverfightalone$"
+        },
+        {
             "game": "Yggdra Union We'll Never Fight Alone",
             "file": "jingles/gba/BennyTheFirstHunter/Yggdra Union We'll Never Fight Alone (BennyTheFirstHunter).ogg",
             "regex": "^yggdra[^a-z0-9]*union[^a-z0-9]*we[^a-z0-9]*ll[^a-z0-9]*never[^a-z0-9]*fight[^a-z0-9]*alone$|^yggdraunionwellneverfightalone$"
+        },
+        {
+            "game": "Yoshi Topsy Turvy",
+            "file": "jingles/gba/flapperultra/Yoshi Topsy Turvy (flapperultra).ogg",
+            "regex": "^yoshi[^a-z0-9]*topsy[^a-z0-9]*turvy$|^yoshitopsyturvy$"
         },
         {
             "game": "Yu-Gi-Oh Duelist Of The Roses (v2) (22sh)",
