@@ -10997,14 +10997,14 @@
     ],
     "ps2": [
         {
-            "game": "Ace Combat 4 - Shattered Skies",
-            "file": "jingles/ps2/Brookenium/Ace Combat 4 - Shattered Skies (Brookenium).ogg",
-            "regex": "^ace[^a-z0-9]*combat[^a-z0-9]*4[^a-z0-9]*shattered[^a-z0-9]*skies$|^acecombat4shatteredskies$"
+            "game": "Ace Combat 04 - Shattered Skies",
+            "file": "jingles/ps2/Brookenium/Ace Combat 04 - Shattered Skies (Brookenium).ogg",
+            "regex": "^ace[^a-z0-9]*combat[^a-z0-9]*04[^a-z0-9]*shattered[^a-z0-9]*skies$|^acecombat04shatteredskies$"
         },
         {
-            "game": "Ace Combat 4 - Shattered Skies (Alt)",
-            "file": "jingles/ps2/Brookenium/Ace Combat 4 - Shattered Skies (Alt) (Brookenium).ogg",
-            "regex": "^ace[^a-z0-9]*combat[^a-z0-9]*4[^a-z0-9]*shattered[^a-z0-9]*skies[^a-z0-9]*alt$|^acecombat4shatteredskiesalt$"
+            "game": "Ace Combat 04 - Shattered Skies (Alt)",
+            "file": "jingles/ps2/Brookenium/Ace Combat 04 - Shattered Skies (Alt) (Brookenium).ogg",
+            "regex": "^ace[^a-z0-9]*combat[^a-z0-9]*04[^a-z0-9]*shattered[^a-z0-9]*skies[^a-z0-9]*alt$|^acecombat04shatteredskiesalt$"
         },
         {
             "game": "Ape Escape (V1)",
@@ -11042,9 +11042,9 @@
             "regex": "^armored[^a-z0-9]*core[^a-z0-9]*3$|^armoredcore3$"
         },
         {
-            "game": "Baldur's Gate  - Dark Alliance I",
-            "file": "jingles/ps2/Brookenium/Baldur's Gate  - Dark Alliance I (Brookenium).ogg",
-            "regex": "^baldur[^a-z0-9]*s[^a-z0-9]*gate[^a-z0-9]*dark[^a-z0-9]*alliance[^a-z0-9]*i$|^baldursgatedarkalliancei$"
+            "game": "Baldur's Gate  - Dark Alliance",
+            "file": "jingles/ps2/Brookenium/Baldur's Gate  - Dark Alliance (Brookenium).ogg",
+            "regex": "^baldur[^a-z0-9]*s[^a-z0-9]*gate[^a-z0-9]*dark[^a-z0-9]*alliance$|^baldursgatedarkalliance$"
         },
         {
             "game": "Baldur's Gate  - Dark Alliance II",
@@ -11612,9 +11612,19 @@
             "regex": "^need[^a-z0-9]*for[^a-z0-9]*speed[^a-z0-9]*most[^a-z0-9]*wanted$|^needforspeedmostwanted$"
         },
         {
-            "game": "Need for Speed - Underground,",
-            "file": "jingles/ps2/Brookenium/Need for Speed - Underground, (Brookenium).ogg",
+            "game": "Need for Speed - Underground",
+            "file": "jingles/ps2/Brookenium/Need for Speed - Underground (Brookenium).ogg",
             "regex": "^need[^a-z0-9]*for[^a-z0-9]*speed[^a-z0-9]*underground$|^needforspeedunderground$"
+        },
+        {
+            "game": "Need for Speed - Underground 2",
+            "file": "jingles/ps2/Brookenium/Need for Speed - Underground 2 (Brookenium).ogg",
+            "regex": "^need[^a-z0-9]*for[^a-z0-9]*speed[^a-z0-9]*underground[^a-z0-9]*2$|^needforspeedunderground2$"
+        },
+        {
+            "game": "Need for Speed - Underground 2 (Alt)",
+            "file": "jingles/ps2/Brookenium/Need for Speed - Underground 2 (Alt) (Brookenium).ogg",
+            "regex": "^need[^a-z0-9]*for[^a-z0-9]*speed[^a-z0-9]*underground[^a-z0-9]*2[^a-z0-9]*alt$|^needforspeedunderground2alt$"
         },
         {
             "game": "Odin Sphere",
@@ -14209,6 +14219,26 @@
     ],
     "switch": [
         {
+            "game": "13 Sentinels Aegis Rim (V1)",
+            "file": "jingles/switch/SJH/13 Sentinels Aegis Rim (V1) (SJH).ogg",
+            "regex": "^13[^a-z0-9]*sentinels[^a-z0-9]*aegis[^a-z0-9]*rim[^a-z0-9]*v1$|^13sentinelsaegisrimv1$"
+        },
+        {
+            "game": "13 Sentinels Aegis Rim (V2)",
+            "file": "jingles/switch/SJH/13 Sentinels Aegis Rim (V2) (SJH).ogg",
+            "regex": "^13[^a-z0-9]*sentinels[^a-z0-9]*aegis[^a-z0-9]*rim[^a-z0-9]*v2$|^13sentinelsaegisrimv2$"
+        },
+        {
+            "game": "13 Sentinels Aegis Rim (V3)",
+            "file": "jingles/switch/SJH/13 Sentinels Aegis Rim (V3) (SJH).ogg",
+            "regex": "^13[^a-z0-9]*sentinels[^a-z0-9]*aegis[^a-z0-9]*rim[^a-z0-9]*v3$|^13sentinelsaegisrimv3$"
+        },
+        {
+            "game": "13 Sentinels Aegis Rim (V4)",
+            "file": "jingles/switch/SJH/13 Sentinels Aegis Rim (V4) (SJH).ogg",
+            "regex": "^13[^a-z0-9]*sentinels[^a-z0-9]*aegis[^a-z0-9]*rim[^a-z0-9]*v4$|^13sentinelsaegisrimv4$"
+        },
+        {
             "game": "51 World Wide Games",
             "file": "jingles/switch/flapperultra/51 World Wide Games (flapperultra).ogg",
             "regex": "^51[^a-z0-9]*world[^a-z0-9]*wide[^a-z0-9]*games$|^51worldwidegames$"
@@ -14217,6 +14247,26 @@
             "game": "Advance Wars 1+2",
             "file": "jingles/switch/flapperultra/Advance Wars 1+2 (flapperultra).ogg",
             "regex": "^advance[^a-z0-9]*wars[^a-z0-9]*1[^a-z0-9]*2$|^advancewars12$"
+        },
+        {
+            "game": "Adventure Time Pirates Of The Enchiridion (V1)",
+            "file": "jingles/switch/SJH/Adventure Time Pirates Of The Enchiridion (V1) (SJH).ogg",
+            "regex": "^adventure[^a-z0-9]*time[^a-z0-9]*pirates[^a-z0-9]*of[^a-z0-9]*the[^a-z0-9]*enchiridion[^a-z0-9]*v1$|^adventuretimepiratesoftheenchiridionv1$"
+        },
+        {
+            "game": "Adventure Time Pirates Of The Enchiridion (V2)",
+            "file": "jingles/switch/SJH/Adventure Time Pirates Of The Enchiridion (V2) (SJH).ogg",
+            "regex": "^adventure[^a-z0-9]*time[^a-z0-9]*pirates[^a-z0-9]*of[^a-z0-9]*the[^a-z0-9]*enchiridion[^a-z0-9]*v2$|^adventuretimepiratesoftheenchiridionv2$"
+        },
+        {
+            "game": "Adventure Time Pirates Of The Enchiridion (V3)",
+            "file": "jingles/switch/SJH/Adventure Time Pirates Of The Enchiridion (V3) (SJH).ogg",
+            "regex": "^adventure[^a-z0-9]*time[^a-z0-9]*pirates[^a-z0-9]*of[^a-z0-9]*the[^a-z0-9]*enchiridion[^a-z0-9]*v3$|^adventuretimepiratesoftheenchiridionv3$"
+        },
+        {
+            "game": "Adventure Time Pirates Of The Enchiridion (V4)",
+            "file": "jingles/switch/SJH/Adventure Time Pirates Of The Enchiridion (V4) (SJH).ogg",
+            "regex": "^adventure[^a-z0-9]*time[^a-z0-9]*pirates[^a-z0-9]*of[^a-z0-9]*the[^a-z0-9]*enchiridion[^a-z0-9]*v4$|^adventuretimepiratesoftheenchiridionv4$"
         },
         {
             "game": "Animal Crossing - New Horizons",
@@ -14264,9 +14314,194 @@
             "regex": "^bayonetta[^a-z0-9]*3$|^bayonetta3$"
         },
         {
+            "game": "Brawlhalla (V1)",
+            "file": "jingles/switch/SJH/Brawlhalla (V1) (SJH).ogg",
+            "regex": "^brawlhalla[^a-z0-9]*v1$|^brawlhallav1$"
+        },
+        {
+            "game": "Brawlhalla (V2)",
+            "file": "jingles/switch/SJH/Brawlhalla (V2) (SJH).ogg",
+            "regex": "^brawlhalla[^a-z0-9]*v2$|^brawlhallav2$"
+        },
+        {
+            "game": "Brawlhalla (V3)",
+            "file": "jingles/switch/SJH/Brawlhalla (V3) (SJH).ogg",
+            "regex": "^brawlhalla[^a-z0-9]*v3$|^brawlhallav3$"
+        },
+        {
+            "game": "Brawlhalla (V4)",
+            "file": "jingles/switch/SJH/Brawlhalla (V4) (SJH).ogg",
+            "regex": "^brawlhalla[^a-z0-9]*v4$|^brawlhallav4$"
+        },
+        {
+            "game": "Brawlhalla (V5)",
+            "file": "jingles/switch/SJH/Brawlhalla (V5) (SJH).ogg",
+            "regex": "^brawlhalla[^a-z0-9]*v5$|^brawlhallav5$"
+        },
+        {
+            "game": "Brawlhalla (V6)",
+            "file": "jingles/switch/SJH/Brawlhalla (V6) (SJH).ogg",
+            "regex": "^brawlhalla[^a-z0-9]*v6$|^brawlhallav6$"
+        },
+        {
+            "game": "Brawlhalla (V7)",
+            "file": "jingles/switch/SJH/Brawlhalla (V7) (SJH).ogg",
+            "regex": "^brawlhalla[^a-z0-9]*v7$|^brawlhallav7$"
+        },
+        {
+            "game": "Brawlhalla (V8)",
+            "file": "jingles/switch/SJH/Brawlhalla (V8) (SJH).ogg",
+            "regex": "^brawlhalla[^a-z0-9]*v8$|^brawlhallav8$"
+        },
+        {
+            "game": "Burnout Paradise (V1)",
+            "file": "jingles/switch/SJH/Burnout Paradise (V1) (SJH).ogg",
+            "regex": "^burnout[^a-z0-9]*paradise[^a-z0-9]*v1$|^burnoutparadisev1$"
+        },
+        {
+            "game": "Burnout Paradise (V2)",
+            "file": "jingles/switch/SJH/Burnout Paradise (V2) (SJH).ogg",
+            "regex": "^burnout[^a-z0-9]*paradise[^a-z0-9]*v2$|^burnoutparadisev2$"
+        },
+        {
+            "game": "Burnout Paradise (V3)",
+            "file": "jingles/switch/SJH/Burnout Paradise (V3) (SJH).ogg",
+            "regex": "^burnout[^a-z0-9]*paradise[^a-z0-9]*v3$|^burnoutparadisev3$"
+        },
+        {
+            "game": "Burnout Paradise (V4)",
+            "file": "jingles/switch/SJH/Burnout Paradise (V4) (SJH).ogg",
+            "regex": "^burnout[^a-z0-9]*paradise[^a-z0-9]*v4$|^burnoutparadisev4$"
+        },
+        {
             "game": "Captain Toad Treasure Tracker",
             "file": "jingles/switch/flapperultra/Captain Toad Treasure Tracker (flapperultra).ogg",
             "regex": "^captain[^a-z0-9]*toad[^a-z0-9]*treasure[^a-z0-9]*tracker$|^captaintoadtreasuretracker$"
+        },
+        {
+            "game": "Crash Bandicoot N. Sane Trilogy (V1)",
+            "file": "jingles/switch/SJH/Crash Bandicoot N. Sane Trilogy (V1) (SJH).ogg",
+            "regex": "^crash[^a-z0-9]*bandicoot[^a-z0-9]*n$|^crashbandicootn$"
+        },
+        {
+            "game": "Crash Bandicoot N. Sane Trilogy (V2)",
+            "file": "jingles/switch/SJH/Crash Bandicoot N. Sane Trilogy (V2) (SJH).ogg",
+            "regex": "^crash[^a-z0-9]*bandicoot[^a-z0-9]*n$|^crashbandicootn$"
+        },
+        {
+            "game": "Crash Bandicoot N. Sane Trilogy (V3)",
+            "file": "jingles/switch/SJH/Crash Bandicoot N. Sane Trilogy (V3) (SJH).ogg",
+            "regex": "^crash[^a-z0-9]*bandicoot[^a-z0-9]*n$|^crashbandicootn$"
+        },
+        {
+            "game": "CTGP Deluxe (V1)",
+            "file": "jingles/switch/SJH/CTGP Deluxe (V1) (SJH).ogg",
+            "regex": "^ctgp[^a-z0-9]*deluxe[^a-z0-9]*v1$|^ctgpdeluxev1$"
+        },
+        {
+            "game": "CTGP Deluxe (V2)",
+            "file": "jingles/switch/SJH/CTGP Deluxe (V2) (SJH).ogg",
+            "regex": "^ctgp[^a-z0-9]*deluxe[^a-z0-9]*v2$|^ctgpdeluxev2$"
+        },
+        {
+            "game": "CTGP Deluxe (V3)",
+            "file": "jingles/switch/SJH/CTGP Deluxe (V3) (SJH).ogg",
+            "regex": "^ctgp[^a-z0-9]*deluxe[^a-z0-9]*v3$|^ctgpdeluxev3$"
+        },
+        {
+            "game": "CTGP Deluxe (V4)",
+            "file": "jingles/switch/SJH/CTGP Deluxe (V4) (SJH).ogg",
+            "regex": "^ctgp[^a-z0-9]*deluxe[^a-z0-9]*v4$|^ctgpdeluxev4$"
+        },
+        {
+            "game": "CTGP Deluxe (V5)",
+            "file": "jingles/switch/SJH/CTGP Deluxe (V5) (SJH).ogg",
+            "regex": "^ctgp[^a-z0-9]*deluxe[^a-z0-9]*v5$|^ctgpdeluxev5$"
+        },
+        {
+            "game": "CTGP Deluxe (V6)",
+            "file": "jingles/switch/SJH/CTGP Deluxe (V6) (SJH).ogg",
+            "regex": "^ctgp[^a-z0-9]*deluxe[^a-z0-9]*v6$|^ctgpdeluxev6$"
+        },
+        {
+            "game": "Cult Of The Lamb (V1)",
+            "file": "jingles/switch/SJH/Cult Of The Lamb (V1) (SJH).ogg",
+            "regex": "^cult[^a-z0-9]*of[^a-z0-9]*the[^a-z0-9]*lamb[^a-z0-9]*v1$|^cultofthelambv1$"
+        },
+        {
+            "game": "Cult Of The Lamb (V2)",
+            "file": "jingles/switch/SJH/Cult Of The Lamb (V2) (SJH).ogg",
+            "regex": "^cult[^a-z0-9]*of[^a-z0-9]*the[^a-z0-9]*lamb[^a-z0-9]*v2$|^cultofthelambv2$"
+        },
+        {
+            "game": "Cult Of The Lamb (V3)",
+            "file": "jingles/switch/SJH/Cult Of The Lamb (V3) (SJH).ogg",
+            "regex": "^cult[^a-z0-9]*of[^a-z0-9]*the[^a-z0-9]*lamb[^a-z0-9]*v3$|^cultofthelambv3$"
+        },
+        {
+            "game": "Danganronpa 2 - Goodbye Despair (V1)",
+            "file": "jingles/switch/SJH/Danganronpa 2 - Goodbye Despair (V1) (SJH).ogg",
+            "regex": "^danganronpa[^a-z0-9]*2[^a-z0-9]*goodbye[^a-z0-9]*despair[^a-z0-9]*v1$|^danganronpa2goodbyedespairv1$"
+        },
+        {
+            "game": "Danganronpa 2 - Goodbye Despair (V2)",
+            "file": "jingles/switch/SJH/Danganronpa 2 - Goodbye Despair (V2) (SJH).ogg",
+            "regex": "^danganronpa[^a-z0-9]*2[^a-z0-9]*goodbye[^a-z0-9]*despair[^a-z0-9]*v2$|^danganronpa2goodbyedespairv2$"
+        },
+        {
+            "game": "Danganronpa 2 - Goodbye Despair (V3)",
+            "file": "jingles/switch/SJH/Danganronpa 2 - Goodbye Despair (V3) (SJH).ogg",
+            "regex": "^danganronpa[^a-z0-9]*2[^a-z0-9]*goodbye[^a-z0-9]*despair[^a-z0-9]*v3$|^danganronpa2goodbyedespairv3$"
+        },
+        {
+            "game": "Danganronpa 2 - Goodbye Despair (V4)",
+            "file": "jingles/switch/SJH/Danganronpa 2 - Goodbye Despair (V4) (SJH).ogg",
+            "regex": "^danganronpa[^a-z0-9]*2[^a-z0-9]*goodbye[^a-z0-9]*despair[^a-z0-9]*v4$|^danganronpa2goodbyedespairv4$"
+        },
+        {
+            "game": "Danganronpa V3 - Killing Harmony (V1)",
+            "file": "jingles/switch/SJH/Danganronpa V3 - Killing Harmony (V1) (SJH).ogg",
+            "regex": "^danganronpa[^a-z0-9]*v3[^a-z0-9]*killing[^a-z0-9]*harmony[^a-z0-9]*v1$|^danganronpav3killingharmonyv1$"
+        },
+        {
+            "game": "Danganronpa V3 - Killing Harmony (V2)",
+            "file": "jingles/switch/SJH/Danganronpa V3 - Killing Harmony (V2) (SJH).ogg",
+            "regex": "^danganronpa[^a-z0-9]*v3[^a-z0-9]*killing[^a-z0-9]*harmony[^a-z0-9]*v2$|^danganronpav3killingharmonyv2$"
+        },
+        {
+            "game": "Danganronpa V3 - Killing Harmony (V3)",
+            "file": "jingles/switch/SJH/Danganronpa V3 - Killing Harmony (V3) (SJH).ogg",
+            "regex": "^danganronpa[^a-z0-9]*v3[^a-z0-9]*killing[^a-z0-9]*harmony[^a-z0-9]*v3$|^danganronpav3killingharmonyv3$"
+        },
+        {
+            "game": "Danganronpa V3 - Killing Harmony (V4)",
+            "file": "jingles/switch/SJH/Danganronpa V3 - Killing Harmony (V4) (SJH).ogg",
+            "regex": "^danganronpa[^a-z0-9]*v3[^a-z0-9]*killing[^a-z0-9]*harmony[^a-z0-9]*v4$|^danganronpav3killingharmonyv4$"
+        },
+        {
+            "game": "Diablo III (V1)",
+            "file": "jingles/switch/SJH/Diablo III (V1) (SJH).ogg",
+            "regex": "^diablo[^a-z0-9]*iii[^a-z0-9]*v1$|^diabloiiiv1$"
+        },
+        {
+            "game": "Diablo III (V2)",
+            "file": "jingles/switch/SJH/Diablo III (V2) (SJH).ogg",
+            "regex": "^diablo[^a-z0-9]*iii[^a-z0-9]*v2$|^diabloiiiv2$"
+        },
+        {
+            "game": "Diablo III (V3)",
+            "file": "jingles/switch/SJH/Diablo III (V3) (SJH).ogg",
+            "regex": "^diablo[^a-z0-9]*iii[^a-z0-9]*v3$|^diabloiiiv3$"
+        },
+        {
+            "game": "Diablo III (V4)",
+            "file": "jingles/switch/SJH/Diablo III (V4) (SJH).ogg",
+            "regex": "^diablo[^a-z0-9]*iii[^a-z0-9]*v4$|^diabloiiiv4$"
+        },
+        {
+            "game": "Diablo III (V5)",
+            "file": "jingles/switch/SJH/Diablo III (V5) (SJH).ogg",
+            "regex": "^diablo[^a-z0-9]*iii[^a-z0-9]*v5$|^diabloiiiv5$"
         },
         {
             "game": "Donkey Kong Country Tropical Freeze",
@@ -14309,6 +14544,41 @@
             "regex": "^dragon[^a-z0-9]*quest[^a-z0-9]*xi$|^dragonquestxi$"
         },
         {
+            "game": "Enter The Gungeon (V1)",
+            "file": "jingles/switch/SJH/Enter The Gungeon (V1) (SJH).ogg",
+            "regex": "^enter[^a-z0-9]*the[^a-z0-9]*gungeon[^a-z0-9]*v1$|^enterthegungeonv1$"
+        },
+        {
+            "game": "Enter The Gungeon (V2)",
+            "file": "jingles/switch/SJH/Enter The Gungeon (V2) (SJH).ogg",
+            "regex": "^enter[^a-z0-9]*the[^a-z0-9]*gungeon[^a-z0-9]*v2$|^enterthegungeonv2$"
+        },
+        {
+            "game": "Enter The Gungeon (V3)",
+            "file": "jingles/switch/SJH/Enter The Gungeon (V3) (SJH).ogg",
+            "regex": "^enter[^a-z0-9]*the[^a-z0-9]*gungeon[^a-z0-9]*v3$|^enterthegungeonv3$"
+        },
+        {
+            "game": "Fire Emblem (V1)",
+            "file": "jingles/switch/SJH/Fire Emblem (V1) (SJH).ogg",
+            "regex": "^fire[^a-z0-9]*emblem[^a-z0-9]*v1$|^fireemblemv1$"
+        },
+        {
+            "game": "Fire Emblem (V2)",
+            "file": "jingles/switch/SJH/Fire Emblem (V2) (SJH).ogg",
+            "regex": "^fire[^a-z0-9]*emblem[^a-z0-9]*v2$|^fireemblemv2$"
+        },
+        {
+            "game": "Fire Emblem (V3)",
+            "file": "jingles/switch/SJH/Fire Emblem (V3) (SJH).ogg",
+            "regex": "^fire[^a-z0-9]*emblem[^a-z0-9]*v3$|^fireemblemv3$"
+        },
+        {
+            "game": "Fire Emblem (V4)",
+            "file": "jingles/switch/SJH/Fire Emblem (V4) (SJH).ogg",
+            "regex": "^fire[^a-z0-9]*emblem[^a-z0-9]*v4$|^fireemblemv4$"
+        },
+        {
             "game": "Fire Emblem - Three Houses",
             "file": "jingles/switch/flapperultra/Fire Emblem - Three Houses (flapperultra).ogg",
             "regex": "^fire[^a-z0-9]*emblem[^a-z0-9]*three[^a-z0-9]*houses$|^fireemblemthreehouses$"
@@ -14322,6 +14592,41 @@
             "game": "Game Builder Garage",
             "file": "jingles/switch/flapperultra/Game Builder Garage (flapperultra).ogg",
             "regex": "^game[^a-z0-9]*builder[^a-z0-9]*garage$|^gamebuildergarage$"
+        },
+        {
+            "game": "Gang Beasts (V1)",
+            "file": "jingles/switch/SJH/Gang Beasts (V1) (SJH).ogg",
+            "regex": "^gang[^a-z0-9]*beasts[^a-z0-9]*v1$|^gangbeastsv1$"
+        },
+        {
+            "game": "Gang Beasts (V2)",
+            "file": "jingles/switch/SJH/Gang Beasts (V2) (SJH).ogg",
+            "regex": "^gang[^a-z0-9]*beasts[^a-z0-9]*v2$|^gangbeastsv2$"
+        },
+        {
+            "game": "Golf With Your Friends (V1)",
+            "file": "jingles/switch/SJH/Golf With Your Friends (V1) (SJH).ogg",
+            "regex": "^golf[^a-z0-9]*with[^a-z0-9]*your[^a-z0-9]*friends[^a-z0-9]*v1$|^golfwithyourfriendsv1$"
+        },
+        {
+            "game": "Golf With Your Friends (V2)",
+            "file": "jingles/switch/SJH/Golf With Your Friends (V2) (SJH).ogg",
+            "regex": "^golf[^a-z0-9]*with[^a-z0-9]*your[^a-z0-9]*friends[^a-z0-9]*v2$|^golfwithyourfriendsv2$"
+        },
+        {
+            "game": "Golf With Your Friends (V3)",
+            "file": "jingles/switch/SJH/Golf With Your Friends (V3) (SJH).ogg",
+            "regex": "^golf[^a-z0-9]*with[^a-z0-9]*your[^a-z0-9]*friends[^a-z0-9]*v3$|^golfwithyourfriendsv3$"
+        },
+        {
+            "game": "House Flipper (V1)",
+            "file": "jingles/switch/SJH/House Flipper (V1) (SJH).ogg",
+            "regex": "^house[^a-z0-9]*flipper[^a-z0-9]*v1$|^houseflipperv1$"
+        },
+        {
+            "game": "House Flipper (V2)",
+            "file": "jingles/switch/SJH/House Flipper (V2) (SJH).ogg",
+            "regex": "^house[^a-z0-9]*flipper[^a-z0-9]*v2$|^houseflipperv2$"
         },
         {
             "game": "Hyrule Warriors",
@@ -14382,6 +14687,41 @@
             "game": "Mario + Rabbids - Sparks of Hope",
             "file": "jingles/switch/CirnoWaifu/Mario + Rabbids - Sparks of Hope (CirnoWaifu).ogg",
             "regex": "^mario[^a-z0-9]*rabbids[^a-z0-9]*sparks[^a-z0-9]*of[^a-z0-9]*hope$|^mariorabbidssparksofhope$"
+        },
+        {
+            "game": "Mario + Rabbids Kingdom Battle (V1)",
+            "file": "jingles/switch/SJH/Mario + Rabbids Kingdom Battle (V1) (SJH).ogg",
+            "regex": "^mario[^a-z0-9]*rabbids[^a-z0-9]*kingdom[^a-z0-9]*battle[^a-z0-9]*v1$|^mariorabbidskingdombattlev1$"
+        },
+        {
+            "game": "Mario + Rabbids Kingdom Battle (V2)",
+            "file": "jingles/switch/SJH/Mario + Rabbids Kingdom Battle (V2) (SJH).ogg",
+            "regex": "^mario[^a-z0-9]*rabbids[^a-z0-9]*kingdom[^a-z0-9]*battle[^a-z0-9]*v2$|^mariorabbidskingdombattlev2$"
+        },
+        {
+            "game": "Mario + Rabbids Kingdom Battle (V3)",
+            "file": "jingles/switch/SJH/Mario + Rabbids Kingdom Battle (V3) (SJH).ogg",
+            "regex": "^mario[^a-z0-9]*rabbids[^a-z0-9]*kingdom[^a-z0-9]*battle[^a-z0-9]*v3$|^mariorabbidskingdombattlev3$"
+        },
+        {
+            "game": "Mario + Rabbids Kingdom Battle (V4)",
+            "file": "jingles/switch/SJH/Mario + Rabbids Kingdom Battle (V4) (SJH).ogg",
+            "regex": "^mario[^a-z0-9]*rabbids[^a-z0-9]*kingdom[^a-z0-9]*battle[^a-z0-9]*v4$|^mariorabbidskingdombattlev4$"
+        },
+        {
+            "game": "Mario + Rabbids Kingdom Battle (V5)",
+            "file": "jingles/switch/SJH/Mario + Rabbids Kingdom Battle (V5) (SJH).ogg",
+            "regex": "^mario[^a-z0-9]*rabbids[^a-z0-9]*kingdom[^a-z0-9]*battle[^a-z0-9]*v5$|^mariorabbidskingdombattlev5$"
+        },
+        {
+            "game": "Mario + Rabbids Kingdom Battle (V6)",
+            "file": "jingles/switch/SJH/Mario + Rabbids Kingdom Battle (V6) (SJH).ogg",
+            "regex": "^mario[^a-z0-9]*rabbids[^a-z0-9]*kingdom[^a-z0-9]*battle[^a-z0-9]*v6$|^mariorabbidskingdombattlev6$"
+        },
+        {
+            "game": "Mario + Rabbids Kingdom Battle (V7)",
+            "file": "jingles/switch/SJH/Mario + Rabbids Kingdom Battle (V7) (SJH).ogg",
+            "regex": "^mario[^a-z0-9]*rabbids[^a-z0-9]*kingdom[^a-z0-9]*battle[^a-z0-9]*v7$|^mariorabbidskingdombattlev7$"
         },
         {
             "game": "Mario and Luigi - Brothership",
@@ -14449,6 +14789,76 @@
             "regex": "^miitopia$|^miitopia$"
         },
         {
+            "game": "Minecraft Story Mode (V1)",
+            "file": "jingles/switch/SJH/Minecraft Story Mode (V1) (SJH).ogg",
+            "regex": "^minecraft[^a-z0-9]*story[^a-z0-9]*mode[^a-z0-9]*v1$|^minecraftstorymodev1$"
+        },
+        {
+            "game": "Minecraft Story Mode (V2)",
+            "file": "jingles/switch/SJH/Minecraft Story Mode (V2) (SJH).ogg",
+            "regex": "^minecraft[^a-z0-9]*story[^a-z0-9]*mode[^a-z0-9]*v2$|^minecraftstorymodev2$"
+        },
+        {
+            "game": "Minecraft Story Mode (V3)",
+            "file": "jingles/switch/SJH/Minecraft Story Mode (V3) (SJH).ogg",
+            "regex": "^minecraft[^a-z0-9]*story[^a-z0-9]*mode[^a-z0-9]*v3$|^minecraftstorymodev3$"
+        },
+        {
+            "game": "Monster Hunter Rise (V1)",
+            "file": "jingles/switch/SJH/Monster Hunter Rise (V1) (SJH).ogg",
+            "regex": "^monster[^a-z0-9]*hunter[^a-z0-9]*rise[^a-z0-9]*v1$|^monsterhunterrisev1$"
+        },
+        {
+            "game": "Monster Hunter Rise (V2)",
+            "file": "jingles/switch/SJH/Monster Hunter Rise (V2) (SJH).ogg",
+            "regex": "^monster[^a-z0-9]*hunter[^a-z0-9]*rise[^a-z0-9]*v2$|^monsterhunterrisev2$"
+        },
+        {
+            "game": "Monster Hunter Rise (V3)",
+            "file": "jingles/switch/SJH/Monster Hunter Rise (V3) (SJH).ogg",
+            "regex": "^monster[^a-z0-9]*hunter[^a-z0-9]*rise[^a-z0-9]*v3$|^monsterhunterrisev3$"
+        },
+        {
+            "game": "Monster Hunter Rise Sunbreak (V1)",
+            "file": "jingles/switch/SJH/Monster Hunter Rise Sunbreak (V1) (SJH).ogg",
+            "regex": "^monster[^a-z0-9]*hunter[^a-z0-9]*rise[^a-z0-9]*sunbreak[^a-z0-9]*v1$|^monsterhunterrisesunbreakv1$"
+        },
+        {
+            "game": "Monster Hunter Rise Sunbreak (V2)",
+            "file": "jingles/switch/SJH/Monster Hunter Rise Sunbreak (V2) (SJH).ogg",
+            "regex": "^monster[^a-z0-9]*hunter[^a-z0-9]*rise[^a-z0-9]*sunbreak[^a-z0-9]*v2$|^monsterhunterrisesunbreakv2$"
+        },
+        {
+            "game": "Monster Hunter Rise Sunbreak (V3)",
+            "file": "jingles/switch/SJH/Monster Hunter Rise Sunbreak (V3) (SJH).ogg",
+            "regex": "^monster[^a-z0-9]*hunter[^a-z0-9]*rise[^a-z0-9]*sunbreak[^a-z0-9]*v3$|^monsterhunterrisesunbreakv3$"
+        },
+        {
+            "game": "Monster Hunter Rise Sunbreak (V4)",
+            "file": "jingles/switch/SJH/Monster Hunter Rise Sunbreak (V4) (SJH).ogg",
+            "regex": "^monster[^a-z0-9]*hunter[^a-z0-9]*rise[^a-z0-9]*sunbreak[^a-z0-9]*v4$|^monsterhunterrisesunbreakv4$"
+        },
+        {
+            "game": "N++ (V1)",
+            "file": "jingles/switch/SJH/N++ (V1) (SJH).ogg",
+            "regex": "^n[^a-z0-9]*v1$|^nv1$"
+        },
+        {
+            "game": "N++ (V2)",
+            "file": "jingles/switch/SJH/N++ (V2) (SJH).ogg",
+            "regex": "^n[^a-z0-9]*v2$|^nv2$"
+        },
+        {
+            "game": "N++ (V3)",
+            "file": "jingles/switch/SJH/N++ (V3) (SJH).ogg",
+            "regex": "^n[^a-z0-9]*v3$|^nv3$"
+        },
+        {
+            "game": "N++ (V4)",
+            "file": "jingles/switch/SJH/N++ (V4) (SJH).ogg",
+            "regex": "^n[^a-z0-9]*v4$|^nv4$"
+        },
+        {
             "game": "New Pokemon Snap",
             "file": "jingles/switch/flapperultra/New Pokemon Snap (flapperultra).ogg",
             "regex": "^new[^a-z0-9]*pokemon[^a-z0-9]*snap$|^newpokemonsnap$"
@@ -14484,6 +14894,46 @@
             "regex": "^nintendo[^a-z0-9]*switch[^a-z0-9]*v5$|^nintendoswitchv5$"
         },
         {
+            "game": "No More Heroes (V1)",
+            "file": "jingles/switch/SJH/No More Heroes (V1) (SJH).ogg",
+            "regex": "^no[^a-z0-9]*more[^a-z0-9]*heroes[^a-z0-9]*v1$|^nomoreheroesv1$"
+        },
+        {
+            "game": "No More Heroes (V2)",
+            "file": "jingles/switch/SJH/No More Heroes (V2) (SJH).ogg",
+            "regex": "^no[^a-z0-9]*more[^a-z0-9]*heroes[^a-z0-9]*v2$|^nomoreheroesv2$"
+        },
+        {
+            "game": "No More Heroes (V3)",
+            "file": "jingles/switch/SJH/No More Heroes (V3) (SJH).ogg",
+            "regex": "^no[^a-z0-9]*more[^a-z0-9]*heroes[^a-z0-9]*v3$|^nomoreheroesv3$"
+        },
+        {
+            "game": "No More Heroes (V4)",
+            "file": "jingles/switch/SJH/No More Heroes (V4) (SJH).ogg",
+            "regex": "^no[^a-z0-9]*more[^a-z0-9]*heroes[^a-z0-9]*v4$|^nomoreheroesv4$"
+        },
+        {
+            "game": "No More Heroes (V5)",
+            "file": "jingles/switch/SJH/No More Heroes (V5) (SJH).ogg",
+            "regex": "^no[^a-z0-9]*more[^a-z0-9]*heroes[^a-z0-9]*v5$|^nomoreheroesv5$"
+        },
+        {
+            "game": "No More Heroes (V6)",
+            "file": "jingles/switch/SJH/No More Heroes (V6) (SJH).ogg",
+            "regex": "^no[^a-z0-9]*more[^a-z0-9]*heroes[^a-z0-9]*v6$|^nomoreheroesv6$"
+        },
+        {
+            "game": "No More Heroes (V7)",
+            "file": "jingles/switch/SJH/No More Heroes (V7) (SJH).ogg",
+            "regex": "^no[^a-z0-9]*more[^a-z0-9]*heroes[^a-z0-9]*v7$|^nomoreheroesv7$"
+        },
+        {
+            "game": "No More Heroes (V8)",
+            "file": "jingles/switch/SJH/No More Heroes (V8) (SJH).ogg",
+            "regex": "^no[^a-z0-9]*more[^a-z0-9]*heroes[^a-z0-9]*v8$|^nomoreheroesv8$"
+        },
+        {
             "game": "Octopath Traveler",
             "file": "jingles/switch/flapperultra/Octopath Traveler (flapperultra).ogg",
             "regex": "^octopath[^a-z0-9]*traveler$|^octopathtraveler$"
@@ -14497,6 +14947,51 @@
             "game": "Octopath Traveler II",
             "file": "jingles/switch/flapperultra/Octopath Traveler II (flapperultra).ogg",
             "regex": "^octopath[^a-z0-9]*traveler[^a-z0-9]*ii$|^octopathtravelerii$"
+        },
+        {
+            "game": "Ori And The Blind Forest (V1)",
+            "file": "jingles/switch/SJH/Ori And The Blind Forest (V1) (SJH).ogg",
+            "regex": "^ori[^a-z0-9]*and[^a-z0-9]*the[^a-z0-9]*blind[^a-z0-9]*forest[^a-z0-9]*v1$|^oriandtheblindforestv1$"
+        },
+        {
+            "game": "Ori And The Blind Forest (V2)",
+            "file": "jingles/switch/SJH/Ori And The Blind Forest (V2) (SJH).ogg",
+            "regex": "^ori[^a-z0-9]*and[^a-z0-9]*the[^a-z0-9]*blind[^a-z0-9]*forest[^a-z0-9]*v2$|^oriandtheblindforestv2$"
+        },
+        {
+            "game": "Ori And The Blind Forest (V3)",
+            "file": "jingles/switch/SJH/Ori And The Blind Forest (V3) (SJH).ogg",
+            "regex": "^ori[^a-z0-9]*and[^a-z0-9]*the[^a-z0-9]*blind[^a-z0-9]*forest[^a-z0-9]*v3$|^oriandtheblindforestv3$"
+        },
+        {
+            "game": "Ori And The Blind Forest (V4)",
+            "file": "jingles/switch/SJH/Ori And The Blind Forest (V4) (SJH).ogg",
+            "regex": "^ori[^a-z0-9]*and[^a-z0-9]*the[^a-z0-9]*blind[^a-z0-9]*forest[^a-z0-9]*v4$|^oriandtheblindforestv4$"
+        },
+        {
+            "game": "Ori And The Will Of The Wisps (V1)",
+            "file": "jingles/switch/SJH/Ori And The Will Of The Wisps (V1) (SJH).ogg",
+            "regex": "^ori[^a-z0-9]*and[^a-z0-9]*the[^a-z0-9]*will[^a-z0-9]*of[^a-z0-9]*the[^a-z0-9]*wisps[^a-z0-9]*v1$|^oriandthewillofthewispsv1$"
+        },
+        {
+            "game": "Ori And The Will Of The Wisps (V2)",
+            "file": "jingles/switch/SJH/Ori And The Will Of The Wisps (V2) (SJH).ogg",
+            "regex": "^ori[^a-z0-9]*and[^a-z0-9]*the[^a-z0-9]*will[^a-z0-9]*of[^a-z0-9]*the[^a-z0-9]*wisps[^a-z0-9]*v2$|^oriandthewillofthewispsv2$"
+        },
+        {
+            "game": "Ori And The Will Of The Wisps (V3)",
+            "file": "jingles/switch/SJH/Ori And The Will Of The Wisps (V3) (SJH).ogg",
+            "regex": "^ori[^a-z0-9]*and[^a-z0-9]*the[^a-z0-9]*will[^a-z0-9]*of[^a-z0-9]*the[^a-z0-9]*wisps[^a-z0-9]*v3$|^oriandthewillofthewispsv3$"
+        },
+        {
+            "game": "Pac-Man Museum (V1)",
+            "file": "jingles/switch/SJH/Pac-Man Museum (V1) (SJH).ogg",
+            "regex": "^pac[^a-z0-9]*man[^a-z0-9]*museum[^a-z0-9]*v1$|^pacmanmuseumv1$"
+        },
+        {
+            "game": "Pac-Man Museum (V2)",
+            "file": "jingles/switch/SJH/Pac-Man Museum (V2) (SJH).ogg",
+            "regex": "^pac[^a-z0-9]*man[^a-z0-9]*museum[^a-z0-9]*v2$|^pacmanmuseumv2$"
         },
         {
             "game": "Paper Mario - Origami King",
@@ -14522,6 +15017,146 @@
             "game": "Pikmin 4",
             "file": "jingles/switch/flapperultra/Pikmin 4 (flapperultra).ogg",
             "regex": "^pikmin[^a-z0-9]*4$|^pikmin4$"
+        },
+        {
+            "game": "Pokemon - Legends Arceus (SFX1)",
+            "file": "jingles/switch/SJH/Pokemon - Legends Arceus (SFX1) (SJH).ogg",
+            "regex": "^pokemon[^a-z0-9]*legends[^a-z0-9]*arceus[^a-z0-9]*sfx1$|^pokemonlegendsarceussfx1$"
+        },
+        {
+            "game": "Pokemon - Legends Arceus (SFX2)",
+            "file": "jingles/switch/SJH/Pokemon - Legends Arceus (SFX2) (SJH).ogg",
+            "regex": "^pokemon[^a-z0-9]*legends[^a-z0-9]*arceus[^a-z0-9]*sfx2$|^pokemonlegendsarceussfx2$"
+        },
+        {
+            "game": "Pokemon - Legends Arceus (SFX3)",
+            "file": "jingles/switch/SJH/Pokemon - Legends Arceus (SFX3) (SJH).ogg",
+            "regex": "^pokemon[^a-z0-9]*legends[^a-z0-9]*arceus[^a-z0-9]*sfx3$|^pokemonlegendsarceussfx3$"
+        },
+        {
+            "game": "Pokemon - Legends Arceus (V1)",
+            "file": "jingles/switch/SJH/Pokemon - Legends Arceus (V1) (SJH).ogg",
+            "regex": "^pokemon[^a-z0-9]*legends[^a-z0-9]*arceus[^a-z0-9]*v1$|^pokemonlegendsarceusv1$"
+        },
+        {
+            "game": "Pokemon - Legends Arceus (V2)",
+            "file": "jingles/switch/SJH/Pokemon - Legends Arceus (V2) (SJH).ogg",
+            "regex": "^pokemon[^a-z0-9]*legends[^a-z0-9]*arceus[^a-z0-9]*v2$|^pokemonlegendsarceusv2$"
+        },
+        {
+            "game": "Pokemon - Legends Arceus (V3)",
+            "file": "jingles/switch/SJH/Pokemon - Legends Arceus (V3) (SJH).ogg",
+            "regex": "^pokemon[^a-z0-9]*legends[^a-z0-9]*arceus[^a-z0-9]*v3$|^pokemonlegendsarceusv3$"
+        },
+        {
+            "game": "Pokemon - Legends Arceus (V4)",
+            "file": "jingles/switch/SJH/Pokemon - Legends Arceus (V4) (SJH).ogg",
+            "regex": "^pokemon[^a-z0-9]*legends[^a-z0-9]*arceus[^a-z0-9]*v4$|^pokemonlegendsarceusv4$"
+        },
+        {
+            "game": "Pokemon - Legends Arceus (V5)",
+            "file": "jingles/switch/SJH/Pokemon - Legends Arceus (V5) (SJH).ogg",
+            "regex": "^pokemon[^a-z0-9]*legends[^a-z0-9]*arceus[^a-z0-9]*v5$|^pokemonlegendsarceusv5$"
+        },
+        {
+            "game": "Pokemon - Legends Arceus (V6)",
+            "file": "jingles/switch/SJH/Pokemon - Legends Arceus (V6) (SJH).ogg",
+            "regex": "^pokemon[^a-z0-9]*legends[^a-z0-9]*arceus[^a-z0-9]*v6$|^pokemonlegendsarceusv6$"
+        },
+        {
+            "game": "Pokemon - Lets Go Pikachu + Eevee (V1)",
+            "file": "jingles/switch/SJH/Pokemon - Lets Go Pikachu + Eevee (V1) (SJH).ogg",
+            "regex": "^pokemon[^a-z0-9]*lets[^a-z0-9]*go[^a-z0-9]*pikachu[^a-z0-9]*eevee[^a-z0-9]*v1$|^pokemonletsgopikachueeveev1$"
+        },
+        {
+            "game": "Pokemon - Lets Go Pikachu + Eevee (V2)",
+            "file": "jingles/switch/SJH/Pokemon - Lets Go Pikachu + Eevee (V2) (SJH).ogg",
+            "regex": "^pokemon[^a-z0-9]*lets[^a-z0-9]*go[^a-z0-9]*pikachu[^a-z0-9]*eevee[^a-z0-9]*v2$|^pokemonletsgopikachueeveev2$"
+        },
+        {
+            "game": "Pokemon - Lets Go Pikachu + Eevee (V3)",
+            "file": "jingles/switch/SJH/Pokemon - Lets Go Pikachu + Eevee (V3) (SJH).ogg",
+            "regex": "^pokemon[^a-z0-9]*lets[^a-z0-9]*go[^a-z0-9]*pikachu[^a-z0-9]*eevee[^a-z0-9]*v3$|^pokemonletsgopikachueeveev3$"
+        },
+        {
+            "game": "Pokemon - Lets Go Pikachu + Eevee (V4)",
+            "file": "jingles/switch/SJH/Pokemon - Lets Go Pikachu + Eevee (V4) (SJH).ogg",
+            "regex": "^pokemon[^a-z0-9]*lets[^a-z0-9]*go[^a-z0-9]*pikachu[^a-z0-9]*eevee[^a-z0-9]*v4$|^pokemonletsgopikachueeveev4$"
+        },
+        {
+            "game": "Pokemon - Lets Go Pikachu + Eevee (V5)",
+            "file": "jingles/switch/SJH/Pokemon - Lets Go Pikachu + Eevee (V5) (SJH).ogg",
+            "regex": "^pokemon[^a-z0-9]*lets[^a-z0-9]*go[^a-z0-9]*pikachu[^a-z0-9]*eevee[^a-z0-9]*v5$|^pokemonletsgopikachueeveev5$"
+        },
+        {
+            "game": "Pokemon - Lets Go Pikachu + Eevee (V6)",
+            "file": "jingles/switch/SJH/Pokemon - Lets Go Pikachu + Eevee (V6) (SJH).ogg",
+            "regex": "^pokemon[^a-z0-9]*lets[^a-z0-9]*go[^a-z0-9]*pikachu[^a-z0-9]*eevee[^a-z0-9]*v6$|^pokemonletsgopikachueeveev6$"
+        },
+        {
+            "game": "Pokemon - Sword and Shield (SFX1)",
+            "file": "jingles/switch/SJH/Pokemon - Sword and Shield (SFX1) (SJH).ogg",
+            "regex": "^pokemon[^a-z0-9]*sword[^a-z0-9]*and[^a-z0-9]*shield[^a-z0-9]*sfx1$|^pokemonswordandshieldsfx1$"
+        },
+        {
+            "game": "Pokemon - Sword and Shield (SFX10)",
+            "file": "jingles/switch/SJH/Pokemon - Sword and Shield (SFX10) (SJH).ogg",
+            "regex": "^pokemon[^a-z0-9]*sword[^a-z0-9]*and[^a-z0-9]*shield[^a-z0-9]*sfx10$|^pokemonswordandshieldsfx10$"
+        },
+        {
+            "game": "Pokemon - Sword and Shield (SFX2)",
+            "file": "jingles/switch/SJH/Pokemon - Sword and Shield (SFX2) (SJH).ogg",
+            "regex": "^pokemon[^a-z0-9]*sword[^a-z0-9]*and[^a-z0-9]*shield[^a-z0-9]*sfx2$|^pokemonswordandshieldsfx2$"
+        },
+        {
+            "game": "Pokemon - Sword and Shield (SFX3)",
+            "file": "jingles/switch/SJH/Pokemon - Sword and Shield (SFX3) (SJH).ogg",
+            "regex": "^pokemon[^a-z0-9]*sword[^a-z0-9]*and[^a-z0-9]*shield[^a-z0-9]*sfx3$|^pokemonswordandshieldsfx3$"
+        },
+        {
+            "game": "Pokemon - Sword and Shield (SFX4)",
+            "file": "jingles/switch/SJH/Pokemon - Sword and Shield (SFX4) (SJH).ogg",
+            "regex": "^pokemon[^a-z0-9]*sword[^a-z0-9]*and[^a-z0-9]*shield[^a-z0-9]*sfx4$|^pokemonswordandshieldsfx4$"
+        },
+        {
+            "game": "Pokemon - Sword and Shield (SFX5)",
+            "file": "jingles/switch/SJH/Pokemon - Sword and Shield (SFX5) (SJH).ogg",
+            "regex": "^pokemon[^a-z0-9]*sword[^a-z0-9]*and[^a-z0-9]*shield[^a-z0-9]*sfx5$|^pokemonswordandshieldsfx5$"
+        },
+        {
+            "game": "Pokemon - Sword and Shield (SFX6)",
+            "file": "jingles/switch/SJH/Pokemon - Sword and Shield (SFX6) (SJH).ogg",
+            "regex": "^pokemon[^a-z0-9]*sword[^a-z0-9]*and[^a-z0-9]*shield[^a-z0-9]*sfx6$|^pokemonswordandshieldsfx6$"
+        },
+        {
+            "game": "Pokemon - Sword and Shield (SFX7)",
+            "file": "jingles/switch/SJH/Pokemon - Sword and Shield (SFX7) (SJH).ogg",
+            "regex": "^pokemon[^a-z0-9]*sword[^a-z0-9]*and[^a-z0-9]*shield[^a-z0-9]*sfx7$|^pokemonswordandshieldsfx7$"
+        },
+        {
+            "game": "Pokemon - Sword and Shield (SFX8)",
+            "file": "jingles/switch/SJH/Pokemon - Sword and Shield (SFX8) (SJH).ogg",
+            "regex": "^pokemon[^a-z0-9]*sword[^a-z0-9]*and[^a-z0-9]*shield[^a-z0-9]*sfx8$|^pokemonswordandshieldsfx8$"
+        },
+        {
+            "game": "Pokemon - Sword and Shield (SFX9)",
+            "file": "jingles/switch/SJH/Pokemon - Sword and Shield (SFX9) (SJH).ogg",
+            "regex": "^pokemon[^a-z0-9]*sword[^a-z0-9]*and[^a-z0-9]*shield[^a-z0-9]*sfx9$|^pokemonswordandshieldsfx9$"
+        },
+        {
+            "game": "Pokemon - Sword and Shield (V1)",
+            "file": "jingles/switch/SJH/Pokemon - Sword and Shield (V1) (SJH).ogg",
+            "regex": "^pokemon[^a-z0-9]*sword[^a-z0-9]*and[^a-z0-9]*shield[^a-z0-9]*v1$|^pokemonswordandshieldv1$"
+        },
+        {
+            "game": "Pokemon - Sword and Shield (V2)",
+            "file": "jingles/switch/SJH/Pokemon - Sword and Shield (V2) (SJH).ogg",
+            "regex": "^pokemon[^a-z0-9]*sword[^a-z0-9]*and[^a-z0-9]*shield[^a-z0-9]*v2$|^pokemonswordandshieldv2$"
+        },
+        {
+            "game": "Pokemon - Sword and Shield (V3)",
+            "file": "jingles/switch/SJH/Pokemon - Sword and Shield (V3) (SJH).ogg",
+            "regex": "^pokemon[^a-z0-9]*sword[^a-z0-9]*and[^a-z0-9]*shield[^a-z0-9]*v3$|^pokemonswordandshieldv3$"
         },
         {
             "game": "Pokemon Brilliant Diamond",
@@ -14704,6 +15339,136 @@
             "regex": "^princess[^a-z0-9]*peach[^a-z0-9]*showtime$|^princesspeachshowtime$"
         },
         {
+            "game": "Risk Of Rain (V1)",
+            "file": "jingles/switch/SJH/Risk Of Rain (V1) (SJH).ogg",
+            "regex": "^risk[^a-z0-9]*of[^a-z0-9]*rain[^a-z0-9]*v1$|^riskofrainv1$"
+        },
+        {
+            "game": "Risk Of Rain (V2)",
+            "file": "jingles/switch/SJH/Risk Of Rain (V2) (SJH).ogg",
+            "regex": "^risk[^a-z0-9]*of[^a-z0-9]*rain[^a-z0-9]*v2$|^riskofrainv2$"
+        },
+        {
+            "game": "Risk Of Rain (V3)",
+            "file": "jingles/switch/SJH/Risk Of Rain (V3) (SJH).ogg",
+            "regex": "^risk[^a-z0-9]*of[^a-z0-9]*rain[^a-z0-9]*v3$|^riskofrainv3$"
+        },
+        {
+            "game": "Risk Of Rain (V4)",
+            "file": "jingles/switch/SJH/Risk Of Rain (V4) (SJH).ogg",
+            "regex": "^risk[^a-z0-9]*of[^a-z0-9]*rain[^a-z0-9]*v4$|^riskofrainv4$"
+        },
+        {
+            "game": "Risk Of Rain (V5)",
+            "file": "jingles/switch/SJH/Risk Of Rain (V5) (SJH).ogg",
+            "regex": "^risk[^a-z0-9]*of[^a-z0-9]*rain[^a-z0-9]*v5$|^riskofrainv5$"
+        },
+        {
+            "game": "Risk Of Rain (V6)",
+            "file": "jingles/switch/SJH/Risk Of Rain (V6) (SJH).ogg",
+            "regex": "^risk[^a-z0-9]*of[^a-z0-9]*rain[^a-z0-9]*v6$|^riskofrainv6$"
+        },
+        {
+            "game": "Risk Of Rain (V7)",
+            "file": "jingles/switch/SJH/Risk Of Rain (V7) (SJH).ogg",
+            "regex": "^risk[^a-z0-9]*of[^a-z0-9]*rain[^a-z0-9]*v7$|^riskofrainv7$"
+        },
+        {
+            "game": "Risk Of Rain 2 (V1)",
+            "file": "jingles/switch/SJH/Risk Of Rain 2 (V1) (SJH).ogg",
+            "regex": "^risk[^a-z0-9]*of[^a-z0-9]*rain[^a-z0-9]*2[^a-z0-9]*v1$|^riskofrain2v1$"
+        },
+        {
+            "game": "Risk Of Rain 2 (V2)",
+            "file": "jingles/switch/SJH/Risk Of Rain 2 (V2) (SJH).ogg",
+            "regex": "^risk[^a-z0-9]*of[^a-z0-9]*rain[^a-z0-9]*2[^a-z0-9]*v2$|^riskofrain2v2$"
+        },
+        {
+            "game": "Risk Of Rain 2 (V3)",
+            "file": "jingles/switch/SJH/Risk Of Rain 2 (V3) (SJH).ogg",
+            "regex": "^risk[^a-z0-9]*of[^a-z0-9]*rain[^a-z0-9]*2[^a-z0-9]*v3$|^riskofrain2v3$"
+        },
+        {
+            "game": "Risk Of Rain 2 (V4)",
+            "file": "jingles/switch/SJH/Risk Of Rain 2 (V4) (SJH).ogg",
+            "regex": "^risk[^a-z0-9]*of[^a-z0-9]*rain[^a-z0-9]*2[^a-z0-9]*v4$|^riskofrain2v4$"
+        },
+        {
+            "game": "Risk Of Rain 2 (V5)",
+            "file": "jingles/switch/SJH/Risk Of Rain 2 (V5) (SJH).ogg",
+            "regex": "^risk[^a-z0-9]*of[^a-z0-9]*rain[^a-z0-9]*2[^a-z0-9]*v5$|^riskofrain2v5$"
+        },
+        {
+            "game": "Risk Of Rain 2 (V6)",
+            "file": "jingles/switch/SJH/Risk Of Rain 2 (V6) (SJH).ogg",
+            "regex": "^risk[^a-z0-9]*of[^a-z0-9]*rain[^a-z0-9]*2[^a-z0-9]*v6$|^riskofrain2v6$"
+        },
+        {
+            "game": "Risk Of Rain 2 (V7)",
+            "file": "jingles/switch/SJH/Risk Of Rain 2 (V7) (SJH).ogg",
+            "regex": "^risk[^a-z0-9]*of[^a-z0-9]*rain[^a-z0-9]*2[^a-z0-9]*v7$|^riskofrain2v7$"
+        },
+        {
+            "game": "Rocket League (SFX1)",
+            "file": "jingles/switch/SJH/Rocket League (SFX1) (SJH).ogg",
+            "regex": "^rocket[^a-z0-9]*league[^a-z0-9]*sfx1$|^rocketleaguesfx1$"
+        },
+        {
+            "game": "Rocket League (SFX2)",
+            "file": "jingles/switch/SJH/Rocket League (SFX2) (SJH).ogg",
+            "regex": "^rocket[^a-z0-9]*league[^a-z0-9]*sfx2$|^rocketleaguesfx2$"
+        },
+        {
+            "game": "Rocket League (V1)",
+            "file": "jingles/switch/SJH/Rocket League (V1) (SJH).ogg",
+            "regex": "^rocket[^a-z0-9]*league[^a-z0-9]*v1$|^rocketleaguev1$"
+        },
+        {
+            "game": "Rocket League (V2)",
+            "file": "jingles/switch/SJH/Rocket League (V2) (SJH).ogg",
+            "regex": "^rocket[^a-z0-9]*league[^a-z0-9]*v2$|^rocketleaguev2$"
+        },
+        {
+            "game": "Rocket League (V3)",
+            "file": "jingles/switch/SJH/Rocket League (V3) (SJH).ogg",
+            "regex": "^rocket[^a-z0-9]*league[^a-z0-9]*v3$|^rocketleaguev3$"
+        },
+        {
+            "game": "Rocket League (V4)",
+            "file": "jingles/switch/SJH/Rocket League (V4) (SJH).ogg",
+            "regex": "^rocket[^a-z0-9]*league[^a-z0-9]*v4$|^rocketleaguev4$"
+        },
+        {
+            "game": "Skyrim (V1)",
+            "file": "jingles/switch/SJH/Skyrim (V1) (SJH).ogg",
+            "regex": "^skyrim[^a-z0-9]*v1$|^skyrimv1$"
+        },
+        {
+            "game": "Skyrim (V2)",
+            "file": "jingles/switch/SJH/Skyrim (V2) (SJH).ogg",
+            "regex": "^skyrim[^a-z0-9]*v2$|^skyrimv2$"
+        },
+        {
+            "game": "Skyrim (V3)",
+            "file": "jingles/switch/SJH/Skyrim (V3) (SJH).ogg",
+            "regex": "^skyrim[^a-z0-9]*v3$|^skyrimv3$"
+        },
+        {
+            "game": "Skyrim (V4)",
+            "file": "jingles/switch/SJH/Skyrim (V4) (SJH).ogg",
+            "regex": "^skyrim[^a-z0-9]*v4$|^skyrimv4$"
+        },
+        {
+            "game": "Skyrim (V5)",
+            "file": "jingles/switch/SJH/Skyrim (V5) (SJH).ogg",
+            "regex": "^skyrim[^a-z0-9]*v5$|^skyrimv5$"
+        },
+        {
+            "game": "Skyrim (V6)",
+            "file": "jingles/switch/SJH/Skyrim (V6) (SJH).ogg",
+            "regex": "^skyrim[^a-z0-9]*v6$|^skyrimv6$"
+        },
+        {
             "game": "Smash Bros Ultimate",
             "file": "jingles/switch/Gracie Failfox/Smash Bros Ultimate (Gracie Failfox).ogg",
             "regex": "^smash[^a-z0-9]*bros[^a-z0-9]*ultimate$|^smashbrosultimate$"
@@ -14712,6 +15477,86 @@
             "game": "Snipperclips",
             "file": "jingles/switch/flapperultra/Snipperclips (flapperultra).ogg",
             "regex": "^snipperclips$|^snipperclips$"
+        },
+        {
+            "game": "Sonic Frontiers (V1)",
+            "file": "jingles/switch/SJH/Sonic Frontiers (V1) (SJH).ogg",
+            "regex": "^sonic[^a-z0-9]*frontiers[^a-z0-9]*v1$|^sonicfrontiersv1$"
+        },
+        {
+            "game": "Sonic Frontiers (V10)",
+            "file": "jingles/switch/SJH/Sonic Frontiers (V10) (SJH).ogg",
+            "regex": "^sonic[^a-z0-9]*frontiers[^a-z0-9]*v10$|^sonicfrontiersv10$"
+        },
+        {
+            "game": "Sonic Frontiers (V11)",
+            "file": "jingles/switch/SJH/Sonic Frontiers (V11) (SJH).ogg",
+            "regex": "^sonic[^a-z0-9]*frontiers[^a-z0-9]*v11$|^sonicfrontiersv11$"
+        },
+        {
+            "game": "Sonic Frontiers (V12)",
+            "file": "jingles/switch/SJH/Sonic Frontiers (V12) (SJH).ogg",
+            "regex": "^sonic[^a-z0-9]*frontiers[^a-z0-9]*v12$|^sonicfrontiersv12$"
+        },
+        {
+            "game": "Sonic Frontiers (V13)",
+            "file": "jingles/switch/SJH/Sonic Frontiers (V13) (SJH).ogg",
+            "regex": "^sonic[^a-z0-9]*frontiers[^a-z0-9]*v13$|^sonicfrontiersv13$"
+        },
+        {
+            "game": "Sonic Frontiers (V14)",
+            "file": "jingles/switch/SJH/Sonic Frontiers (V14) (SJH).ogg",
+            "regex": "^sonic[^a-z0-9]*frontiers[^a-z0-9]*v14$|^sonicfrontiersv14$"
+        },
+        {
+            "game": "Sonic Frontiers (V15)",
+            "file": "jingles/switch/SJH/Sonic Frontiers (V15) (SJH).ogg",
+            "regex": "^sonic[^a-z0-9]*frontiers[^a-z0-9]*v15$|^sonicfrontiersv15$"
+        },
+        {
+            "game": "Sonic Frontiers (V16)",
+            "file": "jingles/switch/SJH/Sonic Frontiers (V16) (SJH).ogg",
+            "regex": "^sonic[^a-z0-9]*frontiers[^a-z0-9]*v16$|^sonicfrontiersv16$"
+        },
+        {
+            "game": "Sonic Frontiers (V2)",
+            "file": "jingles/switch/SJH/Sonic Frontiers (V2) (SJH).ogg",
+            "regex": "^sonic[^a-z0-9]*frontiers[^a-z0-9]*v2$|^sonicfrontiersv2$"
+        },
+        {
+            "game": "Sonic Frontiers (V3)",
+            "file": "jingles/switch/SJH/Sonic Frontiers (V3) (SJH).ogg",
+            "regex": "^sonic[^a-z0-9]*frontiers[^a-z0-9]*v3$|^sonicfrontiersv3$"
+        },
+        {
+            "game": "Sonic Frontiers (V4)",
+            "file": "jingles/switch/SJH/Sonic Frontiers (V4) (SJH).ogg",
+            "regex": "^sonic[^a-z0-9]*frontiers[^a-z0-9]*v4$|^sonicfrontiersv4$"
+        },
+        {
+            "game": "Sonic Frontiers (V5)",
+            "file": "jingles/switch/SJH/Sonic Frontiers (V5) (SJH).ogg",
+            "regex": "^sonic[^a-z0-9]*frontiers[^a-z0-9]*v5$|^sonicfrontiersv5$"
+        },
+        {
+            "game": "Sonic Frontiers (V6)",
+            "file": "jingles/switch/SJH/Sonic Frontiers (V6) (SJH).ogg",
+            "regex": "^sonic[^a-z0-9]*frontiers[^a-z0-9]*v6$|^sonicfrontiersv6$"
+        },
+        {
+            "game": "Sonic Frontiers (V7)",
+            "file": "jingles/switch/SJH/Sonic Frontiers (V7) (SJH).ogg",
+            "regex": "^sonic[^a-z0-9]*frontiers[^a-z0-9]*v7$|^sonicfrontiersv7$"
+        },
+        {
+            "game": "Sonic Frontiers (V8)",
+            "file": "jingles/switch/SJH/Sonic Frontiers (V8) (SJH).ogg",
+            "regex": "^sonic[^a-z0-9]*frontiers[^a-z0-9]*v8$|^sonicfrontiersv8$"
+        },
+        {
+            "game": "Sonic Frontiers (V9)",
+            "file": "jingles/switch/SJH/Sonic Frontiers (V9) (SJH).ogg",
+            "regex": "^sonic[^a-z0-9]*frontiers[^a-z0-9]*v9$|^sonicfrontiersv9$"
         },
         {
             "game": "Sonic Superstars",
@@ -14772,6 +15617,131 @@
             "game": "Super Mario Maker 2",
             "file": "jingles/switch/flapperultra/Super Mario Maker 2 (flapperultra).ogg",
             "regex": "^super[^a-z0-9]*mario[^a-z0-9]*maker[^a-z0-9]*2$|^supermariomaker2$"
+        },
+        {
+            "game": "Super Mario Odyssey (SFX1)",
+            "file": "jingles/switch/SJH/Super Mario Odyssey (SFX1) (SJH).ogg",
+            "regex": "^super[^a-z0-9]*mario[^a-z0-9]*odyssey[^a-z0-9]*sfx1$|^supermarioodysseysfx1$"
+        },
+        {
+            "game": "Super Mario Odyssey (SFX10)",
+            "file": "jingles/switch/SJH/Super Mario Odyssey (SFX10) (SJH).ogg",
+            "regex": "^super[^a-z0-9]*mario[^a-z0-9]*odyssey[^a-z0-9]*sfx10$|^supermarioodysseysfx10$"
+        },
+        {
+            "game": "Super Mario Odyssey (SFX11)",
+            "file": "jingles/switch/SJH/Super Mario Odyssey (SFX11) (SJH).ogg",
+            "regex": "^super[^a-z0-9]*mario[^a-z0-9]*odyssey[^a-z0-9]*sfx11$|^supermarioodysseysfx11$"
+        },
+        {
+            "game": "Super Mario Odyssey (SFX12)",
+            "file": "jingles/switch/SJH/Super Mario Odyssey (SFX12) (SJH).ogg",
+            "regex": "^super[^a-z0-9]*mario[^a-z0-9]*odyssey[^a-z0-9]*sfx12$|^supermarioodysseysfx12$"
+        },
+        {
+            "game": "Super Mario Odyssey (SFX2)",
+            "file": "jingles/switch/SJH/Super Mario Odyssey (SFX2) (SJH).ogg",
+            "regex": "^super[^a-z0-9]*mario[^a-z0-9]*odyssey[^a-z0-9]*sfx2$|^supermarioodysseysfx2$"
+        },
+        {
+            "game": "Super Mario Odyssey (SFX3)",
+            "file": "jingles/switch/SJH/Super Mario Odyssey (SFX3) (SJH).ogg",
+            "regex": "^super[^a-z0-9]*mario[^a-z0-9]*odyssey[^a-z0-9]*sfx3$|^supermarioodysseysfx3$"
+        },
+        {
+            "game": "Super Mario Odyssey (SFX4)",
+            "file": "jingles/switch/SJH/Super Mario Odyssey (SFX4) (SJH).ogg",
+            "regex": "^super[^a-z0-9]*mario[^a-z0-9]*odyssey[^a-z0-9]*sfx4$|^supermarioodysseysfx4$"
+        },
+        {
+            "game": "Super Mario Odyssey (SFX5)",
+            "file": "jingles/switch/SJH/Super Mario Odyssey (SFX5) (SJH).ogg",
+            "regex": "^super[^a-z0-9]*mario[^a-z0-9]*odyssey[^a-z0-9]*sfx5$|^supermarioodysseysfx5$"
+        },
+        {
+            "game": "Super Mario Odyssey (SFX6)",
+            "file": "jingles/switch/SJH/Super Mario Odyssey (SFX6) (SJH).ogg",
+            "regex": "^super[^a-z0-9]*mario[^a-z0-9]*odyssey[^a-z0-9]*sfx6$|^supermarioodysseysfx6$"
+        },
+        {
+            "game": "Super Mario Odyssey (SFX7)",
+            "file": "jingles/switch/SJH/Super Mario Odyssey (SFX7) (SJH).ogg",
+            "regex": "^super[^a-z0-9]*mario[^a-z0-9]*odyssey[^a-z0-9]*sfx7$|^supermarioodysseysfx7$"
+        },
+        {
+            "game": "Super Mario Odyssey (SFX8)",
+            "file": "jingles/switch/SJH/Super Mario Odyssey (SFX8) (SJH).ogg",
+            "regex": "^super[^a-z0-9]*mario[^a-z0-9]*odyssey[^a-z0-9]*sfx8$|^supermarioodysseysfx8$"
+        },
+        {
+            "game": "Super Mario Odyssey (SFX9)",
+            "file": "jingles/switch/SJH/Super Mario Odyssey (SFX9) (SJH).ogg",
+            "regex": "^super[^a-z0-9]*mario[^a-z0-9]*odyssey[^a-z0-9]*sfx9$|^supermarioodysseysfx9$"
+        },
+        {
+            "game": "Super Mario Odyssey (V1)",
+            "file": "jingles/switch/SJH/Super Mario Odyssey (V1) (SJH).ogg",
+            "regex": "^super[^a-z0-9]*mario[^a-z0-9]*odyssey[^a-z0-9]*v1$|^supermarioodysseyv1$"
+        },
+        {
+            "game": "Super Mario Odyssey (V2)",
+            "file": "jingles/switch/SJH/Super Mario Odyssey (V2) (SJH).ogg",
+            "regex": "^super[^a-z0-9]*mario[^a-z0-9]*odyssey[^a-z0-9]*v2$|^supermarioodysseyv2$"
+        },
+        {
+            "game": "Super Mario Odyssey (V3)",
+            "file": "jingles/switch/SJH/Super Mario Odyssey (V3) (SJH).ogg",
+            "regex": "^super[^a-z0-9]*mario[^a-z0-9]*odyssey[^a-z0-9]*v3$|^supermarioodysseyv3$"
+        },
+        {
+            "game": "Super Mario Odyssey (V4)",
+            "file": "jingles/switch/SJH/Super Mario Odyssey (V4) (SJH).ogg",
+            "regex": "^super[^a-z0-9]*mario[^a-z0-9]*odyssey[^a-z0-9]*v4$|^supermarioodysseyv4$"
+        },
+        {
+            "game": "Super Mario Odyssey (V5)",
+            "file": "jingles/switch/SJH/Super Mario Odyssey (V5) (SJH).ogg",
+            "regex": "^super[^a-z0-9]*mario[^a-z0-9]*odyssey[^a-z0-9]*v5$|^supermarioodysseyv5$"
+        },
+        {
+            "game": "Super Monkey Ball - Banana Blitz HD (V1)",
+            "file": "jingles/switch/SJH/Super Monkey Ball - Banana Blitz HD (V1) (SJH).ogg",
+            "regex": "^super[^a-z0-9]*monkey[^a-z0-9]*ball[^a-z0-9]*banana[^a-z0-9]*blitz[^a-z0-9]*hd[^a-z0-9]*v1$|^supermonkeyballbananablitzhdv1$"
+        },
+        {
+            "game": "Super Monkey Ball - Banana Blitz HD (V2)",
+            "file": "jingles/switch/SJH/Super Monkey Ball - Banana Blitz HD (V2) (SJH).ogg",
+            "regex": "^super[^a-z0-9]*monkey[^a-z0-9]*ball[^a-z0-9]*banana[^a-z0-9]*blitz[^a-z0-9]*hd[^a-z0-9]*v2$|^supermonkeyballbananablitzhdv2$"
+        },
+        {
+            "game": "Super Monkey Ball - Banana Blitz HD (V3)",
+            "file": "jingles/switch/SJH/Super Monkey Ball - Banana Blitz HD (V3) (SJH).ogg",
+            "regex": "^super[^a-z0-9]*monkey[^a-z0-9]*ball[^a-z0-9]*banana[^a-z0-9]*blitz[^a-z0-9]*hd[^a-z0-9]*v3$|^supermonkeyballbananablitzhdv3$"
+        },
+        {
+            "game": "Super Monkey Ball - Banana Mania (V1)",
+            "file": "jingles/switch/SJH/Super Monkey Ball - Banana Mania (V1) (SJH).ogg",
+            "regex": "^super[^a-z0-9]*monkey[^a-z0-9]*ball[^a-z0-9]*banana[^a-z0-9]*mania[^a-z0-9]*v1$|^supermonkeyballbananamaniav1$"
+        },
+        {
+            "game": "Super Monkey Ball - Banana Mania (V2)",
+            "file": "jingles/switch/SJH/Super Monkey Ball - Banana Mania (V2) (SJH).ogg",
+            "regex": "^super[^a-z0-9]*monkey[^a-z0-9]*ball[^a-z0-9]*banana[^a-z0-9]*mania[^a-z0-9]*v2$|^supermonkeyballbananamaniav2$"
+        },
+        {
+            "game": "Super Monkey Ball - Banana Mania (V3)",
+            "file": "jingles/switch/SJH/Super Monkey Ball - Banana Mania (V3) (SJH).ogg",
+            "regex": "^super[^a-z0-9]*monkey[^a-z0-9]*ball[^a-z0-9]*banana[^a-z0-9]*mania[^a-z0-9]*v3$|^supermonkeyballbananamaniav3$"
+        },
+        {
+            "game": "Super Monkey Ball - Banana Mania (V4)",
+            "file": "jingles/switch/SJH/Super Monkey Ball - Banana Mania (V4) (SJH).ogg",
+            "regex": "^super[^a-z0-9]*monkey[^a-z0-9]*ball[^a-z0-9]*banana[^a-z0-9]*mania[^a-z0-9]*v4$|^supermonkeyballbananamaniav4$"
+        },
+        {
+            "game": "Super Monkey Ball - Banana Mania (V5)",
+            "file": "jingles/switch/SJH/Super Monkey Ball - Banana Mania (V5) (SJH).ogg",
+            "regex": "^super[^a-z0-9]*monkey[^a-z0-9]*ball[^a-z0-9]*banana[^a-z0-9]*mania[^a-z0-9]*v5$|^supermonkeyballbananamaniav5$"
         },
         {
             "game": "Super Smash Bros. Ultimate",
@@ -14902,6 +15872,11 @@
             "game": "Xenoblade Chronicles Definitive",
             "file": "jingles/switch/flapperultra/Xenoblade Chronicles Definitive (flapperultra).ogg",
             "regex": "^xenoblade[^a-z0-9]*chronicles[^a-z0-9]*definitive$|^xenobladechroniclesdefinitive$"
+        },
+        {
+            "game": "YouTube",
+            "file": "jingles/switch/SJH/YouTube (SJH).ogg",
+            "regex": "^youtube$|^youtube$"
         }
     ],
     "touhou project": [
