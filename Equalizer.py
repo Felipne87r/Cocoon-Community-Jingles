@@ -17,11 +17,7 @@ else:
     # If not found, search the C: drive
     if FFMPEG is None:
         print("Searching for ffmpeg.exe...")
-
-        for path in Path("C:/").rglob("ffmpeg.exe"):
-            FFMPEG = str(path)
-            print(f"Found FFmpeg: {FFMPEG}")
-            break
+        FFMPEG = Path(r"C:\ffmpeg\bin\ffmpeg.exe")
 
 if FFMPEG is None:
     raise FileNotFoundError(
