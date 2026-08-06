@@ -11207,9 +11207,9 @@
             "regex": "^dragon[^a-z0-9]*quest[^a-z0-9]*viii$|^dragonquestviii$"
         },
         {
-            "game": "Dynasty Warriors",
-            "file": "jingles/ps2/Brookenium/Dynasty Warriors (Brookenium).ogg",
-            "regex": "^dynasty[^a-z0-9]*warriors$|^dynastywarriors$"
+            "game": "Dynasty Warriors 2",
+            "file": "jingles/ps2/Brookenium/Dynasty Warriors 2 (Brookenium).ogg",
+            "regex": "^dynasty[^a-z0-9]*warriors[^a-z0-9]*2$|^dynastywarriors2$"
         },
         {
             "game": "Dynasty Warriors 3",
@@ -11462,14 +11462,14 @@
             "regex": "^looney[^a-z0-9]*tunes[^a-z0-9]*back[^a-z0-9]*in[^a-z0-9]*action$|^looneytunesbackinaction$"
         },
         {
-            "game": "Lord of the Rings - Return of the King (Brookenium)",
-            "file": "jingles/ps2/Brookenium/Lord of the Rings - Return of the King (Brookenium) (Brookenium).ogg",
-            "regex": "^lord[^a-z0-9]*of[^a-z0-9]*the[^a-z0-9]*rings[^a-z0-9]*return[^a-z0-9]*of[^a-z0-9]*the[^a-z0-9]*king[^a-z0-9]*brookenium$|^lordoftheringsreturnofthekingbrookenium$"
+            "game": "Lord of the Rings, The - The Return of the King (Brookenium)",
+            "file": "jingles/ps2/Brookenium/Lord of the Rings, The - The Return of the King (Brookenium) (Brookenium).ogg",
+            "regex": "^lord[^a-z0-9]*of[^a-z0-9]*the[^a-z0-9]*rings[^a-z0-9]*the[^a-z0-9]*the[^a-z0-9]*return[^a-z0-9]*of[^a-z0-9]*the[^a-z0-9]*king[^a-z0-9]*brookenium$|^lordoftheringsthethereturnofthekingbrookenium$"
         },
         {
-            "game": "Lord of the Rings - The Two Towers",
-            "file": "jingles/ps2/Brookenium/Lord of the Rings - The Two Towers (Brookenium).ogg",
-            "regex": "^lord[^a-z0-9]*of[^a-z0-9]*the[^a-z0-9]*rings[^a-z0-9]*the[^a-z0-9]*two[^a-z0-9]*towers$|^lordoftheringsthetwotowers$"
+            "game": "Lord of the Rings, The - The Two Towers",
+            "file": "jingles/ps2/Brookenium/Lord of the Rings, The - The Two Towers (Brookenium).ogg",
+            "regex": "^lord[^a-z0-9]*of[^a-z0-9]*the[^a-z0-9]*rings[^a-z0-9]*the[^a-z0-9]*the[^a-z0-9]*two[^a-z0-9]*towers$|^lordoftheringsthethetwotowers$"
         },
         {
             "game": "LOTR Third Age",
@@ -11542,9 +11542,9 @@
             "regex": "^mega[^a-z0-9]*man[^a-z0-9]*x8[^a-z0-9]*alt$|^megamanx8alt$"
         },
         {
-            "game": "Metal Gear - Master Collection",
-            "file": "jingles/ps2/Brookenium/Metal Gear - Master Collection (Brookenium).ogg",
-            "regex": "^metal[^a-z0-9]*gear[^a-z0-9]*master[^a-z0-9]*collection$|^metalgearmastercollection$"
+            "game": "Metal Gear & Metal Gear 2 - Solid Snake",
+            "file": "jingles/ps2/Brookenium/Metal Gear & Metal Gear 2 - Solid Snake (Brookenium).ogg",
+            "regex": "^metal[^a-z0-9]*gear[^a-z0-9]*metal[^a-z0-9]*gear[^a-z0-9]*2[^a-z0-9]*solid[^a-z0-9]*snake$|^metalgearmetalgear2solidsnake$"
         },
         {
             "game": "metal gear solid 2",
@@ -11637,9 +11637,9 @@
             "regex": "^okami$|^okami$"
         },
         {
-            "game": "Onimusha - Blade Warriors",
-            "file": "jingles/ps2/Brookenium/Onimusha - Blade Warriors (Brookenium).ogg",
-            "regex": "^onimusha[^a-z0-9]*blade[^a-z0-9]*warriors$|^onimushabladewarriors$"
+            "game": "Onimusha - Dawn of Dreams",
+            "file": "jingles/ps2/Brookenium/Onimusha - Dawn of Dreams (Brookenium).ogg",
+            "regex": "^onimusha[^a-z0-9]*dawn[^a-z0-9]*of[^a-z0-9]*dreams$|^onimushadawnofdreams$"
         },
         {
             "game": "Onimusha 2 - Samurai's Destiny",
@@ -11857,9 +11857,9 @@
             "regex": "^soul[^a-z0-9]*eater[^a-z0-9]*battle[^a-z0-9]*resonance$|^souleaterbattleresonance$"
         },
         {
-            "game": "SoulCaliber III",
-            "file": "jingles/ps2/Brookenium/SoulCaliber III (Brookenium).ogg",
-            "regex": "^soulcaliber[^a-z0-9]*iii$|^soulcaliberiii$"
+            "game": "SoulCalibur III",
+            "file": "jingles/ps2/Brookenium/SoulCalibur III (Brookenium).ogg",
+            "regex": "^soulcalibur[^a-z0-9]*iii$|^soulcaliburiii$"
         },
         {
             "game": "Spyro - A Hero's Tail",
@@ -12264,14 +12264,14 @@
             "regex": "^metal[^a-z0-9]*gear[^a-z0-9]*solid[^a-z0-9]*portable[^a-z0-9]*ops[^a-z0-9]*plus$|^metalgearsolidportableopsplus$"
         },
         {
-            "game": "Midnight Club - DUB Edition",
-            "file": "jingles/psp/Brookenium/Midnight Club - DUB Edition (Brookenium).ogg",
-            "regex": "^midnight[^a-z0-9]*club[^a-z0-9]*dub[^a-z0-9]*edition$|^midnightclubdubedition$"
-        },
-        {
             "game": "Midnight Club - L A Remix",
             "file": "jingles/psp/Brookenium/Midnight Club - L A Remix (Brookenium).ogg",
             "regex": "^midnight[^a-z0-9]*club[^a-z0-9]*l[^a-z0-9]*a[^a-z0-9]*remix$|^midnightclublaremix$"
+        },
+        {
+            "game": "Midnight Club 3 - DUB Edition",
+            "file": "jingles/psp/Brookenium/Midnight Club 3 - DUB Edition (Brookenium).ogg",
+            "regex": "^midnight[^a-z0-9]*club[^a-z0-9]*3[^a-z0-9]*dub[^a-z0-9]*edition$|^midnightclub3dubedition$"
         },
         {
             "game": "Parappa The Rapper",
@@ -12431,6 +12431,16 @@
             "regex": "^bentley[^a-z0-9]*s[^a-z0-9]*hackpack$|^bentleyshackpack$"
         },
         {
+            "game": "Danganronpa - Killing Harmony",
+            "file": "jingles/psv/Brookenium/Danganronpa - Killing Harmony (Brookenium).ogg",
+            "regex": "^danganronpa[^a-z0-9]*killing[^a-z0-9]*harmony$|^danganronpakillingharmony$"
+        },
+        {
+            "game": "Danganronpa - Killing Harmony (Alt)",
+            "file": "jingles/psv/Brookenium/Danganronpa - Killing Harmony (Alt) (Brookenium).ogg",
+            "regex": "^danganronpa[^a-z0-9]*killing[^a-z0-9]*harmony[^a-z0-9]*alt$|^danganronpakillingharmonyalt$"
+        },
+        {
             "game": "Danganronpa - Trigger Happy Havoc",
             "file": "jingles/psv/Brookenium/Danganronpa - Trigger Happy Havoc (Brookenium).ogg",
             "regex": "^danganronpa[^a-z0-9]*trigger[^a-z0-9]*happy[^a-z0-9]*havoc$|^danganronpatriggerhappyhavoc$"
@@ -12439,16 +12449,6 @@
             "game": "Danganronpa 2 - Goodbye Despair",
             "file": "jingles/psv/Brookenium/Danganronpa 2 - Goodbye Despair (Brookenium).ogg",
             "regex": "^danganronpa[^a-z0-9]*2[^a-z0-9]*goodbye[^a-z0-9]*despair$|^danganronpa2goodbyedespair$"
-        },
-        {
-            "game": "Danganronpa V3 - Killing Harmony",
-            "file": "jingles/psv/Brookenium/Danganronpa V3 - Killing Harmony (Brookenium).ogg",
-            "regex": "^danganronpa[^a-z0-9]*v3[^a-z0-9]*killing[^a-z0-9]*harmony$|^danganronpav3killingharmony$"
-        },
-        {
-            "game": "Danganronpa V3 - Killing Harmony (Alt)",
-            "file": "jingles/psv/Brookenium/Danganronpa V3 - Killing Harmony (Alt) (Brookenium).ogg",
-            "regex": "^danganronpa[^a-z0-9]*v3[^a-z0-9]*killing[^a-z0-9]*harmony[^a-z0-9]*alt$|^danganronpav3killingharmonyalt$"
         },
         {
             "game": "Disgaea - Afternoon of Darkness",
@@ -12536,14 +12536,14 @@
             "regex": "^psv[^a-z0-9]*home[^a-z0-9]*screen$|^psvhomescreen$"
         },
         {
-            "game": "Rachet & Clank Collection",
-            "file": "jingles/psv/Brookenium/Rachet & Clank Collection (Brookenium).ogg",
-            "regex": "^rachet[^a-z0-9]*clank[^a-z0-9]*collection$|^rachetclankcollection$"
+            "game": "Ratchet & Clank Collection",
+            "file": "jingles/psv/Brookenium/Ratchet & Clank Collection (Brookenium).ogg",
+            "regex": "^ratchet[^a-z0-9]*clank[^a-z0-9]*collection$|^ratchetclankcollection$"
         },
         {
-            "game": "Rachet & Clank Full Frontal Assault",
-            "file": "jingles/psv/Brookenium/Rachet & Clank Full Frontal Assault (Brookenium).ogg",
-            "regex": "^rachet[^a-z0-9]*clank[^a-z0-9]*full[^a-z0-9]*frontal[^a-z0-9]*assault$|^rachetclankfullfrontalassault$"
+            "game": "Ratchet & Clank Full Frontal Assault",
+            "file": "jingles/psv/Brookenium/Ratchet & Clank Full Frontal Assault (Brookenium).ogg",
+            "regex": "^ratchet[^a-z0-9]*clank[^a-z0-9]*full[^a-z0-9]*frontal[^a-z0-9]*assault$|^ratchetclankfullfrontalassault$"
         },
         {
             "game": "Severed",
