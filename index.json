@@ -10997,6 +10997,16 @@
     ],
     "ps2": [
         {
+            "game": "Ace Combat 4 - Shattered Skies",
+            "file": "jingles/ps2/Brookenium/Ace Combat 4 - Shattered Skies (Brookenium).ogg",
+            "regex": "^ace[^a-z0-9]*combat[^a-z0-9]*4[^a-z0-9]*shattered[^a-z0-9]*skies$|^acecombat4shatteredskies$"
+        },
+        {
+            "game": "Ace Combat 4 - Shattered Skies (Alt)",
+            "file": "jingles/ps2/Brookenium/Ace Combat 4 - Shattered Skies (Alt) (Brookenium).ogg",
+            "regex": "^ace[^a-z0-9]*combat[^a-z0-9]*4[^a-z0-9]*shattered[^a-z0-9]*skies[^a-z0-9]*alt$|^acecombat4shatteredskiesalt$"
+        },
+        {
             "game": "Ape Escape (V1)",
             "file": "jingles/ps2/SJH/Ape Escape (V1) (SJH).mp3",
             "regex": "^ape[^a-z0-9]*escape[^a-z0-9]*v1$|^apeescapev1$"
@@ -11032,9 +11042,29 @@
             "regex": "^armored[^a-z0-9]*core[^a-z0-9]*3$|^armoredcore3$"
         },
         {
+            "game": "Baldur's Gate  - Dark Alliance I",
+            "file": "jingles/ps2/Brookenium/Baldur's Gate  - Dark Alliance I (Brookenium).ogg",
+            "regex": "^baldur[^a-z0-9]*s[^a-z0-9]*gate[^a-z0-9]*dark[^a-z0-9]*alliance[^a-z0-9]*i$|^baldursgatedarkalliancei$"
+        },
+        {
+            "game": "Baldur's Gate  - Dark Alliance II",
+            "file": "jingles/ps2/Brookenium/Baldur's Gate  - Dark Alliance II (Brookenium).ogg",
+            "regex": "^baldur[^a-z0-9]*s[^a-z0-9]*gate[^a-z0-9]*dark[^a-z0-9]*alliance[^a-z0-9]*ii$|^baldursgatedarkallianceii$"
+        },
+        {
             "game": "Berserk - Millenium Falcon",
             "file": "jingles/ps2/CirnoWaifu/Berserk - Millenium Falcon (CirnoWaifu).ogg",
             "regex": "^berserk[^a-z0-9]*millenium[^a-z0-9]*falcon$|^berserkmilleniumfalcon$"
+        },
+        {
+            "game": "Beyond Good & Evil",
+            "file": "jingles/ps2/Brookenium/Beyond Good & Evil (Brookenium).ogg",
+            "regex": "^beyond[^a-z0-9]*good[^a-z0-9]*evil$|^beyondgoodevil$"
+        },
+        {
+            "game": "Black",
+            "file": "jingles/ps2/Brookenium/Black (Brookenium).ogg",
+            "regex": "^black$|^black$"
         },
         {
             "game": "Bully",
@@ -11060,6 +11090,11 @@
             "game": "Castlevania Curse of Darkness",
             "file": "jingles/ps2/RetroWave64/Castlevania Curse of Darkness (RetroWave64).ogg",
             "regex": "^castlevania[^a-z0-9]*curse[^a-z0-9]*of[^a-z0-9]*darkness$|^castlevaniacurseofdarkness$"
+        },
+        {
+            "game": "Champions of Norrath",
+            "file": "jingles/ps2/Brookenium/Champions of Norrath (Brookenium).ogg",
+            "regex": "^champions[^a-z0-9]*of[^a-z0-9]*norrath$|^championsofnorrath$"
         },
         {
             "game": "Cowboy Bebop - Tsuitou no Yakyoku",
@@ -11088,6 +11123,11 @@
         },
         {
             "game": "Dark Cloud",
+            "file": "jingles/ps2/Brookenium/Dark Cloud (Brookenium).ogg",
+            "regex": "^dark[^a-z0-9]*cloud$|^darkcloud$"
+        },
+        {
+            "game": "Dark Cloud",
             "file": "jingles/ps2/RetroWave64/Dark Cloud (RetroWave64).ogg",
             "regex": "^dark[^a-z0-9]*cloud$|^darkcloud$"
         },
@@ -11100,6 +11140,16 @@
             "game": "def jam fight for ny",
             "file": "jingles/ps2/BennyTheFirstHunter/def jam fight for ny (BennyTheFirstHunter).ogg",
             "regex": "^def[^a-z0-9]*jam[^a-z0-9]*fight[^a-z0-9]*for[^a-z0-9]*ny$|^defjamfightforny$"
+        },
+        {
+            "game": "Destroy All Humans!",
+            "file": "jingles/ps2/Brookenium/Destroy All Humans! (Brookenium).ogg",
+            "regex": "^destroy[^a-z0-9]*all[^a-z0-9]*humans$|^destroyallhumans$"
+        },
+        {
+            "game": "Destroy All Humans! 2",
+            "file": "jingles/ps2/Brookenium/Destroy All Humans! 2 (Brookenium).ogg",
+            "regex": "^destroy[^a-z0-9]*all[^a-z0-9]*humans[^a-z0-9]*2$|^destroyallhumans2$"
         },
         {
             "game": "Devil May Cry",
@@ -11157,6 +11207,31 @@
             "regex": "^dragon[^a-z0-9]*quest[^a-z0-9]*viii$|^dragonquestviii$"
         },
         {
+            "game": "Dynasty Warriors",
+            "file": "jingles/ps2/Brookenium/Dynasty Warriors (Brookenium).ogg",
+            "regex": "^dynasty[^a-z0-9]*warriors$|^dynastywarriors$"
+        },
+        {
+            "game": "Dynasty Warriors 3",
+            "file": "jingles/ps2/Brookenium/Dynasty Warriors 3 (Brookenium).ogg",
+            "regex": "^dynasty[^a-z0-9]*warriors[^a-z0-9]*3$|^dynastywarriors3$"
+        },
+        {
+            "game": "Dynasty Warriors 4",
+            "file": "jingles/ps2/Brookenium/Dynasty Warriors 4 (Brookenium).ogg",
+            "regex": "^dynasty[^a-z0-9]*warriors[^a-z0-9]*4$|^dynastywarriors4$"
+        },
+        {
+            "game": "Dynasty Warriors 5",
+            "file": "jingles/ps2/Brookenium/Dynasty Warriors 5 (Brookenium).ogg",
+            "regex": "^dynasty[^a-z0-9]*warriors[^a-z0-9]*5$|^dynastywarriors5$"
+        },
+        {
+            "game": "Dynasty Warriors 6",
+            "file": "jingles/ps2/Brookenium/Dynasty Warriors 6 (Brookenium).ogg",
+            "regex": "^dynasty[^a-z0-9]*warriors[^a-z0-9]*6$|^dynastywarriors6$"
+        },
+        {
             "game": "Echo Night - Beyond",
             "file": "jingles/ps2/CirnoWaifu/Echo Night - Beyond (CirnoWaifu).ogg",
             "regex": "^echo[^a-z0-9]*night[^a-z0-9]*beyond$|^echonightbeyond$"
@@ -11177,6 +11252,21 @@
             "regex": "^final[^a-z0-9]*fantasy[^a-z0-9]*x$|^finalfantasyx$"
         },
         {
+            "game": "Final Fantasy X-2",
+            "file": "jingles/ps2/Brookenium/Final Fantasy X-2 (Brookenium).ogg",
+            "regex": "^final[^a-z0-9]*fantasy[^a-z0-9]*x[^a-z0-9]*2$|^finalfantasyx2$"
+        },
+        {
+            "game": "Final Fantasy X-2 (Alt 2)",
+            "file": "jingles/ps2/Brookenium/Final Fantasy X-2 (Alt 2) (Brookenium).ogg",
+            "regex": "^final[^a-z0-9]*fantasy[^a-z0-9]*x[^a-z0-9]*2[^a-z0-9]*alt[^a-z0-9]*2$|^finalfantasyx2alt2$"
+        },
+        {
+            "game": "Final Fantasy X-2 (Alt)",
+            "file": "jingles/ps2/Brookenium/Final Fantasy X-2 (Alt) (Brookenium).ogg",
+            "regex": "^final[^a-z0-9]*fantasy[^a-z0-9]*x[^a-z0-9]*2[^a-z0-9]*alt$|^finalfantasyx2alt$"
+        },
+        {
             "game": "Final Fantasy XI",
             "file": "jingles/ps2/Natalie/Final Fantasy XI (Natalie).ogg",
             "regex": "^final[^a-z0-9]*fantasy[^a-z0-9]*xi$|^finalfantasyxi$"
@@ -11185,6 +11275,11 @@
             "game": "Final Fantasy XII",
             "file": "jingles/ps2/Natalie/Final Fantasy XII (Natalie).ogg",
             "regex": "^final[^a-z0-9]*fantasy[^a-z0-9]*xii$|^finalfantasyxii$"
+        },
+        {
+            "game": "Gauntlet Dark Legacy (Brookenium)",
+            "file": "jingles/ps2/Brookenium/Gauntlet Dark Legacy (Brookenium) (Brookenium).ogg",
+            "regex": "^gauntlet[^a-z0-9]*dark[^a-z0-9]*legacy[^a-z0-9]*brookenium$|^gauntletdarklegacybrookenium$"
         },
         {
             "game": "Ghosthunter",
@@ -11207,6 +11302,21 @@
             "regex": "^god[^a-z0-9]*of[^a-z0-9]*war$|^godofwar$"
         },
         {
+            "game": "God of War II",
+            "file": "jingles/ps2/Brookenium/God of War II (Brookenium).ogg",
+            "regex": "^god[^a-z0-9]*of[^a-z0-9]*war[^a-z0-9]*ii$|^godofwarii$"
+        },
+        {
+            "game": "Gran Turismo 3",
+            "file": "jingles/ps2/Brookenium/Gran Turismo 3 (Brookenium).ogg",
+            "regex": "^gran[^a-z0-9]*turismo[^a-z0-9]*3$|^granturismo3$"
+        },
+        {
+            "game": "Gran Turismo 4",
+            "file": "jingles/ps2/Brookenium/Gran Turismo 4 (Brookenium).ogg",
+            "regex": "^gran[^a-z0-9]*turismo[^a-z0-9]*4$|^granturismo4$"
+        },
+        {
             "game": "Grand Theft Auto - San Andreas",
             "file": "jingles/ps2/CirnoWaifu/Grand Theft Auto - San Andreas (CirnoWaifu).ogg",
             "regex": "^grand[^a-z0-9]*theft[^a-z0-9]*auto[^a-z0-9]*san[^a-z0-9]*andreas$|^grandtheftautosanandreas$"
@@ -11225,6 +11335,11 @@
             "game": "Gregory Horror Show",
             "file": "jingles/ps2/CirnoWaifu/Gregory Horror Show (CirnoWaifu).ogg",
             "regex": "^gregory[^a-z0-9]*horror[^a-z0-9]*show$|^gregoryhorrorshow$"
+        },
+        {
+            "game": "Harvest Moon - A Wonderful Life (Brookenium)",
+            "file": "jingles/ps2/Brookenium/Harvest Moon - A Wonderful Life (Brookenium) (Brookenium).ogg",
+            "regex": "^harvest[^a-z0-9]*moon[^a-z0-9]*a[^a-z0-9]*wonderful[^a-z0-9]*life[^a-z0-9]*brookenium$|^harvestmoonawonderfullifebrookenium$"
         },
         {
             "game": "Haunting Ground",
@@ -11302,6 +11417,11 @@
             "regex": "^kingdom[^a-z0-9]*hearts[^a-z0-9]*hikari$|^kingdomheartshikari$"
         },
         {
+            "game": "Kingdom Hearts - RE-Chain of Memories",
+            "file": "jingles/ps2/Brookenium/Kingdom Hearts - RE-Chain of Memories (Brookenium).ogg",
+            "regex": "^kingdom[^a-z0-9]*hearts[^a-z0-9]*re[^a-z0-9]*chain[^a-z0-9]*of[^a-z0-9]*memories$|^kingdomheartsrechainofmemories$"
+        },
+        {
             "game": "Kingdom Hearts II",
             "file": "jingles/ps2/CirnoWaifu/Kingdom Hearts II (CirnoWaifu).ogg",
             "regex": "^kingdom[^a-z0-9]*hearts[^a-z0-9]*ii$|^kingdomheartsii$"
@@ -11342,6 +11462,16 @@
             "regex": "^looney[^a-z0-9]*tunes[^a-z0-9]*back[^a-z0-9]*in[^a-z0-9]*action$|^looneytunesbackinaction$"
         },
         {
+            "game": "Lord of the Rings - Return of the King (Brookenium)",
+            "file": "jingles/ps2/Brookenium/Lord of the Rings - Return of the King (Brookenium) (Brookenium).ogg",
+            "regex": "^lord[^a-z0-9]*of[^a-z0-9]*the[^a-z0-9]*rings[^a-z0-9]*return[^a-z0-9]*of[^a-z0-9]*the[^a-z0-9]*king[^a-z0-9]*brookenium$|^lordoftheringsreturnofthekingbrookenium$"
+        },
+        {
+            "game": "Lord of the Rings - The Two Towers",
+            "file": "jingles/ps2/Brookenium/Lord of the Rings - The Two Towers (Brookenium).ogg",
+            "regex": "^lord[^a-z0-9]*of[^a-z0-9]*the[^a-z0-9]*rings[^a-z0-9]*the[^a-z0-9]*two[^a-z0-9]*towers$|^lordoftheringsthetwotowers$"
+        },
+        {
             "game": "LOTR Third Age",
             "file": "jingles/ps2/BennyTheFirstHunter/LOTR Third Age (BennyTheFirstHunter).ogg",
             "regex": "^lotr[^a-z0-9]*third[^a-z0-9]*age$|^lotrthirdage$"
@@ -11360,6 +11490,11 @@
             "game": "Mana Khemia Alchemists of Al-Revis",
             "file": "jingles/ps2/RetroWave64/Mana Khemia Alchemists of Al-Revis (RetroWave64).ogg",
             "regex": "^mana[^a-z0-9]*khemia[^a-z0-9]*alchemists[^a-z0-9]*of[^a-z0-9]*al[^a-z0-9]*revis$|^manakhemiaalchemistsofalrevis$"
+        },
+        {
+            "game": "Maximo - Ghosts to Glory",
+            "file": "jingles/ps2/Brookenium/Maximo - Ghosts to Glory (Brookenium).ogg",
+            "regex": "^maximo[^a-z0-9]*ghosts[^a-z0-9]*to[^a-z0-9]*glory$|^maximoghoststoglory$"
         },
         {
             "game": "Mega Man Anniversary Collection",
@@ -11405,6 +11540,11 @@
             "game": "Mega Man X8 (alt)",
             "file": "jingles/ps2/Gracie Failfox/Mega Man X8 (alt) (Gracie Failfox).ogg",
             "regex": "^mega[^a-z0-9]*man[^a-z0-9]*x8[^a-z0-9]*alt$|^megamanx8alt$"
+        },
+        {
+            "game": "Metal Gear - Master Collection",
+            "file": "jingles/ps2/Brookenium/Metal Gear - Master Collection (Brookenium).ogg",
+            "regex": "^metal[^a-z0-9]*gear[^a-z0-9]*master[^a-z0-9]*collection$|^metalgearmastercollection$"
         },
         {
             "game": "metal gear solid 2",
@@ -11462,6 +11602,21 @@
             "regex": "^nba[^a-z0-9]*street[^a-z0-9]*vol[^a-z0-9]*2$|^nbastreetvol2$"
         },
         {
+            "game": "Need for Speed - Hot Pursuit 2",
+            "file": "jingles/ps2/Brookenium/Need for Speed - Hot Pursuit 2 (Brookenium).ogg",
+            "regex": "^need[^a-z0-9]*for[^a-z0-9]*speed[^a-z0-9]*hot[^a-z0-9]*pursuit[^a-z0-9]*2$|^needforspeedhotpursuit2$"
+        },
+        {
+            "game": "Need for Speed - Most Wanted",
+            "file": "jingles/ps2/Brookenium/Need for Speed - Most Wanted (Brookenium).ogg",
+            "regex": "^need[^a-z0-9]*for[^a-z0-9]*speed[^a-z0-9]*most[^a-z0-9]*wanted$|^needforspeedmostwanted$"
+        },
+        {
+            "game": "Need for Speed - Underground,",
+            "file": "jingles/ps2/Brookenium/Need for Speed - Underground, (Brookenium).ogg",
+            "regex": "^need[^a-z0-9]*for[^a-z0-9]*speed[^a-z0-9]*underground$|^needforspeedunderground$"
+        },
+        {
             "game": "Odin Sphere",
             "file": "jingles/ps2/CirnoWaifu/Odin Sphere (CirnoWaifu).ogg",
             "regex": "^odin[^a-z0-9]*sphere$|^odinsphere$"
@@ -11470,6 +11625,21 @@
             "game": "Okami",
             "file": "jingles/ps2/CirnoWaifu/Okami (CirnoWaifu).ogg",
             "regex": "^okami$|^okami$"
+        },
+        {
+            "game": "Onimusha - Blade Warriors",
+            "file": "jingles/ps2/Brookenium/Onimusha - Blade Warriors (Brookenium).ogg",
+            "regex": "^onimusha[^a-z0-9]*blade[^a-z0-9]*warriors$|^onimushabladewarriors$"
+        },
+        {
+            "game": "Onimusha 2 - Samurai's Destiny",
+            "file": "jingles/ps2/Brookenium/Onimusha 2 - Samurai's Destiny (Brookenium).ogg",
+            "regex": "^onimusha[^a-z0-9]*2[^a-z0-9]*samurai[^a-z0-9]*s[^a-z0-9]*destiny$|^onimusha2samuraisdestiny$"
+        },
+        {
+            "game": "Onimusha 3 - Demon Siege",
+            "file": "jingles/ps2/Brookenium/Onimusha 3 - Demon Siege (Brookenium).ogg",
+            "regex": "^onimusha[^a-z0-9]*3[^a-z0-9]*demon[^a-z0-9]*siege$|^onimusha3demonsiege$"
         },
         {
             "game": "Outrun 2006",
@@ -11542,6 +11712,11 @@
             "regex": "^resident[^a-z0-9]*evil[^a-z0-9]*survivor[^a-z0-9]*2[^a-z0-9]*code[^a-z0-9]*veronica$|^residentevilsurvivor2codeveronica$"
         },
         {
+            "game": "Rez",
+            "file": "jingles/ps2/Brookenium/Rez (Brookenium).ogg",
+            "regex": "^rez$|^rez$"
+        },
+        {
             "game": "Secret Agent Clank",
             "file": "jingles/ps2/CirnoWaifu/Secret Agent Clank (CirnoWaifu).ogg",
             "regex": "^secret[^a-z0-9]*agent[^a-z0-9]*clank$|^secretagentclank$"
@@ -11560,6 +11735,31 @@
             "game": "Shin Megami Tensei - Digital Devil Saga",
             "file": "jingles/ps2/CirnoWaifu/Shin Megami Tensei - Digital Devil Saga (CirnoWaifu).ogg",
             "regex": "^shin[^a-z0-9]*megami[^a-z0-9]*tensei[^a-z0-9]*digital[^a-z0-9]*devil[^a-z0-9]*saga$|^shinmegamitenseidigitaldevilsaga$"
+        },
+        {
+            "game": "Shin Megami Tensei - Persona 3",
+            "file": "jingles/ps2/Brookenium/Shin Megami Tensei - Persona 3 (Brookenium).ogg",
+            "regex": "^shin[^a-z0-9]*megami[^a-z0-9]*tensei[^a-z0-9]*persona[^a-z0-9]*3$|^shinmegamitenseipersona3$"
+        },
+        {
+            "game": "Shin Megami Tensei - Persona 3 (Alt)",
+            "file": "jingles/ps2/Brookenium/Shin Megami Tensei - Persona 3 (Alt) (Brookenium).ogg",
+            "regex": "^shin[^a-z0-9]*megami[^a-z0-9]*tensei[^a-z0-9]*persona[^a-z0-9]*3[^a-z0-9]*alt$|^shinmegamitenseipersona3alt$"
+        },
+        {
+            "game": "Shin Megami Tensei - Persona 3 FES",
+            "file": "jingles/ps2/Brookenium/Shin Megami Tensei - Persona 3 FES (Brookenium).ogg",
+            "regex": "^shin[^a-z0-9]*megami[^a-z0-9]*tensei[^a-z0-9]*persona[^a-z0-9]*3[^a-z0-9]*fes$|^shinmegamitenseipersona3fes$"
+        },
+        {
+            "game": "Shin Megami Tensei - Persona 3 FES (Alt)",
+            "file": "jingles/ps2/Brookenium/Shin Megami Tensei - Persona 3 FES (Alt) (Brookenium).ogg",
+            "regex": "^shin[^a-z0-9]*megami[^a-z0-9]*tensei[^a-z0-9]*persona[^a-z0-9]*3[^a-z0-9]*fes[^a-z0-9]*alt$|^shinmegamitenseipersona3fesalt$"
+        },
+        {
+            "game": "Shin Megami Tensei - Persona 4",
+            "file": "jingles/ps2/Brookenium/Shin Megami Tensei - Persona 4 (Brookenium).ogg",
+            "regex": "^shin[^a-z0-9]*megami[^a-z0-9]*tensei[^a-z0-9]*persona[^a-z0-9]*4$|^shinmegamitenseipersona4$"
         },
         {
             "game": "Silent Hill - Origins",
@@ -11647,6 +11847,11 @@
             "regex": "^soul[^a-z0-9]*eater[^a-z0-9]*battle[^a-z0-9]*resonance$|^souleaterbattleresonance$"
         },
         {
+            "game": "SoulCaliber III",
+            "file": "jingles/ps2/Brookenium/SoulCaliber III (Brookenium).ogg",
+            "regex": "^soulcaliber[^a-z0-9]*iii$|^soulcaliberiii$"
+        },
+        {
             "game": "Spyro - A Hero's Tail",
             "file": "jingles/ps2/CirnoWaifu/Spyro - A Hero's Tail (CirnoWaifu).ogg",
             "regex": "^spyro[^a-z0-9]*a[^a-z0-9]*hero[^a-z0-9]*s[^a-z0-9]*tail$|^spyroaherostail$"
@@ -11655,6 +11860,26 @@
             "game": "Spyro - Enter the Dragonfly",
             "file": "jingles/ps2/CirnoWaifu/Spyro - Enter the Dragonfly (CirnoWaifu).ogg",
             "regex": "^spyro[^a-z0-9]*enter[^a-z0-9]*the[^a-z0-9]*dragonfly$|^spyroenterthedragonfly$"
+        },
+        {
+            "game": "SSX",
+            "file": "jingles/ps2/Brookenium/SSX (Brookenium).ogg",
+            "regex": "^ssx$|^ssx$"
+        },
+        {
+            "game": "SSX 3",
+            "file": "jingles/ps2/Brookenium/SSX 3 (Brookenium).ogg",
+            "regex": "^ssx[^a-z0-9]*3$|^ssx3$"
+        },
+        {
+            "game": "SSX On Tour",
+            "file": "jingles/ps2/Brookenium/SSX On Tour (Brookenium).ogg",
+            "regex": "^ssx[^a-z0-9]*on[^a-z0-9]*tour$|^ssxontour$"
+        },
+        {
+            "game": "SSX Tricky",
+            "file": "jingles/ps2/Brookenium/SSX Tricky (Brookenium).ogg",
+            "regex": "^ssx[^a-z0-9]*tricky$|^ssxtricky$"
         },
         {
             "game": "Teenage Mutant Ninja Turtles",
@@ -11700,6 +11925,41 @@
             "game": "Tokyo Xtreme Racer Drift 2",
             "file": "jingles/ps2/BennyTheFirstHunter/Tokyo Xtreme Racer Drift 2 (BennyTheFirstHunter).ogg",
             "regex": "^tokyo[^a-z0-9]*xtreme[^a-z0-9]*racer[^a-z0-9]*drift[^a-z0-9]*2$|^tokyoxtremeracerdrift2$"
+        },
+        {
+            "game": "Tom Clancy's Splinter Cell",
+            "file": "jingles/ps2/Brookenium/Tom Clancy's Splinter Cell (Brookenium).ogg",
+            "regex": "^tom[^a-z0-9]*clancy[^a-z0-9]*s[^a-z0-9]*splinter[^a-z0-9]*cell$|^tomclancyssplintercell$"
+        },
+        {
+            "game": "Tom Clancy's Splinter Cell Chaos Theory",
+            "file": "jingles/ps2/Brookenium/Tom Clancy's Splinter Cell Chaos Theory (Brookenium).ogg",
+            "regex": "^tom[^a-z0-9]*clancy[^a-z0-9]*s[^a-z0-9]*splinter[^a-z0-9]*cell[^a-z0-9]*chaos[^a-z0-9]*theory$|^tomclancyssplintercellchaostheory$"
+        },
+        {
+            "game": "Tom Clancy's Splinter Cell Double Agent",
+            "file": "jingles/ps2/Brookenium/Tom Clancy's Splinter Cell Double Agent (Brookenium).ogg",
+            "regex": "^tom[^a-z0-9]*clancy[^a-z0-9]*s[^a-z0-9]*splinter[^a-z0-9]*cell[^a-z0-9]*double[^a-z0-9]*agent$|^tomclancyssplintercelldoubleagent$"
+        },
+        {
+            "game": "Tom Clancy's Splinter Cell Pandora Tomorrow",
+            "file": "jingles/ps2/Brookenium/Tom Clancy's Splinter Cell Pandora Tomorrow (Brookenium).ogg",
+            "regex": "^tom[^a-z0-9]*clancy[^a-z0-9]*s[^a-z0-9]*splinter[^a-z0-9]*cell[^a-z0-9]*pandora[^a-z0-9]*tomorrow$|^tomclancyssplintercellpandoratomorrow$"
+        },
+        {
+            "game": "Tony Hawk's Pro Skater 3",
+            "file": "jingles/ps2/Brookenium/Tony Hawk's Pro Skater 3 (Brookenium).ogg",
+            "regex": "^tony[^a-z0-9]*hawk[^a-z0-9]*s[^a-z0-9]*pro[^a-z0-9]*skater[^a-z0-9]*3$|^tonyhawksproskater3$"
+        },
+        {
+            "game": "Tony Hawk's Pro Skater 4",
+            "file": "jingles/ps2/Brookenium/Tony Hawk's Pro Skater 4 (Brookenium).ogg",
+            "regex": "^tony[^a-z0-9]*hawk[^a-z0-9]*s[^a-z0-9]*pro[^a-z0-9]*skater[^a-z0-9]*4$|^tonyhawksproskater4$"
+        },
+        {
+            "game": "Tony Hawk's Underground 2",
+            "file": "jingles/ps2/Brookenium/Tony Hawk's Underground 2 (Brookenium).ogg",
+            "regex": "^tony[^a-z0-9]*hawk[^a-z0-9]*s[^a-z0-9]*underground[^a-z0-9]*2$|^tonyhawksunderground2$"
         },
         {
             "game": "Urbz",
@@ -11759,6 +12019,11 @@
             "regex": "^bakemonogatari[^a-z0-9]*portable$|^bakemonogatariportable$"
         },
         {
+            "game": "Burnout Legends",
+            "file": "jingles/psp/Brookenium/Burnout Legends (Brookenium).ogg",
+            "regex": "^burnout[^a-z0-9]*legends$|^burnoutlegends$"
+        },
+        {
             "game": "Castlevania - The Dracula X Chronicles",
             "file": "jingles/psp/CirnoWaifu/Castlevania - The Dracula X Chronicles (CirnoWaifu).ogg",
             "regex": "^castlevania[^a-z0-9]*the[^a-z0-9]*dracula[^a-z0-9]*x[^a-z0-9]*chronicles$|^castlevaniathedraculaxchronicles$"
@@ -11767,6 +12032,11 @@
             "game": "Cladun - This is an RPG",
             "file": "jingles/psp/CirnoWaifu/Cladun - This is an RPG (CirnoWaifu).ogg",
             "regex": "^cladun[^a-z0-9]*this[^a-z0-9]*is[^a-z0-9]*an[^a-z0-9]*rpg$|^cladunthisisanrpg$"
+        },
+        {
+            "game": "Crisis Core - Final Fantasy VII",
+            "file": "jingles/psp/Brookenium/Crisis Core - Final Fantasy VII (Brookenium).ogg",
+            "regex": "^crisis[^a-z0-9]*core[^a-z0-9]*final[^a-z0-9]*fantasy[^a-z0-9]*vii$|^crisiscorefinalfantasyvii$"
         },
         {
             "game": "Crisis Core - Final Fantasy VII",
@@ -11792,6 +12062,11 @@
             "game": "DJ Max Portable - Black Square",
             "file": "jingles/psp/CirnoWaifu/DJ Max Portable - Black Square (CirnoWaifu).ogg",
             "regex": "^dj[^a-z0-9]*max[^a-z0-9]*portable[^a-z0-9]*black[^a-z0-9]*square$|^djmaxportableblacksquare$"
+        },
+        {
+            "game": "Final Fantasy Tactics - The War of the Lions",
+            "file": "jingles/psp/Brookenium/Final Fantasy Tactics - The War of the Lions (Brookenium).ogg",
+            "regex": "^final[^a-z0-9]*fantasy[^a-z0-9]*tactics[^a-z0-9]*the[^a-z0-9]*war[^a-z0-9]*of[^a-z0-9]*the[^a-z0-9]*lions$|^finalfantasytacticsthewarofthelions$"
         },
         {
             "game": "Grand Theft Auto - Liberty City Stories",
@@ -11889,6 +12164,26 @@
             "regex": "^lucky[^a-z0-9]*star[^a-z0-9]*net[^a-z0-9]*idol[^a-z0-9]*meister$|^luckystarnetidolmeister$"
         },
         {
+            "game": "Lumines - Electronic Symphony",
+            "file": "jingles/psp/Brookenium/Lumines - Electronic Symphony (Brookenium).ogg",
+            "regex": "^lumines[^a-z0-9]*electronic[^a-z0-9]*symphony$|^lumineselectronicsymphony$"
+        },
+        {
+            "game": "Lumines - Puzzle Fusion",
+            "file": "jingles/psp/Brookenium/Lumines - Puzzle Fusion (Brookenium).ogg",
+            "regex": "^lumines[^a-z0-9]*puzzle[^a-z0-9]*fusion$|^luminespuzzlefusion$"
+        },
+        {
+            "game": "Lumines II",
+            "file": "jingles/psp/Brookenium/Lumines II (Brookenium).ogg",
+            "regex": "^lumines[^a-z0-9]*ii$|^luminesii$"
+        },
+        {
+            "game": "Manhunt 2",
+            "file": "jingles/psp/Brookenium/Manhunt 2 (Brookenium).ogg",
+            "regex": "^manhunt[^a-z0-9]*2$|^manhunt2$"
+        },
+        {
             "game": "Me and My Katamari",
             "file": "jingles/psp/CirnoWaifu/Me and My Katamari (CirnoWaifu).ogg",
             "regex": "^me[^a-z0-9]*and[^a-z0-9]*my[^a-z0-9]*katamari$|^meandmykatamari$"
@@ -11929,6 +12224,16 @@
             "regex": "^mega[^a-z0-9]*man[^a-z0-9]*powered[^a-z0-9]*up[^a-z0-9]*alt$|^megamanpoweredupalt$"
         },
         {
+            "game": "Metal Gear Ac!d",
+            "file": "jingles/psp/Brookenium/Metal Gear Ac!d (Brookenium).ogg",
+            "regex": "^metal[^a-z0-9]*gear[^a-z0-9]*ac[^a-z0-9]*d$|^metalgearacd$"
+        },
+        {
+            "game": "Metal Gear Ac!d 2",
+            "file": "jingles/psp/Brookenium/Metal Gear Ac!d 2 (Brookenium).ogg",
+            "regex": "^metal[^a-z0-9]*gear[^a-z0-9]*ac[^a-z0-9]*d[^a-z0-9]*2$|^metalgearacd2$"
+        },
+        {
             "game": "Metal Gear Acid",
             "file": "jingles/psp/CirnoWaifu/Metal Gear Acid (CirnoWaifu).ogg",
             "regex": "^metal[^a-z0-9]*gear[^a-z0-9]*acid$|^metalgearacid$"
@@ -11949,14 +12254,44 @@
             "regex": "^metal[^a-z0-9]*gear[^a-z0-9]*solid[^a-z0-9]*portable[^a-z0-9]*ops[^a-z0-9]*plus$|^metalgearsolidportableopsplus$"
         },
         {
+            "game": "Midnight Club - DUB Edition",
+            "file": "jingles/psp/Brookenium/Midnight Club - DUB Edition (Brookenium).ogg",
+            "regex": "^midnight[^a-z0-9]*club[^a-z0-9]*dub[^a-z0-9]*edition$|^midnightclubdubedition$"
+        },
+        {
+            "game": "Midnight Club - L A Remix",
+            "file": "jingles/psp/Brookenium/Midnight Club - L A Remix (Brookenium).ogg",
+            "regex": "^midnight[^a-z0-9]*club[^a-z0-9]*l[^a-z0-9]*a[^a-z0-9]*remix$|^midnightclublaremix$"
+        },
+        {
             "game": "Parappa The Rapper",
             "file": "jingles/psp/somecallmesean/Parappa The Rapper (somecallmesean).ogg",
             "regex": "^parappa[^a-z0-9]*the[^a-z0-9]*rapper$|^parappatherapper$"
         },
         {
             "game": "Patapon",
+            "file": "jingles/psp/Brookenium/Patapon (Brookenium).ogg",
+            "regex": "^patapon$|^patapon$"
+        },
+        {
+            "game": "Patapon",
             "file": "jingles/psp/CirnoWaifu/Patapon (CirnoWaifu).ogg",
             "regex": "^patapon$|^patapon$"
+        },
+        {
+            "game": "Patapon 2",
+            "file": "jingles/psp/Brookenium/Patapon 2 (Brookenium).ogg",
+            "regex": "^patapon[^a-z0-9]*2$|^patapon2$"
+        },
+        {
+            "game": "Patapon 3",
+            "file": "jingles/psp/Brookenium/Patapon 3 (Brookenium).ogg",
+            "regex": "^patapon[^a-z0-9]*3$|^patapon3$"
+        },
+        {
+            "game": "Persona 3 - Portable",
+            "file": "jingles/psp/Brookenium/Persona 3 - Portable (Brookenium).ogg",
+            "regex": "^persona[^a-z0-9]*3[^a-z0-9]*portable$|^persona3portable$"
         },
         {
             "game": "Persona 3 Portable (FEMC Variant)",
@@ -11974,6 +12309,11 @@
             "regex": "^phantasy[^a-z0-9]*star[^a-z0-9]*portable[^a-z0-9]*no[^a-z0-9]*lyrics$|^phantasystarportablenolyrics$"
         },
         {
+            "game": "Phantasy Star Portable 2",
+            "file": "jingles/psp/Brookenium/Phantasy Star Portable 2 (Brookenium).ogg",
+            "regex": "^phantasy[^a-z0-9]*star[^a-z0-9]*portable[^a-z0-9]*2$|^phantasystarportable2$"
+        },
+        {
             "game": "Phantom Brave - The Hermuda Triangle",
             "file": "jingles/psp/CirnoWaifu/Phantom Brave - The Hermuda Triangle (CirnoWaifu).ogg",
             "regex": "^phantom[^a-z0-9]*brave[^a-z0-9]*the[^a-z0-9]*hermuda[^a-z0-9]*triangle$|^phantombravethehermudatriangle$"
@@ -11987,6 +12327,16 @@
             "game": "PSP (Title Screen)",
             "file": "jingles/psp/Brookenium/PSP (Title Screen) (Brookenium).ogg",
             "regex": "^psp[^a-z0-9]*title[^a-z0-9]*screen$|^psptitlescreen$"
+        },
+        {
+            "game": "Shin Megami Tensei - Persona",
+            "file": "jingles/psp/Brookenium/Shin Megami Tensei - Persona (Brookenium).ogg",
+            "regex": "^shin[^a-z0-9]*megami[^a-z0-9]*tensei[^a-z0-9]*persona$|^shinmegamitenseipersona$"
+        },
+        {
+            "game": "Shin Megami Tensei - Persona (Alt)",
+            "file": "jingles/psp/Brookenium/Shin Megami Tensei - Persona (Alt) (Brookenium).ogg",
+            "regex": "^shin[^a-z0-9]*megami[^a-z0-9]*tensei[^a-z0-9]*persona[^a-z0-9]*alt$|^shinmegamitenseipersonaalt$"
         },
         {
             "game": "Sol Trigger",
@@ -12007,6 +12357,11 @@
             "game": "Splinter Cell Essentials",
             "file": "jingles/psp/CirnoWaifu/Splinter Cell Essentials (CirnoWaifu).ogg",
             "regex": "^splinter[^a-z0-9]*cell[^a-z0-9]*essentials$|^splintercellessentials$"
+        },
+        {
+            "game": "Star Wars - Battlefront II",
+            "file": "jingles/psp/Brookenium/Star Wars - Battlefront II (Brookenium).ogg",
+            "regex": "^star[^a-z0-9]*wars[^a-z0-9]*battlefront[^a-z0-9]*ii$|^starwarsbattlefrontii$"
         },
         {
             "game": "Super Robot Taisen A - Portable",
@@ -12032,6 +12387,11 @@
             "game": "The 3rd Birthday",
             "file": "jingles/psp/CirnoWaifu/The 3rd Birthday (CirnoWaifu).ogg",
             "regex": "^the[^a-z0-9]*3rd[^a-z0-9]*birthday$|^the3rdbirthday$"
+        },
+        {
+            "game": "Tony Hawk's Underground 2 Remix",
+            "file": "jingles/psp/Brookenium/Tony Hawk's Underground 2 Remix (Brookenium).ogg",
+            "regex": "^tony[^a-z0-9]*hawk[^a-z0-9]*s[^a-z0-9]*underground[^a-z0-9]*2[^a-z0-9]*remix$|^tonyhawksunderground2remix$"
         },
         {
             "game": "Yu-Gi-Oh ARC-V Tag Force Special",
@@ -12061,9 +12421,49 @@
             "regex": "^bentley[^a-z0-9]*s[^a-z0-9]*hackpack$|^bentleyshackpack$"
         },
         {
+            "game": "Danganronpa - Trigger Happy Havoc",
+            "file": "jingles/psv/Brookenium/Danganronpa - Trigger Happy Havoc (Brookenium).ogg",
+            "regex": "^danganronpa[^a-z0-9]*trigger[^a-z0-9]*happy[^a-z0-9]*havoc$|^danganronpatriggerhappyhavoc$"
+        },
+        {
+            "game": "Danganronpa 2 - Goodbye Despair",
+            "file": "jingles/psv/Brookenium/Danganronpa 2 - Goodbye Despair (Brookenium).ogg",
+            "regex": "^danganronpa[^a-z0-9]*2[^a-z0-9]*goodbye[^a-z0-9]*despair$|^danganronpa2goodbyedespair$"
+        },
+        {
+            "game": "Danganronpa V3 - Killing Harmony",
+            "file": "jingles/psv/Brookenium/Danganronpa V3 - Killing Harmony (Brookenium).ogg",
+            "regex": "^danganronpa[^a-z0-9]*v3[^a-z0-9]*killing[^a-z0-9]*harmony$|^danganronpav3killingharmony$"
+        },
+        {
+            "game": "Danganronpa V3 - Killing Harmony (Alt)",
+            "file": "jingles/psv/Brookenium/Danganronpa V3 - Killing Harmony (Alt) (Brookenium).ogg",
+            "regex": "^danganronpa[^a-z0-9]*v3[^a-z0-9]*killing[^a-z0-9]*harmony[^a-z0-9]*alt$|^danganronpav3killingharmonyalt$"
+        },
+        {
+            "game": "Disgaea - Afternoon of Darkness",
+            "file": "jingles/psv/Brookenium/Disgaea - Afternoon of Darkness (Brookenium).ogg",
+            "regex": "^disgaea[^a-z0-9]*afternoon[^a-z0-9]*of[^a-z0-9]*darkness$|^disgaeaafternoonofdarkness$"
+        },
+        {
+            "game": "Disgaea 2 - Dark Hero Days",
+            "file": "jingles/psv/Brookenium/Disgaea 2 - Dark Hero Days (Brookenium).ogg",
+            "regex": "^disgaea[^a-z0-9]*2[^a-z0-9]*dark[^a-z0-9]*hero[^a-z0-9]*days$|^disgaea2darkherodays$"
+        },
+        {
             "game": "Disgaea 3 - Absence of Detention",
             "file": "jingles/psv/CirnoWaifu/Disgaea 3 - Absence of Detention (CirnoWaifu).ogg",
             "regex": "^disgaea[^a-z0-9]*3[^a-z0-9]*absence[^a-z0-9]*of[^a-z0-9]*detention$|^disgaea3absenceofdetention$"
+        },
+        {
+            "game": "Disgaea 4 - A Promise Unforgiven",
+            "file": "jingles/psv/Brookenium/Disgaea 4 - A Promise Unforgiven (Brookenium).ogg",
+            "regex": "^disgaea[^a-z0-9]*4[^a-z0-9]*a[^a-z0-9]*promise[^a-z0-9]*unforgiven$|^disgaea4apromiseunforgiven$"
+        },
+        {
+            "game": "Dragon's Crown",
+            "file": "jingles/psv/Brookenium/Dragon's Crown (Brookenium).ogg",
+            "regex": "^dragon[^a-z0-9]*s[^a-z0-9]*crown$|^dragonscrown$"
         },
         {
             "game": "Gravity Rush",
@@ -12071,9 +12471,24 @@
             "regex": "^gravity[^a-z0-9]*rush$|^gravityrush$"
         },
         {
+            "game": "Grim Fandango",
+            "file": "jingles/psv/Brookenium/Grim Fandango (Brookenium).ogg",
+            "regex": "^grim[^a-z0-9]*fandango$|^grimfandango$"
+        },
+        {
+            "game": "Hotline Miami",
+            "file": "jingles/psv/Brookenium/Hotline Miami (Brookenium).ogg",
+            "regex": "^hotline[^a-z0-9]*miami$|^hotlinemiami$"
+        },
+        {
             "game": "Hyperdimension Neptunia - Producing Perfection",
             "file": "jingles/psv/CirnoWaifu/Hyperdimension Neptunia - Producing Perfection (CirnoWaifu).ogg",
             "regex": "^hyperdimension[^a-z0-9]*neptunia[^a-z0-9]*producing[^a-z0-9]*perfection$|^hyperdimensionneptuniaproducingperfection$"
+        },
+        {
+            "game": "Muramasa Rebirth",
+            "file": "jingles/psv/Brookenium/Muramasa Rebirth (Brookenium).ogg",
+            "regex": "^muramasa[^a-z0-9]*rebirth$|^muramasarebirth$"
         },
         {
             "game": "Ninja Gaiden Sigma Plus",
@@ -12087,8 +12502,18 @@
         },
         {
             "game": "Persona 4 - Dancing All Night",
+            "file": "jingles/psv/Brookenium/Persona 4 - Dancing All Night (Brookenium).ogg",
+            "regex": "^persona[^a-z0-9]*4[^a-z0-9]*dancing[^a-z0-9]*all[^a-z0-9]*night$|^persona4dancingallnight$"
+        },
+        {
+            "game": "Persona 4 - Dancing All Night",
             "file": "jingles/psv/CirnoWaifu/Persona 4 - Dancing All Night (CirnoWaifu).ogg",
             "regex": "^persona[^a-z0-9]*4[^a-z0-9]*dancing[^a-z0-9]*all[^a-z0-9]*night$|^persona4dancingallnight$"
+        },
+        {
+            "game": "Persona 4 Golden",
+            "file": "jingles/psv/Brookenium/Persona 4 Golden (Brookenium).ogg",
+            "regex": "^persona[^a-z0-9]*4[^a-z0-9]*golden$|^persona4golden$"
         },
         {
             "game": "Persona 5 - Dancing in Starlight",
@@ -12101,6 +12526,21 @@
             "regex": "^psv[^a-z0-9]*home[^a-z0-9]*screen$|^psvhomescreen$"
         },
         {
+            "game": "Rachet & Clank Collection",
+            "file": "jingles/psv/Brookenium/Rachet & Clank Collection (Brookenium).ogg",
+            "regex": "^rachet[^a-z0-9]*clank[^a-z0-9]*collection$|^rachetclankcollection$"
+        },
+        {
+            "game": "Rachet & Clank Full Frontal Assault",
+            "file": "jingles/psv/Brookenium/Rachet & Clank Full Frontal Assault (Brookenium).ogg",
+            "regex": "^rachet[^a-z0-9]*clank[^a-z0-9]*full[^a-z0-9]*frontal[^a-z0-9]*assault$|^rachetclankfullfrontalassault$"
+        },
+        {
+            "game": "Severed",
+            "file": "jingles/psv/Brookenium/Severed (Brookenium).ogg",
+            "regex": "^severed$|^severed$"
+        },
+        {
             "game": "Silent Hill - Book of Memories",
             "file": "jingles/psv/CirnoWaifu/Silent Hill - Book of Memories (CirnoWaifu).ogg",
             "regex": "^silent[^a-z0-9]*hill[^a-z0-9]*book[^a-z0-9]*of[^a-z0-9]*memories$|^silenthillbookofmemories$"
@@ -12109,6 +12549,36 @@
             "game": "Sly Cooper - Thieves in Time",
             "file": "jingles/psv/CirnoWaifu/Sly Cooper - Thieves in Time (CirnoWaifu).ogg",
             "regex": "^sly[^a-z0-9]*cooper[^a-z0-9]*thieves[^a-z0-9]*in[^a-z0-9]*time$|^slycooperthievesintime$"
+        },
+        {
+            "game": "Steins;Gate",
+            "file": "jingles/psv/Brookenium/Steins;Gate (Brookenium).ogg",
+            "regex": "^steins[^a-z0-9]*gate$|^steinsgate$"
+        },
+        {
+            "game": "Steins;Gate 0",
+            "file": "jingles/psv/Brookenium/Steins;Gate 0 (Brookenium).ogg",
+            "regex": "^steins[^a-z0-9]*gate[^a-z0-9]*0$|^steinsgate0$"
+        },
+        {
+            "game": "The Nonary Games",
+            "file": "jingles/psv/Brookenium/The Nonary Games (Brookenium).ogg",
+            "regex": "^the[^a-z0-9]*nonary[^a-z0-9]*games$|^thenonarygames$"
+        },
+        {
+            "game": "TxK",
+            "file": "jingles/psv/Brookenium/TxK (Brookenium).ogg",
+            "regex": "^txk$|^txk$"
+        },
+        {
+            "game": "Velocity 2X",
+            "file": "jingles/psv/Brookenium/Velocity 2X (Brookenium).ogg",
+            "regex": "^velocity[^a-z0-9]*2x$|^velocity2x$"
+        },
+        {
+            "game": "Ys - Memories of Celceta",
+            "file": "jingles/psv/Brookenium/Ys - Memories of Celceta (Brookenium).ogg",
+            "regex": "^ys[^a-z0-9]*memories[^a-z0-9]*of[^a-z0-9]*celceta$|^ysmemoriesofcelceta$"
         }
     ],
     "psx": [
@@ -12318,6 +12788,11 @@
             "regex": "^dragon[^a-z0-9]*quest[^a-z0-9]*vii$|^dragonquestvii$"
         },
         {
+            "game": "Dynasty Warriors",
+            "file": "jingles/psx/Brookenium/Dynasty Warriors (Brookenium).ogg",
+            "regex": "^dynasty[^a-z0-9]*warriors$|^dynastywarriors$"
+        },
+        {
             "game": "Eternal Eyes",
             "file": "jingles/psx/flapperultra/Eternal Eyes (flapperultra).ogg",
             "regex": "^eternal[^a-z0-9]*eyes$|^eternaleyes$"
@@ -12371,6 +12846,11 @@
             "game": "Grand Theft Auto 2",
             "file": "jingles/psx/CirnoWaifu/Grand Theft Auto 2 (CirnoWaifu).ogg",
             "regex": "^grand[^a-z0-9]*theft[^a-z0-9]*auto[^a-z0-9]*2$|^grandtheftauto2$"
+        },
+        {
+            "game": "Harvest Moon - Back to Nature",
+            "file": "jingles/psx/Brookenium/Harvest Moon - Back to Nature (Brookenium).ogg",
+            "regex": "^harvest[^a-z0-9]*moon[^a-z0-9]*back[^a-z0-9]*to[^a-z0-9]*nature$|^harvestmoonbacktonature$"
         },
         {
             "game": "Jade Cocoon",
@@ -12688,6 +13168,16 @@
             "regex": "^spider[^a-z0-9]*man[^a-z0-9]*ps1$|^spidermanps1$"
         },
         {
+            "game": "Spider-Man",
+            "file": "jingles/psx/Brookenium/Spider-Man (Brookenium).ogg",
+            "regex": "^spider[^a-z0-9]*man$|^spiderman$"
+        },
+        {
+            "game": "Spider-Man 2 - Enter - Electro",
+            "file": "jingles/psx/Brookenium/Spider-Man 2 - Enter - Electro (Brookenium).ogg",
+            "regex": "^spider[^a-z0-9]*man[^a-z0-9]*2[^a-z0-9]*enter[^a-z0-9]*electro$|^spiderman2enterelectro$"
+        },
+        {
             "game": "Spongebob Super Sponge",
             "file": "jingles/psx/Felipne87r/Spongebob Super Sponge (Felipne87r).ogg",
             "regex": "^spongebob[^a-z0-9]*super[^a-z0-9]*sponge$|^spongebobsupersponge$"
@@ -12833,9 +13323,34 @@
             "regex": "^tomba[^a-z0-9]*2$|^tomba2$"
         },
         {
+            "game": "Tony Hawk's Pro Skater 1",
+            "file": "jingles/psx/Brookenium/Tony Hawk's Pro Skater 1 (Brookenium).ogg",
+            "regex": "^tony[^a-z0-9]*hawk[^a-z0-9]*s[^a-z0-9]*pro[^a-z0-9]*skater[^a-z0-9]*1$|^tonyhawksproskater1$"
+        },
+        {
+            "game": "Tony Hawk's Pro Skater 2",
+            "file": "jingles/psx/Brookenium/Tony Hawk's Pro Skater 2 (Brookenium).ogg",
+            "regex": "^tony[^a-z0-9]*hawk[^a-z0-9]*s[^a-z0-9]*pro[^a-z0-9]*skater[^a-z0-9]*2$|^tonyhawksproskater2$"
+        },
+        {
+            "game": "Tony Hawk's Pro Skater 3",
+            "file": "jingles/psx/Brookenium/Tony Hawk's Pro Skater 3 (Brookenium).ogg",
+            "regex": "^tony[^a-z0-9]*hawk[^a-z0-9]*s[^a-z0-9]*pro[^a-z0-9]*skater[^a-z0-9]*3$|^tonyhawksproskater3$"
+        },
+        {
+            "game": "Tony Hawk's Pro Skater 4",
+            "file": "jingles/psx/Brookenium/Tony Hawk's Pro Skater 4 (Brookenium).ogg",
+            "regex": "^tony[^a-z0-9]*hawk[^a-z0-9]*s[^a-z0-9]*pro[^a-z0-9]*skater[^a-z0-9]*4$|^tonyhawksproskater4$"
+        },
+        {
             "game": "Um Jammer Lammy",
             "file": "jingles/psx/CirnoWaifu/Um Jammer Lammy (CirnoWaifu).ogg",
             "regex": "^um[^a-z0-9]*jammer[^a-z0-9]*lammy$|^umjammerlammy$"
+        },
+        {
+            "game": "Vagrant Story",
+            "file": "jingles/psx/Brookenium/Vagrant Story (Brookenium).ogg",
+            "regex": "^vagrant[^a-z0-9]*story$|^vagrantstory$"
         },
         {
             "game": "Valkyrie Profile",
@@ -12861,6 +13376,11 @@
             "game": "Wild Arms",
             "file": "jingles/psx/CirnoWaifu/Wild Arms (CirnoWaifu).ogg",
             "regex": "^wild[^a-z0-9]*arms$|^wildarms$"
+        },
+        {
+            "game": "Wipeout XL",
+            "file": "jingles/psx/Brookenium/Wipeout XL (Brookenium).ogg",
+            "regex": "^wipeout[^a-z0-9]*xl$|^wipeoutxl$"
         },
         {
             "game": "Xenogears",
