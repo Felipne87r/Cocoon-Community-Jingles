@@ -316,43 +316,7 @@
 
 ### Nintendo Switch (38)
 
-- 13 Sentinels Aegis Rim
-- Adventure Time Pirates of the Enchiridion
-- Brawlhalla
-- Burnout Paradise
-- Crash Bandicoot N. Sane Trilogy
-- CTGP Deluxe
-- Cult of the Lamb
-- Danganronpa 2 - Goodbye Despair
-- Danganronpa V3 - Killing Harmony
-- Diablo III
-- Enter the Gungeon
 - Fire Emblem Warriors
-- Gang Beasts
-- Golf With Your Friends
-- House Flipper
-- Mario + Rabbids Kingdom Battle
-- Minecraft - Story Mode
-- Monster Hunter Rise
-- Monster Hunter Rise Sunbreak
-- N++
-- No More Heroes
-- Ori and the Blind Forest
-- Ori and the Will of the Wisps
-- Pac-Man Museum
-- Pokemon Legends Arceus
-- Pokemon Let's Go Eevee
-- Pokemon Let's Go Pikachu
-- Pokemon Swsh
-- Risk of Rain
-- Risk of Rain 2
-- Rocket League
-- Skyrim
-- Sonic Frontiers
-- Super Mario Odyssey
-- Super Monkey Ball Banana Blitz HD
-- Super Monkey Ball Banana Mania
-- YouTube
 
 ### Sega 32X (0)
 
