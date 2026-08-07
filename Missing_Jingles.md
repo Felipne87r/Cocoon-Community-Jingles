@@ -26,7 +26,6 @@
 - FINAL FIGHT 2
 - FIRE EMBLEM THRACIA 776
 - JOJOS BIZZARE ADVENTURE
-- Kirby's Dream Land 3
 - MAJIN TENSEI
 - MONOPOLY
 - Mortal Kombat 3
@@ -136,8 +135,8 @@
 - Kirby Canvas Curse
 - Mario Hoops 3-on-3
 - Mario Party DS
-- Pokemon Dash
-- Pokemon Typing Adventure
+- Pokémon Dash
+- Pokémon Typing Adventure
 - Resident Evil Deadly Silence
 - Rhythm Heaven
 - Ridge Racer DS
@@ -202,7 +201,7 @@
 - Crashmo
 - Crayon Shin-chan - Gekiatsu! Oden wa Rudo Dai Konran!!
 - Crayon Shin-chan - Uchuu de Achoo! - Yuujou no Oba-Karate!!
-- Ctgp 7
+- CTGP 7
 - Culdcept Revolt
 - Digimon Universe - Appli Monsters
 - Dillons Dead Heat Breakers
@@ -254,8 +253,8 @@
 - One Piece - Super Grand Battle! X
 - One Piece - Unlimited Cruise SP2
 - Pac-Man and the Ghostly Adventures 2
-- Pokemon Moon
-- Pokemon Picross
+- Pokémon Moon
+- Pokémon Picross
 - Pokemon Shuffle
 - Project X Zone
 - Project X Zone 2
@@ -328,7 +327,7 @@
 - Shinobi III - Return of the Ninja Master
 - Sonic the Hedgehog 3 Complete
 - Sonic the Hedgehog Chaos
-- Tails Adventure
+- Tails' Adventure
 - The Lion King
 - Ultimate Mortal Kombat 3
 
@@ -442,8 +441,6 @@
 - Portal 2
 - Rainbow Six Vegas
 - Sonic the Hedgehog 2006
-- Sonic the Hedgehog 4 - Episode I
-- Sonic the Hedgehog 4 - Episode II
 - Tomb Raider (2013)
 
 ### Arcade (0)
@@ -473,7 +470,6 @@
 - Flock Around
 - FNF Weekly
 - Fowl Damage
-- Friday Night Funkin'
 - Gang Beasts
 - Golf With Your Friends
 - Hades
@@ -511,11 +507,8 @@
 - Sonic Frontiers
 - Sonic Legacy
 - Sonic Robo Blast 2 Kart
-- Sonic the Hedgehog 4 - Episode I
-- Sonic the Hedgehog 4 - Episode II
 - Sonic Triple Trouble (16-Bit)
 - Steamworld dig 2
-- Super Mario Bros CD
 - THE FINALS
 - Tomb Raider (2013)
 - TOREE
@@ -540,18 +533,13 @@
 - Brawlhalla
 - Clash of Clans
 - Clash Royale
-- Friday Night Funkin
 - Jetpack Joyride
 - Monument Valley
 - Monument Valley 3
 - Portal
 - Run Sackboy Run!
-- Sonic Runners
-- Sonic the Hedgehog 4 - Episode I
-- Sonic the Hedgehog 4 - Episode II
 - Temple Run
 - Temple Run 2
-- Where's My Water
 
 ### PC-98 (0)
 
