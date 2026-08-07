@@ -6034,6 +6034,11 @@
             "regex": "^magnetica$|^magnetica$"
         },
         {
+            "game": "Mario & Luigi - Partners in Time",
+            "file": "jingles/nds/Felipne87r/Mario & Luigi - Partners in Time (Felipne87r).ogg",
+            "regex": "^mario[^a-z0-9]*luigi[^a-z0-9]*partners[^a-z0-9]*in[^a-z0-9]*time$|^marioluigipartnersintime$"
+        },
+        {
             "game": "Mario & Sonic at the Olympic Games",
             "file": "jingles/nds/Just Josh/Mario & Sonic at the Olympic Games (Just Josh).ogg",
             "regex": "^mario[^a-z0-9]*sonic[^a-z0-9]*at[^a-z0-9]*the[^a-z0-9]*olympic[^a-z0-9]*games$|^mariosonicattheolympicgames$"
@@ -6056,11 +6061,6 @@
         {
             "game": "Mario and Luigi - Partners in Time",
             "file": "jingles/nds/CirnoWaifu/Mario and Luigi - Partners in Time (CirnoWaifu).ogg",
-            "regex": "^mario[^a-z0-9]*and[^a-z0-9]*luigi[^a-z0-9]*partners[^a-z0-9]*in[^a-z0-9]*time$|^marioandluigipartnersintime$"
-        },
-        {
-            "game": "Mario and Luigi - Partners in Time",
-            "file": "jingles/nds/Felipne87r/Mario and Luigi - Partners in Time (Felipne87r).ogg",
             "regex": "^mario[^a-z0-9]*and[^a-z0-9]*luigi[^a-z0-9]*partners[^a-z0-9]*in[^a-z0-9]*time$|^marioandluigipartnersintime$"
         },
         {
@@ -6319,8 +6319,8 @@
             "regex": "^new[^a-z0-9]*super[^a-z0-9]*mario[^a-z0-9]*bros[^a-z0-9]*ds[^a-z0-9]*v9$|^newsupermariobrosdsv9$"
         },
         {
-            "game": "Newer Super Mario Bros",
-            "file": "jingles/nds/Felipne87r/Newer Super Mario Bros (Felipne87r).ogg",
+            "game": "Newer Super Mario Bros. DS",
+            "file": "jingles/nds/Felipne87r/Newer Super Mario Bros. DS (Felipne87r).ogg",
             "regex": "^newer[^a-z0-9]*super[^a-z0-9]*mario[^a-z0-9]*bros$|^newersupermariobros$"
         },
         {
@@ -13188,9 +13188,9 @@
             "regex": "^spider[^a-z0-9]*man[^a-z0-9]*2[^a-z0-9]*enter[^a-z0-9]*electro$|^spiderman2enterelectro$"
         },
         {
-            "game": "Spongebob Super Sponge",
-            "file": "jingles/psx/Felipne87r/Spongebob Super Sponge (Felipne87r).ogg",
-            "regex": "^spongebob[^a-z0-9]*super[^a-z0-9]*sponge$|^spongebobsupersponge$"
+            "game": "SpongeBob SquarePants - SuperSponge",
+            "file": "jingles/psx/Felipne87r/SpongeBob SquarePants - SuperSponge (Felipne87r).ogg",
+            "regex": "^spongebob[^a-z0-9]*squarepants[^a-z0-9]*supersponge$|^spongebobsquarepantssupersponge$"
         },
         {
             "game": "Spyro",
@@ -14032,24 +14032,24 @@
             "regex": "^super[^a-z0-9]*mario[^a-z0-9]*all[^a-z0-9]*stars$|^supermarioallstars$"
         },
         {
-            "game": "Super Mario CD (aloha) (hack)",
-            "file": "jingles/snes/Felipne87r/Super Mario CD (aloha) (hack) (Felipne87r).ogg",
-            "regex": "^super[^a-z0-9]*mario[^a-z0-9]*cd[^a-z0-9]*aloha[^a-z0-9]*hack$|^supermariocdalohahack$"
+            "game": "Super Mario Bros. CD (Aloha) (hack)",
+            "file": "jingles/snes/Felipne87r/Super Mario Bros. CD (Aloha) (hack) (Felipne87r).ogg",
+            "regex": "^super[^a-z0-9]*mario[^a-z0-9]*bros$|^supermariobros$"
         },
         {
-            "game": "Super Mario CD (barracuda barry) (hack)",
-            "file": "jingles/snes/Felipne87r/Super Mario CD (barracuda barry) (hack) (Felipne87r).ogg",
-            "regex": "^super[^a-z0-9]*mario[^a-z0-9]*cd[^a-z0-9]*barracuda[^a-z0-9]*barry[^a-z0-9]*hack$|^supermariocdbarracudabarryhack$"
+            "game": "Super Mario Bros. CD (Barracuda Barry) (hack)",
+            "file": "jingles/snes/Felipne87r/Super Mario Bros. CD (Barracuda Barry) (hack) (Felipne87r).ogg",
+            "regex": "^super[^a-z0-9]*mario[^a-z0-9]*bros$|^supermariobros$"
         },
         {
-            "game": "Super Mario CD (beach) (hack)",
-            "file": "jingles/snes/Felipne87r/Super Mario CD (beach) (hack) (Felipne87r).ogg",
-            "regex": "^super[^a-z0-9]*mario[^a-z0-9]*cd[^a-z0-9]*beach[^a-z0-9]*hack$|^supermariocdbeachhack$"
+            "game": "Super Mario Bros. CD (Beach) (hack)",
+            "file": "jingles/snes/Felipne87r/Super Mario Bros. CD (Beach) (hack) (Felipne87r).ogg",
+            "regex": "^super[^a-z0-9]*mario[^a-z0-9]*bros$|^supermariobros$"
         },
         {
-            "game": "Super Mario CD (grasslands) (hack)",
-            "file": "jingles/snes/Felipne87r/Super Mario CD (grasslands) (hack) (Felipne87r).ogg",
-            "regex": "^super[^a-z0-9]*mario[^a-z0-9]*cd[^a-z0-9]*grasslands[^a-z0-9]*hack$|^supermariocdgrasslandshack$"
+            "game": "Super Mario Bros. CD (Grasslands) (hack)",
+            "file": "jingles/snes/Felipne87r/Super Mario Bros. CD (Grasslands) (hack) (Felipne87r).ogg",
+            "regex": "^super[^a-z0-9]*mario[^a-z0-9]*bros$|^supermariobros$"
         },
         {
             "game": "Super Mario Kart",
@@ -14069,6 +14069,11 @@
         {
             "game": "Super Mario World",
             "file": "jingles/snes/CirnoWaifu/Super Mario World (CirnoWaifu).ogg",
+            "regex": "^super[^a-z0-9]*mario[^a-z0-9]*world$|^supermarioworld$"
+        },
+        {
+            "game": "Super Mario World",
+            "file": "jingles/snes/Felipne87r/Super Mario World (Felipne87r).ogg",
             "regex": "^super[^a-z0-9]*mario[^a-z0-9]*world$|^supermarioworld$"
         },
         {
@@ -14115,11 +14120,6 @@
             "game": "Super Tennis",
             "file": "jingles/snes/flapperultra/Super Tennis (flapperultra).ogg",
             "regex": "^super[^a-z0-9]*tennis$|^supertennis$"
-        },
-        {
-            "game": "super-mario-world-",
-            "file": "jingles/snes/Felipne87r/super-mario-world-(Felipne87r).ogg",
-            "regex": "^super[^a-z0-9]*mario[^a-z0-9]*world$|^supermarioworld$"
         },
         {
             "game": "Terranigma",
@@ -14867,6 +14867,11 @@
             "game": "New Super Mario Bros U Deluxe",
             "file": "jingles/switch/flapperultra/New Super Mario Bros U Deluxe (flapperultra).ogg",
             "regex": "^new[^a-z0-9]*super[^a-z0-9]*mario[^a-z0-9]*bros[^a-z0-9]*u[^a-z0-9]*deluxe$|^newsupermariobrosudeluxe$"
+        },
+        {
+            "game": "New Super Mario Bros. U Deluxe",
+            "file": "jingles/switch/Felipne87r/New Super Mario Bros. U Deluxe (Felipne87r).ogg",
+            "regex": "^new[^a-z0-9]*super[^a-z0-9]*mario[^a-z0-9]*bros$|^newsupermariobros$"
         },
         {
             "game": "Nintendo Switch (V1)",
@@ -16365,8 +16370,8 @@
             "regex": "^new[^a-z0-9]*super[^a-z0-9]*mario[^a-z0-9]*bros[^a-z0-9]*wii[^a-z0-9]*v2$|^newsupermariobroswiiv2$"
         },
         {
-            "game": "Newer Super Mario Bros",
-            "file": "jingles/wii/Felipne87r/Newer Super Mario Bros (Felipne87r).ogg",
+            "game": "Newer Super Mario Bros. Wii",
+            "file": "jingles/wii/Felipne87r/Newer Super Mario Bros. Wii (Felipne87r).ogg",
             "regex": "^newer[^a-z0-9]*super[^a-z0-9]*mario[^a-z0-9]*bros$|^newersupermariobros$"
         },
         {
