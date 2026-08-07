@@ -144,7 +144,7 @@
 - Theresia - Dear Emile
 - Trace Memory / Another Code
 
-### Wii (38)
+### Wii (35)
 
 - Adventure Isle
 - Another Code R
@@ -164,8 +164,6 @@
 - Harvest Moon Animal Parade
 - Harvest Moon Tree of Tranquility
 - Link's Crossbow Training
-- Mario Sports Mix
-- Mario Strikers Charged
 - Metroid Prime 3 Corruption
 - Monster Hunter 3 tri
 - Muramasa the Demon Blade
@@ -181,7 +179,6 @@
 - The Last Story
 - The Munchables
 - Trackmania Build to Race
-- Wario Land: The Shake Dimension
 - Wii Sports
 
 ### Nintendo 3DS (101)
