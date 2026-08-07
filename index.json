@@ -13134,6 +13134,11 @@
         },
         {
             "game": "Parasite Eve",
+            "file": "jingles/psx/BeaniesExe/Parasite Eve (BeaniesExe).ogg",
+            "regex": "^parasite[^a-z0-9]*eve$|^parasiteeve$"
+        },
+        {
+            "game": "Parasite Eve",
             "file": "jingles/psx/flapperultra/Parasite Eve (flapperultra).ogg",
             "regex": "^parasite[^a-z0-9]*eve$|^parasiteeve$"
         },
@@ -13316,6 +13321,11 @@
             "game": "Spyro 3",
             "file": "jingles/psx/flapperultra/Spyro 3 (flapperultra).ogg",
             "regex": "^spyro[^a-z0-9]*3$|^spyro3$"
+        },
+        {
+            "game": "Spyro The Dragon",
+            "file": "jingles/psx/BeaniesExe/Spyro The Dragon (BeaniesExe).ogg",
+            "regex": "^spyro[^a-z0-9]*the[^a-z0-9]*dragon$|^spyrothedragon$"
         },
         {
             "game": "Spyro the Dragon",
