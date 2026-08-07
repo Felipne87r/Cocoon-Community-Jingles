@@ -310,7 +310,7 @@
 - Wii Party U
 - Xenoblade Chronicles X
 
-### Nintendo Switch (38)
+### Nintendo Switch (1)
 
 - Fire Emblem Warriors
 
