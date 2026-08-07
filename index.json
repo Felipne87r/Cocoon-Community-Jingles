@@ -16248,6 +16248,11 @@
             "regex": "^bound[^a-z0-9]*high$|^boundhigh$"
         },
         {
+            "game": "Dragon Hopper",
+            "file": "jingles/vb/flapperultra/Dragon Hopper (flapperultra).ogg",
+            "regex": "^dragon[^a-z0-9]*hopper$|^dragonhopper$"
+        },
+        {
             "game": "Galactic Pinball",
             "file": "jingles/vb/flapperultra/Galactic Pinball (flapperultra).ogg",
             "regex": "^galactic[^a-z0-9]*pinball$|^galacticpinball$"
@@ -16291,6 +16296,11 @@
             "game": "Virtual Wario Land",
             "file": "jingles/vb/flapperultra/Virtual Wario Land (flapperultra).ogg",
             "regex": "^virtual[^a-z0-9]*wario[^a-z0-9]*land$|^virtualwarioland$"
+        },
+        {
+            "game": "Zero Racers",
+            "file": "jingles/vb/flapperultra/Zero Racers (flapperultra).ogg",
+            "regex": "^zero[^a-z0-9]*racers$|^zeroracers$"
         }
     ],
     "wii": [
