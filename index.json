@@ -14262,6 +14262,11 @@
             "regex": "^the[^a-z0-9]*firemen$|^thefiremen$"
         },
         {
+            "game": "The Legend of Zelda - A Link To The Past",
+            "file": "jingles/snes/BeaniesExe/The Legend of Zelda - A Link To The Past (BeaniesExe).ogg",
+            "regex": "^the[^a-z0-9]*legend[^a-z0-9]*of[^a-z0-9]*zelda[^a-z0-9]*a[^a-z0-9]*link[^a-z0-9]*to[^a-z0-9]*the[^a-z0-9]*past$|^thelegendofzeldaalinktothepast$"
+        },
+        {
             "game": "The Legend of Zelda - A Link to the Past",
             "file": "jingles/snes/CirnoWaifu/The Legend of Zelda - A Link to the Past (CirnoWaifu).ogg",
             "regex": "^the[^a-z0-9]*legend[^a-z0-9]*of[^a-z0-9]*zelda[^a-z0-9]*a[^a-z0-9]*link[^a-z0-9]*to[^a-z0-9]*the[^a-z0-9]*past$|^thelegendofzeldaalinktothepast$"
