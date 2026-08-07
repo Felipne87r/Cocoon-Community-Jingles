@@ -2634,6 +2634,21 @@
     ],
     "gba": [
         {
+            "game": "(GBA) SpongeBob Battle For Bikini Bottom - Battle for Bikini Bottom",
+            "file": "jingles/gba/Felipne87r/(GBA) SpongeBob Battle For Bikini Bottom - Battle for Bikini Bottom (Felipne87r).ogg",
+            "regex": "^gba[^a-z0-9]*spongebob[^a-z0-9]*battle[^a-z0-9]*for[^a-z0-9]*bikini[^a-z0-9]*bottom[^a-z0-9]*battle[^a-z0-9]*for[^a-z0-9]*bikini[^a-z0-9]*bottom$|^gbaspongebobbattleforbikinibottombattleforbikinibottom$"
+        },
+        {
+            "game": "(GBA) The SpongeBob SquarePants Movie",
+            "file": "jingles/gba/Felipne87r/(GBA) The SpongeBob SquarePants Movie (Felipne87r).ogg",
+            "regex": "^gba[^a-z0-9]*the[^a-z0-9]*spongebob[^a-z0-9]*squarepants[^a-z0-9]*movie$|^gbathespongebobsquarepantsmovie$"
+        },
+        {
+            "game": "(GBA) The SpongeBob SquarePants Movie (alt)",
+            "file": "jingles/gba/Felipne87r/(GBA) The SpongeBob SquarePants Movie (alt) (Felipne87r).ogg",
+            "regex": "^gba[^a-z0-9]*the[^a-z0-9]*spongebob[^a-z0-9]*squarepants[^a-z0-9]*movie[^a-z0-9]*alt$|^gbathespongebobsquarepantsmoviealt$"
+        },
+        {
             "game": "Advance Guardian Heroes",
             "file": "jingles/gba/flapperultra/Advance Guardian Heroes (flapperultra).ogg",
             "regex": "^advance[^a-z0-9]*guardian[^a-z0-9]*heroes$|^advanceguardianheroes$"
@@ -2754,8 +2769,8 @@
             "regex": "^dokapon[^a-z0-9]*monster[^a-z0-9]*hunter$|^dokaponmonsterhunter$"
         },
         {
-            "game": "Dragon Ball Z - Supersonic Warriors Occidental",
-            "file": "jingles/gba/Felipne87r/Dragon Ball Z - Supersonic Warriors Occidental (Felipne87r).ogg",
+            "game": "Dragon Ball Z - Supersonic Warriors (Occidental)",
+            "file": "jingles/gba/Felipne87r/Dragon Ball Z - Supersonic Warriors (Occidental) (Felipne87r).ogg",
             "regex": "^dragon[^a-z0-9]*ball[^a-z0-9]*z[^a-z0-9]*supersonic[^a-z0-9]*warriors[^a-z0-9]*occidental$|^dragonballzsupersonicwarriorsoccidental$"
         },
         {
@@ -3419,21 +3434,6 @@
             "regex": "^sonic[^a-z0-9]*pinball[^a-z0-9]*party$|^sonicpinballparty$"
         },
         {
-            "game": "Spongebob - Battle for Bikini Bottom",
-            "file": "jingles/gba/Felipne87r/Spongebob - Battle for Bikini Bottom (Felipne87r).ogg",
-            "regex": "^spongebob[^a-z0-9]*battle[^a-z0-9]*for[^a-z0-9]*bikini[^a-z0-9]*bottom$|^spongebobbattleforbikinibottom$"
-        },
-        {
-            "game": "Spongebob - Move Game (alt)",
-            "file": "jingles/gba/Felipne87r/Spongebob - Move Game (alt) (Felipne87r).ogg",
-            "regex": "^spongebob[^a-z0-9]*move[^a-z0-9]*game[^a-z0-9]*alt$|^spongebobmovegamealt$"
-        },
-        {
-            "game": "Spongebob - Movie Game",
-            "file": "jingles/gba/Felipne87r/Spongebob - Movie Game (Felipne87r).ogg",
-            "regex": "^spongebob[^a-z0-9]*movie[^a-z0-9]*game$|^spongebobmoviegame$"
-        },
-        {
             "game": "Spyro - Attack of the Rhynocs",
             "file": "jingles/gba/CirnoWaifu/Spyro - Attack of the Rhynocs (CirnoWaifu).ogg",
             "regex": "^spyro[^a-z0-9]*attack[^a-z0-9]*of[^a-z0-9]*the[^a-z0-9]*rhynocs$|^spyroattackoftherhynocs$"
@@ -3721,8 +3721,8 @@
             "regex": "^kirby[^a-z0-9]*tilt[^a-z0-9]*n[^a-z0-9]*tumble$|^kirbytiltntumble$"
         },
         {
-            "game": "Kirby Tilt N Tumble",
-            "file": "jingles/gbc/Felipe87r/Kirby Tilt N Tumble (Felipne87r).ogg",
+            "game": "Kirby Tilt 'n' Tumble",
+            "file": "jingles/gbc/Felipe87r/Kirby Tilt 'n' Tumble (Felipne87r).ogg",
             "regex": "^kirby[^a-z0-9]*tilt[^a-z0-9]*n[^a-z0-9]*tumble$|^kirbytiltntumble$"
         },
         {
