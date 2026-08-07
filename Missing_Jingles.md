@@ -347,7 +347,6 @@
 
 - ChuChu Rocket!
 - Crazy Taxi 2
-- Tony Hawk's Pro Skater 2
 
 ### PlayStation (13)
 
@@ -433,7 +432,6 @@
 - Blinx 2 - Masters of Time and Space
 - Mech Assault
 - MechAssault 2 - Lone Wolf
-- Need for Speed - Underground 2
 - Yu-Gi-Oh - The Dawn of Destiny
 
 ### Xbox 360 (12)
@@ -467,8 +465,6 @@
 - Crash Bandicoot N. Sane Trilogy
 - Cube World
 - Cult of the Lamb
-- Danganronpa 2 - Goodbye Despair
-- Danganronpa V3 - Killing Harmony
 - Diablo II
 - Diablo III
 - Diablo IV
