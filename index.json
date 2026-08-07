@@ -1281,14 +1281,14 @@
             "regex": "^angry[^a-z0-9]*birds$|^angrybirds$"
         },
         {
-            "game": "Angry Birds - Friends",
-            "file": "jingles/android/Felipne87r/Angry Birds - Friends (Felipne87r).ogg",
-            "regex": "^angry[^a-z0-9]*birds[^a-z0-9]*friends$|^angrybirdsfriends$"
-        },
-        {
             "game": "Angry Birds 2",
             "file": "jingles/android/Felipne87r/Angry Birds 2 (Felipne87r).ogg",
             "regex": "^angry[^a-z0-9]*birds[^a-z0-9]*2$|^angrybirds2$"
+        },
+        {
+            "game": "Angry Birds Friends",
+            "file": "jingles/android/Felipne87r/Angry Birds Friends (Felipne87r).ogg",
+            "regex": "^angry[^a-z0-9]*birds[^a-z0-9]*friends$|^angrybirdsfriends$"
         },
         {
             "game": "Blue Archive",
@@ -1301,18 +1301,18 @@
             "regex": "^cookierun[^a-z0-9]*ovensmash$|^cookierunovensmash$"
         },
         {
+            "game": "Cut the Rope (Inspired by Triple Treat)",
+            "file": "jingles/android/Felipne87r/Cut the Rope (Inspired by Triple Treat) (Felipne87r).ogg",
+            "regex": "^cut[^a-z0-9]*the[^a-z0-9]*rope[^a-z0-9]*inspired[^a-z0-9]*by[^a-z0-9]*triple[^a-z0-9]*treat$|^cuttheropeinspiredbytripletreat$"
+        },
+        {
             "game": "Cut the Rope - Time Travel",
             "file": "jingles/android/Felipne87r/Cut the Rope - Time Travel (Felipne87r).ogg",
             "regex": "^cut[^a-z0-9]*the[^a-z0-9]*rope[^a-z0-9]*time[^a-z0-9]*travel$|^cuttheropetimetravel$"
         },
         {
-            "game": "Cut the Rope inspired by triple treat",
-            "file": "jingles/android/Felipne87r/Cut the Rope inspired by triple treat (Felipne87r).ogg",
-            "regex": "^cut[^a-z0-9]*the[^a-z0-9]*rope[^a-z0-9]*inspired[^a-z0-9]*by[^a-z0-9]*triple[^a-z0-9]*treat$|^cuttheropeinspiredbytripletreat$"
-        },
-        {
-            "game": "cut-the-rope-2",
-            "file": "jingles/android/Felipne87r/cut-the-rope-2 (Felipne87r).ogg",
+            "game": "Cut The Rope 2",
+            "file": "jingles/android/Felipne87r/Cut The Rope 2 (Felipne87r).ogg",
             "regex": "^cut[^a-z0-9]*the[^a-z0-9]*rope[^a-z0-9]*2$|^cuttherope2$"
         },
         {
@@ -1396,9 +1396,9 @@
             "regex": "^flutter$|^flutter$"
         },
         {
-            "game": "FNF",
-            "file": "jingles/android/Felipne87r/FNF (Felipne87r).ogg",
-            "regex": "^fnf$|^fnf$"
+            "game": "Friday Night Funkin'",
+            "file": "jingles/android/Felipne87r/Friday Night Funkin' (Felipne87r).ogg",
+            "regex": "^friday[^a-z0-9]*night[^a-z0-9]*funkin$|^fridaynightfunkin$"
         },
         {
             "game": "Geometry Dash (SFX1)",
@@ -1576,11 +1576,6 @@
             "regex": "^mario[^a-z0-9]*kart[^a-z0-9]*tour$|^mariokarttour$"
         },
         {
-            "game": "Mario Run",
-            "file": "jingles/android/Felipne87r/Mario Run (Felipne87r).ogg",
-            "regex": "^mario[^a-z0-9]*run$|^mariorun$"
-        },
-        {
             "game": "Netflix",
             "file": "jingles/android/Felipne87r/Netflix (Felipne87r).ogg",
             "regex": "^netflix$|^netflix$"
@@ -1616,14 +1611,9 @@
             "regex": "^pokemmo[^a-z0-9]*v2$|^pokemmov2$"
         },
         {
-            "game": "Pokemon Masters EX",
-            "file": "jingles/android/Felipne87r/Pokemon Masters EX (Felipne87r).ogg",
-            "regex": "^pokemon[^a-z0-9]*masters[^a-z0-9]*ex$|^pokemonmastersex$"
-        },
-        {
-            "game": "Pokemon Unite",
-            "file": "jingles/android/Felipne87r/Pokemon Unite (Felipne87r).ogg",
-            "regex": "^pokemon[^a-z0-9]*unite$|^pokemonunite$"
+            "game": "Pokémon Masters EX",
+            "file": "jingles/android/Felipne87r/Pokémon Masters EX (Felipne87r).ogg",
+            "regex": "^pok[^a-z0-9]*mon[^a-z0-9]*masters[^a-z0-9]*ex$|^pokmonmastersex$"
         },
         {
             "game": "Pokémon TCG Pocket (Card Obtained)",
@@ -1636,6 +1626,11 @@
             "regex": "^pok[^a-z0-9]*mon[^a-z0-9]*tcg[^a-z0-9]*pocket[^a-z0-9]*wonder[^a-z0-9]*pick$|^pokmontcgpocketwonderpick$"
         },
         {
+            "game": "Pokémon Unite",
+            "file": "jingles/android/Felipne87r/Pokémon Unite (Felipne87r).ogg",
+            "regex": "^pok[^a-z0-9]*mon[^a-z0-9]*unite$|^pokmonunite$"
+        },
+        {
             "game": "Ratchet and Clank - Ranger Rumble",
             "file": "jingles/android/CirnoWaifu/Ratchet and Clank - Ranger Rumble (CirnoWaifu).ogg",
             "regex": "^ratchet[^a-z0-9]*and[^a-z0-9]*clank[^a-z0-9]*ranger[^a-z0-9]*rumble$|^ratchetandclankrangerrumble$"
@@ -1646,9 +1641,9 @@
             "regex": "^rollercoaster[^a-z0-9]*tycoon[^a-z0-9]*classic[^a-z0-9]*rct[^a-z0-9]*classic$|^rollercoastertycoonclassicrctclassic$"
         },
         {
-            "game": "Samsung unlock sound",
-            "file": "jingles/android/Felipne87r/Samsung unlock sound (Felipne87r).ogg",
-            "regex": "^samsung[^a-z0-9]*unlock[^a-z0-9]*sound$|^samsungunlocksound$"
+            "game": "Samsung Unlock Sound (older)",
+            "file": "jingles/android/Felipne87r/Samsung Unlock Sound (older) (Felipne87r).ogg",
+            "regex": "^samsung[^a-z0-9]*unlock[^a-z0-9]*sound[^a-z0-9]*older$|^samsungunlocksoundolder$"
         },
         {
             "game": "Sonic Dash",
@@ -1656,19 +1651,19 @@
             "regex": "^sonic[^a-z0-9]*dash$|^sonicdash$"
         },
         {
-            "game": "Sonic Jump 2005",
-            "file": "jingles/android/Felipne87r/Sonic Jump 2005 (Felipne87r).ogg",
+            "game": "Sonic Jump (2005)",
+            "file": "jingles/android/Felipne87r/Sonic Jump (2005) (Felipne87r).ogg",
             "regex": "^sonic[^a-z0-9]*jump[^a-z0-9]*2005$|^sonicjump2005$"
         },
         {
-            "game": "Sonic Jump 2012",
-            "file": "jingles/android/Felipne87r/Sonic Jump 2012 (Felipne87r).ogg",
+            "game": "Sonic Jump (2012)",
+            "file": "jingles/android/Felipne87r/Sonic Jump (2012) (Felipne87r).ogg",
             "regex": "^sonic[^a-z0-9]*jump[^a-z0-9]*2012$|^sonicjump2012$"
         },
         {
-            "game": "Spongebob bfbb",
-            "file": "jingles/android/Felipne87r/Spongebob bfbb (Felipne87r).ogg",
-            "regex": "^spongebob[^a-z0-9]*bfbb$|^spongebobbfbb$"
+            "game": "SpongeBob SquarePants - Battle For Bikini Bottom",
+            "file": "jingles/android/Felipne87r/SpongeBob SquarePants - Battle For Bikini Bottom (Felipne87r).ogg",
+            "regex": "^spongebob[^a-z0-9]*squarepants[^a-z0-9]*battle[^a-z0-9]*for[^a-z0-9]*bikini[^a-z0-9]*bottom$|^spongebobsquarepantsbattleforbikinibottom$"
         },
         {
             "game": "Star Wars - Knights of the Old Republic (KOTOR)",
@@ -1679,6 +1674,11 @@
             "game": "Subway Surfers",
             "file": "jingles/android/Felipne87r/Subway Surfers (Felipne87r).ogg",
             "regex": "^subway[^a-z0-9]*surfers$|^subwaysurfers$"
+        },
+        {
+            "game": "Super Mario Run",
+            "file": "jingles/android/Felipne87r/Super Mario Run (Felipne87r).ogg",
+            "regex": "^super[^a-z0-9]*mario[^a-z0-9]*run$|^supermariorun$"
         },
         {
             "game": "Super Monkey Ball Sakura Edition",
