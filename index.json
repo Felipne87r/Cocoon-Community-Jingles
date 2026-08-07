@@ -3140,6 +3140,11 @@
         },
         {
             "game": "Mega Man Battle Network 4",
+            "file": "jingles/gba/BeaniesExe/Mega Man Battle Network 4 (BeaniesExe).ogg",
+            "regex": "^mega[^a-z0-9]*man[^a-z0-9]*battle[^a-z0-9]*network[^a-z0-9]*4$|^megamanbattlenetwork4$"
+        },
+        {
+            "game": "Mega Man Battle Network 4",
             "file": "jingles/gba/flapperultra/Mega Man Battle Network 4 (flapperultra).ogg",
             "regex": "^mega[^a-z0-9]*man[^a-z0-9]*battle[^a-z0-9]*network[^a-z0-9]*4$|^megamanbattlenetwork4$"
         },
