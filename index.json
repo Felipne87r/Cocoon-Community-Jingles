@@ -8215,6 +8215,11 @@
         },
         {
             "game": "Celeste",
+            "file": "jingles/pc steam & multiplat/BeaniesExe/Celeste (BeaniesExe).ogg",
+            "regex": "^celeste$|^celeste$"
+        },
+        {
+            "game": "Celeste",
             "file": "jingles/pc steam & multiplat/BennyTheFirstHunter/Celeste (BennyTheFirstHunter).ogg",
             "regex": "^celeste$|^celeste$"
         },
@@ -9107,6 +9112,16 @@
             "game": "Hollow Knight",
             "file": "jingles/pc steam & multiplat/Natalie/Hollow Knight (Natalie).ogg",
             "regex": "^hollow[^a-z0-9]*knight$|^hollowknight$"
+        },
+        {
+            "game": "Hollow Knight (Cornifer)",
+            "file": "jingles/pc steam & multiplat/BeaniesExe/Hollow Knight (Cornifer) (BeaniesExe).ogg",
+            "regex": "^hollow[^a-z0-9]*knight[^a-z0-9]*cornifer$|^hollowknightcornifer$"
+        },
+        {
+            "game": "Hollow Knight (Mantis Lords)",
+            "file": "jingles/pc steam & multiplat/BeaniesExe/Hollow Knight (Mantis Lords) (BeaniesExe).ogg",
+            "regex": "^hollow[^a-z0-9]*knight[^a-z0-9]*mantis[^a-z0-9]*lords$|^hollowknightmantislords$"
         },
         {
             "game": "Holo vs Robo",
