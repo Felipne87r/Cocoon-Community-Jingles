@@ -5989,6 +5989,11 @@
             "regex": "^kirby[^a-z0-9]*squeak[^a-z0-9]*squad$|^kirbysqueaksquad$"
         },
         {
+            "game": "Kirby Squeak Squad",
+            "file": "jingles/nds/Great Gonzalez/Kirby Squeak Squad (Great Gonzalez).ogg",
+            "regex": "^kirby[^a-z0-9]*squeak[^a-z0-9]*squad$|^kirbysqueaksquad$"
+        },
+        {
             "game": "Kirby Super Star Ultra",
             "file": "jingles/nds/CirnoWaifu/Kirby Super Star Ultra (CirnoWaifu).ogg",
             "regex": "^kirby[^a-z0-9]*super[^a-z0-9]*star[^a-z0-9]*ultra$|^kirbysuperstarultra$"
@@ -13777,9 +13782,19 @@
             "regex": "^killer[^a-z0-9]*instinct$|^killerinstinct$"
         },
         {
+            "game": "Kirby Super Star",
+            "file": "jingles/snes/Great Gonzalez/Kirby Super Star (Great Gonzalez).ogg",
+            "regex": "^kirby[^a-z0-9]*super[^a-z0-9]*star$|^kirbysuperstar$"
+        },
+        {
             "game": "Kirby Superstar",
             "file": "jingles/snes/flapperultra/Kirby Superstar (flapperultra).ogg",
             "regex": "^kirby[^a-z0-9]*superstar$|^kirbysuperstar$"
+        },
+        {
+            "game": "Kirby's Dream Land 3",
+            "file": "jingles/snes/Great Gonzalez/Kirby's Dream Land 3 (Great Gonzalez).ogg",
+            "regex": "^kirby[^a-z0-9]*s[^a-z0-9]*dream[^a-z0-9]*land[^a-z0-9]*3$|^kirbysdreamland3$"
         },
         {
             "game": "Kirbys Dream Course",
