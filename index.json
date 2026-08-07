@@ -8174,6 +8174,11 @@
             "regex": "^celeste$|^celeste$"
         },
         {
+            "game": "Chasm",
+            "file": "jingles/pc steam & multiplat/FluffyHornGloomy/Chasm (FluffyHornGloomy).ogg",
+            "regex": "^chasm$|^chasm$"
+        },
+        {
             "game": "Chrono Ark",
             "file": "jingles/pc steam & multiplat/CirnoWaifu/Chrono Ark (CirnoWaifu).ogg",
             "regex": "^chrono[^a-z0-9]*ark$|^chronoark$"
