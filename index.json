@@ -1728,6 +1728,11 @@
     ],
     "arcade": [
         {
+            "game": "Disney Pixar Cars 2",
+            "file": "jingles/arcade/AlphaBlue1011/Disney Pixar Cars 2 (AlphaBlue1011).ogg",
+            "regex": "^disney[^a-z0-9]*pixar[^a-z0-9]*cars[^a-z0-9]*2$|^disneypixarcars2$"
+        },
+        {
             "game": "Simpsons Arcade",
             "file": "jingles/arcade/BennyTheFirstHunter/Simpsons Arcade (BennyTheFirstHunter).ogg",
             "regex": "^simpsons[^a-z0-9]*arcade$|^simpsonsarcade$"
