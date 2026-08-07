@@ -2989,6 +2989,11 @@
             "regex": "^kirby[^a-z0-9]*nightmare[^a-z0-9]*in[^a-z0-9]*dream[^a-z0-9]*land$|^kirbynightmareindreamland$"
         },
         {
+            "game": "Kirby - Nightmare in Dream Land",
+            "file": "jingles/gba/Great Gonzalez/Kirby - Nightmare in Dream Land (Great Gonzalez).ogg",
+            "regex": "^kirby[^a-z0-9]*nightmare[^a-z0-9]*in[^a-z0-9]*dream[^a-z0-9]*land$|^kirbynightmareindreamland$"
+        },
+        {
             "game": "Kirby and the Amazing Mirror",
             "file": "jingles/gba/CirnoWaifu/Kirby and the Amazing Mirror (CirnoWaifu).ogg",
             "regex": "^kirby[^a-z0-9]*and[^a-z0-9]*the[^a-z0-9]*amazing[^a-z0-9]*mirror$|^kirbyandtheamazingmirror$"
@@ -3007,11 +3012,6 @@
             "game": "Kirby Nightmare in Dreamland",
             "file": "jingles/gba/flapperultra/Kirby Nightmare in Dreamland (flapperultra).ogg",
             "regex": "^kirby[^a-z0-9]*nightmare[^a-z0-9]*in[^a-z0-9]*dreamland$|^kirbynightmareindreamland$"
-        },
-        {
-            "game": "Kirby's Nightmare in Dream Land",
-            "file": "jingles/gba/Great Gonzalez/Kirby's Nightmare in Dream Land (Great Gonzalez).ogg",
-            "regex": "^kirby[^a-z0-9]*s[^a-z0-9]*nightmare[^a-z0-9]*in[^a-z0-9]*dream[^a-z0-9]*land$|^kirbysnightmareindreamland$"
         },
         {
             "game": "Klonoa - Empire of Dreams",
