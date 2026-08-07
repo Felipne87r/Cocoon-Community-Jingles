@@ -8554,6 +8554,11 @@
             "regex": "^ducktales[^a-z0-9]*remastered$|^ducktalesremastered$"
         },
         {
+            "game": "Dungeon Clawler",
+            "file": "jingles/pc steam & multiplat/FluffyHornGloomy/Dungeon Clawler (FluffyHornGloomy).ogg",
+            "regex": "^dungeon[^a-z0-9]*clawler$|^dungeonclawler$"
+        },
+        {
             "game": "Epic Battle Fantasy 5",
             "file": "jingles/pc steam & multiplat/CirnoWaifu/Epic Battle Fantasy 5 (CirnoWaifu).ogg",
             "regex": "^epic[^a-z0-9]*battle[^a-z0-9]*fantasy[^a-z0-9]*5$|^epicbattlefantasy5$"
@@ -8949,6 +8954,11 @@
             "regex": "^geometry[^a-z0-9]*dash[^a-z0-9]*v9$|^geometrydashv9$"
         },
         {
+            "game": "Geometry Wars Retro Evolved",
+            "file": "jingles/pc steam & multiplat/FluffyHornGloomy/Geometry Wars Retro Evolved (FluffyHornGloomy).ogg",
+            "regex": "^geometry[^a-z0-9]*wars[^a-z0-9]*retro[^a-z0-9]*evolved$|^geometrywarsretroevolved$"
+        },
+        {
             "game": "Ghost Trick - Phantom Detective",
             "file": "jingles/pc steam & multiplat/CirnoWaifu/Ghost Trick - Phantom Detective (CirnoWaifu).ogg",
             "regex": "^ghost[^a-z0-9]*trick[^a-z0-9]*phantom[^a-z0-9]*detective$|^ghosttrickphantomdetective$"
@@ -8972,6 +8982,11 @@
             "game": "Grand Theft Auto V",
             "file": "jingles/pc steam & multiplat/CirnoWaifu/Grand Theft Auto V (CirnoWaifu).ogg",
             "regex": "^grand[^a-z0-9]*theft[^a-z0-9]*auto[^a-z0-9]*v$|^grandtheftautov$"
+        },
+        {
+            "game": "Grapple Dog",
+            "file": "jingles/pc steam & multiplat/FluffyHornGloomy/Grapple Dog (FluffyHornGloomy).ogg",
+            "regex": "^grapple[^a-z0-9]*dog$|^grappledog$"
         },
         {
             "game": "Guacamelee! Super Turbo Championship Edition",
