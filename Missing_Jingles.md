@@ -11,7 +11,7 @@
 
 - The Lion King
 
-### SNES (29)
+### SNES (28)
 
 - ACTRAISER
 - AERO FIGHTERS
@@ -57,7 +57,7 @@
 - Pokemon Trading Card Game 2
 - Tony Hawk's Pro Skater 2
 
-### Game Boy Advance (13)
+### Game Boy Advance (12)
 
 - Duel Masters Kaijudo Showdown
 - Duel Masters Sempai Legends
@@ -127,7 +127,7 @@
 - Wallace and Gromit
 - WELCOME
 
-### Nintendo DS (14)
+### Nintendo DS (12)
 
 - Fossil Fighters
 - Fossil Fighters Champions
@@ -331,7 +331,7 @@
 
 - None
 
-### Dreamcast (3)
+### Dreamcast (2)
 
 - ChuChu Rocket!
 - Crazy Taxi 2
@@ -414,7 +414,7 @@
 - Persona 5 - Dancing in Starlight
 - Risk of Rain
 
-### Xbox (6)
+### Xbox (5)
 
 - Blinx - The Time Sweeper
 - Blinx 2 - Masters of Time and Space
@@ -422,7 +422,7 @@
 - MechAssault 2 - Lone Wolf
 - Yu-Gi-Oh - The Dawn of Destiny
 
-### Xbox 360 (12)
+### Xbox 360 (10)
 
 - Fable Anniversary
 - Guitar Hero II
@@ -516,7 +516,7 @@
 
 - None
 
-### Android Games (18)
+### Android Games (13)
 
 - Adventure Time - Card Wars Kingdom
 - Adventure Time - Champions and Challengers
