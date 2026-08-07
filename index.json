@@ -3389,6 +3389,21 @@
             "regex": "^pokemon[^a-z0-9]*ruby$|^pokemonruby$"
         },
         {
+            "game": "Pokémon Emerald (Littleroot Town)",
+            "file": "jingles/gba/BeaniesExe/Pokémon Emerald (Littleroot Town) (BeaniesExe).ogg",
+            "regex": "^pok[^a-z0-9]*mon[^a-z0-9]*emerald[^a-z0-9]*littleroot[^a-z0-9]*town$|^pokmonemeraldlittleroottown$"
+        },
+        {
+            "game": "Pokémon Ruby (Littleroot Town)",
+            "file": "jingles/gba/BeaniesExe/Pokémon Ruby (Littleroot Town) (BeaniesExe).ogg",
+            "regex": "^pok[^a-z0-9]*mon[^a-z0-9]*ruby[^a-z0-9]*littleroot[^a-z0-9]*town$|^pokmonrubylittleroottown$"
+        },
+        {
+            "game": "Pokémon Sapphire (Littleroot Town)",
+            "file": "jingles/gba/BeaniesExe/Pokémon Sapphire (Littleroot Town) (BeaniesExe).ogg",
+            "regex": "^pok[^a-z0-9]*mon[^a-z0-9]*sapphire[^a-z0-9]*littleroot[^a-z0-9]*town$|^pokmonsapphirelittleroottown$"
+        },
+        {
             "game": "Rayman Raving Rabbids",
             "file": "jingles/gba/flapperultra/Rayman Raving Rabbids (flapperultra).ogg",
             "regex": "^rayman[^a-z0-9]*raving[^a-z0-9]*rabbids$|^raymanravingrabbids$"
