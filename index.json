@@ -16740,19 +16740,9 @@
             "regex": "^wii[^a-z0-9]*skylanders[^a-z0-9]*trap[^a-z0-9]*team[^a-z0-9]*official$|^wiiskylanderstrapteamofficial$"
         },
         {
-            "game": "(Wii) Sonic Colors (Official)",
-            "file": "jingles/wii/Felipne87r/(Wii) Sonic Colors (Official) (Felipne87r).ogg",
-            "regex": "^wii[^a-z0-9]*sonic[^a-z0-9]*colors[^a-z0-9]*official$|^wiisoniccolorsofficial$"
-        },
-        {
             "game": "(Wii) Sonic Riders Zero Gravity (Official)",
             "file": "jingles/wii/Felipne87r/(Wii) Sonic Riders Zero Gravity (Official) (Felipne87r).ogg",
             "regex": "^wii[^a-z0-9]*sonic[^a-z0-9]*riders[^a-z0-9]*zero[^a-z0-9]*gravity[^a-z0-9]*official$|^wiisonicriderszerogravityofficial$"
-        },
-        {
-            "game": "(Wii) Sonic Unleashed (Official)",
-            "file": "jingles/wii/Felipne87r/(Wii) Sonic Unleashed (Official) (Felipne87r).ogg",
-            "regex": "^wii[^a-z0-9]*sonic[^a-z0-9]*unleashed[^a-z0-9]*official$|^wiisonicunleashedofficial$"
         },
         {
             "game": "(Wii) Tatsunoko vs. Capcom - Ultimate All-Stars (Official)",
