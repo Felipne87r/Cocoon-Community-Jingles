@@ -17432,9 +17432,269 @@
     ],
     "wiiu": [
         {
+            "game": "(Wii U) Bayonetta 2 (Official)",
+            "file": "jingles/wiiu/Felipne87r/(Wii U) Bayonetta 2 (Official) (Felipne87r).ogg",
+            "regex": "^wii[^a-z0-9]*u[^a-z0-9]*bayonetta[^a-z0-9]*2[^a-z0-9]*official$|^wiiubayonetta2official$"
+        },
+        {
+            "game": "(Wii U) Call of Duty - Black Ops II (Official)",
+            "file": "jingles/wiiu/Felipne87r/(Wii U) Call of Duty - Black Ops II (Official) (Felipne87r).ogg",
+            "regex": "^wii[^a-z0-9]*u[^a-z0-9]*call[^a-z0-9]*of[^a-z0-9]*duty[^a-z0-9]*black[^a-z0-9]*ops[^a-z0-9]*ii[^a-z0-9]*official$|^wiiucallofdutyblackopsiiofficial$"
+        },
+        {
+            "game": "(Wii U) Call of Duty - Ghosts (Official)",
+            "file": "jingles/wiiu/Felipne87r/(Wii U) Call of Duty - Ghosts (Official) (Felipne87r).ogg",
+            "regex": "^wii[^a-z0-9]*u[^a-z0-9]*call[^a-z0-9]*of[^a-z0-9]*duty[^a-z0-9]*ghosts[^a-z0-9]*official$|^wiiucallofdutyghostsofficial$"
+        },
+        {
+            "game": "(Wii U) Captain Toad Treasure Tracker (Official)",
+            "file": "jingles/wiiu/Felipne87r/(Wii U) Captain Toad Treasure Tracker (Official) (Felipne87r).ogg",
+            "regex": "^wii[^a-z0-9]*u[^a-z0-9]*captain[^a-z0-9]*toad[^a-z0-9]*treasure[^a-z0-9]*tracker[^a-z0-9]*official$|^wiiucaptaintoadtreasuretrackerofficial$"
+        },
+        {
+            "game": "(Wii U) Darksiders 2 (Official)",
+            "file": "jingles/wiiu/Felipne87r/(Wii U) Darksiders 2 (Official) (Felipne87r).ogg",
+            "regex": "^wii[^a-z0-9]*u[^a-z0-9]*darksiders[^a-z0-9]*2[^a-z0-9]*official$|^wiiudarksiders2official$"
+        },
+        {
+            "game": "(Wii U) Deus Ex - Human Revolution (Official)",
+            "file": "jingles/wiiu/Felipne87r/(Wii U) Deus Ex - Human Revolution (Official) (Felipne87r).ogg",
+            "regex": "^wii[^a-z0-9]*u[^a-z0-9]*deus[^a-z0-9]*ex[^a-z0-9]*human[^a-z0-9]*revolution[^a-z0-9]*official$|^wiiudeusexhumanrevolutionofficial$"
+        },
+        {
+            "game": "(Wii U) Devil's Third (Official)",
+            "file": "jingles/wiiu/Felipne87r/(Wii U) Devil's Third (Official) (Felipne87r).ogg",
+            "regex": "^wii[^a-z0-9]*u[^a-z0-9]*devil[^a-z0-9]*s[^a-z0-9]*third[^a-z0-9]*official$|^wiiudevilsthirdofficial$"
+        },
+        {
+            "game": "(Wii U) Disney Infinity (Official)",
+            "file": "jingles/wiiu/Felipne87r/(Wii U) Disney Infinity (Official) (Felipne87r).ogg",
+            "regex": "^wii[^a-z0-9]*u[^a-z0-9]*disney[^a-z0-9]*infinity[^a-z0-9]*official$|^wiiudisneyinfinityofficial$"
+        },
+        {
+            "game": "(Wii U) Donkey Kong Country - Tropical Freeze (Official)",
+            "file": "jingles/wiiu/Felipne87r/(Wii U) Donkey Kong Country - Tropical Freeze (Official) (Felipne87r).ogg",
+            "regex": "^wii[^a-z0-9]*u[^a-z0-9]*donkey[^a-z0-9]*kong[^a-z0-9]*country[^a-z0-9]*tropical[^a-z0-9]*freeze[^a-z0-9]*official$|^wiiudonkeykongcountrytropicalfreezeofficial$"
+        },
+        {
+            "game": "(Wii U) FAST Racing NEO (Official)",
+            "file": "jingles/wiiu/Felipne87r/(Wii U) FAST Racing NEO (Official) (Felipne87r).ogg",
+            "regex": "^wii[^a-z0-9]*u[^a-z0-9]*fast[^a-z0-9]*racing[^a-z0-9]*neo[^a-z0-9]*official$|^wiiufastracingneoofficial$"
+        },
+        {
+            "game": "(Wii U) Fist of the North Star - Ken's Rage 2 (Official)",
+            "file": "jingles/wiiu/Felipne87r/(Wii U) Fist of the North Star - Ken's Rage 2 (Official) (Felipne87r).ogg",
+            "regex": "^wii[^a-z0-9]*u[^a-z0-9]*fist[^a-z0-9]*of[^a-z0-9]*the[^a-z0-9]*north[^a-z0-9]*star[^a-z0-9]*ken[^a-z0-9]*s[^a-z0-9]*rage[^a-z0-9]*2[^a-z0-9]*official$|^wiiufistofthenorthstarkensrage2official$"
+        },
+        {
+            "game": "(Wii U) Hyrule Warriors (Official)",
+            "file": "jingles/wiiu/Felipne87r/(Wii U) Hyrule Warriors (Official) (Felipne87r).ogg",
+            "regex": "^wii[^a-z0-9]*u[^a-z0-9]*hyrule[^a-z0-9]*warriors[^a-z0-9]*official$|^wiiuhyrulewarriorsofficial$"
+        },
+        {
+            "game": "(Wii U) LEGO Batman 2 - DC Super Heroes (Official)",
+            "file": "jingles/wiiu/Felipne87r/(Wii U) LEGO Batman 2 - DC Super Heroes (Official) (Felipne87r).ogg",
+            "regex": "^wii[^a-z0-9]*u[^a-z0-9]*lego[^a-z0-9]*batman[^a-z0-9]*2[^a-z0-9]*dc[^a-z0-9]*super[^a-z0-9]*heroes[^a-z0-9]*official$|^wiiulegobatman2dcsuperheroesofficial$"
+        },
+        {
+            "game": "(Wii U) LEGO City Undercover (Official)",
+            "file": "jingles/wiiu/Felipne87r/(Wii U) LEGO City Undercover (Official) (Felipne87r).ogg",
+            "regex": "^wii[^a-z0-9]*u[^a-z0-9]*lego[^a-z0-9]*city[^a-z0-9]*undercover[^a-z0-9]*official$|^wiiulegocityundercoverofficial$"
+        },
+        {
+            "game": "(Wii U) LEGO Jurassic World (Official)",
+            "file": "jingles/wiiu/Felipne87r/(Wii U) LEGO Jurassic World (Official) (Felipne87r).ogg",
+            "regex": "^wii[^a-z0-9]*u[^a-z0-9]*lego[^a-z0-9]*jurassic[^a-z0-9]*world[^a-z0-9]*official$|^wiiulegojurassicworldofficial$"
+        },
+        {
+            "game": "(Wii U) LEGO Marvel Super Heroes (Official)",
+            "file": "jingles/wiiu/Felipne87r/(Wii U) LEGO Marvel Super Heroes (Official) (Felipne87r).ogg",
+            "regex": "^wii[^a-z0-9]*u[^a-z0-9]*lego[^a-z0-9]*marvel[^a-z0-9]*super[^a-z0-9]*heroes[^a-z0-9]*official$|^wiiulegomarvelsuperheroesofficial$"
+        },
+        {
+            "game": "(Wii U) Mario Kart 8 (Official)",
+            "file": "jingles/wiiu/Felipne87r/(Wii U) Mario Kart 8 (Official) (Felipne87r).ogg",
+            "regex": "^wii[^a-z0-9]*u[^a-z0-9]*mario[^a-z0-9]*kart[^a-z0-9]*8[^a-z0-9]*official$|^wiiumariokart8official$"
+        },
+        {
+            "game": "(Wii U) Mass Effect 3 (Official)",
+            "file": "jingles/wiiu/Felipne87r/(Wii U) Mass Effect 3 (Official) (Felipne87r).ogg",
+            "regex": "^wii[^a-z0-9]*u[^a-z0-9]*mass[^a-z0-9]*effect[^a-z0-9]*3[^a-z0-9]*official$|^wiiumasseffect3official$"
+        },
+        {
+            "game": "(Wii U) Miiverse (1st & 2nd Part (32s)) (Official)",
+            "file": "jingles/wiiu/Felipne87r/(Wii U) Miiverse (1st & 2nd Part (32s)) (Official) (Felipne87r).ogg",
+            "regex": "^wii[^a-z0-9]*u[^a-z0-9]*miiverse[^a-z0-9]*1st[^a-z0-9]*2nd[^a-z0-9]*part[^a-z0-9]*32s[^a-z0-9]*official$|^wiiumiiverse1st2ndpart32sofficial$"
+        },
+        {
+            "game": "(Wii U) Miiverse (1st Half (8s)) (Official)",
+            "file": "jingles/wiiu/Felipne87r/(Wii U) Miiverse (1st Half (8s)) (Official) (Felipne87r).ogg",
+            "regex": "^wii[^a-z0-9]*u[^a-z0-9]*miiverse[^a-z0-9]*1st[^a-z0-9]*half[^a-z0-9]*8s[^a-z0-9]*official$|^wiiumiiverse1sthalf8sofficial$"
+        },
+        {
+            "game": "(Wii U) Miiverse (1st Part (16s)) (Official)",
+            "file": "jingles/wiiu/Felipne87r/(Wii U) Miiverse (1st Part (16s)) (Official) (Felipne87r).ogg",
+            "regex": "^wii[^a-z0-9]*u[^a-z0-9]*miiverse[^a-z0-9]*1st[^a-z0-9]*part[^a-z0-9]*16s[^a-z0-9]*official$|^wiiumiiverse1stpart16sofficial$"
+        },
+        {
+            "game": "(Wii U) Miiverse (Full (48s)) (Official)",
+            "file": "jingles/wiiu/Felipne87r/(Wii U) Miiverse (Full (48s)) (Official) (Felipne87r).ogg",
+            "regex": "^wii[^a-z0-9]*u[^a-z0-9]*miiverse[^a-z0-9]*full[^a-z0-9]*48s[^a-z0-9]*official$|^wiiumiiversefull48sofficial$"
+        },
+        {
+            "game": "(Wii U) Monster Hunter 3 Ultimate (Official)",
+            "file": "jingles/wiiu/Felipne87r/(Wii U) Monster Hunter 3 Ultimate (Official) (Felipne87r).ogg",
+            "regex": "^wii[^a-z0-9]*u[^a-z0-9]*monster[^a-z0-9]*hunter[^a-z0-9]*3[^a-z0-9]*ultimate[^a-z0-9]*official$|^wiiumonsterhunter3ultimateofficial$"
+        },
+        {
+            "game": "(Wii U) Need for Speed Most Wanted U (Official)",
+            "file": "jingles/wiiu/Felipne87r/(Wii U) Need for Speed Most Wanted U (Official) (Felipne87r).ogg",
+            "regex": "^wii[^a-z0-9]*u[^a-z0-9]*need[^a-z0-9]*for[^a-z0-9]*speed[^a-z0-9]*most[^a-z0-9]*wanted[^a-z0-9]*u[^a-z0-9]*official$|^wiiuneedforspeedmostwanteduofficial$"
+        },
+        {
+            "game": "(Wii U) Ninja Gaiden 3 - Razor's Edge (Official)",
+            "file": "jingles/wiiu/Felipne87r/(Wii U) Ninja Gaiden 3 - Razor's Edge (Official) (Felipne87r).ogg",
+            "regex": "^wii[^a-z0-9]*u[^a-z0-9]*ninja[^a-z0-9]*gaiden[^a-z0-9]*3[^a-z0-9]*razor[^a-z0-9]*s[^a-z0-9]*edge[^a-z0-9]*official$|^wiiuninjagaiden3razorsedgeofficial$"
+        },
+        {
+            "game": "(Wii U) Pikmin 3 (Official)",
+            "file": "jingles/wiiu/Felipne87r/(Wii U) Pikmin 3 (Official) (Felipne87r).ogg",
+            "regex": "^wii[^a-z0-9]*u[^a-z0-9]*pikmin[^a-z0-9]*3[^a-z0-9]*official$|^wiiupikmin3official$"
+        },
+        {
+            "game": "(Wii U) Pokkén Tournament (Official)",
+            "file": "jingles/wiiu/Felipne87r/(Wii U) Pokkén Tournament (Official) (Felipne87r).ogg",
+            "regex": "^wii[^a-z0-9]*u[^a-z0-9]*pokk[^a-z0-9]*n[^a-z0-9]*tournament[^a-z0-9]*official$|^wiiupokkntournamentofficial$"
+        },
+        {
+            "game": "(Wii U) Rayman Legends (Official)",
+            "file": "jingles/wiiu/Felipne87r/(Wii U) Rayman Legends (Official) (Felipne87r).ogg",
+            "regex": "^wii[^a-z0-9]*u[^a-z0-9]*rayman[^a-z0-9]*legends[^a-z0-9]*official$|^wiiuraymanlegendsofficial$"
+        },
+        {
+            "game": "(Wii U) Resident Evil Revelations (Official)",
+            "file": "jingles/wiiu/Felipne87r/(Wii U) Resident Evil Revelations (Official) (Felipne87r).ogg",
+            "regex": "^wii[^a-z0-9]*u[^a-z0-9]*resident[^a-z0-9]*evil[^a-z0-9]*revelations[^a-z0-9]*official$|^wiiuresidentevilrevelationsofficial$"
+        },
+        {
+            "game": "(Wii U) Scribblenauts Unlimited (Official)",
+            "file": "jingles/wiiu/Felipne87r/(Wii U) Scribblenauts Unlimited (Official) (Felipne87r).ogg",
+            "regex": "^wii[^a-z0-9]*u[^a-z0-9]*scribblenauts[^a-z0-9]*unlimited[^a-z0-9]*official$|^wiiuscribblenautsunlimitedofficial$"
+        },
+        {
+            "game": "(Wii U) Shantae - Half-Genie Hero (Official)",
+            "file": "jingles/wiiu/Felipne87r/(Wii U) Shantae - Half-Genie Hero (Official) (Felipne87r).ogg",
+            "regex": "^wii[^a-z0-9]*u[^a-z0-9]*shantae[^a-z0-9]*half[^a-z0-9]*genie[^a-z0-9]*hero[^a-z0-9]*official$|^wiiushantaehalfgenieheroofficial$"
+        },
+        {
+            "game": "(Wii U) Shantae - Risky's Revenge  (Official)",
+            "file": "jingles/wiiu/Felipne87r/(Wii U) Shantae - Risky's Revenge  (Official) (Felipne87r).ogg",
+            "regex": "^wii[^a-z0-9]*u[^a-z0-9]*shantae[^a-z0-9]*risky[^a-z0-9]*s[^a-z0-9]*revenge[^a-z0-9]*official$|^wiiushantaeriskysrevengeofficial$"
+        },
+        {
+            "game": "(Wii U) Shantae and the Pirate's Curse (Official)",
+            "file": "jingles/wiiu/Felipne87r/(Wii U) Shantae and the Pirate's Curse (Official) (Felipne87r).ogg",
+            "regex": "^wii[^a-z0-9]*u[^a-z0-9]*shantae[^a-z0-9]*and[^a-z0-9]*the[^a-z0-9]*pirate[^a-z0-9]*s[^a-z0-9]*curse[^a-z0-9]*official$|^wiiushantaeandthepiratescurseofficial$"
+        },
+        {
+            "game": "(Wii U) Shovel Knight (Official)",
+            "file": "jingles/wiiu/Felipne87r/(Wii U) Shovel Knight (Official) (Felipne87r).ogg",
+            "regex": "^wii[^a-z0-9]*u[^a-z0-9]*shovel[^a-z0-9]*knight[^a-z0-9]*official$|^wiiushovelknightofficial$"
+        },
+        {
+            "game": "(Wii U) Skylanders - Superchargers (Official)",
+            "file": "jingles/wiiu/Felipne87r/(Wii U) Skylanders - Superchargers (Official) (Felipne87r).ogg",
+            "regex": "^wii[^a-z0-9]*u[^a-z0-9]*skylanders[^a-z0-9]*superchargers[^a-z0-9]*official$|^wiiuskylanderssuperchargersofficial$"
+        },
+        {
+            "game": "(Wii U) Sonic & Sega All-Stars Racing Transformed (Official)",
+            "file": "jingles/wiiu/Felipne87r/(Wii U) Sonic & Sega All-Stars Racing Transformed (Official) (Felipne87r).ogg",
+            "regex": "^wii[^a-z0-9]*u[^a-z0-9]*sonic[^a-z0-9]*sega[^a-z0-9]*all[^a-z0-9]*stars[^a-z0-9]*racing[^a-z0-9]*transformed[^a-z0-9]*official$|^wiiusonicsegaallstarsracingtransformedofficial$"
+        },
+        {
+            "game": "(Wii U) Splatoon (Full) (Official)",
+            "file": "jingles/wiiu/Felipne87r/(Wii U) Splatoon (Full) (Official) (Felipne87r).ogg",
+            "regex": "^wii[^a-z0-9]*u[^a-z0-9]*splatoon[^a-z0-9]*full[^a-z0-9]*official$|^wiiusplatoonfullofficial$"
+        },
+        {
+            "game": "(Wii U) Splatoon (No Start) (Official)",
+            "file": "jingles/wiiu/Felipne87r/(Wii U) Splatoon (No Start) (Official) (Felipne87r).ogg",
+            "regex": "^wii[^a-z0-9]*u[^a-z0-9]*splatoon[^a-z0-9]*no[^a-z0-9]*start[^a-z0-9]*official$|^wiiusplatoonnostartofficial$"
+        },
+        {
+            "game": "(Wii U) SteamWorld Dig (Official)",
+            "file": "jingles/wiiu/Felipne87r/(Wii U) SteamWorld Dig (Official) (Felipne87r).ogg",
+            "regex": "^wii[^a-z0-9]*u[^a-z0-9]*steamworld[^a-z0-9]*dig[^a-z0-9]*official$|^wiiusteamworlddigofficial$"
+        },
+        {
+            "game": "(Wii U) SteamWorld Heist (Official)",
+            "file": "jingles/wiiu/Felipne87r/(Wii U) SteamWorld Heist (Official) (Felipne87r).ogg",
+            "regex": "^wii[^a-z0-9]*u[^a-z0-9]*steamworld[^a-z0-9]*heist[^a-z0-9]*official$|^wiiusteamworldheistofficial$"
+        },
+        {
+            "game": "(Wii U) Super Mario Maker (Official)",
+            "file": "jingles/wiiu/Felipne87r/(Wii U) Super Mario Maker (Official) (Felipne87r).ogg",
+            "regex": "^wii[^a-z0-9]*u[^a-z0-9]*super[^a-z0-9]*mario[^a-z0-9]*maker[^a-z0-9]*official$|^wiiusupermariomakerofficial$"
+        },
+        {
+            "game": "(Wii U) The Amazing Spider-Man (Official)",
+            "file": "jingles/wiiu/Felipne87r/(Wii U) The Amazing Spider-Man (Official) (Felipne87r).ogg",
+            "regex": "^wii[^a-z0-9]*u[^a-z0-9]*the[^a-z0-9]*amazing[^a-z0-9]*spider[^a-z0-9]*man[^a-z0-9]*official$|^wiiutheamazingspidermanofficial$"
+        },
+        {
+            "game": "(Wii U) The Legend of Zelda - Breath of The Wild (Full) (Official)",
+            "file": "jingles/wiiu/Felipne87r/(Wii U) The Legend of Zelda - Breath of The Wild (Full) (Official) (Felipne87r).ogg",
+            "regex": "^wii[^a-z0-9]*u[^a-z0-9]*the[^a-z0-9]*legend[^a-z0-9]*of[^a-z0-9]*zelda[^a-z0-9]*breath[^a-z0-9]*of[^a-z0-9]*the[^a-z0-9]*wild[^a-z0-9]*full[^a-z0-9]*official$|^wiiuthelegendofzeldabreathofthewildfullofficial$"
+        },
+        {
+            "game": "(Wii U) The Legend of Zelda - Breath of The Wild (Shorter) (Official)",
+            "file": "jingles/wiiu/Felipne87r/(Wii U) The Legend of Zelda - Breath of The Wild (Shorter) (Official) (Felipne87r).ogg",
+            "regex": "^wii[^a-z0-9]*u[^a-z0-9]*the[^a-z0-9]*legend[^a-z0-9]*of[^a-z0-9]*zelda[^a-z0-9]*breath[^a-z0-9]*of[^a-z0-9]*the[^a-z0-9]*wild[^a-z0-9]*shorter[^a-z0-9]*official$|^wiiuthelegendofzeldabreathofthewildshorterofficial$"
+        },
+        {
+            "game": "(Wii U) The Legend of Zelda Twilight Princess HD (Official)",
+            "file": "jingles/wiiu/Felipne87r/(Wii U) The Legend of Zelda Twilight Princess HD (Official) (Felipne87r).ogg",
+            "regex": "^wii[^a-z0-9]*u[^a-z0-9]*the[^a-z0-9]*legend[^a-z0-9]*of[^a-z0-9]*zelda[^a-z0-9]*twilight[^a-z0-9]*princess[^a-z0-9]*hd[^a-z0-9]*official$|^wiiuthelegendofzeldatwilightprincesshdofficial$"
+        },
+        {
+            "game": "(Wii U) The Legend of Zelda Twilight Princess HD (Short) (Official)",
+            "file": "jingles/wiiu/Felipne87r/(Wii U) The Legend of Zelda Twilight Princess HD (Short) (Official) (Felipne87r).ogg",
+            "regex": "^wii[^a-z0-9]*u[^a-z0-9]*the[^a-z0-9]*legend[^a-z0-9]*of[^a-z0-9]*zelda[^a-z0-9]*twilight[^a-z0-9]*princess[^a-z0-9]*hd[^a-z0-9]*short[^a-z0-9]*official$|^wiiuthelegendofzeldatwilightprincesshdshortofficial$"
+        },
+        {
+            "game": "(Wii U) The Legend of Zelda Wind Waker HD (Official)",
+            "file": "jingles/wiiu/Felipne87r/(Wii U) The Legend of Zelda Wind Waker HD (Official) (Felipne87r).ogg",
+            "regex": "^wii[^a-z0-9]*u[^a-z0-9]*the[^a-z0-9]*legend[^a-z0-9]*of[^a-z0-9]*zelda[^a-z0-9]*wind[^a-z0-9]*waker[^a-z0-9]*hd[^a-z0-9]*official$|^wiiuthelegendofzeldawindwakerhdofficial$"
+        },
+        {
+            "game": "(Wii U) The LEGO Movie Videogame (Official)",
+            "file": "jingles/wiiu/Felipne87r/(Wii U) The LEGO Movie Videogame (Official) (Felipne87r).ogg",
+            "regex": "^wii[^a-z0-9]*u[^a-z0-9]*the[^a-z0-9]*lego[^a-z0-9]*movie[^a-z0-9]*videogame[^a-z0-9]*official$|^wiiuthelegomovievideogameofficial$"
+        },
+        {
+            "game": "(Wii U) Tom Clancy's Splinter Cell Blacklist (Official)",
+            "file": "jingles/wiiu/Felipne87r/(Wii U) Tom Clancy's Splinter Cell Blacklist (Official) (Felipne87r).ogg",
+            "regex": "^wii[^a-z0-9]*u[^a-z0-9]*tom[^a-z0-9]*clancy[^a-z0-9]*s[^a-z0-9]*splinter[^a-z0-9]*cell[^a-z0-9]*blacklist[^a-z0-9]*official$|^wiiutomclancyssplintercellblacklistofficial$"
+        },
+        {
+            "game": "(Wii U) WATCH_DOGS (Official)",
+            "file": "jingles/wiiu/Felipne87r/(Wii U) WATCH_DOGS (Official) (Felipne87r).ogg",
+            "regex": "^wii[^a-z0-9]*u[^a-z0-9]*watch[^a-z0-9]*dogs[^a-z0-9]*official$|^wiiuwatchdogsofficial$"
+        },
+        {
+            "game": "(Wii U) Yoshi's Woolly World (Official)",
+            "file": "jingles/wiiu/Felipne87r/(Wii U) Yoshi's Woolly World (Official) (Felipne87r).ogg",
+            "regex": "^wii[^a-z0-9]*u[^a-z0-9]*yoshi[^a-z0-9]*s[^a-z0-9]*woolly[^a-z0-9]*world[^a-z0-9]*official$|^wiiuyoshiswoollyworldofficial$"
+        },
+        {
             "game": "Game & Wario",
             "file": "jingles/wiiu/CirnoWaifu/Game & Wario (CirnoWaifu).ogg",
             "regex": "^game[^a-z0-9]*wario$|^gamewario$"
+        },
+        {
+            "game": "Game & Wario (Official)",
+            "file": "jingles/wiiu/Felipne87r/Game & Wario (Official) (Felipne87r).ogg",
+            "regex": "^game[^a-z0-9]*wario[^a-z0-9]*official$|^gamewarioofficial$"
         },
         {
             "game": "Kirby and the Rainbow Paintbrush",
@@ -17447,6 +17707,11 @@
             "regex": "^lego[^a-z0-9]*city[^a-z0-9]*undercover$|^legocityundercover$"
         },
         {
+            "game": "Mario & Sonic at the 2014 Sochi Olympic Winter Games (Official)",
+            "file": "jingles/wiiu/Felipne87r/Mario & Sonic at the 2014 Sochi Olympic Winter Games (Official) (Felipne87r).ogg",
+            "regex": "^mario[^a-z0-9]*sonic[^a-z0-9]*at[^a-z0-9]*the[^a-z0-9]*2014[^a-z0-9]*sochi[^a-z0-9]*olympic[^a-z0-9]*winter[^a-z0-9]*games[^a-z0-9]*official$|^mariosonicatthe2014sochiolympicwintergamesofficial$"
+        },
+        {
             "game": "Mario Party 10",
             "file": "jingles/wiiu/Brookenium/Mario Party 10 (Brookenium).ogg",
             "regex": "^mario[^a-z0-9]*party[^a-z0-9]*10$|^marioparty10$"
@@ -17457,14 +17722,29 @@
             "regex": "^mario[^a-z0-9]*tennis[^a-z0-9]*ultra[^a-z0-9]*smash$|^mariotennisultrasmash$"
         },
         {
+            "game": "New Super Mario Bros U",
+            "file": "jingles/wiiu/Felipne87r/New Super Mario Bros U (Felipne87r).ogg",
+            "regex": "^new[^a-z0-9]*super[^a-z0-9]*mario[^a-z0-9]*bros[^a-z0-9]*u$|^newsupermariobrosu$"
+        },
+        {
             "game": "Nintendo Land",
             "file": "jingles/wiiu/flapperultra/Nintendo Land (flapperultra).ogg",
             "regex": "^nintendo[^a-z0-9]*land$|^nintendoland$"
         },
         {
+            "game": "Nintendo Land (Official)",
+            "file": "jingles/wiiu/Felipne87r/Nintendo Land (Official) (Felipne87r).ogg",
+            "regex": "^nintendo[^a-z0-9]*land[^a-z0-9]*official$|^nintendolandofficial$"
+        },
+        {
             "game": "Paper Mario - Color Splash",
             "file": "jingles/wiiu/CirnoWaifu/Paper Mario - Color Splash (CirnoWaifu).ogg",
             "regex": "^paper[^a-z0-9]*mario[^a-z0-9]*color[^a-z0-9]*splash$|^papermariocolorsplash$"
+        },
+        {
+            "game": "Paper Mario Color Splash (Official)",
+            "file": "jingles/wiiu/Felipne87r/Paper Mario Color Splash (Official) (Felipne87r).ogg",
+            "regex": "^paper[^a-z0-9]*mario[^a-z0-9]*color[^a-z0-9]*splash[^a-z0-9]*official$|^papermariocolorsplashofficial$"
         },
         {
             "game": "Paper Mario Colour Splash",
@@ -17492,6 +17772,16 @@
             "regex": "^splatoon[^a-z0-9]*alt$|^splatoonalt$"
         },
         {
+            "game": "Star Fox Zero (Official)",
+            "file": "jingles/wiiu/Felipne87r/Star Fox Zero (Official) (Felipne87r).ogg",
+            "regex": "^star[^a-z0-9]*fox[^a-z0-9]*zero[^a-z0-9]*official$|^starfoxzeroofficial$"
+        },
+        {
+            "game": "Super Mario 3D World",
+            "file": "jingles/wiiu/Felipne87r/Super Mario 3D World (Felipne87r).ogg",
+            "regex": "^super[^a-z0-9]*mario[^a-z0-9]*3d[^a-z0-9]*world$|^supermario3dworld$"
+        },
+        {
             "game": "Super Mario 3D World",
             "file": "jingles/wiiu/RetroWave64/Super Mario 3D World (RetroWave64).ogg",
             "regex": "^super[^a-z0-9]*mario[^a-z0-9]*3d[^a-z0-9]*world$|^supermario3dworld$"
@@ -17512,6 +17802,26 @@
             "regex": "^the[^a-z0-9]*wonderful[^a-z0-9]*101$|^thewonderful101$"
         },
         {
+            "game": "Wii Fit U (Official)",
+            "file": "jingles/wiiu/Felipne87r/Wii Fit U (Official) (Felipne87r).ogg",
+            "regex": "^wii[^a-z0-9]*fit[^a-z0-9]*u[^a-z0-9]*official$|^wiifituofficial$"
+        },
+        {
+            "game": "Wii Party U (Official)",
+            "file": "jingles/wiiu/Felipne87r/Wii Party U (Official) (Felipne87r).ogg",
+            "regex": "^wii[^a-z0-9]*party[^a-z0-9]*u[^a-z0-9]*official$|^wiipartyuofficial$"
+        },
+        {
+            "game": "Wii Sports Club (Official)",
+            "file": "jingles/wiiu/Felipne87r/Wii Sports Club (Official) (Felipne87r).ogg",
+            "regex": "^wii[^a-z0-9]*sports[^a-z0-9]*club[^a-z0-9]*official$|^wiisportsclubofficial$"
+        },
+        {
+            "game": "Wii U Default Splash Screen (Official)",
+            "file": "jingles/wiiu/Felipne87r/Wii U Default Splash Screen (Official) (Felipne87r).ogg",
+            "regex": "^wii[^a-z0-9]*u[^a-z0-9]*default[^a-z0-9]*splash[^a-z0-9]*screen[^a-z0-9]*official$|^wiiudefaultsplashscreenofficial$"
+        },
+        {
             "game": "Yoshis Woolly World",
             "file": "jingles/wiiu/flapperultra/Yoshis Woolly World (flapperultra).ogg",
             "regex": "^yoshis[^a-z0-9]*woolly[^a-z0-9]*world$|^yoshiswoollyworld$"
@@ -17520,6 +17830,11 @@
             "game": "Zombi U",
             "file": "jingles/wiiu/flapperultra/Zombi U (flapperultra).ogg",
             "regex": "^zombi[^a-z0-9]*u$|^zombiu$"
+        },
+        {
+            "game": "Zombi U (Official)",
+            "file": "jingles/wiiu/Felipne87r/Zombi U (Official) (Felipne87r).ogg",
+            "regex": "^zombi[^a-z0-9]*u[^a-z0-9]*official$|^zombiuofficial$"
         }
     ]
 }
