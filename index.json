@@ -16795,11 +16795,6 @@
             "regex": "^animal[^a-z0-9]*crossing[^a-z0-9]*city[^a-z0-9]*folk$|^animalcrossingcityfolk$"
         },
         {
-            "game": "Animal Crossing City Folk (Official)",
-            "file": "jingles/wii/Felipne87r/Animal Crossing City Folk (Official) (Felipne87r).ogg",
-            "regex": "^animal[^a-z0-9]*crossing[^a-z0-9]*city[^a-z0-9]*folk[^a-z0-9]*official$|^animalcrossingcityfolkofficial$"
-        },
-        {
             "game": "Animal Crossing Let's Go to the City (Official)",
             "file": "jingles/wii/Felipne87r/Animal Crossing Let's Go to the City (Official) (Felipne87r).ogg",
             "regex": "^animal[^a-z0-9]*crossing[^a-z0-9]*let[^a-z0-9]*s[^a-z0-9]*go[^a-z0-9]*to[^a-z0-9]*the[^a-z0-9]*city[^a-z0-9]*official$|^animalcrossingletsgotothecityofficial$"
@@ -17315,11 +17310,6 @@
             "regex": "^the[^a-z0-9]*legend[^a-z0-9]*of[^a-z0-9]*zelda[^a-z0-9]*twilight[^a-z0-9]*princess$|^thelegendofzeldatwilightprincess$"
         },
         {
-            "game": "The Legend of Zelda Skyward Sword (Official)",
-            "file": "jingles/wii/Felipne87r/The Legend of Zelda Skyward Sword (Official) (Felipne87r).ogg",
-            "regex": "^the[^a-z0-9]*legend[^a-z0-9]*of[^a-z0-9]*zelda[^a-z0-9]*skyward[^a-z0-9]*sword[^a-z0-9]*official$|^thelegendofzeldaskywardswordofficial$"
-        },
-        {
             "game": "The Legend of Zelda Twilight Princess (Official)",
             "file": "jingles/wii/Felipne87r/The Legend of Zelda Twilight Princess (Official) (Felipne87r).ogg",
             "regex": "^the[^a-z0-9]*legend[^a-z0-9]*of[^a-z0-9]*zelda[^a-z0-9]*twilight[^a-z0-9]*princess[^a-z0-9]*official$|^thelegendofzeldatwilightprincessofficial$"
@@ -17368,11 +17358,6 @@
             "game": "Wii Party",
             "file": "jingles/wii/Brookenium/Wii Party (Brookenium).ogg",
             "regex": "^wii[^a-z0-9]*party$|^wiiparty$"
-        },
-        {
-            "game": "Wii Party (Official)",
-            "file": "jingles/wii/Felipne87r/Wii Party (Official) (Felipne87r).ogg",
-            "regex": "^wii[^a-z0-9]*party[^a-z0-9]*official$|^wiipartyofficial$"
         },
         {
             "game": "Wii Play (Official)",
