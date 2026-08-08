@@ -17325,8 +17325,8 @@
             "regex": "^wario[^a-z0-9]*land[^a-z0-9]*the[^a-z0-9]*shake[^a-z0-9]*dimension[^a-z0-9]*official$|^wariolandtheshakedimensionofficial$"
         },
         {
-            "game": "wario land shake it (official)",
-            "file": "jingles/wii/Felipne87r/wario land shake it (official) (Felipne87r).ogg",
+            "game": "Wario Land Shake It! (official)",
+            "file": "jingles/wii/Felipne87r/Wario Land Shake It! (official) (Felipne87r).ogg",
             "regex": "^wario[^a-z0-9]*land[^a-z0-9]*shake[^a-z0-9]*it[^a-z0-9]*official$|^wariolandshakeitofficial$"
         },
         {
