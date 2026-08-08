@@ -16955,18 +16955,18 @@
             "regex": "^mario[^a-z0-9]*strikers[^a-z0-9]*charged[^a-z0-9]*official[^a-z0-9]*short$|^mariostrikerschargedofficialshort$"
         },
         {
-            "game": "mario strikers charged (official) (shorter)",
-            "file": "jingles/wii/Felipne87r/mario strikers charged (official) (shorter) (Felipne87r).ogg",
+            "game": "Mario Strikers Charged (official) (shorter)",
+            "file": "jingles/wii/Felipne87r/Mario Strikers Charged (official) (shorter) (Felipne87r).ogg",
             "regex": "^mario[^a-z0-9]*strikers[^a-z0-9]*charged[^a-z0-9]*official[^a-z0-9]*shorter$|^mariostrikerschargedofficialshorter$"
         },
         {
-            "game": "mario strikers charged (official) (shortest)",
-            "file": "jingles/wii/Felipne87r/mario strikers charged (official) (shortest) (Felipne87r).ogg",
+            "game": "Mario Strikers Charged (official) (shortest)",
+            "file": "jingles/wii/Felipne87r/Mario Strikers Charged (official) (shortest) (Felipne87r).ogg",
             "regex": "^mario[^a-z0-9]*strikers[^a-z0-9]*charged[^a-z0-9]*official[^a-z0-9]*shortest$|^mariostrikerschargedofficialshortest$"
         },
         {
-            "game": "mario super sluggers (official)",
-            "file": "jingles/wii/Felipne87r/mario super sluggers (official) (Felipne87r).ogg",
+            "game": "Mario Super Sluggers (official)",
+            "file": "jingles/wii/Felipne87r/Mario Super Sluggers (official) (Felipne87r).ogg",
             "regex": "^mario[^a-z0-9]*super[^a-z0-9]*sluggers[^a-z0-9]*official$|^mariosupersluggersofficial$"
         },
         {
@@ -17025,8 +17025,8 @@
             "regex": "^new[^a-z0-9]*super[^a-z0-9]*mario[^a-z0-9]*bros[^a-z0-9]*wii$|^newsupermariobroswii$"
         },
         {
-            "game": "new super mario bros wii (official)",
-            "file": "jingles/wii/Felipne87r/new super mario bros wii (official) (Felipne87r).ogg",
+            "game": "New Super Mario Bros Wii (official)",
+            "file": "jingles/wii/Felipne87r/New Super Mario Bros Wii (official) (Felipne87r).ogg",
             "regex": "^new[^a-z0-9]*super[^a-z0-9]*mario[^a-z0-9]*bros[^a-z0-9]*wii[^a-z0-9]*official$|^newsupermariobroswiiofficial$"
         },
         {
