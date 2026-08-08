@@ -16910,8 +16910,8 @@
             "regex": "^mario[^a-z0-9]*kart[^a-z0-9]*channel[^a-z0-9]*official$|^mariokartchannelofficial$"
         },
         {
-            "game": "mario kart wii (official)",
-            "file": "jingles/wii/Felipne87r/mario kart wii (official) (Felipne87r).ogg",
+            "game": "Mario Kart Wii (Official)",
+            "file": "jingles/wii/Felipne87r/Mario Kart Wii (Official) (Felipne87r).ogg",
             "regex": "^mario[^a-z0-9]*kart[^a-z0-9]*wii[^a-z0-9]*official$|^mariokartwiiofficial$"
         },
         {
@@ -16930,23 +16930,23 @@
             "regex": "^mario[^a-z0-9]*party[^a-z0-9]*9$|^marioparty9$"
         },
         {
-            "game": "mario power tennis (official)",
-            "file": "jingles/wii/Felipne87r/mario power tennis (official) (Felipne87r).ogg",
+            "game": "Mario Power Tennis (official)",
+            "file": "jingles/wii/Felipne87r/Mario Power Tennis (official) (Felipne87r).ogg",
             "regex": "^mario[^a-z0-9]*power[^a-z0-9]*tennis[^a-z0-9]*official$|^mariopowertennisofficial$"
         },
         {
-            "game": "mario sports mix (official)",
-            "file": "jingles/wii/Felipne87r/mario sports mix (official) (Felipne87r).ogg",
+            "game": "Mario Sports Mix (official)",
+            "file": "jingles/wii/Felipne87r/Mario Sports Mix (official) (Felipne87r).ogg",
             "regex": "^mario[^a-z0-9]*sports[^a-z0-9]*mix[^a-z0-9]*official$|^mariosportsmixofficial$"
         },
         {
-            "game": "mario strikers charged (official)",
-            "file": "jingles/wii/Felipne87r/mario strikers charged (official) (Felipne87r).ogg",
+            "game": "Mario Strikers Charged (official)",
+            "file": "jingles/wii/Felipne87r/Mario Strikers Charged (official) (Felipne87r).ogg",
             "regex": "^mario[^a-z0-9]*strikers[^a-z0-9]*charged[^a-z0-9]*official$|^mariostrikerschargedofficial$"
         },
         {
-            "game": "mario strikers charged (official) (short)",
-            "file": "jingles/wii/Felipne87r/mario strikers charged (official) (short) (Felipne87r).ogg",
+            "game": "Mario Strikers Charged (official) (short)",
+            "file": "jingles/wii/Felipne87r/Mario Strikers Charged (official) (short) (Felipne87r).ogg",
             "regex": "^mario[^a-z0-9]*strikers[^a-z0-9]*charged[^a-z0-9]*official[^a-z0-9]*short$|^mariostrikerschargedofficialshort$"
         },
         {
@@ -17335,8 +17335,8 @@
             "regex": "^warioware[^a-z0-9]*smooth[^a-z0-9]*moves$|^wariowaresmoothmoves$"
         },
         {
-            "game": "warioware smooth moves (official)",
-            "file": "jingles/wii/Felipne87r/warioware smooth moves (official) (Felipne87r).ogg",
+            "game": "WarioWare Smooth Moves (official)",
+            "file": "jingles/wii/Felipne87r/WarioWare Smooth Moves (official) (Felipne87r).ogg",
             "regex": "^warioware[^a-z0-9]*smooth[^a-z0-9]*moves[^a-z0-9]*official$|^wariowaresmoothmovesofficial$"
         },
         {
