@@ -16745,6 +16745,11 @@
             "regex": "^wii[^a-z0-9]*sonic[^a-z0-9]*riders[^a-z0-9]*zero[^a-z0-9]*gravity[^a-z0-9]*official$|^wiisonicriderszerogravityofficial$"
         },
         {
+            "game": "(Wii) Super Mario All-Stars (official)",
+            "file": "jingles/wii/Felipne87r/(Wii) Super Mario All-Stars (official) (Felipne87r).ogg",
+            "regex": "^wii[^a-z0-9]*super[^a-z0-9]*mario[^a-z0-9]*all[^a-z0-9]*stars[^a-z0-9]*official$|^wiisupermarioallstarsofficial$"
+        },
+        {
             "game": "(Wii) Tatsunoko vs. Capcom - Ultimate All-Stars (Official)",
             "file": "jingles/wii/Felipne87r/(Wii) Tatsunoko vs. Capcom - Ultimate All-Stars (Official) (Felipne87r).ogg",
             "regex": "^wii[^a-z0-9]*tatsunoko[^a-z0-9]*vs$|^wiitatsunokovs$"
@@ -17213,11 +17218,6 @@
             "game": "Sonic Unleashed",
             "file": "jingles/wii/somecallmesean/Sonic Unleashed (somecallmesean).ogg",
             "regex": "^sonic[^a-z0-9]*unleashed$|^sonicunleashed$"
-        },
-        {
-            "game": "super mario all stars (official)",
-            "file": "jingles/wii/Felipne87r/super mario all stars (official) (Felipne87r).ogg",
-            "regex": "^super[^a-z0-9]*mario[^a-z0-9]*all[^a-z0-9]*stars[^a-z0-9]*official$|^supermarioallstarsofficial$"
         },
         {
             "game": "Super Mario Galaxy",
