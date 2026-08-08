@@ -11,7 +11,7 @@
 
 - The Lion King
 
-### SNES (29)
+### SNES (28)
 
 - ACTRAISER
 - AERO FIGHTERS
@@ -57,7 +57,7 @@
 - Pokemon Trading Card Game 2
 - Tony Hawk's Pro Skater 2
 
-### Game Boy Advance (13)
+### Game Boy Advance (12)
 
 - Duel Masters Kaijudo Showdown
 - Duel Masters Sempai Legends
@@ -72,7 +72,7 @@
 - Yoshi Topsy-Turvy
 - Yu Yu Hakusho Tournament Tactics
 
-### GameCube (53)
+### GameCube (52)
 
 - 007 From Russia With Love
 - 007 Nightfire
@@ -101,7 +101,6 @@
 - Mario Party 5
 - Mario Party 6
 - Mario Party 7
-- Mario Power Tennis
 - Mario Strikers
 - Mario Superstar Baseball
 - Midway Arcade Treasures 1
@@ -128,7 +127,7 @@
 - Wallace and Gromit
 - WELCOME
 
-### Nintendo DS (14)
+### Nintendo DS (12)
 
 - Fossil Fighters
 - Fossil Fighters Champions
@@ -143,7 +142,7 @@
 - Theresia - Dear Emile
 - Trace Memory / Another Code
 
-### Wii (35)
+### Wii (27)
 
 - Adventure Isle
 - Another Code R
@@ -162,23 +161,16 @@
 - Guilty Gear Xx Accent Core
 - Harvest Moon Animal Parade
 - Harvest Moon Tree of Tranquility
-- Link's Crossbow Training
-- Metroid Prime 3 Corruption
-- Monster Hunter 3 tri
 - Muramasa the Demon Blade
 - Naruto Clash of Ninja Revolution
 - Need for Speed Nitro
 - Nights Journey of Dreams
-- No More Heroes
 - Pandoras Tower
 - Puyo Puyo!! 20th Anniversary
-- Rhythm Heaven Fever
 - Samurai Warriors 3
-- Tatsunoko vs Capcom Ultimate All Stars
 - The Last Story
 - The Munchables
 - Trackmania Build to Race
-- Wii Sports
 
 ### Nintendo 3DS (101)
 
@@ -339,7 +331,7 @@
 
 - None
 
-### Dreamcast (3)
+### Dreamcast (2)
 
 - ChuChu Rocket!
 - Crazy Taxi 2
@@ -422,7 +414,7 @@
 - Persona 5 - Dancing in Starlight
 - Risk of Rain
 
-### Xbox (6)
+### Xbox (5)
 
 - Blinx - The Time Sweeper
 - Blinx 2 - Masters of Time and Space
@@ -430,7 +422,7 @@
 - MechAssault 2 - Lone Wolf
 - Yu-Gi-Oh - The Dawn of Destiny
 
-### Xbox 360 (12)
+### Xbox 360 (10)
 
 - Fable Anniversary
 - Guitar Hero II
@@ -447,7 +439,7 @@
 
 - None
 
-### PC / Steam (73)
+### PC / Steam (72)
 
 - Amber Isle
 - ARC Raiders
@@ -489,7 +481,6 @@
 - Monster Hunter World Iceborne
 - Mouse P.I. For Hire
 - N++
-- No More Heroes
 - Nuclear Throne
 - Old School RuneScape
 - Ori and the Blind Forest
@@ -521,11 +512,11 @@
 
 - None
 
-### Android Apps (1)
+### Android Apps (0)
 
-- You Tube
+- None
 
-### Android Games (18)
+### Android Games (13)
 
 - Adventure Time - Card Wars Kingdom
 - Adventure Time - Champions and Challengers
