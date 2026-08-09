@@ -1401,166 +1401,6 @@
             "regex": "^friday[^a-z0-9]*night[^a-z0-9]*funkin$|^fridaynightfunkin$"
         },
         {
-            "game": "Geometry Dash (SFX1)",
-            "file": "jingles/android/SJH/Geometry Dash (SFX1) (SJH).mp3",
-            "regex": "^geometry[^a-z0-9]*dash[^a-z0-9]*sfx1$|^geometrydashsfx1$"
-        },
-        {
-            "game": "Geometry Dash (SFX2)",
-            "file": "jingles/android/SJH/Geometry Dash (SFX2) (SJH).mp3",
-            "regex": "^geometry[^a-z0-9]*dash[^a-z0-9]*sfx2$|^geometrydashsfx2$"
-        },
-        {
-            "game": "Geometry Dash (SFX3)",
-            "file": "jingles/android/SJH/Geometry Dash (SFX3) (SJH).mp3",
-            "regex": "^geometry[^a-z0-9]*dash[^a-z0-9]*sfx3$|^geometrydashsfx3$"
-        },
-        {
-            "game": "Geometry Dash (SFX4)",
-            "file": "jingles/android/SJH/Geometry Dash (SFX4) (SJH).mp3",
-            "regex": "^geometry[^a-z0-9]*dash[^a-z0-9]*sfx4$|^geometrydashsfx4$"
-        },
-        {
-            "game": "Geometry Dash (SFX5)",
-            "file": "jingles/android/SJH/Geometry Dash (SFX5) (SJH).mp3",
-            "regex": "^geometry[^a-z0-9]*dash[^a-z0-9]*sfx5$|^geometrydashsfx5$"
-        },
-        {
-            "game": "Geometry Dash (SFX6)",
-            "file": "jingles/android/SJH/Geometry Dash (SFX6) (SJH).mp3",
-            "regex": "^geometry[^a-z0-9]*dash[^a-z0-9]*sfx6$|^geometrydashsfx6$"
-        },
-        {
-            "game": "Geometry Dash (SFX7)",
-            "file": "jingles/android/SJH/Geometry Dash (SFX7) (SJH).mp3",
-            "regex": "^geometry[^a-z0-9]*dash[^a-z0-9]*sfx7$|^geometrydashsfx7$"
-        },
-        {
-            "game": "Geometry Dash (SFX8)",
-            "file": "jingles/android/SJH/Geometry Dash (SFX8) (SJH).mp3",
-            "regex": "^geometry[^a-z0-9]*dash[^a-z0-9]*sfx8$|^geometrydashsfx8$"
-        },
-        {
-            "game": "Geometry Dash (V1)",
-            "file": "jingles/android/SJH/Geometry Dash (V1) (SJH).mp3",
-            "regex": "^geometry[^a-z0-9]*dash[^a-z0-9]*v1$|^geometrydashv1$"
-        },
-        {
-            "game": "Geometry Dash (V10)",
-            "file": "jingles/android/SJH/Geometry Dash (V10) (SJH).mp3",
-            "regex": "^geometry[^a-z0-9]*dash[^a-z0-9]*v10$|^geometrydashv10$"
-        },
-        {
-            "game": "Geometry Dash (V11)",
-            "file": "jingles/android/SJH/Geometry Dash (V11) (SJH).mp3",
-            "regex": "^geometry[^a-z0-9]*dash[^a-z0-9]*v11$|^geometrydashv11$"
-        },
-        {
-            "game": "Geometry Dash (V12)",
-            "file": "jingles/android/SJH/Geometry Dash (V12) (SJH).mp3",
-            "regex": "^geometry[^a-z0-9]*dash[^a-z0-9]*v12$|^geometrydashv12$"
-        },
-        {
-            "game": "Geometry Dash (V13)",
-            "file": "jingles/android/SJH/Geometry Dash (V13) (SJH).mp3",
-            "regex": "^geometry[^a-z0-9]*dash[^a-z0-9]*v13$|^geometrydashv13$"
-        },
-        {
-            "game": "Geometry Dash (V14)",
-            "file": "jingles/android/SJH/Geometry Dash (V14) (SJH).mp3",
-            "regex": "^geometry[^a-z0-9]*dash[^a-z0-9]*v14$|^geometrydashv14$"
-        },
-        {
-            "game": "Geometry Dash (V15)",
-            "file": "jingles/android/SJH/Geometry Dash (V15) (SJH).mp3",
-            "regex": "^geometry[^a-z0-9]*dash[^a-z0-9]*v15$|^geometrydashv15$"
-        },
-        {
-            "game": "Geometry Dash (V16)",
-            "file": "jingles/android/SJH/Geometry Dash (V16) (SJH).mp3",
-            "regex": "^geometry[^a-z0-9]*dash[^a-z0-9]*v16$|^geometrydashv16$"
-        },
-        {
-            "game": "Geometry Dash (V17)",
-            "file": "jingles/android/SJH/Geometry Dash (V17) (SJH).mp3",
-            "regex": "^geometry[^a-z0-9]*dash[^a-z0-9]*v17$|^geometrydashv17$"
-        },
-        {
-            "game": "Geometry Dash (V18)",
-            "file": "jingles/android/SJH/Geometry Dash (V18) (SJH).mp3",
-            "regex": "^geometry[^a-z0-9]*dash[^a-z0-9]*v18$|^geometrydashv18$"
-        },
-        {
-            "game": "Geometry Dash (V19)",
-            "file": "jingles/android/SJH/Geometry Dash (V19) (SJH).mp3",
-            "regex": "^geometry[^a-z0-9]*dash[^a-z0-9]*v19$|^geometrydashv19$"
-        },
-        {
-            "game": "Geometry Dash (V2)",
-            "file": "jingles/android/SJH/Geometry Dash (V2) (SJH).mp3",
-            "regex": "^geometry[^a-z0-9]*dash[^a-z0-9]*v2$|^geometrydashv2$"
-        },
-        {
-            "game": "Geometry Dash (V20)",
-            "file": "jingles/android/SJH/Geometry Dash (V20) (SJH).mp3",
-            "regex": "^geometry[^a-z0-9]*dash[^a-z0-9]*v20$|^geometrydashv20$"
-        },
-        {
-            "game": "Geometry Dash (V21)",
-            "file": "jingles/android/SJH/Geometry Dash (V21) (SJH).mp3",
-            "regex": "^geometry[^a-z0-9]*dash[^a-z0-9]*v21$|^geometrydashv21$"
-        },
-        {
-            "game": "Geometry Dash (V22)",
-            "file": "jingles/android/SJH/Geometry Dash (V22) (SJH).mp3",
-            "regex": "^geometry[^a-z0-9]*dash[^a-z0-9]*v22$|^geometrydashv22$"
-        },
-        {
-            "game": "Geometry Dash (V23)",
-            "file": "jingles/android/SJH/Geometry Dash (V23) (SJH).mp3",
-            "regex": "^geometry[^a-z0-9]*dash[^a-z0-9]*v23$|^geometrydashv23$"
-        },
-        {
-            "game": "Geometry Dash (V24)",
-            "file": "jingles/android/SJH/Geometry Dash (V24) (SJH).mp3",
-            "regex": "^geometry[^a-z0-9]*dash[^a-z0-9]*v24$|^geometrydashv24$"
-        },
-        {
-            "game": "Geometry Dash (V3)",
-            "file": "jingles/android/SJH/Geometry Dash (V3) (SJH).mp3",
-            "regex": "^geometry[^a-z0-9]*dash[^a-z0-9]*v3$|^geometrydashv3$"
-        },
-        {
-            "game": "Geometry Dash (V4)",
-            "file": "jingles/android/SJH/Geometry Dash (V4) (SJH).mp3",
-            "regex": "^geometry[^a-z0-9]*dash[^a-z0-9]*v4$|^geometrydashv4$"
-        },
-        {
-            "game": "Geometry Dash (V5)",
-            "file": "jingles/android/SJH/Geometry Dash (V5) (SJH).mp3",
-            "regex": "^geometry[^a-z0-9]*dash[^a-z0-9]*v5$|^geometrydashv5$"
-        },
-        {
-            "game": "Geometry Dash (V6)",
-            "file": "jingles/android/SJH/Geometry Dash (V6) (SJH).mp3",
-            "regex": "^geometry[^a-z0-9]*dash[^a-z0-9]*v6$|^geometrydashv6$"
-        },
-        {
-            "game": "Geometry Dash (V7)",
-            "file": "jingles/android/SJH/Geometry Dash (V7) (SJH).mp3",
-            "regex": "^geometry[^a-z0-9]*dash[^a-z0-9]*v7$|^geometrydashv7$"
-        },
-        {
-            "game": "Geometry Dash (V8)",
-            "file": "jingles/android/SJH/Geometry Dash (V8) (SJH).mp3",
-            "regex": "^geometry[^a-z0-9]*dash[^a-z0-9]*v8$|^geometrydashv8$"
-        },
-        {
-            "game": "Geometry Dash (V9)",
-            "file": "jingles/android/SJH/Geometry Dash (V9) (SJH).mp3",
-            "regex": "^geometry[^a-z0-9]*dash[^a-z0-9]*v9$|^geometrydashv9$"
-        },
-        {
             "game": "HBO Max",
             "file": "jingles/android/Felipne87r/HBO Max (Felipne87r).ogg",
             "regex": "^hbo[^a-z0-9]*max$|^hbomax$"
@@ -1750,7 +1590,128 @@
             "regex": "^tetris$|^tetris$"
         }
     ],
-    "cocoon": [],
+    "cocoon": [
+        {
+            "game": "Nintendo - ACNH 00-00",
+            "file": "jingles/cocoon/music-packs/SJH/ACNH Hourly Music Pack/Nintendo - ACNH 00-00 (SJH).ogg",
+            "regex": "^nintendo[^a-z0-9]*acnh[^a-z0-9]*00[^a-z0-9]*00$|^nintendoacnh0000$"
+        },
+        {
+            "game": "Nintendo - ACNH 01-00",
+            "file": "jingles/cocoon/music-packs/SJH/ACNH Hourly Music Pack/Nintendo - ACNH 01-00 (SJH).ogg",
+            "regex": "^nintendo[^a-z0-9]*acnh[^a-z0-9]*01[^a-z0-9]*00$|^nintendoacnh0100$"
+        },
+        {
+            "game": "Nintendo - ACNH 02-00",
+            "file": "jingles/cocoon/music-packs/SJH/ACNH Hourly Music Pack/Nintendo - ACNH 02-00 (SJH).ogg",
+            "regex": "^nintendo[^a-z0-9]*acnh[^a-z0-9]*02[^a-z0-9]*00$|^nintendoacnh0200$"
+        },
+        {
+            "game": "Nintendo - ACNH 03-00",
+            "file": "jingles/cocoon/music-packs/SJH/ACNH Hourly Music Pack/Nintendo - ACNH 03-00 (SJH).ogg",
+            "regex": "^nintendo[^a-z0-9]*acnh[^a-z0-9]*03[^a-z0-9]*00$|^nintendoacnh0300$"
+        },
+        {
+            "game": "Nintendo - ACNH 04-00",
+            "file": "jingles/cocoon/music-packs/SJH/ACNH Hourly Music Pack/Nintendo - ACNH 04-00 (SJH).ogg",
+            "regex": "^nintendo[^a-z0-9]*acnh[^a-z0-9]*04[^a-z0-9]*00$|^nintendoacnh0400$"
+        },
+        {
+            "game": "Nintendo - ACNH 05-00",
+            "file": "jingles/cocoon/music-packs/SJH/ACNH Hourly Music Pack/Nintendo - ACNH 05-00 (SJH).ogg",
+            "regex": "^nintendo[^a-z0-9]*acnh[^a-z0-9]*05[^a-z0-9]*00$|^nintendoacnh0500$"
+        },
+        {
+            "game": "Nintendo - ACNH 06-00",
+            "file": "jingles/cocoon/music-packs/SJH/ACNH Hourly Music Pack/Nintendo - ACNH 06-00 (SJH).ogg",
+            "regex": "^nintendo[^a-z0-9]*acnh[^a-z0-9]*06[^a-z0-9]*00$|^nintendoacnh0600$"
+        },
+        {
+            "game": "Nintendo - ACNH 07-00",
+            "file": "jingles/cocoon/music-packs/SJH/ACNH Hourly Music Pack/Nintendo - ACNH 07-00 (SJH).ogg",
+            "regex": "^nintendo[^a-z0-9]*acnh[^a-z0-9]*07[^a-z0-9]*00$|^nintendoacnh0700$"
+        },
+        {
+            "game": "Nintendo - ACNH 08-00",
+            "file": "jingles/cocoon/music-packs/SJH/ACNH Hourly Music Pack/Nintendo - ACNH 08-00 (SJH).ogg",
+            "regex": "^nintendo[^a-z0-9]*acnh[^a-z0-9]*08[^a-z0-9]*00$|^nintendoacnh0800$"
+        },
+        {
+            "game": "Nintendo - ACNH 09-00",
+            "file": "jingles/cocoon/music-packs/SJH/ACNH Hourly Music Pack/Nintendo - ACNH 09-00 (SJH).ogg",
+            "regex": "^nintendo[^a-z0-9]*acnh[^a-z0-9]*09[^a-z0-9]*00$|^nintendoacnh0900$"
+        },
+        {
+            "game": "Nintendo - ACNH 10-00",
+            "file": "jingles/cocoon/music-packs/SJH/ACNH Hourly Music Pack/Nintendo - ACNH 10-00 (SJH).ogg",
+            "regex": "^nintendo[^a-z0-9]*acnh[^a-z0-9]*10[^a-z0-9]*00$|^nintendoacnh1000$"
+        },
+        {
+            "game": "Nintendo - ACNH 11-00",
+            "file": "jingles/cocoon/music-packs/SJH/ACNH Hourly Music Pack/Nintendo - ACNH 11-00 (SJH).ogg",
+            "regex": "^nintendo[^a-z0-9]*acnh[^a-z0-9]*11[^a-z0-9]*00$|^nintendoacnh1100$"
+        },
+        {
+            "game": "Nintendo - ACNH 12-00",
+            "file": "jingles/cocoon/music-packs/SJH/ACNH Hourly Music Pack/Nintendo - ACNH 12-00 (SJH).ogg",
+            "regex": "^nintendo[^a-z0-9]*acnh[^a-z0-9]*12[^a-z0-9]*00$|^nintendoacnh1200$"
+        },
+        {
+            "game": "Nintendo - ACNH 13-00",
+            "file": "jingles/cocoon/music-packs/SJH/ACNH Hourly Music Pack/Nintendo - ACNH 13-00 (SJH).ogg",
+            "regex": "^nintendo[^a-z0-9]*acnh[^a-z0-9]*13[^a-z0-9]*00$|^nintendoacnh1300$"
+        },
+        {
+            "game": "Nintendo - ACNH 14-00",
+            "file": "jingles/cocoon/music-packs/SJH/ACNH Hourly Music Pack/Nintendo - ACNH 14-00 (SJH).ogg",
+            "regex": "^nintendo[^a-z0-9]*acnh[^a-z0-9]*14[^a-z0-9]*00$|^nintendoacnh1400$"
+        },
+        {
+            "game": "Nintendo - ACNH 15-00",
+            "file": "jingles/cocoon/music-packs/SJH/ACNH Hourly Music Pack/Nintendo - ACNH 15-00 (SJH).ogg",
+            "regex": "^nintendo[^a-z0-9]*acnh[^a-z0-9]*15[^a-z0-9]*00$|^nintendoacnh1500$"
+        },
+        {
+            "game": "Nintendo - ACNH 16-00",
+            "file": "jingles/cocoon/music-packs/SJH/ACNH Hourly Music Pack/Nintendo - ACNH 16-00 (SJH).ogg",
+            "regex": "^nintendo[^a-z0-9]*acnh[^a-z0-9]*16[^a-z0-9]*00$|^nintendoacnh1600$"
+        },
+        {
+            "game": "Nintendo - ACNH 17-00",
+            "file": "jingles/cocoon/music-packs/SJH/ACNH Hourly Music Pack/Nintendo - ACNH 17-00 (SJH).ogg",
+            "regex": "^nintendo[^a-z0-9]*acnh[^a-z0-9]*17[^a-z0-9]*00$|^nintendoacnh1700$"
+        },
+        {
+            "game": "Nintendo - ACNH 18-00",
+            "file": "jingles/cocoon/music-packs/SJH/ACNH Hourly Music Pack/Nintendo - ACNH 18-00 (SJH).ogg",
+            "regex": "^nintendo[^a-z0-9]*acnh[^a-z0-9]*18[^a-z0-9]*00$|^nintendoacnh1800$"
+        },
+        {
+            "game": "Nintendo - ACNH 19-00",
+            "file": "jingles/cocoon/music-packs/SJH/ACNH Hourly Music Pack/Nintendo - ACNH 19-00 (SJH).ogg",
+            "regex": "^nintendo[^a-z0-9]*acnh[^a-z0-9]*19[^a-z0-9]*00$|^nintendoacnh1900$"
+        },
+        {
+            "game": "Nintendo - ACNH 20-00",
+            "file": "jingles/cocoon/music-packs/SJH/ACNH Hourly Music Pack/Nintendo - ACNH 20-00 (SJH).ogg",
+            "regex": "^nintendo[^a-z0-9]*acnh[^a-z0-9]*20[^a-z0-9]*00$|^nintendoacnh2000$"
+        },
+        {
+            "game": "Nintendo - ACNH 21-00",
+            "file": "jingles/cocoon/music-packs/SJH/ACNH Hourly Music Pack/Nintendo - ACNH 21-00 (SJH).ogg",
+            "regex": "^nintendo[^a-z0-9]*acnh[^a-z0-9]*21[^a-z0-9]*00$|^nintendoacnh2100$"
+        },
+        {
+            "game": "Nintendo - ACNH 22-00",
+            "file": "jingles/cocoon/music-packs/SJH/ACNH Hourly Music Pack/Nintendo - ACNH 22-00 (SJH).ogg",
+            "regex": "^nintendo[^a-z0-9]*acnh[^a-z0-9]*22[^a-z0-9]*00$|^nintendoacnh2200$"
+        },
+        {
+            "game": "Nintendo - ACNH 23-00",
+            "file": "jingles/cocoon/music-packs/SJH/ACNH Hourly Music Pack/Nintendo - ACNH 23-00 (SJH).ogg",
+            "regex": "^nintendo[^a-z0-9]*acnh[^a-z0-9]*23[^a-z0-9]*00$|^nintendoacnh2300$"
+        }
+    ],
     "dreamcast": [
         {
             "game": "Crazy Taxi",
