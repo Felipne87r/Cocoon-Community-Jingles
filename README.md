@@ -10,6 +10,7 @@ If you would like to include these jingles in your own packs, you must ask permi
 In Cocoon, go to **Settings → Personalization → Jingle Settings** and add the repo as:
 
 Repository Owner: <sub>Flapperultra02</sub>
+
 Repository Name: <sub>Cocoon-Community-Jingles</sub>
 
 After that, you can choose which jingle you want for individual games.
@@ -21,7 +22,9 @@ As of this moment there is no mass scraping feature in Cocoon for jingles, altho
 
 # How can I contribute?
 If you would like to contribute to the Cocoon community jingles pack, you can either make a pull request via GitHub or share your own repositories or files in our thread in the Cocoon Discord server #asset-repo. 
-*Please format your files with the following naming convention:* <sub>[game name] (creators name)</sub>. The prefered format is <sub>.ogg</sub> as it's a compressed lossless format. Please try to avoid <sub>.wav</sub> and <sub>.flac</sub> due to the increased sizes of them
+*Please format your files with the following naming convention:* <sub>[game name] (creators name)</sub>. 
+
+The prefered format is <sub>.ogg</sub> as it's a compressed lossless format. Please try to avoid <sub>.wav</sub> and <sub>.flac</sub> due to the increased sizes of them
 
 # My jingles were provided without consent. Can you help?
 If you believe someone has stolen your jingles and uploaded them to this repository, please contact us - letting us know which jingle is stolen, and sharing your original jingle.
