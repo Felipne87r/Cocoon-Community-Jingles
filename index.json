@@ -18555,6 +18555,11 @@
             "regex": "^wii[^a-z0-9]*u[^a-z0-9]*yoshi[^a-z0-9]*s[^a-z0-9]*woolly[^a-z0-9]*world[^a-z0-9]*official$|^wiiuyoshiswoollyworldofficial$"
         },
         {
+            "game": "Dr. Luigi (Official)",
+            "file": "jingles/wiiu/Felipne87r/Dr. Luigi (Official) (Felipne87r).ogg",
+            "regex": "^dr$|^dr$"
+        },
+        {
             "game": "Game & Wario",
             "file": "jingles/wiiu/CirnoWaifu/Game & Wario (CirnoWaifu).ogg",
             "regex": "^game[^a-z0-9]*wario$|^gamewario$"
@@ -18625,6 +18630,11 @@
             "regex": "^pikmin[^a-z0-9]*3$|^pikmin3$"
         },
         {
+            "game": "Sonic Boom - Rise of Lyric (Official)",
+            "file": "jingles/wiiu/Felipne87r/Sonic Boom - Rise of Lyric (Official) (Felipne87r).ogg",
+            "regex": "^sonic[^a-z0-9]*boom[^a-z0-9]*rise[^a-z0-9]*of[^a-z0-9]*lyric[^a-z0-9]*official$|^sonicboomriseoflyricofficial$"
+        },
+        {
             "game": "Sonic Lost World",
             "file": "jingles/wiiu/CirnoWaifu/Sonic Lost World (CirnoWaifu).ogg",
             "regex": "^sonic[^a-z0-9]*lost[^a-z0-9]*world$|^soniclostworld$"
@@ -18640,6 +18650,11 @@
             "regex": "^splatoon[^a-z0-9]*alt$|^splatoonalt$"
         },
         {
+            "game": "Star Fox Guard (Official)",
+            "file": "jingles/wiiu/Felipne87r/Star Fox Guard (Official) (Felipne87r).ogg",
+            "regex": "^star[^a-z0-9]*fox[^a-z0-9]*guard[^a-z0-9]*official$|^starfoxguardofficial$"
+        },
+        {
             "game": "Star Fox Zero (Official)",
             "file": "jingles/wiiu/Felipne87r/Star Fox Zero (Official) (Felipne87r).ogg",
             "regex": "^star[^a-z0-9]*fox[^a-z0-9]*zero[^a-z0-9]*official$|^starfoxzeroofficial$"
@@ -18653,6 +18668,11 @@
             "game": "Super Mario 3D World",
             "file": "jingles/wiiu/RetroWave64/Super Mario 3D World (RetroWave64).ogg",
             "regex": "^super[^a-z0-9]*mario[^a-z0-9]*3d[^a-z0-9]*world$|^supermario3dworld$"
+        },
+        {
+            "game": "Taiko no Tatsujin - Wii U Version (Official)",
+            "file": "jingles/wiiu/Felipne87r/Taiko no Tatsujin - Wii U Version (Official) (Felipne87r).ogg",
+            "regex": "^taiko[^a-z0-9]*no[^a-z0-9]*tatsujin[^a-z0-9]*wii[^a-z0-9]*u[^a-z0-9]*version[^a-z0-9]*official$|^taikonotatsujinwiiuversionofficial$"
         },
         {
             "game": "The Legend of Zelda Wind Waker HD",
@@ -18688,6 +18708,11 @@
             "game": "Wii U Default Splash Screen (Official)",
             "file": "jingles/wiiu/Felipne87r/Wii U Default Splash Screen (Official) (Felipne87r).ogg",
             "regex": "^wii[^a-z0-9]*u[^a-z0-9]*default[^a-z0-9]*splash[^a-z0-9]*screen[^a-z0-9]*official$|^wiiudefaultsplashscreenofficial$"
+        },
+        {
+            "game": "Yo-Kai Watch Dance - Just Dance Special Edition (Official)",
+            "file": "jingles/wiiu/Felipne87r/Yo-Kai Watch Dance - Just Dance Special Edition (Official) (Felipne87r).ogg",
+            "regex": "^yo[^a-z0-9]*kai[^a-z0-9]*watch[^a-z0-9]*dance[^a-z0-9]*just[^a-z0-9]*dance[^a-z0-9]*special[^a-z0-9]*edition[^a-z0-9]*official$|^yokaiwatchdancejustdancespecialeditionofficial$"
         },
         {
             "game": "Yoshis Woolly World",
