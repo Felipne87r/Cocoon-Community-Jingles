@@ -1814,6 +1814,43 @@
             "regex": "^space[^a-z0-9]*channel[^a-z0-9]*5[^a-z0-9]*part[^a-z0-9]*2$|^spacechannel5part2$"
         }
     ],
+    "flash": [
+        {
+            "game": "Angry Birds McDonald's",
+            "file": "jingles/flash/Felipne87r/Angry Birds McDonald's.ogg",
+            "regex": "^angry[^a-z0-9]*birds[^a-z0-9]*mcdonald[^a-z0-9]*s$|^angrybirdsmcdonalds$"
+        },
+        {
+            "game": "Fireboy and Watergirl",
+            "file": "jingles/flash/Felipne87r/Fireboy and Watergirl.ogg",
+            "regex": "^fireboy[^a-z0-9]*and[^a-z0-9]*watergirl$|^fireboyandwatergirl$"
+        },
+        {
+            "game": "Pico's School",
+            "file": "jingles/flash/Felipne87r/Pico's School (FNF Talkin' Smack).ogg",
+            "regex": "^pico[^a-z0-9]*s[^a-z0-9]*school$|^picosschool$"
+        },
+        {
+            "game": "Pico's School",
+            "file": "jingles/flash/Felipne87r/Pico's School.ogg",
+            "regex": "^pico[^a-z0-9]*s[^a-z0-9]*school$|^picosschool$"
+        },
+        {
+            "game": "Saw Game",
+            "file": "jingles/flash/Felipne87r/Saw Game (Inkagames Saga).ogg",
+            "regex": "^saw[^a-z0-9]*game$|^sawgame$"
+        },
+        {
+            "game": "Super Brawl 2",
+            "file": "jingles/flash/Felipne87r/Super Brawl 2.ogg",
+            "regex": "^super[^a-z0-9]*brawl[^a-z0-9]*2$|^superbrawl2$"
+        },
+        {
+            "game": "Super Smash Flash 2",
+            "file": "jingles/flash/Felipne87r/Super Smash Flash 2.ogg",
+            "regex": "^super[^a-z0-9]*smash[^a-z0-9]*flash[^a-z0-9]*2$|^supersmashflash2$"
+        }
+    ],
     "gamecube": [
         {
             "game": "Alien Hominid",
