@@ -18505,6 +18505,16 @@
             "regex": "^wii[^a-z0-9]*u[^a-z0-9]*super[^a-z0-9]*mario[^a-z0-9]*maker[^a-z0-9]*official$|^wiiusupermariomakerofficial$"
         },
         {
+            "game": "(Wii U) Taiko no Tatsujin - Atsumete Tomodachi Daisakusen (Official)",
+            "file": "jingles/wiiu/Felipne87r/(Wii U) Taiko no Tatsujin - Atsumete Tomodachi Daisakusen (Official) (Felipne87r).ogg",
+            "regex": "^wii[^a-z0-9]*u[^a-z0-9]*taiko[^a-z0-9]*no[^a-z0-9]*tatsujin[^a-z0-9]*atsumete[^a-z0-9]*tomodachi[^a-z0-9]*daisakusen[^a-z0-9]*official$|^wiiutaikonotatsujinatsumetetomodachidaisakusenofficial$"
+        },
+        {
+            "game": "(Wii U) Taiko no Tatsujin - Tokumori (Official)",
+            "file": "jingles/wiiu/Felipne87r/(Wii U) Taiko no Tatsujin - Tokumori (Official) (Felipne87r).ogg",
+            "regex": "^wii[^a-z0-9]*u[^a-z0-9]*taiko[^a-z0-9]*no[^a-z0-9]*tatsujin[^a-z0-9]*tokumori[^a-z0-9]*official$|^wiiutaikonotatsujintokumoriofficial$"
+        },
+        {
             "game": "(Wii U) The Amazing Spider-Man (Official)",
             "file": "jingles/wiiu/Felipne87r/(Wii U) The Amazing Spider-Man (Official) (Felipne87r).ogg",
             "regex": "^wii[^a-z0-9]*u[^a-z0-9]*the[^a-z0-9]*amazing[^a-z0-9]*spider[^a-z0-9]*man[^a-z0-9]*official$|^wiiutheamazingspidermanofficial$"
@@ -18715,9 +18725,19 @@
             "regex": "^yo[^a-z0-9]*kai[^a-z0-9]*watch[^a-z0-9]*dance[^a-z0-9]*just[^a-z0-9]*dance[^a-z0-9]*special[^a-z0-9]*edition[^a-z0-9]*official$|^yokaiwatchdancejustdancespecialeditionofficial$"
         },
         {
+            "game": "Yo-Kai Watch Dance - Just Dance Special Version (Official)",
+            "file": "jingles/wiiu/Felipne87r/Yo-Kai Watch Dance - Just Dance Special Version (Official) (Felipne87r).ogg",
+            "regex": "^yo[^a-z0-9]*kai[^a-z0-9]*watch[^a-z0-9]*dance[^a-z0-9]*just[^a-z0-9]*dance[^a-z0-9]*special[^a-z0-9]*version[^a-z0-9]*official$|^yokaiwatchdancejustdancespecialversionofficial$"
+        },
+        {
             "game": "Yoshis Woolly World",
             "file": "jingles/wiiu/flapperultra/Yoshis Woolly World (flapperultra).ogg",
             "regex": "^yoshis[^a-z0-9]*woolly[^a-z0-9]*world$|^yoshiswoollyworld$"
+        },
+        {
+            "game": "Youkai uotchidansu - JUST DANCE supesharubājon (Official)",
+            "file": "jingles/wiiu/Felipne87r/Youkai uotchidansu - JUST DANCE supesharubājon (Official) (Felipne87r).ogg",
+            "regex": "^youkai[^a-z0-9]*uotchidansu[^a-z0-9]*just[^a-z0-9]*dance[^a-z0-9]*supesharub[^a-z0-9]*jon[^a-z0-9]*official$|^youkaiuotchidansujustdancesupesharubjonofficial$"
         },
         {
             "game": "Zombi U",
