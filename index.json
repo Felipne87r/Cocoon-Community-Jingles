@@ -19340,9 +19340,29 @@
             "regex": "^nes[^a-z0-9]*remix[^a-z0-9]*2[^a-z0-9]*official$|^nesremix2official$"
         },
         {
+            "game": "New Super Luigi U (Intro only) (Official)",
+            "file": "jingles/wiiu/Felipne87r/New Super Luigi U (Intro only) (Official) (Felipne87r).ogg",
+            "regex": "^new[^a-z0-9]*super[^a-z0-9]*luigi[^a-z0-9]*u[^a-z0-9]*intro[^a-z0-9]*only[^a-z0-9]*official$|^newsuperluigiuintroonlyofficial$"
+        },
+        {
+            "game": "New Super Luigi U (Official)",
+            "file": "jingles/wiiu/Felipne87r/New Super Luigi U (Official) (Felipne87r).ogg",
+            "regex": "^new[^a-z0-9]*super[^a-z0-9]*luigi[^a-z0-9]*u[^a-z0-9]*official$|^newsuperluigiuofficial$"
+        },
+        {
             "game": "New Super Mario Bros U",
             "file": "jingles/wiiu/Felipne87r/New Super Mario Bros U (Felipne87r).ogg",
             "regex": "^new[^a-z0-9]*super[^a-z0-9]*mario[^a-z0-9]*bros[^a-z0-9]*u$|^newsupermariobrosu$"
+        },
+        {
+            "game": "New Super Mario Bros U (Intro only) (Official)",
+            "file": "jingles/wiiu/Felipne87r/New Super Mario Bros U (Intro only) (Official) (Felipne87r).ogg",
+            "regex": "^new[^a-z0-9]*super[^a-z0-9]*mario[^a-z0-9]*bros[^a-z0-9]*u[^a-z0-9]*intro[^a-z0-9]*only[^a-z0-9]*official$|^newsupermariobrosuintroonlyofficial$"
+        },
+        {
+            "game": "New Super Mario Bros U (Official)",
+            "file": "jingles/wiiu/Felipne87r/New Super Mario Bros U (Official) (Felipne87r).ogg",
+            "regex": "^new[^a-z0-9]*super[^a-z0-9]*mario[^a-z0-9]*bros[^a-z0-9]*u[^a-z0-9]*official$|^newsupermariobrosuofficial$"
         },
         {
             "game": "Nintendo Land",
