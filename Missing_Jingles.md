@@ -57,7 +57,7 @@
 - Pokemon Trading Card Game 2
 - Tony Hawk's Pro Skater 2
 
-### Game Boy Advance (12)
+### Game Boy Advance (11)
 
 - Duel Masters Kaijudo Showdown
 - Duel Masters Sempai Legends
@@ -69,7 +69,6 @@
 - Pokemon Unbound
 - Rhythm Heaven Silver
 - Shonen Jump's One Piece
-- Yoshi Topsy-Turvy
 - Yu Yu Hakusho Tournament Tactics
 
 ### GameCube (52)
@@ -312,7 +311,7 @@
 - ChuChu Rocket!
 - Crazy Taxi 2
 
-### PlayStation (13)
+### PlayStation (12)
 
 - Bust a Move 2 - Arcade Edition
 - Driver - You Are the Wheelman
@@ -326,9 +325,8 @@
 - Tekken
 - Tekken 2
 - Tekken 3
-- Tony Hawk's Pro Skater 2
 
-### PlayStation 2 (19)
+### PlayStation 2 (18)
 
 - Battle Stadium D.O.N
 - Burnout Revenge
@@ -340,7 +338,6 @@
 - Monster Hunter
 - Monster Hunter 2 DOS
 - Monster Hunter G
-- Need for Speed - Underground 2
 - Ridge Racer V
 - Tekken 4
 - Tekken 5
@@ -382,12 +379,11 @@
 - Yu-Gi-Oh! 5D's Tag Force 5
 - Yu-Gi-Oh! 5D's Tag Force 6
 
-### PlayStation Vita (5)
+### PlayStation Vita (4)
 
 - LittleBigPlanet PS Vita
 - Monster Hunter Frontier Z
 - Nuclear Throne
-- Persona 5 - Dancing in Starlight
 - Risk of Rain
 
 ### Xbox (5)
@@ -415,7 +411,7 @@
 
 - None
 
-### PC / Steam (72)
+### PC / Steam (66)
 
 - Amber Isle
 - ARC Raiders
