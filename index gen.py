@@ -440,7 +440,7 @@ for platform in sorted(
 
 
 with open(
-    "index test.json",
+    "index.json",
     "w",
     encoding="utf-8"
 ) as f:
