@@ -142,33 +142,24 @@
 - Theresia - Dear Emile
 - Trace Memory / Another Code
 
-### Wii (27)
+### Wii (18)
 
 - Adventure Isle
-- Another Code R
 - Arc Rise Fantasia
 - Call of Duty: Black Ops
 - Call of Duty: Modern Warfare 3
-- Captain Rainbow
 - Castlevania Judgment
 - Dirge of Cerberus - Final Fantasy VII (USA)
-- Dragon Ball Revenge of King Piccolo
-- Dragon Ball Z - Budokai Tenkaichi 3
 - Dreamworks Super Star Kartz
-- Fire Emblem Radiant Dawn
 - Fragile Dreams
 - Gti Club Supermini Festa
-- Guilty Gear Xx Accent Core
 - Harvest Moon Animal Parade
 - Harvest Moon Tree of Tranquility
 - Muramasa the Demon Blade
 - Naruto Clash of Ninja Revolution
 - Need for Speed Nitro
 - Nights Journey of Dreams
-- Pandoras Tower
 - Puyo Puyo!! 20th Anniversary
-- Samurai Warriors 3
-- The Last Story
 - The Munchables
 - Trackmania Build to Race
 
@@ -276,31 +267,16 @@
 - Zero Escape Virtues Last Reward
 - Zero Escape Zero Time Dilemma
 
-### Wii U (23)
+### Wii U (8)
 
 - 007 Legends
 - Affordable Space Adventures
 - Angry Birds Star Wars
-- Call of Duty: Black Ops II
 - Hot Wheels Worlds Best Driver
-- Mario vs. Donkey Kong - Tipping Stars
-- Need For Speed Most Wanted U
-- NES Remix
-- NES Remix 2
-- New Super Luigi U
 - Pac-Man and the Ghostly Adventures 2
 - Pier Solar and the Great Architects
-- Pokken Tournament
-- Puyo Puyo Tetris
-- Star Fox Guard
-- Star Fox Zero
-- Super Mario Maker
-- Super Smash Bros. for Wii U
-- The Binding of Isaac Rebirth
 - Toki Tori 2+
 - Tokyo Mirage Sessions #FE
-- Wii Party U
-- Xenoblade Chronicles X
 
 ### Nintendo Switch (1)
 
