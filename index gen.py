@@ -453,4 +453,4 @@ with open(
     )
 
 
-print("Generated index test.json")
+print("Generated index.json")
