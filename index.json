@@ -1291,6 +1291,21 @@
             "regex": "^angry[^a-z0-9]*birds[^a-z0-9]*friends$|^angrybirdsfriends$"
         },
         {
+            "game": "Angry Birds Seasons (Cherry Blossom)",
+            "file": "jingles/android/Felipne87r/Angry Birds Seasons (Cherry Blossom) (Felipne87r).ogg",
+            "regex": "^angry[^a-z0-9]*birds[^a-z0-9]*seasons[^a-z0-9]*cherry[^a-z0-9]*blossom$|^angrybirdsseasonscherryblossom$"
+        },
+        {
+            "game": "Angry Birds Seasons (Cherry Blossom) (Alt)",
+            "file": "jingles/android/Felipne87r/Angry Birds Seasons (Cherry Blossom) (Alt) (Felipne87r).ogg",
+            "regex": "^angry[^a-z0-9]*birds[^a-z0-9]*seasons[^a-z0-9]*cherry[^a-z0-9]*blossom[^a-z0-9]*alt$|^angrybirdsseasonscherryblossomalt$"
+        },
+        {
+            "game": "Angry Birds Seasons (Cherry Blossom) (Alt) (Short)",
+            "file": "jingles/android/Felipne87r/Angry Birds Seasons (Cherry Blossom) (Alt) (Short) (Felipne87r).ogg",
+            "regex": "^angry[^a-z0-9]*birds[^a-z0-9]*seasons[^a-z0-9]*cherry[^a-z0-9]*blossom[^a-z0-9]*alt[^a-z0-9]*short$|^angrybirdsseasonscherryblossomaltshort$"
+        },
+        {
             "game": "Blue Archive",
             "file": "jingles/android/CirnoWaifu/Blue Archive (CirnoWaifu).ogg",
             "regex": "^blue[^a-z0-9]*archive$|^bluearchive$"
@@ -1815,6 +1830,46 @@
         }
     ],
     "flash": [
+        {
+            "game": "Angry Birds Coca-Cola",
+            "file": "jingles/flash/Felipne87r/Angry Birds Coca-Cola (Felipne87r).ogg",
+            "regex": "^angry[^a-z0-9]*birds[^a-z0-9]*coca[^a-z0-9]*cola$|^angrybirdscocacola$"
+        },
+        {
+            "game": "Angry Birds Coca-Cola (Alt)",
+            "file": "jingles/flash/Felipne87r/Angry Birds Coca-Cola (Alt) (Felipne87r).ogg",
+            "regex": "^angry[^a-z0-9]*birds[^a-z0-9]*coca[^a-z0-9]*cola[^a-z0-9]*alt$|^angrybirdscocacolaalt$"
+        },
+        {
+            "game": "Angry Birds FujiTV",
+            "file": "jingles/flash/Felipne87r/Angry Birds FujiTV (Felipne87r).ogg",
+            "regex": "^angry[^a-z0-9]*birds[^a-z0-9]*fujitv$|^angrybirdsfujitv$"
+        },
+        {
+            "game": "Angry Birds FujiTV (Alt)",
+            "file": "jingles/flash/Felipne87r/Angry Birds FujiTV (Alt) (Felipne87r).ogg",
+            "regex": "^angry[^a-z0-9]*birds[^a-z0-9]*fujitv[^a-z0-9]*alt$|^angrybirdsfujitvalt$"
+        },
+        {
+            "game": "Angry Birds FujiTV (Alt) (Short)",
+            "file": "jingles/flash/Felipne87r/Angry Birds FujiTV (Alt) (Short) (Felipne87r).ogg",
+            "regex": "^angry[^a-z0-9]*birds[^a-z0-9]*fujitv[^a-z0-9]*alt[^a-z0-9]*short$|^angrybirdsfujitvaltshort$"
+        },
+        {
+            "game": "Angry Birds Heikki",
+            "file": "jingles/flash/Felipne87r/Angry Birds Heikki (Felipne87r).ogg",
+            "regex": "^angry[^a-z0-9]*birds[^a-z0-9]*heikki$|^angrybirdsheikki$"
+        },
+        {
+            "game": "Angry Birds Heikki (Alt)",
+            "file": "jingles/flash/Felipne87r/Angry Birds Heikki (Alt) (Felipne87r).ogg",
+            "regex": "^angry[^a-z0-9]*birds[^a-z0-9]*heikki[^a-z0-9]*alt$|^angrybirdsheikkialt$"
+        },
+        {
+            "game": "Angry Birds in Ultrabook Adventure",
+            "file": "jingles/flash/Felipne87r/Angry Birds in Ultrabook Adventure.ogg",
+            "regex": "^angry[^a-z0-9]*birds[^a-z0-9]*in[^a-z0-9]*ultrabook[^a-z0-9]*adventure$|^angrybirdsinultrabookadventure$"
+        },
         {
             "game": "Angry Birds McDonald's",
             "file": "jingles/flash/Felipne87r/Angry Birds McDonald's (Felipne87r).ogg",
