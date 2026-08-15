@@ -74,6 +74,11 @@
             "regex": "^3ds[^a-z0-9]*settings$|^3dssettings$"
         },
         {
+            "game": "7th Dragon III - Code VFD",
+            "file": "jingles/3ds/RayanAIR/7th Dragon III - Code VFD (RayanAIR).ogg",
+            "regex": "^7th[^a-z0-9]*dragon[^a-z0-9]*iii[^a-z0-9]*code[^a-z0-9]*vfd$|^7thdragoniiicodevfd$"
+        },
+        {
             "game": "Ace Attorrney Dual Destinies",
             "file": "jingles/3ds/BennyTheFirstHunter/Ace Attorrney Dual Destinies (BennyTheFirstHunter).ogg",
             "regex": "^ace[^a-z0-9]*attorrney[^a-z0-9]*dual[^a-z0-9]*destinies$|^aceattorrneydualdestinies$"
@@ -104,6 +109,11 @@
             "regex": "^adventures[^a-z0-9]*of[^a-z0-9]*tintin[^a-z0-9]*the[^a-z0-9]*the[^a-z0-9]*game$|^adventuresoftintinthethegame$"
         },
         {
+            "game": "Angry Birds Star Wars",
+            "file": "jingles/3ds/RayanAIR/Angry Birds Star Wars (RayanAIR).ogg",
+            "regex": "^angry[^a-z0-9]*birds[^a-z0-9]*star[^a-z0-9]*wars$|^angrybirdsstarwars$"
+        },
+        {
             "game": "Angry Birds Trilogy",
             "file": "jingles/3ds/EatsDirt/Angry Birds Trilogy (EatsDirt).ogg",
             "regex": "^angry[^a-z0-9]*birds[^a-z0-9]*trilogy$|^angrybirdstrilogy$"
@@ -122,6 +132,16 @@
             "game": "Are You Smarter than a 5th Grader",
             "file": "jingles/3ds/EatsDirt/Are You Smarter than a 5th Grader (EatsDirt).ogg",
             "regex": "^are[^a-z0-9]*you[^a-z0-9]*smarter[^a-z0-9]*than[^a-z0-9]*a[^a-z0-9]*5th[^a-z0-9]*grader$|^areyousmarterthana5thgrader$"
+        },
+        {
+            "game": "Asphalt 3D",
+            "file": "jingles/3ds/RayanAIR/Asphalt 3D (RayanAIR).ogg",
+            "regex": "^asphalt[^a-z0-9]*3d$|^asphalt3d$"
+        },
+        {
+            "game": "Azure Striker Gunvolt",
+            "file": "jingles/3ds/RayanAIR/Azure Striker Gunvolt (RayanAIR).ogg",
+            "regex": "^azure[^a-z0-9]*striker[^a-z0-9]*gunvolt$|^azurestrikergunvolt$"
         },
         {
             "game": "banner.bcwav",
@@ -159,9 +179,54 @@
             "regex": "^beyblade[^a-z0-9]*evolution$|^beybladeevolution$"
         },
         {
+            "game": "Beyblade Burst",
+            "file": "jingles/3ds/RayanAIR/Beyblade Burst (RayanAIR).ogg",
+            "regex": "^beyblade[^a-z0-9]*burst$|^beybladeburst$"
+        },
+        {
+            "game": "Beyblade Burst God",
+            "file": "jingles/3ds/RayanAIR/Beyblade Burst God (RayanAIR).ogg",
+            "regex": "^beyblade[^a-z0-9]*burst[^a-z0-9]*god$|^beybladeburstgod$"
+        },
+        {
+            "game": "Bit.Trip Saga",
+            "file": "jingles/3ds/RayanAIR/Bit.Trip Saga (RayanAIR).ogg",
+            "regex": "^bit$|^bit$"
+        },
+        {
+            "game": "BlazBlue - Continuum Shift II",
+            "file": "jingles/3ds/RayanAIR/BlazBlue - Continuum Shift II (RayanAIR).ogg",
+            "regex": "^blazblue[^a-z0-9]*continuum[^a-z0-9]*shift[^a-z0-9]*ii$|^blazbluecontinuumshiftii$"
+        },
+        {
+            "game": "BOXBOY!",
+            "file": "jingles/3ds/RayanAIR/BOXBOY! (RayanAIR).ogg",
+            "regex": "^boxboy$|^boxboy$"
+        },
+        {
+            "game": "Bravely Default",
+            "file": "jingles/3ds/RayanAIR/Bravely Default (RayanAIR).ogg",
+            "regex": "^bravely[^a-z0-9]*default$|^bravelydefault$"
+        },
+        {
+            "game": "Bravely Second End Layer",
+            "file": "jingles/3ds/RayanAIR/Bravely Second End Layer (RayanAIR).ogg",
+            "regex": "^bravely[^a-z0-9]*second[^a-z0-9]*end[^a-z0-9]*layer$|^bravelysecondendlayer$"
+        },
+        {
             "game": "Captain Toad - Treasure Tracker",
             "file": "jingles/3ds/EatsDirt/Captain Toad - Treasure Tracker (EatsDirt).ogg",
             "regex": "^captain[^a-z0-9]*toad[^a-z0-9]*treasure[^a-z0-9]*tracker$|^captaintoadtreasuretracker$"
+        },
+        {
+            "game": "Cars 2",
+            "file": "jingles/3ds/RayanAIR/Cars 2 (RayanAIR).ogg",
+            "regex": "^cars[^a-z0-9]*2$|^cars2$"
+        },
+        {
+            "game": "Cartoon Network - Punch Time Explosion",
+            "file": "jingles/3ds/RayanAIR/Cartoon Network - Punch Time Explosion (RayanAIR).ogg",
+            "regex": "^cartoon[^a-z0-9]*network[^a-z0-9]*punch[^a-z0-9]*time[^a-z0-9]*explosion$|^cartoonnetworkpunchtimeexplosion$"
         },
         {
             "game": "Cartoon Network Battle Crashers",
@@ -179,6 +244,21 @@
             "regex": "^cave[^a-z0-9]*story$|^cavestory$"
         },
         {
+            "game": "Chibi-Robo! Zip Lash",
+            "file": "jingles/3ds/RayanAIR/Chibi-Robo! Zip Lash (RayanAIR).ogg",
+            "regex": "^chibi[^a-z0-9]*robo[^a-z0-9]*zip[^a-z0-9]*lash$|^chibiroboziplash$"
+        },
+        {
+            "game": "Club Nintendo Picross",
+            "file": "jingles/3ds/RayanAIR/Club Nintendo Picross (RayanAIR).ogg",
+            "regex": "^club[^a-z0-9]*nintendo[^a-z0-9]*picross$|^clubnintendopicross$"
+        },
+        {
+            "game": "Code Name Steam",
+            "file": "jingles/3ds/RayanAIR/Code Name Steam (RayanAIR).ogg",
+            "regex": "^code[^a-z0-9]*name[^a-z0-9]*steam$|^codenamesteam$"
+        },
+        {
             "game": "Cooking Mama 4 Kitchen Magic",
             "file": "jingles/3ds/EatsDirt/Cooking Mama 4 Kitchen Magic (EatsDirt).ogg",
             "regex": "^cooking[^a-z0-9]*mama[^a-z0-9]*4[^a-z0-9]*kitchen[^a-z0-9]*magic$|^cookingmama4kitchenmagic$"
@@ -194,9 +274,34 @@
             "regex": "^cooking[^a-z0-9]*mama[^a-z0-9]*sweet[^a-z0-9]*shop$|^cookingmamasweetshop$"
         },
         {
+            "game": "Crashmo",
+            "file": "jingles/3ds/RayanAIR/Crashmo (RayanAIR).ogg",
+            "regex": "^crashmo$|^crashmo$"
+        },
+        {
+            "game": "Crayon Shin-chan - Gekiatsu! Oden wa Rudo Dai Konran!!",
+            "file": "jingles/3ds/RayanAIR/Crayon Shin-chan - Gekiatsu! Oden wa Rudo Dai Konran!! (RayanAIR).ogg",
+            "regex": "^crayon[^a-z0-9]*shin[^a-z0-9]*chan[^a-z0-9]*gekiatsu[^a-z0-9]*oden[^a-z0-9]*wa[^a-z0-9]*rudo[^a-z0-9]*dai[^a-z0-9]*konran$|^crayonshinchangekiatsuodenwarudodaikonran$"
+        },
+        {
+            "game": "Crayon Shin-chan - Uchuu de Achoo! - Yuujou no Oba-Karate!!",
+            "file": "jingles/3ds/RayanAIR/Crayon Shin-chan - Uchuu de Achoo! - Yuujou no Oba-Karate!! (RayanAIR).ogg",
+            "regex": "^crayon[^a-z0-9]*shin[^a-z0-9]*chan[^a-z0-9]*uchuu[^a-z0-9]*de[^a-z0-9]*achoo[^a-z0-9]*yuujou[^a-z0-9]*no[^a-z0-9]*oba[^a-z0-9]*karate$|^crayonshinchanuchuudeachooyuujounoobakarate$"
+        },
+        {
+            "game": "CTGP-7",
+            "file": "jingles/3ds/RayanAIR/CTGP-7 (RayanAIR).ogg",
+            "regex": "^ctgp[^a-z0-9]*7$|^ctgp7$"
+        },
+        {
             "game": "Cubic Ninja",
             "file": "jingles/3ds/EatsDirt/Cubic Ninja (EatsDirt).ogg",
             "regex": "^cubic[^a-z0-9]*ninja$|^cubicninja$"
+        },
+        {
+            "game": "Culdcept Revolt",
+            "file": "jingles/3ds/RayanAIR/Culdcept Revolt (RayanAIR).ogg",
+            "regex": "^culdcept[^a-z0-9]*revolt$|^culdceptrevolt$"
         },
         {
             "game": "Dead or Alive Dimension",
@@ -209,9 +314,39 @@
             "regex": "^detective[^a-z0-9]*pikachu$|^detectivepikachu$"
         },
         {
+            "game": "Digimon Universe - Appli Monsters",
+            "file": "jingles/3ds/RayanAIR/Digimon Universe - Appli Monsters (RayanAIR).ogg",
+            "regex": "^digimon[^a-z0-9]*universe[^a-z0-9]*appli[^a-z0-9]*monsters$|^digimonuniverseapplimonsters$"
+        },
+        {
+            "game": "Dillon's Dead-Heat Breakers",
+            "file": "jingles/3ds/RayanAIR/Dillon's Dead-Heat Breakers (RayanAIR).ogg",
+            "regex": "^dillon[^a-z0-9]*s[^a-z0-9]*dead[^a-z0-9]*heat[^a-z0-9]*breakers$|^dillonsdeadheatbreakers$"
+        },
+        {
+            "game": "Disney Epic Mickey - Power of Illusion",
+            "file": "jingles/3ds/RayanAIR/Disney Epic Mickey - Power of Illusion (RayanAIR).ogg",
+            "regex": "^disney[^a-z0-9]*epic[^a-z0-9]*mickey[^a-z0-9]*power[^a-z0-9]*of[^a-z0-9]*illusion$|^disneyepicmickeypowerofillusion$"
+        },
+        {
+            "game": "Disney Magical World",
+            "file": "jingles/3ds/RayanAIR/Disney Magical World (RayanAIR).ogg",
+            "regex": "^disney[^a-z0-9]*magical[^a-z0-9]*world$|^disneymagicalworld$"
+        },
+        {
+            "game": "Disney Magical World 2",
+            "file": "jingles/3ds/RayanAIR/Disney Magical World 2 (RayanAIR).ogg",
+            "regex": "^disney[^a-z0-9]*magical[^a-z0-9]*world[^a-z0-9]*2$|^disneymagicalworld2$"
+        },
+        {
             "game": "Donkey Kong Country Returns 3D",
             "file": "jingles/3ds/EatsDirt/Donkey Kong Country Returns 3D (EatsDirt).ogg",
             "regex": "^donkey[^a-z0-9]*kong[^a-z0-9]*country[^a-z0-9]*returns[^a-z0-9]*3d$|^donkeykongcountryreturns3d$"
+        },
+        {
+            "game": "Doodle Jump Adventures",
+            "file": "jingles/3ds/RayanAIR/Doodle Jump Adventures (RayanAIR).ogg",
+            "regex": "^doodle[^a-z0-9]*jump[^a-z0-9]*adventures$|^doodlejumpadventures$"
         },
         {
             "game": "Dragon Ball Fusions",
@@ -219,9 +354,39 @@
             "regex": "^dragon[^a-z0-9]*ball[^a-z0-9]*fusions$|^dragonballfusions$"
         },
         {
+            "game": "Dragon Ball Heroes - Ultimate Mission",
+            "file": "jingles/3ds/RayanAIR/Dragon Ball Heroes - Ultimate Mission (RayanAIR).ogg",
+            "regex": "^dragon[^a-z0-9]*ball[^a-z0-9]*heroes[^a-z0-9]*ultimate[^a-z0-9]*mission$|^dragonballheroesultimatemission$"
+        },
+        {
+            "game": "Dragon Ball Heroes - Ultimate Mission 2",
+            "file": "jingles/3ds/RayanAIR/Dragon Ball Heroes - Ultimate Mission 2 (RayanAIR).ogg",
+            "regex": "^dragon[^a-z0-9]*ball[^a-z0-9]*heroes[^a-z0-9]*ultimate[^a-z0-9]*mission[^a-z0-9]*2$|^dragonballheroesultimatemission2$"
+        },
+        {
+            "game": "Dragon Ball Heroes - Ultimate Mission X",
+            "file": "jingles/3ds/RayanAIR/Dragon Ball Heroes - Ultimate Mission X (RayanAIR).ogg",
+            "regex": "^dragon[^a-z0-9]*ball[^a-z0-9]*heroes[^a-z0-9]*ultimate[^a-z0-9]*mission[^a-z0-9]*x$|^dragonballheroesultimatemissionx$"
+        },
+        {
             "game": "Dragon Ball Z Extreme Butoden",
             "file": "jingles/3ds/EatsDirt/Dragon Ball Z Extreme Butoden (EatsDirt).ogg",
             "regex": "^dragon[^a-z0-9]*ball[^a-z0-9]*z[^a-z0-9]*extreme[^a-z0-9]*butoden$|^dragonballzextremebutoden$"
+        },
+        {
+            "game": "Dragon Quest Monsters 2 Iru to Ruka No Fushigi Na Fushigi Na Kagi",
+            "file": "jingles/3ds/RayanAIR/Dragon Quest Monsters 2 Iru to Ruka No Fushigi Na Fushigi Na Kagi (RayanAIR).ogg",
+            "regex": "^dragon[^a-z0-9]*quest[^a-z0-9]*monsters[^a-z0-9]*2[^a-z0-9]*iru[^a-z0-9]*to[^a-z0-9]*ruka[^a-z0-9]*no[^a-z0-9]*fushigi[^a-z0-9]*na[^a-z0-9]*fushigi[^a-z0-9]*na[^a-z0-9]*kagi$|^dragonquestmonsters2irutorukanofushiginafushiginakagi$"
+        },
+        {
+            "game": "Dragon Quest Monsters Joker 3 Professional",
+            "file": "jingles/3ds/RayanAIR/Dragon Quest Monsters Joker 3 Professional (RayanAIR).ogg",
+            "regex": "^dragon[^a-z0-9]*quest[^a-z0-9]*monsters[^a-z0-9]*joker[^a-z0-9]*3[^a-z0-9]*professional$|^dragonquestmonstersjoker3professional$"
+        },
+        {
+            "game": "Dragon Quest Monsters Terry No Wonderland 3D",
+            "file": "jingles/3ds/RayanAIR/Dragon Quest Monsters Terry No Wonderland 3D (RayanAIR).ogg",
+            "regex": "^dragon[^a-z0-9]*quest[^a-z0-9]*monsters[^a-z0-9]*terry[^a-z0-9]*no[^a-z0-9]*wonderland[^a-z0-9]*3d$|^dragonquestmonstersterrynowonderland3d$"
         },
         {
             "game": "Dragon Quest VII",
@@ -252,6 +417,61 @@
             "game": "Dragon Quest VIII Journey of the Cursed King",
             "file": "jingles/3ds/EatsDirt/Dragon Quest VIII Journey of the Cursed King (EatsDirt).ogg",
             "regex": "^dragon[^a-z0-9]*quest[^a-z0-9]*viii[^a-z0-9]*journey[^a-z0-9]*of[^a-z0-9]*the[^a-z0-9]*cursed[^a-z0-9]*king$|^dragonquestviiijourneyofthecursedking$"
+        },
+        {
+            "game": "Dragon Quest XI - Sugi Sarishi Toki o Motomete",
+            "file": "jingles/3ds/RayanAIR/Dragon Quest XI - Sugi Sarishi Toki o Motomete (RayanAIR).ogg",
+            "regex": "^dragon[^a-z0-9]*quest[^a-z0-9]*xi[^a-z0-9]*sugi[^a-z0-9]*sarishi[^a-z0-9]*toki[^a-z0-9]*o[^a-z0-9]*motomete$|^dragonquestxisugisarishitokiomotomete$"
+        },
+        {
+            "game": "Etrian Mystery Dungeon",
+            "file": "jingles/3ds/RayanAIR/Etrian Mystery Dungeon (RayanAIR).ogg",
+            "regex": "^etrian[^a-z0-9]*mystery[^a-z0-9]*dungeon$|^etrianmysterydungeon$"
+        },
+        {
+            "game": "Etrian Odyssey 2 Untold the Fafnir Knight",
+            "file": "jingles/3ds/RayanAIR/Etrian Odyssey 2 Untold the Fafnir Knight (RayanAIR).ogg",
+            "regex": "^etrian[^a-z0-9]*odyssey[^a-z0-9]*2[^a-z0-9]*untold[^a-z0-9]*the[^a-z0-9]*fafnir[^a-z0-9]*knight$|^etrianodyssey2untoldthefafnirknight$"
+        },
+        {
+            "game": "Etrian Odyssey IV - Legends of the Titan",
+            "file": "jingles/3ds/RayanAIR/Etrian Odyssey IV - Legends of the Titan (RayanAIR).ogg",
+            "regex": "^etrian[^a-z0-9]*odyssey[^a-z0-9]*iv[^a-z0-9]*legends[^a-z0-9]*of[^a-z0-9]*the[^a-z0-9]*titan$|^etrianodysseyivlegendsofthetitan$"
+        },
+        {
+            "game": "Etrian Odyssey Nexus",
+            "file": "jingles/3ds/RayanAIR/Etrian Odyssey Nexus (RayanAIR).ogg",
+            "regex": "^etrian[^a-z0-9]*odyssey[^a-z0-9]*nexus$|^etrianodysseynexus$"
+        },
+        {
+            "game": "Etrian Odyssey Untold the Millennium Girl",
+            "file": "jingles/3ds/RayanAIR/Etrian Odyssey Untold the Millennium Girl (RayanAIR).ogg",
+            "regex": "^etrian[^a-z0-9]*odyssey[^a-z0-9]*untold[^a-z0-9]*the[^a-z0-9]*millennium[^a-z0-9]*girl$|^etrianodysseyuntoldthemillenniumgirl$"
+        },
+        {
+            "game": "Etrian Odyssey V - Beyond the Myth",
+            "file": "jingles/3ds/RayanAIR/Etrian Odyssey V - Beyond the Myth (RayanAIR).ogg",
+            "regex": "^etrian[^a-z0-9]*odyssey[^a-z0-9]*v[^a-z0-9]*beyond[^a-z0-9]*the[^a-z0-9]*myth$|^etrianodysseyvbeyondthemyth$"
+        },
+        {
+            "game": "Ever Oasis",
+            "file": "jingles/3ds/RayanAIR/Ever Oasis (RayanAIR).ogg",
+            "regex": "^ever[^a-z0-9]*oasis$|^everoasis$"
+        },
+        {
+            "game": "Fantasy Life",
+            "file": "jingles/3ds/RayanAIR/Fantasy Life (RayanAIR).ogg",
+            "regex": "^fantasy[^a-z0-9]*life$|^fantasylife$"
+        },
+        {
+            "game": "Fast & Furious - Showdown",
+            "file": "jingles/3ds/RayanAIR/Fast & Furious - Showdown (RayanAIR).ogg",
+            "regex": "^fast[^a-z0-9]*furious[^a-z0-9]*showdown$|^fastfuriousshowdown$"
+        },
+        {
+            "game": "Final Fantasy Explorers",
+            "file": "jingles/3ds/RayanAIR/Final Fantasy Explorers (RayanAIR).ogg",
+            "regex": "^final[^a-z0-9]*fantasy[^a-z0-9]*explorers$|^finalfantasyexplorers$"
         },
         {
             "game": "Fire Emblem Awakening",
@@ -304,6 +524,11 @@
             "regex": "^fire[^a-z0-9]*emblem[^a-z0-9]*fates[^a-z0-9]*short$|^fireemblemfatesshort$"
         },
         {
+            "game": "Fire Emblem Warriors",
+            "file": "jingles/3ds/RayanAIR/Fire Emblem Warriors (RayanAIR).ogg",
+            "regex": "^fire[^a-z0-9]*emblem[^a-z0-9]*warriors$|^fireemblemwarriors$"
+        },
+        {
             "game": "Fossil Fighters Frontier",
             "file": "jingles/3ds/EatsDirt/Fossil Fighters Frontier (EatsDirt).ogg",
             "regex": "^fossil[^a-z0-9]*fighters[^a-z0-9]*frontier$|^fossilfightersfrontier$"
@@ -339,14 +564,44 @@
             "regex": "^harvest[^a-z0-9]*moon[^a-z0-9]*skytree[^a-z0-9]*village$|^harvestmoonskytreevillage$"
         },
         {
+            "game": "Hatsune Miku Project Mirai DX",
+            "file": "jingles/3ds/RayanAIR/Hatsune Miku Project Mirai DX (RayanAIR).ogg",
+            "regex": "^hatsune[^a-z0-9]*miku[^a-z0-9]*project[^a-z0-9]*mirai[^a-z0-9]*dx$|^hatsunemikuprojectmiraidx$"
+        },
+        {
             "game": "Hey! Pikmin",
             "file": "jingles/3ds/EatsDirt/Hey! Pikmin (EatsDirt).ogg",
             "regex": "^hey[^a-z0-9]*pikmin$|^heypikmin$"
         },
         {
+            "game": "High School DxD",
+            "file": "jingles/3ds/RayanAIR/High School DxD (RayanAIR).ogg",
+            "regex": "^high[^a-z0-9]*school[^a-z0-9]*dxd$|^highschooldxd$"
+        },
+        {
+            "game": "Hot Wheels - World's Best Driver",
+            "file": "jingles/3ds/RayanAIR/Hot Wheels - World's Best Driver (RayanAIR).ogg",
+            "regex": "^hot[^a-z0-9]*wheels[^a-z0-9]*world[^a-z0-9]*s[^a-z0-9]*best[^a-z0-9]*driver$|^hotwheelsworldsbestdriver$"
+        },
+        {
             "game": "Hyrule Warriors Legends",
             "file": "jingles/3ds/EatsDirt/Hyrule Warriors Legends (EatsDirt).ogg",
             "regex": "^hyrule[^a-z0-9]*warriors[^a-z0-9]*legends$|^hyrulewarriorslegends$"
+        },
+        {
+            "game": "Inazuma Eleven 3 - Team Ogre Attacks",
+            "file": "jingles/3ds/RayanAIR/Inazuma Eleven 3 - Team Ogre Attacks (RayanAIR).ogg",
+            "regex": "^inazuma[^a-z0-9]*eleven[^a-z0-9]*3[^a-z0-9]*team[^a-z0-9]*ogre[^a-z0-9]*attacks$|^inazumaeleven3teamogreattacks$"
+        },
+        {
+            "game": "Inazuma Eleven GO - Chrono Stones - Thunderflash",
+            "file": "jingles/3ds/RayanAIR/Inazuma Eleven GO - Chrono Stones - Thunderflash (RayanAIR).ogg",
+            "regex": "^inazuma[^a-z0-9]*eleven[^a-z0-9]*go[^a-z0-9]*chrono[^a-z0-9]*stones[^a-z0-9]*thunderflash$|^inazumaelevengochronostonesthunderflash$"
+        },
+        {
+            "game": "Inazuma Eleven Go Light",
+            "file": "jingles/3ds/RayanAIR/Inazuma Eleven Go Light (RayanAIR).ogg",
+            "regex": "^inazuma[^a-z0-9]*eleven[^a-z0-9]*go[^a-z0-9]*light$|^inazumaelevengolight$"
         },
         {
             "game": "Jack Hunter Detective Story",
@@ -384,6 +639,16 @@
             "regex": "^kingdom[^a-z0-9]*hearts[^a-z0-9]*3d[^a-z0-9]*dream[^a-z0-9]*drop[^a-z0-9]*distance$|^kingdomhearts3ddreamdropdistance$"
         },
         {
+            "game": "Kirby Battle Royale",
+            "file": "jingles/3ds/RayanAIR/Kirby Battle Royale (RayanAIR).ogg",
+            "regex": "^kirby[^a-z0-9]*battle[^a-z0-9]*royale$|^kirbybattleroyale$"
+        },
+        {
+            "game": "Kirby Fighters Deluxe",
+            "file": "jingles/3ds/RayanAIR/Kirby Fighters Deluxe (RayanAIR).ogg",
+            "regex": "^kirby[^a-z0-9]*fighters[^a-z0-9]*deluxe$|^kirbyfightersdeluxe$"
+        },
+        {
             "game": "Kirby Planet Robobot",
             "file": "jingles/3ds/EatsDirt/Kirby Planet Robobot (EatsDirt).ogg",
             "regex": "^kirby[^a-z0-9]*planet[^a-z0-9]*robobot$|^kirbyplanetrobobot$"
@@ -392,6 +657,11 @@
             "game": "Kirby Triple Deluxe",
             "file": "jingles/3ds/EatsDirt/Kirby Triple Deluxe (EatsDirt).ogg",
             "regex": "^kirby[^a-z0-9]*triple[^a-z0-9]*deluxe$|^kirbytripledeluxe$"
+        },
+        {
+            "game": "Kirby's Blowout Blast",
+            "file": "jingles/3ds/RayanAIR/Kirby's Blowout Blast (RayanAIR).ogg",
+            "regex": "^kirby[^a-z0-9]*s[^a-z0-9]*blowout[^a-z0-9]*blast$|^kirbysblowoutblast$"
         },
         {
             "game": "Kirby's Extra Epic Yarn",
@@ -404,9 +674,24 @@
             "regex": "^kung[^a-z0-9]*fu[^a-z0-9]*panda[^a-z0-9]*showdown[^a-z0-9]*of[^a-z0-9]*legendary[^a-z0-9]*legend$|^kungfupandashowdownoflegendarylegend$"
         },
         {
+            "game": "Kuroko no Basuke - Mirai e no Kizuna",
+            "file": "jingles/3ds/RayanAIR/Kuroko no Basuke - Mirai e no Kizuna (RayanAIR).ogg",
+            "regex": "^kuroko[^a-z0-9]*no[^a-z0-9]*basuke[^a-z0-9]*mirai[^a-z0-9]*e[^a-z0-9]*no[^a-z0-9]*kizuna$|^kurokonobasukemiraienokizuna$"
+        },
+        {
+            "game": "Layton's Mystery Journey - Katrielle and the Millionaires' Conspiracy",
+            "file": "jingles/3ds/RayanAIR/Layton's Mystery Journey - Katrielle and the Millionaires' Conspiracy (RayanAIR).ogg",
+            "regex": "^layton[^a-z0-9]*s[^a-z0-9]*mystery[^a-z0-9]*journey[^a-z0-9]*katrielle[^a-z0-9]*and[^a-z0-9]*the[^a-z0-9]*millionaires[^a-z0-9]*conspiracy$|^laytonsmysteryjourneykatrielleandthemillionairesconspiracy$"
+        },
+        {
             "game": "Legend of Korra A New Era Begins",
             "file": "jingles/3ds/EatsDirt/Legend of Korra A New Era Begins (EatsDirt).ogg",
             "regex": "^legend[^a-z0-9]*of[^a-z0-9]*korra[^a-z0-9]*a[^a-z0-9]*new[^a-z0-9]*era[^a-z0-9]*begins$|^legendofkorraanewerabegins$"
+        },
+        {
+            "game": "LEGO Batman 2 - DC Super Heroes",
+            "file": "jingles/3ds/RayanAIR/LEGO Batman 2 - DC Super Heroes (RayanAIR).ogg",
+            "regex": "^lego[^a-z0-9]*batman[^a-z0-9]*2[^a-z0-9]*dc[^a-z0-9]*super[^a-z0-9]*heroes$|^legobatman2dcsuperheroes$"
         },
         {
             "game": "LEGO Batman 3 Beyond Gotham",
@@ -464,6 +749,16 @@
             "regex": "^luigi[^a-z0-9]*s[^a-z0-9]*mansion[^a-z0-9]*dark[^a-z0-9]*moon$|^luigismansiondarkmoon$"
         },
         {
+            "game": "Magi - Aratanaru Sekai",
+            "file": "jingles/3ds/RayanAIR/Magi - Aratanaru Sekai (RayanAIR).ogg",
+            "regex": "^magi[^a-z0-9]*aratanaru[^a-z0-9]*sekai$|^magiaratanarusekai$"
+        },
+        {
+            "game": "Magi - Hajimari no Meikyuu",
+            "file": "jingles/3ds/RayanAIR/Magi - Hajimari no Meikyuu (RayanAIR).ogg",
+            "regex": "^magi[^a-z0-9]*hajimari[^a-z0-9]*no[^a-z0-9]*meikyuu$|^magihajimarinomeikyuu$"
+        },
+        {
             "game": "Mario & Luigi Bowser's Inside Story + Bowser Jr.'s Journey",
             "file": "jingles/3ds/EatsDirt/Mario & Luigi Bowser's Inside Story + Bowser Jr.'s Journey (EatsDirt).ogg",
             "regex": "^mario[^a-z0-9]*luigi[^a-z0-9]*bowser[^a-z0-9]*s[^a-z0-9]*inside[^a-z0-9]*story[^a-z0-9]*bowser[^a-z0-9]*jr$|^marioluigibowsersinsidestorybowserjr$"
@@ -492,6 +787,11 @@
             "game": "Mario & Sonic at the Rio 2016 Olympic Games",
             "file": "jingles/3ds/EatsDirt/Mario & Sonic at the Rio 2016 Olympic Games (EatsDirt).ogg",
             "regex": "^mario[^a-z0-9]*sonic[^a-z0-9]*at[^a-z0-9]*the[^a-z0-9]*rio[^a-z0-9]*2016[^a-z0-9]*olympic[^a-z0-9]*games$|^mariosonicattherio2016olympicgames$"
+        },
+        {
+            "game": "Mario and Donkey Kong - Minis on the Move",
+            "file": "jingles/3ds/RayanAIR/Mario and Donkey Kong - Minis on the Move (RayanAIR).ogg",
+            "regex": "^mario[^a-z0-9]*and[^a-z0-9]*donkey[^a-z0-9]*kong[^a-z0-9]*minis[^a-z0-9]*on[^a-z0-9]*the[^a-z0-9]*move$|^marioanddonkeykongminisonthemove$"
         },
         {
             "game": "Mario and Luigi Bowsers Inside Story + Bowser Jrs Journey",
@@ -549,6 +849,11 @@
             "regex": "^mario[^a-z0-9]*tennis[^a-z0-9]*open$|^mariotennisopen$"
         },
         {
+            "game": "Mario vs. Donkey Kong - Tipping Stars",
+            "file": "jingles/3ds/RayanAIR/Mario vs. Donkey Kong - Tipping Stars (RayanAIR).ogg",
+            "regex": "^mario[^a-z0-9]*vs$|^mariovs$"
+        },
+        {
             "game": "Mega Man Legacy Collection",
             "file": "jingles/3ds/EatsDirt/Mega Man Legacy Collection (EatsDirt).ogg",
             "regex": "^mega[^a-z0-9]*man[^a-z0-9]*legacy[^a-z0-9]*collection$|^megamanlegacycollection$"
@@ -567,6 +872,11 @@
             "game": "Metroid - Samus Returns",
             "file": "jingles/3ds/EatsDirt/Metroid - Samus Returns (EatsDirt).ogg",
             "regex": "^metroid[^a-z0-9]*samus[^a-z0-9]*returns$|^metroidsamusreturns$"
+        },
+        {
+            "game": "Metroid Prime - Federation Force",
+            "file": "jingles/3ds/RayanAIR/Metroid Prime - Federation Force (RayanAIR).ogg",
+            "regex": "^metroid[^a-z0-9]*prime[^a-z0-9]*federation[^a-z0-9]*force$|^metroidprimefederationforce$"
         },
         {
             "game": "Mighty Flip Champs",
@@ -599,14 +909,59 @@
             "regex": "^monster[^a-z0-9]*hunter[^a-z0-9]*stories$|^monsterhunterstories$"
         },
         {
+            "game": "Naruto Powerful Shippuden",
+            "file": "jingles/3ds/RayanAIR/Naruto Powerful Shippuden (RayanAIR).ogg",
+            "regex": "^naruto[^a-z0-9]*powerful[^a-z0-9]*shippuden$|^narutopowerfulshippuden$"
+        },
+        {
+            "game": "Naruto Shippuden 3D - The New Era",
+            "file": "jingles/3ds/RayanAIR/Naruto Shippuden 3D - The New Era (RayanAIR).ogg",
+            "regex": "^naruto[^a-z0-9]*shippuden[^a-z0-9]*3d[^a-z0-9]*the[^a-z0-9]*new[^a-z0-9]*era$|^narutoshippuden3dthenewera$"
+        },
+        {
+            "game": "Need for Speed the Run",
+            "file": "jingles/3ds/RayanAIR/Need for Speed the Run (RayanAIR).ogg",
+            "regex": "^need[^a-z0-9]*for[^a-z0-9]*speed[^a-z0-9]*the[^a-z0-9]*run$|^needforspeedtherun$"
+        },
+        {
             "game": "New Super Mario Bros. 2",
             "file": "jingles/3ds/EatsDirt/New Super Mario Bros. 2 (EatsDirt).ogg",
             "regex": "^new[^a-z0-9]*super[^a-z0-9]*mario[^a-z0-9]*bros$|^newsupermariobros$"
         },
         {
+            "game": "Nintendo Pocket Football Club",
+            "file": "jingles/3ds/RayanAIR/Nintendo Pocket Football Club (RayanAIR).ogg",
+            "regex": "^nintendo[^a-z0-9]*pocket[^a-z0-9]*football[^a-z0-9]*club$|^nintendopocketfootballclub$"
+        },
+        {
+            "game": "One Piece - Dai Kaizoku Colosseum",
+            "file": "jingles/3ds/RayanAIR/One Piece - Dai Kaizoku Colosseum (RayanAIR).ogg",
+            "regex": "^one[^a-z0-9]*piece[^a-z0-9]*dai[^a-z0-9]*kaizoku[^a-z0-9]*colosseum$|^onepiecedaikaizokucolosseum$"
+        },
+        {
+            "game": "One Piece - Romance Dawn",
+            "file": "jingles/3ds/RayanAIR/One Piece - Romance Dawn (RayanAIR).ogg",
+            "regex": "^one[^a-z0-9]*piece[^a-z0-9]*romance[^a-z0-9]*dawn$|^onepieceromancedawn$"
+        },
+        {
+            "game": "One Piece - Super Grand Battle! X",
+            "file": "jingles/3ds/RayanAIR/One Piece - Super Grand Battle! X (RayanAIR).ogg",
+            "regex": "^one[^a-z0-9]*piece[^a-z0-9]*super[^a-z0-9]*grand[^a-z0-9]*battle[^a-z0-9]*x$|^onepiecesupergrandbattlex$"
+        },
+        {
+            "game": "One Piece - Unlimited Cruise SP2",
+            "file": "jingles/3ds/RayanAIR/One Piece - Unlimited Cruise SP2 (RayanAIR).ogg",
+            "regex": "^one[^a-z0-9]*piece[^a-z0-9]*unlimited[^a-z0-9]*cruise[^a-z0-9]*sp2$|^onepieceunlimitedcruisesp2$"
+        },
+        {
             "game": "Pac-Man & Galaga Dimensions",
             "file": "jingles/3ds/BennyTheFirstHunter/Pac-Man & Galaga Dimensions (BennyTheFirstHunter).ogg",
             "regex": "^pac[^a-z0-9]*man[^a-z0-9]*galaga[^a-z0-9]*dimensions$|^pacmangalagadimensions$"
+        },
+        {
+            "game": "Pac-Man and the Ghostly Adventures 2",
+            "file": "jingles/3ds/RayanAIR/Pac-Man and the Ghostly Adventures 2 (RayanAIR).ogg",
+            "regex": "^pac[^a-z0-9]*man[^a-z0-9]*and[^a-z0-9]*the[^a-z0-9]*ghostly[^a-z0-9]*adventures[^a-z0-9]*2$|^pacmanandtheghostlyadventures2$"
         },
         {
             "game": "Pac-Man Party 3D",
@@ -669,6 +1024,11 @@
             "regex": "^pokemon[^a-z0-9]*art[^a-z0-9]*academy$|^pokemonartacademy$"
         },
         {
+            "game": "Pokemon Moon",
+            "file": "jingles/3ds/RayanAIR/Pokemon Moon (RayanAIR).ogg",
+            "regex": "^pokemon[^a-z0-9]*moon$|^pokemonmoon$"
+        },
+        {
             "game": "Pokemon Mystery Dungeon - Gates to Infinity",
             "file": "jingles/3ds/EatsDirt/Pokemon Mystery Dungeon - Gates to Infinity (EatsDirt).ogg",
             "regex": "^pokemon[^a-z0-9]*mystery[^a-z0-9]*dungeon[^a-z0-9]*gates[^a-z0-9]*to[^a-z0-9]*infinity$|^pokemonmysterydungeongatestoinfinity$"
@@ -679,6 +1039,11 @@
             "regex": "^pokemon[^a-z0-9]*omega[^a-z0-9]*ruby$|^pokemonomegaruby$"
         },
         {
+            "game": "Pokemon Picross",
+            "file": "jingles/3ds/RayanAIR/Pokemon Picross (RayanAIR).ogg",
+            "regex": "^pokemon[^a-z0-9]*picross$|^pokemonpicross$"
+        },
+        {
             "game": "Pokemon Rumble Blast",
             "file": "jingles/3ds/EatsDirt/Pokemon Rumble Blast (EatsDirt).ogg",
             "regex": "^pokemon[^a-z0-9]*rumble[^a-z0-9]*blast$|^pokemonrumbleblast$"
@@ -687,6 +1052,11 @@
             "game": "Pokemon Rumble World",
             "file": "jingles/3ds/EatsDirt/Pokemon Rumble World (EatsDirt).ogg",
             "regex": "^pokemon[^a-z0-9]*rumble[^a-z0-9]*world$|^pokemonrumbleworld$"
+        },
+        {
+            "game": "Pokemon Shuffle",
+            "file": "jingles/3ds/RayanAIR/Pokemon Shuffle (RayanAIR).ogg",
+            "regex": "^pokemon[^a-z0-9]*shuffle$|^pokemonshuffle$"
         },
         {
             "game": "Pokemon Sun",
@@ -974,6 +1344,36 @@
             "regex": "^professor[^a-z0-9]*layton[^a-z0-9]*vs$|^professorlaytonvs$"
         },
         {
+            "game": "Project X Zone",
+            "file": "jingles/3ds/RayanAIR/Project X Zone (RayanAIR).ogg",
+            "regex": "^project[^a-z0-9]*x[^a-z0-9]*zone$|^projectxzone$"
+        },
+        {
+            "game": "Project X Zone 2",
+            "file": "jingles/3ds/RayanAIR/Project X Zone 2 (RayanAIR).ogg",
+            "regex": "^project[^a-z0-9]*x[^a-z0-9]*zone[^a-z0-9]*2$|^projectxzone2$"
+        },
+        {
+            "game": "Pushmo",
+            "file": "jingles/3ds/RayanAIR/Pushmo (RayanAIR).ogg",
+            "regex": "^pushmo$|^pushmo$"
+        },
+        {
+            "game": "Pushmo (Alt)",
+            "file": "jingles/3ds/RayanAIR/Pushmo (Alt) (RayanAIR).ogg",
+            "regex": "^pushmo[^a-z0-9]*alt$|^pushmoalt$"
+        },
+        {
+            "game": "Puyo Puyo Tetris",
+            "file": "jingles/3ds/RayanAIR/Puyo Puyo Tetris (RayanAIR).ogg",
+            "regex": "^puyo[^a-z0-9]*puyo[^a-z0-9]*tetris$|^puyopuyotetris$"
+        },
+        {
+            "game": "Puzzle & Dragons Z + Puzzle & Dragons - Super Mario Bros. Edition",
+            "file": "jingles/3ds/RayanAIR/Puzzle & Dragons Z + Puzzle & Dragons - Super Mario Bros. Edition (RayanAIR).ogg",
+            "regex": "^puzzle[^a-z0-9]*dragons[^a-z0-9]*z[^a-z0-9]*puzzle[^a-z0-9]*dragons[^a-z0-9]*super[^a-z0-9]*mario[^a-z0-9]*bros$|^puzzledragonszpuzzledragonssupermariobros$"
+        },
+        {
             "game": "Rayman 3D",
             "file": "jingles/3ds/EatsDirt/Rayman 3D (EatsDirt).ogg",
             "regex": "^rayman[^a-z0-9]*3d$|^rayman3d$"
@@ -1014,9 +1414,19 @@
             "regex": "^resident[^a-z0-9]*evil[^a-z0-9]*the[^a-z0-9]*mercenaries[^a-z0-9]*3d$|^residentevilthemercenaries3d$"
         },
         {
+            "game": "Rhythm Paradise Megamix",
+            "file": "jingles/3ds/RayanAIR/Rhythm Paradise Megamix (RayanAIR).ogg",
+            "regex": "^rhythm[^a-z0-9]*paradise[^a-z0-9]*megamix$|^rhythmparadisemegamix$"
+        },
+        {
             "game": "Rhythm Thief",
             "file": "jingles/3ds/Natalie/Rhythm Thief (Natalie).ogg",
             "regex": "^rhythm[^a-z0-9]*thief$|^rhythmthief$"
+        },
+        {
+            "game": "Rune Factory 4",
+            "file": "jingles/3ds/RayanAIR/Rune Factory 4 (RayanAIR).ogg",
+            "regex": "^rune[^a-z0-9]*factory[^a-z0-9]*4$|^runefactory4$"
         },
         {
             "game": "Scribblenauts Unlimited",
@@ -1032,6 +1442,11 @@
             "game": "Shantae & The Pirates Curse",
             "file": "jingles/3ds/BennyTheFirstHunter/Shantae & The Pirates Curse (BennyTheFirstHunter).ogg",
             "regex": "^shantae[^a-z0-9]*the[^a-z0-9]*pirates[^a-z0-9]*curse$|^shantaethepiratescurse$"
+        },
+        {
+            "game": "Shin Megami Tensei - Devil Summoner - Soul Hackers",
+            "file": "jingles/3ds/RayanAIR/Shin Megami Tensei - Devil Summoner - Soul Hackers (RayanAIR).ogg",
+            "regex": "^shin[^a-z0-9]*megami[^a-z0-9]*tensei[^a-z0-9]*devil[^a-z0-9]*summoner[^a-z0-9]*soul[^a-z0-9]*hackers$|^shinmegamitenseidevilsummonersoulhackers$"
         },
         {
             "game": "Shinobi",
@@ -1114,6 +1529,21 @@
             "regex": "^star[^a-z0-9]*fox[^a-z0-9]*64[^a-z0-9]*3d$|^starfox643d$"
         },
         {
+            "game": "Steel Diver",
+            "file": "jingles/3ds/RayanAIR/Steel Diver (RayanAIR).ogg",
+            "regex": "^steel[^a-z0-9]*diver$|^steeldiver$"
+        },
+        {
+            "game": "Steel Diver Sub Wars",
+            "file": "jingles/3ds/RayanAIR/Steel Diver Sub Wars (RayanAIR).ogg",
+            "regex": "^steel[^a-z0-9]*diver[^a-z0-9]*sub[^a-z0-9]*wars$|^steeldiversubwars$"
+        },
+        {
+            "game": "Stella Glow",
+            "file": "jingles/3ds/RayanAIR/Stella Glow (RayanAIR).ogg",
+            "regex": "^stella[^a-z0-9]*glow$|^stellaglow$"
+        },
+        {
             "game": "Super Mario 3D Land",
             "file": "jingles/3ds/EatsDirt/Super Mario 3D Land (EatsDirt).ogg",
             "regex": "^super[^a-z0-9]*mario[^a-z0-9]*3d[^a-z0-9]*land$|^supermario3dland$"
@@ -1144,6 +1574,21 @@
             "regex": "^super[^a-z0-9]*street[^a-z0-9]*fighter[^a-z0-9]*iv$|^superstreetfighteriv$"
         },
         {
+            "game": "Sushi Striker - The Way of Sushido",
+            "file": "jingles/3ds/RayanAIR/Sushi Striker - The Way of Sushido (RayanAIR).ogg",
+            "regex": "^sushi[^a-z0-9]*striker[^a-z0-9]*the[^a-z0-9]*way[^a-z0-9]*of[^a-z0-9]*sushido$|^sushistrikerthewayofsushido$"
+        },
+        {
+            "game": "Taiko no Tatsujin - Doko Don! Mystery Adventure",
+            "file": "jingles/3ds/RayanAIR/Taiko no Tatsujin - Doko Don! Mystery Adventure (RayanAIR).ogg",
+            "regex": "^taiko[^a-z0-9]*no[^a-z0-9]*tatsujin[^a-z0-9]*doko[^a-z0-9]*don[^a-z0-9]*mystery[^a-z0-9]*adventure$|^taikonotatsujindokodonmysteryadventure$"
+        },
+        {
+            "game": "Team Kirby Clash Deluxe",
+            "file": "jingles/3ds/RayanAIR/Team Kirby Clash Deluxe (RayanAIR).ogg",
+            "regex": "^team[^a-z0-9]*kirby[^a-z0-9]*clash[^a-z0-9]*deluxe$|^teamkirbyclashdeluxe$"
+        },
+        {
             "game": "Teenage Mutant Ninja Turtles",
             "file": "jingles/3ds/EatsDirt/Teenage Mutant Ninja Turtles (EatsDirt).ogg",
             "regex": "^teenage[^a-z0-9]*mutant[^a-z0-9]*ninja[^a-z0-9]*turtles$|^teenagemutantninjaturtles$"
@@ -1152,6 +1597,11 @@
             "game": "Teenage Mutant Ninja Turtles - Master Splinter's Training Pack",
             "file": "jingles/3ds/EatsDirt/Teenage Mutant Ninja Turtles - Master Splinter's Training Pack (EatsDirt).ogg",
             "regex": "^teenage[^a-z0-9]*mutant[^a-z0-9]*ninja[^a-z0-9]*turtles[^a-z0-9]*master[^a-z0-9]*splinter[^a-z0-9]*s[^a-z0-9]*training[^a-z0-9]*pack$|^teenagemutantninjaturtlesmastersplinterstrainingpack$"
+        },
+        {
+            "game": "Tekken 3D - Prime Edition",
+            "file": "jingles/3ds/RayanAIR/Tekken 3D - Prime Edition (RayanAIR).ogg",
+            "regex": "^tekken[^a-z0-9]*3d[^a-z0-9]*prime[^a-z0-9]*edition$|^tekken3dprimeedition$"
         },
         {
             "game": "Terraria",
@@ -1169,6 +1619,11 @@
             "regex": "^tetris[^a-z0-9]*ultimate$|^tetrisultimate$"
         },
         {
+            "game": "The Alliance Alive",
+            "file": "jingles/3ds/RayanAIR/The Alliance Alive (RayanAIR).ogg",
+            "regex": "^the[^a-z0-9]*alliance[^a-z0-9]*alive$|^thealliancealive$"
+        },
+        {
             "game": "The Amazing Spider-Man",
             "file": "jingles/3ds/EatsDirt/The Amazing Spider-Man (EatsDirt).ogg",
             "regex": "^the[^a-z0-9]*amazing[^a-z0-9]*spider[^a-z0-9]*man$|^theamazingspiderman$"
@@ -1177,6 +1632,16 @@
             "game": "The Amazing Spider-Man 2",
             "file": "jingles/3ds/EatsDirt/The Amazing Spider-Man 2 (EatsDirt).ogg",
             "regex": "^the[^a-z0-9]*amazing[^a-z0-9]*spider[^a-z0-9]*man[^a-z0-9]*2$|^theamazingspiderman2$"
+        },
+        {
+            "game": "The Binding of Isaac Rebirth",
+            "file": "jingles/3ds/RayanAIR/The Binding of Isaac Rebirth (RayanAIR).ogg",
+            "regex": "^the[^a-z0-9]*binding[^a-z0-9]*of[^a-z0-9]*isaac[^a-z0-9]*rebirth$|^thebindingofisaacrebirth$"
+        },
+        {
+            "game": "The Legend of Legacy",
+            "file": "jingles/3ds/RayanAIR/The Legend of Legacy (RayanAIR).ogg",
+            "regex": "^the[^a-z0-9]*legend[^a-z0-9]*of[^a-z0-9]*legacy$|^thelegendoflegacy$"
         },
         {
             "game": "The Legend of Zelda - A Link Between Worlds",
@@ -1214,6 +1679,26 @@
             "regex": "^the[^a-z0-9]*legend[^a-z0-9]*of[^a-z0-9]*zelda[^a-z0-9]*tri[^a-z0-9]*force[^a-z0-9]*heroes$|^thelegendofzeldatriforceheroes$"
         },
         {
+            "game": "The Seven Deadly Sins - Unjust Sin",
+            "file": "jingles/3ds/RayanAIR/The Seven Deadly Sins - Unjust Sin (RayanAIR).ogg",
+            "regex": "^the[^a-z0-9]*seven[^a-z0-9]*deadly[^a-z0-9]*sins[^a-z0-9]*unjust[^a-z0-9]*sin$|^thesevendeadlysinsunjustsin$"
+        },
+        {
+            "game": "The Sims 3",
+            "file": "jingles/3ds/RayanAIR/The Sims 3 (RayanAIR).ogg",
+            "regex": "^the[^a-z0-9]*sims[^a-z0-9]*3$|^thesims3$"
+        },
+        {
+            "game": "The Sims 3 - Pets",
+            "file": "jingles/3ds/RayanAIR/The Sims 3 - Pets (RayanAIR).ogg",
+            "regex": "^the[^a-z0-9]*sims[^a-z0-9]*3[^a-z0-9]*pets$|^thesims3pets$"
+        },
+        {
+            "game": "Theatrhythm Final Fantasy",
+            "file": "jingles/3ds/RayanAIR/Theatrhythm Final Fantasy (RayanAIR).ogg",
+            "regex": "^theatrhythm[^a-z0-9]*final[^a-z0-9]*fantasy$|^theatrhythmfinalfantasy$"
+        },
+        {
             "game": "Tom Clancy's Splinter Cell 3D",
             "file": "jingles/3ds/EatsDirt/Tom Clancy's Splinter Cell 3D (EatsDirt).ogg",
             "regex": "^tom[^a-z0-9]*clancy[^a-z0-9]*s[^a-z0-9]*splinter[^a-z0-9]*cell[^a-z0-9]*3d$|^tomclancyssplintercell3d$"
@@ -1249,6 +1734,11 @@
             "regex": "^wipeout[^a-z0-9]*3$|^wipeout3$"
         },
         {
+            "game": "Yo-kai Watch",
+            "file": "jingles/3ds/RayanAIR/Yo-kai Watch (RayanAIR).ogg",
+            "regex": "^yo[^a-z0-9]*kai[^a-z0-9]*watch$|^yokaiwatch$"
+        },
+        {
             "game": "Yo-Kai Watch 2",
             "file": "jingles/3ds/EatsDirt/Yo-Kai Watch 2 (EatsDirt).ogg",
             "regex": "^yo[^a-z0-9]*kai[^a-z0-9]*watch[^a-z0-9]*2$|^yokaiwatch2$"
@@ -1272,6 +1762,26 @@
             "game": "Yoshis new island",
             "file": "jingles/3ds/BennyTheFirstHunter/Yoshis new island (BennyTheFirstHunter).ogg",
             "regex": "^yoshis[^a-z0-9]*new[^a-z0-9]*island$|^yoshisnewisland$"
+        },
+        {
+            "game": "Yu-Gi-Oh! Duel Monsters - Saikyo Card Battle",
+            "file": "jingles/3ds/RayanAIR/Yu-Gi-Oh! Duel Monsters - Saikyo Card Battle (RayanAIR).ogg",
+            "regex": "^yu[^a-z0-9]*gi[^a-z0-9]*oh[^a-z0-9]*duel[^a-z0-9]*monsters[^a-z0-9]*saikyo[^a-z0-9]*card[^a-z0-9]*battle$|^yugiohduelmonsterssaikyocardbattle$"
+        },
+        {
+            "game": "Yu-Gi-Oh! Zexal - Gekitotsu Duel Carnival",
+            "file": "jingles/3ds/RayanAIR/Yu-Gi-Oh! Zexal - Gekitotsu Duel Carnival (RayanAIR).ogg",
+            "regex": "^yu[^a-z0-9]*gi[^a-z0-9]*oh[^a-z0-9]*zexal[^a-z0-9]*gekitotsu[^a-z0-9]*duel[^a-z0-9]*carnival$|^yugiohzexalgekitotsuduelcarnival$"
+        },
+        {
+            "game": "Zero Escape - Virtue's Last Reward",
+            "file": "jingles/3ds/RayanAIR/Zero Escape - Virtue's Last Reward (RayanAIR).ogg",
+            "regex": "^zero[^a-z0-9]*escape[^a-z0-9]*virtue[^a-z0-9]*s[^a-z0-9]*last[^a-z0-9]*reward$|^zeroescapevirtueslastreward$"
+        },
+        {
+            "game": "Zero Escape - Zero Time Dilemma",
+            "file": "jingles/3ds/RayanAIR/Zero Escape - Zero Time Dilemma (RayanAIR).ogg",
+            "regex": "^zero[^a-z0-9]*escape[^a-z0-9]*zero[^a-z0-9]*time[^a-z0-9]*dilemma$|^zeroescapezerotimedilemma$"
         }
     ],
     "android": [
