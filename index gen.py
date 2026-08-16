@@ -64,6 +64,26 @@ def load_aliases():
     return aliases
 
 
+def make_alias_key(title):
+    parts = re.findall(
+        r"[a-zA-Z0-9]+",
+        title.lower()
+    )
+
+    normalised = []
+
+    for part in parts:
+
+        if part in ROMAN_NUMERALS:
+            normalised.append(
+                ROMAN_NUMERALS[part]
+            )
+        else:
+            normalised.append(part)
+
+    return " ".join(normalised)
+
+
 def build_alias_lookup(alias_data):
     lookup = {}
 
@@ -99,13 +119,11 @@ def build_alias_lookup(alias_data):
 
         for name in group:
 
-            other_names = [
+            lookup[make_alias_key(name)] = [
                 other
                 for other in group
                 if other.lower() != name.lower()
             ]
-
-            lookup[name.lower()] = other_names
 
     return lookup
 
@@ -142,33 +160,33 @@ def normalise_text(text):
 
 
 def make_token_pattern(token):
-    token_lower = token.lower()
+    token = token.lower()
 
-    if token_lower in ROMAN_NUMERALS:
+    if token in ROMAN_NUMERALS:
 
-        arabic = ROMAN_NUMERALS[token_lower]
+        arabic = ROMAN_NUMERALS[token]
 
         return (
-            "(?:"
-            + re.escape(token_lower)
+            "("
+            + re.escape(token)
             + "|"
             + re.escape(arabic)
             + ")"
         )
 
-    if token_lower in ARABIC_TO_ROMAN:
+    if token in ARABIC_TO_ROMAN:
 
-        roman = ARABIC_TO_ROMAN[token_lower]
+        roman = ARABIC_TO_ROMAN[token]
 
         return (
-            "(?:"
-            + re.escape(token_lower)
+            "("
+            + re.escape(token)
             + "|"
             + re.escape(roman)
             + ")"
         )
 
-    return re.escape(token_lower)
+    return re.escape(token)
 
 
 def make_title_pattern(title):
@@ -177,9 +195,7 @@ def make_title_pattern(title):
     if not parts:
         return None
 
-    separator = r"[^a-z0-9]+"
-
-    return separator.join(
+    return " ".join(
         make_token_pattern(part)
         for part in parts
     )
@@ -224,7 +240,7 @@ def make_title_patterns(title):
 
             patterns.append(
                 main_pattern
-                + r"[^a-z0-9]+"
+                + " "
                 + subtitle_pattern
             )
 
@@ -285,7 +301,7 @@ def make_regex(
         ):
             search_titles.append(alias)
 
-    title_patterns = []
+    main_patterns = []
 
     for search_title in search_titles:
 
@@ -301,73 +317,77 @@ def make_regex(
         for pattern in patterns:
 
             if needs_end_anchor:
-                pattern += "$"
+                pattern = "^" + pattern + "$"
 
-            title_patterns.append(pattern)
+            main_patterns.append(
+                pattern
+            )
 
-    bracket_patterns = []
+    patterns = list(main_patterns)
 
     for extra in bracket_extras:
 
-        extra_patterns = make_title_patterns(
+        extra_pattern = make_title_pattern(
             extra
         )
 
-        bracket_patterns.extend(
-            extra_patterns
-        )
+        if not extra_pattern:
+            continue
 
-    if bracket_patterns:
+        for pattern in main_patterns:
 
-        original_title_patterns = list(
-            title_patterns
-        )
+            clean_pattern = pattern
 
-        for title_pattern in original_title_patterns:
+            if clean_pattern.startswith("^"):
+                clean_pattern = clean_pattern[1:]
 
-            title_pattern = title_pattern.rstrip("$")
+            if clean_pattern.endswith("$"):
+                clean_pattern = clean_pattern[:-1]
 
-            for extra_pattern in bracket_patterns:
+            patterns.append(
+                clean_pattern
+                + " "
+                + extra_pattern
+            )
 
-                title_patterns.append(
-                    title_pattern
-                    + r"[^a-z0-9]+"
-                    + extra_pattern
-                )
-
-    platform_patterns = make_title_patterns(
+    platform_pattern = make_title_pattern(
         platform
     )
 
-    final_patterns = []
+    if platform_pattern:
 
-    for title_pattern in title_patterns:
+        base_patterns = list(patterns)
 
-        final_patterns.append(
-            title_pattern
-        )
+        for pattern in base_patterns:
 
-        clean_title_pattern = title_pattern.rstrip("$")
+            clean_pattern = pattern
 
-        for platform_pattern in platform_patterns:
+            if clean_pattern.startswith("^"):
+                clean_pattern = clean_pattern[1:]
 
-            final_patterns.append(
+            if clean_pattern.endswith("$"):
+                clean_pattern = clean_pattern[:-1]
+
+            patterns.append(
                 platform_pattern
-                + r"[^a-z0-9]+"
-                + clean_title_pattern
+                + " "
+                + clean_pattern
             )
 
-    final_patterns = list(
-        dict.fromkeys(final_patterns)
+    patterns = list(
+        dict.fromkeys(patterns)
     )
 
-    if not final_patterns:
+    if not patterns:
         return "^$"
 
+    if len(patterns) == 1:
+        return patterns[0]
+
     return (
-        "^(?:"
-        + "|".join(final_patterns)
-        + ")$"
+        "("
+        + "|".join(patterns)
+        + ")"
     )
 
 
@@ -380,7 +400,6 @@ data = {
 
 
 if not os.path.isdir(ROOT_DIR):
-
     raise FileNotFoundError(
         f"Could not find jingles directory: {ROOT_DIR}"
     )
@@ -388,6 +407,7 @@ if not os.path.isdir(ROOT_DIR):
 
 platform_entries = {}
 all_titles = []
+
 
 for platform in sorted(
     os.listdir(ROOT_DIR),
@@ -448,7 +468,7 @@ for platform in sorted(
             )
 
             aliases = ALIAS_LOOKUP.get(
-                display_name.lower(),
+                make_alias_key(display_name),
                 []
             )
 
