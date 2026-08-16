@@ -17204,11 +17204,6 @@
             "regex": "(?:wii[^a-z0-9]+ea[^a-z0-9]+sports[^a-z0-9]+active[^a-z0-9]+(?:2|ii)$|wii[^a-z0-9]+ea[^a-z0-9]+sports[^a-z0-9]+active[^a-z0-9]+(?:2|ii)[^a-z0-9]+official$|wii[^a-z0-9]+ea[^a-z0-9]+sports[^a-z0-9]+active[^a-z0-9]+(?:2|ii)[^a-z0-9]+felipne87r$|wii[^a-z0-9]+wii[^a-z0-9]+ea[^a-z0-9]+sports[^a-z0-9]+active[^a-z0-9]+(?:2|ii)$|wii[^a-z0-9]+wii[^a-z0-9]+ea[^a-z0-9]+sports[^a-z0-9]+active[^a-z0-9]+(?:2|ii)[^a-z0-9]+official$|wii[^a-z0-9]+wii[^a-z0-9]+ea[^a-z0-9]+sports[^a-z0-9]+active[^a-z0-9]+(?:2|ii)[^a-z0-9]+felipne87r$)"
         },
         {
-            "game": "(Wii) Ear Training Trick",
-            "file": "jingles/wii/Felipne87r/(Wii) Ear Training Trick (Official) (Felipne87r).ogg",
-            "regex": "(?:wii[^a-z0-9]+ear[^a-z0-9]+training[^a-z0-9]+trick$|wii[^a-z0-9]+ear[^a-z0-9]+training[^a-z0-9]+trick[^a-z0-9]+official$|wii[^a-z0-9]+ear[^a-z0-9]+training[^a-z0-9]+trick[^a-z0-9]+felipne87r$|wii[^a-z0-9]+wii[^a-z0-9]+ear[^a-z0-9]+training[^a-z0-9]+trick$|wii[^a-z0-9]+wii[^a-z0-9]+ear[^a-z0-9]+training[^a-z0-9]+trick[^a-z0-9]+official$|wii[^a-z0-9]+wii[^a-z0-9]+ear[^a-z0-9]+training[^a-z0-9]+trick[^a-z0-9]+felipne87r$)"
-        },
-        {
             "game": "(Wii) El Chavo",
             "file": "jingles/wii/Felipne87r/(Wii) El Chavo (Official) (Felipne87r).ogg",
             "regex": "(?:wii[^a-z0-9]+el[^a-z0-9]+chavo$|wii[^a-z0-9]+el[^a-z0-9]+chavo[^a-z0-9]+official$|wii[^a-z0-9]+el[^a-z0-9]+chavo[^a-z0-9]+felipne87r$|wii[^a-z0-9]+wii[^a-z0-9]+el[^a-z0-9]+chavo$|wii[^a-z0-9]+wii[^a-z0-9]+el[^a-z0-9]+chavo[^a-z0-9]+official$|wii[^a-z0-9]+wii[^a-z0-9]+el[^a-z0-9]+chavo[^a-z0-9]+felipne87r$)"
@@ -17222,16 +17217,6 @@
             "game": "(Wii) Epic Mickey 2",
             "file": "jingles/wii/Felipne87r/(Wii) Epic Mickey 2 (Official) (Felipne87r).ogg",
             "regex": "(?:wii[^a-z0-9]+epic[^a-z0-9]+mickey[^a-z0-9]+(?:2|ii)$|wii[^a-z0-9]+epic[^a-z0-9]+mickey[^a-z0-9]+(?:2|ii)[^a-z0-9]+official$|wii[^a-z0-9]+epic[^a-z0-9]+mickey[^a-z0-9]+(?:2|ii)[^a-z0-9]+felipne87r$|wii[^a-z0-9]+wii[^a-z0-9]+epic[^a-z0-9]+mickey[^a-z0-9]+(?:2|ii)$|wii[^a-z0-9]+wii[^a-z0-9]+epic[^a-z0-9]+mickey[^a-z0-9]+(?:2|ii)[^a-z0-9]+official$|wii[^a-z0-9]+wii[^a-z0-9]+epic[^a-z0-9]+mickey[^a-z0-9]+(?:2|ii)[^a-z0-9]+felipne87r$)"
-        },
-        {
-            "game": "(Wii) Everybody's Theater Channel",
-            "file": "jingles/wii/Felipne87r/(Wii) Everybody's Theater Channel (Official) (Felipne87r).ogg",
-            "regex": "(?:wii[^a-z0-9]+everybody[^a-z0-9]+s[^a-z0-9]+theater[^a-z0-9]+channel$|wii[^a-z0-9]+everybody[^a-z0-9]+s[^a-z0-9]+theater[^a-z0-9]+channel[^a-z0-9]+official$|wii[^a-z0-9]+everybody[^a-z0-9]+s[^a-z0-9]+theater[^a-z0-9]+channel[^a-z0-9]+felipne87r$|wii[^a-z0-9]+wii[^a-z0-9]+everybody[^a-z0-9]+s[^a-z0-9]+theater[^a-z0-9]+channel$|wii[^a-z0-9]+wii[^a-z0-9]+everybody[^a-z0-9]+s[^a-z0-9]+theater[^a-z0-9]+channel[^a-z0-9]+official$|wii[^a-z0-9]+wii[^a-z0-9]+everybody[^a-z0-9]+s[^a-z0-9]+theater[^a-z0-9]+channel[^a-z0-9]+felipne87r$)"
-        },
-        {
-            "game": "(Wii) Everyone's General Knowledge Power TV",
-            "file": "jingles/wii/Felipne87r/(Wii) Everyone's General Knowledge Power TV (Official) (Felipne87r).ogg",
-            "regex": "(?:wii[^a-z0-9]+everyone[^a-z0-9]+s[^a-z0-9]+general[^a-z0-9]+knowledge[^a-z0-9]+power[^a-z0-9]+tv$|wii[^a-z0-9]+everyone[^a-z0-9]+s[^a-z0-9]+general[^a-z0-9]+knowledge[^a-z0-9]+power[^a-z0-9]+tv[^a-z0-9]+official$|wii[^a-z0-9]+everyone[^a-z0-9]+s[^a-z0-9]+general[^a-z0-9]+knowledge[^a-z0-9]+power[^a-z0-9]+tv[^a-z0-9]+felipne87r$|wii[^a-z0-9]+wii[^a-z0-9]+everyone[^a-z0-9]+s[^a-z0-9]+general[^a-z0-9]+knowledge[^a-z0-9]+power[^a-z0-9]+tv$|wii[^a-z0-9]+wii[^a-z0-9]+everyone[^a-z0-9]+s[^a-z0-9]+general[^a-z0-9]+knowledge[^a-z0-9]+power[^a-z0-9]+tv[^a-z0-9]+official$|wii[^a-z0-9]+wii[^a-z0-9]+everyone[^a-z0-9]+s[^a-z0-9]+general[^a-z0-9]+knowledge[^a-z0-9]+power[^a-z0-9]+tv[^a-z0-9]+felipne87r$)"
         },
         {
             "game": "(Wii) ExciteTrucks",
@@ -17277,16 +17262,6 @@
             "game": "(Wii) Fluidity",
             "file": "jingles/wii/Felipne87r/(Wii) Fluidity (Official) (Felipne87r).ogg",
             "regex": "(?:wii[^a-z0-9]+fluidity$|wii[^a-z0-9]+fluidity[^a-z0-9]+official$|wii[^a-z0-9]+fluidity[^a-z0-9]+felipne87r$|wii[^a-z0-9]+wii[^a-z0-9]+fluidity$|wii[^a-z0-9]+wii[^a-z0-9]+fluidity[^a-z0-9]+official$|wii[^a-z0-9]+wii[^a-z0-9]+fluidity[^a-z0-9]+felipne87r$)"
-        },
-        {
-            "game": "(Wii) Food Channel",
-            "file": "jingles/wii/Felipne87r/(Wii) Food Channel (Official) (Felipne87r).ogg",
-            "regex": "(?:wii[^a-z0-9]+food[^a-z0-9]+channel$|wii[^a-z0-9]+food[^a-z0-9]+channel[^a-z0-9]+official$|wii[^a-z0-9]+food[^a-z0-9]+channel[^a-z0-9]+felipne87r$|wii[^a-z0-9]+wii[^a-z0-9]+food[^a-z0-9]+channel$|wii[^a-z0-9]+wii[^a-z0-9]+food[^a-z0-9]+channel[^a-z0-9]+official$|wii[^a-z0-9]+wii[^a-z0-9]+food[^a-z0-9]+channel[^a-z0-9]+felipne87r$)"
-        },
-        {
-            "game": "(Wii) Food Channel",
-            "file": "jingles/wii/Felipne87r/(Wii) Food Channel (Short) (Official) (Felipne87r).ogg",
-            "regex": "(?:wii[^a-z0-9]+food[^a-z0-9]+channel$|wii[^a-z0-9]+food[^a-z0-9]+channel[^a-z0-9]+short$|wii[^a-z0-9]+food[^a-z0-9]+channel[^a-z0-9]+official$|wii[^a-z0-9]+food[^a-z0-9]+channel[^a-z0-9]+felipne87r$|wii[^a-z0-9]+wii[^a-z0-9]+food[^a-z0-9]+channel$|wii[^a-z0-9]+wii[^a-z0-9]+food[^a-z0-9]+channel[^a-z0-9]+short$|wii[^a-z0-9]+wii[^a-z0-9]+food[^a-z0-9]+channel[^a-z0-9]+official$|wii[^a-z0-9]+wii[^a-z0-9]+food[^a-z0-9]+channel[^a-z0-9]+felipne87r$)"
         },
         {
             "game": "(Wii) Fortune Street",
@@ -17644,11 +17619,6 @@
             "regex": "(?:wii[^a-z0-9]+michael[^a-z0-9]+jackson[^a-z0-9]+the[^a-z0-9]+experience$|wii[^a-z0-9]+michael[^a-z0-9]+jackson$|wii[^a-z0-9]+michael[^a-z0-9]+jackson[^a-z0-9]+the[^a-z0-9]+experience[^a-z0-9]+official$|wii[^a-z0-9]+michael[^a-z0-9]+jackson[^a-z0-9]+official$|wii[^a-z0-9]+michael[^a-z0-9]+jackson[^a-z0-9]+the[^a-z0-9]+experience[^a-z0-9]+felipne87r$|wii[^a-z0-9]+michael[^a-z0-9]+jackson[^a-z0-9]+felipne87r$|wii[^a-z0-9]+wii[^a-z0-9]+michael[^a-z0-9]+jackson[^a-z0-9]+the[^a-z0-9]+experience$|wii[^a-z0-9]+wii[^a-z0-9]+michael[^a-z0-9]+jackson$|wii[^a-z0-9]+wii[^a-z0-9]+michael[^a-z0-9]+jackson[^a-z0-9]+the[^a-z0-9]+experience[^a-z0-9]+official$|wii[^a-z0-9]+wii[^a-z0-9]+michael[^a-z0-9]+jackson[^a-z0-9]+official$|wii[^a-z0-9]+wii[^a-z0-9]+michael[^a-z0-9]+jackson[^a-z0-9]+the[^a-z0-9]+experience[^a-z0-9]+felipne87r$|wii[^a-z0-9]+wii[^a-z0-9]+michael[^a-z0-9]+jackson[^a-z0-9]+felipne87r$)"
         },
         {
-            "game": "(Wii) Michael Jackson - The Experience - Special Edition",
-            "file": "jingles/wii/Felipne87r/(Wii) Michael Jackson - The Experience - Special Edition (Official) (Felipne87r).ogg",
-            "regex": "(?:wii[^a-z0-9]+michael[^a-z0-9]+jackson[^a-z0-9]+the[^a-z0-9]+experience[^a-z0-9]+special[^a-z0-9]+edition$|wii[^a-z0-9]+michael[^a-z0-9]+jackson$|wii[^a-z0-9]+michael[^a-z0-9]+jackson[^a-z0-9]+the[^a-z0-9]+experience[^a-z0-9]+special[^a-z0-9]+edition[^a-z0-9]+official$|wii[^a-z0-9]+michael[^a-z0-9]+jackson[^a-z0-9]+official$|wii[^a-z0-9]+michael[^a-z0-9]+jackson[^a-z0-9]+the[^a-z0-9]+experience[^a-z0-9]+special[^a-z0-9]+edition[^a-z0-9]+felipne87r$|wii[^a-z0-9]+michael[^a-z0-9]+jackson[^a-z0-9]+felipne87r$|wii[^a-z0-9]+wii[^a-z0-9]+michael[^a-z0-9]+jackson[^a-z0-9]+the[^a-z0-9]+experience[^a-z0-9]+special[^a-z0-9]+edition$|wii[^a-z0-9]+wii[^a-z0-9]+michael[^a-z0-9]+jackson$|wii[^a-z0-9]+wii[^a-z0-9]+michael[^a-z0-9]+jackson[^a-z0-9]+the[^a-z0-9]+experience[^a-z0-9]+special[^a-z0-9]+edition[^a-z0-9]+official$|wii[^a-z0-9]+wii[^a-z0-9]+michael[^a-z0-9]+jackson[^a-z0-9]+official$|wii[^a-z0-9]+wii[^a-z0-9]+michael[^a-z0-9]+jackson[^a-z0-9]+the[^a-z0-9]+experience[^a-z0-9]+special[^a-z0-9]+edition[^a-z0-9]+felipne87r$|wii[^a-z0-9]+wii[^a-z0-9]+michael[^a-z0-9]+jackson[^a-z0-9]+felipne87r$)"
-        },
-        {
             "game": "(Wii) Mini Ninjas",
             "file": "jingles/wii/Felipne87r/(Wii) Mini Ninjas (Official) (Felipne87r).ogg",
             "regex": "(?:wii[^a-z0-9]+mini[^a-z0-9]+ninjas$|wii[^a-z0-9]+mini[^a-z0-9]+ninjas[^a-z0-9]+official$|wii[^a-z0-9]+mini[^a-z0-9]+ninjas[^a-z0-9]+felipne87r$|wii[^a-z0-9]+wii[^a-z0-9]+mini[^a-z0-9]+ninjas$|wii[^a-z0-9]+wii[^a-z0-9]+mini[^a-z0-9]+ninjas[^a-z0-9]+official$|wii[^a-z0-9]+wii[^a-z0-9]+mini[^a-z0-9]+ninjas[^a-z0-9]+felipne87r$)"
@@ -17677,11 +17647,6 @@
             "game": "(Wii) Monster Hunter 3",
             "file": "jingles/wii/Felipne87r/(Wii) Monster Hunter 3 (Official) (Felipne87r).ogg",
             "regex": "(?:wii[^a-z0-9]+monster[^a-z0-9]+hunter[^a-z0-9]+(?:3|iii)$|wii[^a-z0-9]+monster[^a-z0-9]+hunter[^a-z0-9]+(?:3|iii)[^a-z0-9]+official$|wii[^a-z0-9]+monster[^a-z0-9]+hunter[^a-z0-9]+(?:3|iii)[^a-z0-9]+felipne87r$|wii[^a-z0-9]+wii[^a-z0-9]+monster[^a-z0-9]+hunter[^a-z0-9]+(?:3|iii)$|wii[^a-z0-9]+wii[^a-z0-9]+monster[^a-z0-9]+hunter[^a-z0-9]+(?:3|iii)[^a-z0-9]+official$|wii[^a-z0-9]+wii[^a-z0-9]+monster[^a-z0-9]+hunter[^a-z0-9]+(?:3|iii)[^a-z0-9]+felipne87r$)"
-        },
-        {
-            "game": "(Wii) Monster Hunter Tri",
-            "file": "jingles/wii/Felipne87r/(Wii) Monster Hunter Tri (Official) (Felipne87r).ogg",
-            "regex": "(?:wii[^a-z0-9]+monster[^a-z0-9]+hunter[^a-z0-9]+tri$|wii[^a-z0-9]+monster[^a-z0-9]+hunter[^a-z0-9]+tri[^a-z0-9]+official$|wii[^a-z0-9]+monster[^a-z0-9]+hunter[^a-z0-9]+tri[^a-z0-9]+felipne87r$|wii[^a-z0-9]+wii[^a-z0-9]+monster[^a-z0-9]+hunter[^a-z0-9]+tri$|wii[^a-z0-9]+wii[^a-z0-9]+monster[^a-z0-9]+hunter[^a-z0-9]+tri[^a-z0-9]+official$|wii[^a-z0-9]+wii[^a-z0-9]+monster[^a-z0-9]+hunter[^a-z0-9]+tri[^a-z0-9]+felipne87r$)"
         },
         {
             "game": "(Wii) Mouse House",
@@ -17989,11 +17954,6 @@
             "regex": "(?:wii[^a-z0-9]+speed$|wii[^a-z0-9]+speed[^a-z0-9]+official$|wii[^a-z0-9]+speed[^a-z0-9]+felipne87r$|wii[^a-z0-9]+wii[^a-z0-9]+speed$|wii[^a-z0-9]+wii[^a-z0-9]+speed[^a-z0-9]+official$|wii[^a-z0-9]+wii[^a-z0-9]+speed[^a-z0-9]+felipne87r$)"
         },
         {
-            "game": "(Wii) SpongeBob and Friends - Globs of Doom",
-            "file": "jingles/wii/Felipne87r/(Wii) SpongeBob and Friends - Globs of Doom (Official) (Felipne87r).ogg",
-            "regex": "(?:wii[^a-z0-9]+spongebob[^a-z0-9]+and[^a-z0-9]+friends[^a-z0-9]+globs[^a-z0-9]+of[^a-z0-9]+doom$|wii[^a-z0-9]+spongebob[^a-z0-9]+and[^a-z0-9]+friends$|wii[^a-z0-9]+spongebob[^a-z0-9]+and[^a-z0-9]+friends[^a-z0-9]+globs[^a-z0-9]+of[^a-z0-9]+doom[^a-z0-9]+official$|wii[^a-z0-9]+spongebob[^a-z0-9]+and[^a-z0-9]+friends[^a-z0-9]+official$|wii[^a-z0-9]+spongebob[^a-z0-9]+and[^a-z0-9]+friends[^a-z0-9]+globs[^a-z0-9]+of[^a-z0-9]+doom[^a-z0-9]+felipne87r$|wii[^a-z0-9]+spongebob[^a-z0-9]+and[^a-z0-9]+friends[^a-z0-9]+felipne87r$|wii[^a-z0-9]+wii[^a-z0-9]+spongebob[^a-z0-9]+and[^a-z0-9]+friends[^a-z0-9]+globs[^a-z0-9]+of[^a-z0-9]+doom$|wii[^a-z0-9]+wii[^a-z0-9]+spongebob[^a-z0-9]+and[^a-z0-9]+friends$|wii[^a-z0-9]+wii[^a-z0-9]+spongebob[^a-z0-9]+and[^a-z0-9]+friends[^a-z0-9]+globs[^a-z0-9]+of[^a-z0-9]+doom[^a-z0-9]+official$|wii[^a-z0-9]+wii[^a-z0-9]+spongebob[^a-z0-9]+and[^a-z0-9]+friends[^a-z0-9]+official$|wii[^a-z0-9]+wii[^a-z0-9]+spongebob[^a-z0-9]+and[^a-z0-9]+friends[^a-z0-9]+globs[^a-z0-9]+of[^a-z0-9]+doom[^a-z0-9]+felipne87r$|wii[^a-z0-9]+wii[^a-z0-9]+spongebob[^a-z0-9]+and[^a-z0-9]+friends[^a-z0-9]+felipne87r$)"
-        },
-        {
             "game": "(Wii) SpongeBob SquarePants - Creature from the Krusty Krab",
             "file": "jingles/wii/Felipne87r/(Wii) SpongeBob SquarePants - Creature from the Krusty Krab (Official) (Felipne87r).ogg",
             "regex": "(?:wii[^a-z0-9]+spongebob[^a-z0-9]+squarepants[^a-z0-9]+creature[^a-z0-9]+from[^a-z0-9]+the[^a-z0-9]+krusty[^a-z0-9]+krab$|wii[^a-z0-9]+spongebob[^a-z0-9]+squarepants$|wii[^a-z0-9]+spongebob[^a-z0-9]+squarepants[^a-z0-9]+creature[^a-z0-9]+from[^a-z0-9]+the[^a-z0-9]+krusty[^a-z0-9]+krab[^a-z0-9]+official$|wii[^a-z0-9]+spongebob[^a-z0-9]+squarepants[^a-z0-9]+official$|wii[^a-z0-9]+spongebob[^a-z0-9]+squarepants[^a-z0-9]+creature[^a-z0-9]+from[^a-z0-9]+the[^a-z0-9]+krusty[^a-z0-9]+krab[^a-z0-9]+felipne87r$|wii[^a-z0-9]+spongebob[^a-z0-9]+squarepants[^a-z0-9]+felipne87r$|wii[^a-z0-9]+wii[^a-z0-9]+spongebob[^a-z0-9]+squarepants[^a-z0-9]+creature[^a-z0-9]+from[^a-z0-9]+the[^a-z0-9]+krusty[^a-z0-9]+krab$|wii[^a-z0-9]+wii[^a-z0-9]+spongebob[^a-z0-9]+squarepants$|wii[^a-z0-9]+wii[^a-z0-9]+spongebob[^a-z0-9]+squarepants[^a-z0-9]+creature[^a-z0-9]+from[^a-z0-9]+the[^a-z0-9]+krusty[^a-z0-9]+krab[^a-z0-9]+official$|wii[^a-z0-9]+wii[^a-z0-9]+spongebob[^a-z0-9]+squarepants[^a-z0-9]+official$|wii[^a-z0-9]+wii[^a-z0-9]+spongebob[^a-z0-9]+squarepants[^a-z0-9]+creature[^a-z0-9]+from[^a-z0-9]+the[^a-z0-9]+krusty[^a-z0-9]+krab[^a-z0-9]+felipne87r$|wii[^a-z0-9]+wii[^a-z0-9]+spongebob[^a-z0-9]+squarepants[^a-z0-9]+felipne87r$)"
@@ -18129,9 +18089,9 @@
             "regex": "(?:wii[^a-z0-9]+tom[^a-z0-9]+clancy[^a-z0-9]+s[^a-z0-9]+ghost[^a-z0-9]+recon$|wii[^a-z0-9]+tom[^a-z0-9]+clancy[^a-z0-9]+s[^a-z0-9]+ghost[^a-z0-9]+recon[^a-z0-9]+official$|wii[^a-z0-9]+tom[^a-z0-9]+clancy[^a-z0-9]+s[^a-z0-9]+ghost[^a-z0-9]+recon[^a-z0-9]+felipne87r$|wii[^a-z0-9]+wii[^a-z0-9]+tom[^a-z0-9]+clancy[^a-z0-9]+s[^a-z0-9]+ghost[^a-z0-9]+recon$|wii[^a-z0-9]+wii[^a-z0-9]+tom[^a-z0-9]+clancy[^a-z0-9]+s[^a-z0-9]+ghost[^a-z0-9]+recon[^a-z0-9]+official$|wii[^a-z0-9]+wii[^a-z0-9]+tom[^a-z0-9]+clancy[^a-z0-9]+s[^a-z0-9]+ghost[^a-z0-9]+recon[^a-z0-9]+felipne87r$)"
         },
         {
-            "game": "(Wii) TV Guide Channel",
-            "file": "jingles/wii/Felipne87r/(Wii) TV Guide Channel (Official) (Felipne87r).ogg",
-            "regex": "(?:wii[^a-z0-9]+tv[^a-z0-9]+guide[^a-z0-9]+channel$|wii[^a-z0-9]+tv[^a-z0-9]+guide[^a-z0-9]+channel[^a-z0-9]+official$|wii[^a-z0-9]+tv[^a-z0-9]+guide[^a-z0-9]+channel[^a-z0-9]+felipne87r$|wii[^a-z0-9]+wii[^a-z0-9]+tv[^a-z0-9]+guide[^a-z0-9]+channel$|wii[^a-z0-9]+wii[^a-z0-9]+tv[^a-z0-9]+guide[^a-z0-9]+channel[^a-z0-9]+official$|wii[^a-z0-9]+wii[^a-z0-9]+tv[^a-z0-9]+guide[^a-z0-9]+channel[^a-z0-9]+felipne87r$)"
+            "game": "(Wii) TV no Tomo Channel",
+            "file": "jingles/wii/Felipne87r/(Wii) TV no Tomo Channel (Official) (Felipne87r).ogg",
+            "regex": "(?:wii[^a-z0-9]+tv[^a-z0-9]+no[^a-z0-9]+tomo[^a-z0-9]+channel$|wii[^a-z0-9]+tv[^a-z0-9]+no[^a-z0-9]+tomo[^a-z0-9]+channel[^a-z0-9]+official$|wii[^a-z0-9]+tv[^a-z0-9]+no[^a-z0-9]+tomo[^a-z0-9]+channel[^a-z0-9]+felipne87r$|wii[^a-z0-9]+wii[^a-z0-9]+tv[^a-z0-9]+no[^a-z0-9]+tomo[^a-z0-9]+channel$|wii[^a-z0-9]+wii[^a-z0-9]+tv[^a-z0-9]+no[^a-z0-9]+tomo[^a-z0-9]+channel[^a-z0-9]+official$|wii[^a-z0-9]+wii[^a-z0-9]+tv[^a-z0-9]+no[^a-z0-9]+tomo[^a-z0-9]+channel[^a-z0-9]+felipne87r$)"
         },
         {
             "game": "(Wii) TV Show King",
