@@ -1,10 +1,126 @@
 {
-    "Star Fox": [
+    "Bros": [
+		"Bros."
+	],
+	"Dr": [
+		"Dr."
+	],
+	"Mr": [
+		"Mr."
+	],
+	"Star Fox": [
         "Starwing",
 		"Starfox"
     ],
+	"Pokemon": [
+		"Pokémon",
+        "Pokmon",
+		"PokÃ©mon",
+		"PokÃmon",
+		"Pocket Monsters",
+		"Pocketto Monstars"
+    ],
+	"Kirby": [
+		"Kirby's",
+		"Kaabi",
+		"Hoshi no Kirby",
+		"Hoshi no Kaabi"
+    ],
+	"Yoshi": [
+		"Yoshi's"
+	],
+	"Pac-Man": [
+		"Pac Man",
+		"Pac",
+		"Puckman"
+	],
+	"Yo-kai": [
+		"Yo Kai",
+		"Youkai",
+		"Yōkai"
+	],
+	"Yo-kai Watch": [
+		"Yo Kai Watch",
+		"Youkai Uotchi",
+		"Yōkai Uotchi"
+	],
+	"SpongeBob": [
+		"SpongeBob SquarePants",
+        "Nickelodeon SpongeBob SquarePants",
+		"Sponge Bob",
+		"Sponge Bob Square Pants",
+		"Nickelodeon Sponge Bob Square Pants",
+		"Bob Esponja",
+		"Nickelodeon Bob Esponja"
+    ],
+	"Battle for Bikini Bottom": [
+		"BFBB",
+		"Battle for Bikini Bottom - Rehydrated"
+	],
     "Contra III The Alien Wars": [
 		"Contra 3",
         "Super Probotector - Alien Rebels"
-    ]
+    ],
+	"Luigi's Mansion 2": [
+        "Luigi's Mansion Dark Moon",
+		"Luigi's Mansion 2 - Dark Moon"
+    ],
+	"Sonic Colors": [
+		"Sonic Colours",
+		"Sonic Colors Ultimate",
+		"Sonic Colours Ultimate"
+    ],
+	"Paper Mario Color Splash": [
+		"Paper Mario Colour Splash"
+    ],
+	"Epic Mickey": [
+		"Disney Epic Mickey",
+		"Epic Mickey - Rebrushed",
+		"Disney Epic Mickey - Rebrushed"
+    ],
+	"Epic Mickey 2": [
+		"Disney Epic Mickey 2",
+		"Disney Epic Mickey 2 - The Power of 2",
+		"Disney Epic Mickey 2 - El Poder de 2",
+		"Disney Epic Mickey 2 - L'avventura di Topolino e Oswald",
+		"Epic Mickey 2 - The Power of 2",
+		"Epic Mickey 2 - El Poder de 2",
+		"Epic Mickey 2 - L'avventura di Topolino e Oswald"
+    ],
+	"Sonic Unleashed": [
+		"Sonic World Adventure",
+		"Sonic Unleashed - La Malédiction du Hérisson",
+		"Sonic Unleashed - La Malediction du Herisson",
+		"UnleashedRecompiled",
+		"Unleashed Recompiled"
+	],
+	"Mario Online Rx":[
+		"Mario & Germ Buster",
+		"Mario & Bactericida",
+	],
+	"Super Mario Bros.": [
+		"Super Mario Bros",
+		"Super Mario Bros Deluxe",
+		"Super Mario Bros. Deluxe",
+		"Super Mario Bros Remastered",
+		"Super Mario Bros. Remastered"
+	],
+	"Super Mario Bros. 2": [
+		"Super Mario Bros 2",
+		"Super Mario Advance"
+	],
+	"Super Mario Bros. 3": [
+		"Super Mario Bros 3",
+		"Super Mario Advance 4"
+	],
+	"Super Mario World": [
+		"Super Mario Bros 4",
+		"Super Mario Bros. 4",
+		"Super Mario Advance 4"
+	],
+	"Yoshi's Island": [
+		"Yoshi Island",
+		"Super Mario World 2",
+		"Super Mario Advance 3"
+	]
 }
