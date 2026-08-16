@@ -17049,11 +17049,6 @@
             "regex": "(?:wii[^a-z0-9]+cave[^a-z0-9]+story$|wii[^a-z0-9]+cave[^a-z0-9]+story[^a-z0-9]+official$|wii[^a-z0-9]+cave[^a-z0-9]+story[^a-z0-9]+felipne87r$|wii[^a-z0-9]+wii[^a-z0-9]+cave[^a-z0-9]+story$|wii[^a-z0-9]+wii[^a-z0-9]+cave[^a-z0-9]+story[^a-z0-9]+official$|wii[^a-z0-9]+wii[^a-z0-9]+cave[^a-z0-9]+story[^a-z0-9]+felipne87r$)"
         },
         {
-            "game": "(Wii) Chaves",
-            "file": "jingles/wii/Felipne87r/(Wii) Chaves (Official) (Felipne87r).ogg",
-            "regex": "(?:wii[^a-z0-9]+chaves$|wii[^a-z0-9]+chaves[^a-z0-9]+official$|wii[^a-z0-9]+chaves[^a-z0-9]+felipne87r$|wii[^a-z0-9]+wii[^a-z0-9]+chaves$|wii[^a-z0-9]+wii[^a-z0-9]+chaves[^a-z0-9]+official$|wii[^a-z0-9]+wii[^a-z0-9]+chaves[^a-z0-9]+felipne87r$)"
-        },
-        {
             "game": "(Wii) Cook-Off Party",
             "file": "jingles/wii/Felipne87r/(Wii) Cook-Off Party (Official) (Felipne87r).ogg",
             "regex": "(?:wii[^a-z0-9]+cook[^a-z0-9]+off[^a-z0-9]+party$|wii[^a-z0-9]+cook[^a-z0-9]+off[^a-z0-9]+party[^a-z0-9]+official$|wii[^a-z0-9]+cook[^a-z0-9]+off[^a-z0-9]+party[^a-z0-9]+felipne87r$|wii[^a-z0-9]+wii[^a-z0-9]+cook[^a-z0-9]+off[^a-z0-9]+party$|wii[^a-z0-9]+wii[^a-z0-9]+cook[^a-z0-9]+off[^a-z0-9]+party[^a-z0-9]+official$|wii[^a-z0-9]+wii[^a-z0-9]+cook[^a-z0-9]+off[^a-z0-9]+party[^a-z0-9]+felipne87r$)"
