@@ -498,6 +498,34 @@
 	"Photos Channel": [
 		"Canal Fotos"
 	],
+	"Today & Tomorrow Channel": [
+		"Canal Hoy y Mañana"
+	],
+	"Wii Shop Channel": [
+		"Canal Tienda Wii"
+	],
+	"Wii Speak Channel": [
+		"Canal Wii Speak"
+	],
+	"Wii Fit": [
+		"Wii Fit Plus",
+		"Wii Fit Channel",
+		"Canal Wii Fit",
+		"Wii Fit Plus Channel",
+		"Canal Wii Fit Plus",
+		"Wii Fit Body Measurement Channel"
+	],
+	"Wii Assistant Channel": [
+		"Wii Pre-download",
+		"Wii Recommended",
+		"Wii Recommendation"
+	],
+	"NHK Kōhaku Quiz Gassen": [
+		"NHK Red & White Quiz Battle"
+	],
+	"Takt of Magic": [
+		"Takuto Obu Majikku"
+	],
 	"Virtual Console": [
 		"Consola Virtual"
 	],
