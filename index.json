@@ -4619,6 +4619,123 @@
             "regex": "(?:wario[^a-z0-9]+land[^a-z0-9]+(?:3|iii)$|wario[^a-z0-9]+land[^a-z0-9]+(?:3|iii)[^a-z0-9]+flapperultra$|gbc[^a-z0-9]+wario[^a-z0-9]+land[^a-z0-9]+(?:3|iii)$|gbc[^a-z0-9]+wario[^a-z0-9]+land[^a-z0-9]+(?:3|iii)[^a-z0-9]+flapperultra$)"
         }
     ],
+    "master system": [
+        {
+            "game": "Alex Kidd in Hi-Tec World",
+            "file": "jingles/master system/flapperultra/Alex Kidd in Hi-Tec World (flapperultra).ogg",
+            "regex": "(?:alex[^a-z0-9]+kidd[^a-z0-9]+in[^a-z0-9]+hi[^a-z0-9]+tec[^a-z0-9]+world$|alex[^a-z0-9]+kidd[^a-z0-9]+in[^a-z0-9]+hi[^a-z0-9]+tec[^a-z0-9]+world[^a-z0-9]+flapperultra$|master[^a-z0-9]+system[^a-z0-9]+alex[^a-z0-9]+kidd[^a-z0-9]+in[^a-z0-9]+hi[^a-z0-9]+tec[^a-z0-9]+world$|master[^a-z0-9]+system[^a-z0-9]+alex[^a-z0-9]+kidd[^a-z0-9]+in[^a-z0-9]+hi[^a-z0-9]+tec[^a-z0-9]+world[^a-z0-9]+flapperultra$)"
+        },
+        {
+            "game": "Alex Kidd in Miracle World",
+            "file": "jingles/master system/flapperultra/Alex Kidd in Miracle World (flapperultra).ogg",
+            "regex": "(?:alex[^a-z0-9]+kidd[^a-z0-9]+in[^a-z0-9]+miracle[^a-z0-9]+world$|alex[^a-z0-9]+kidd[^a-z0-9]+in[^a-z0-9]+miracle[^a-z0-9]+world[^a-z0-9]+flapperultra$|master[^a-z0-9]+system[^a-z0-9]+alex[^a-z0-9]+kidd[^a-z0-9]+in[^a-z0-9]+miracle[^a-z0-9]+world$|master[^a-z0-9]+system[^a-z0-9]+alex[^a-z0-9]+kidd[^a-z0-9]+in[^a-z0-9]+miracle[^a-z0-9]+world[^a-z0-9]+flapperultra$)"
+        },
+        {
+            "game": "Alex Kidd in Shinobi World",
+            "file": "jingles/master system/flapperultra/Alex Kidd in Shinobi World (flapperultra).ogg",
+            "regex": "(?:alex[^a-z0-9]+kidd[^a-z0-9]+in[^a-z0-9]+shinobi[^a-z0-9]+world$|alex[^a-z0-9]+kidd[^a-z0-9]+in[^a-z0-9]+shinobi[^a-z0-9]+world[^a-z0-9]+flapperultra$|master[^a-z0-9]+system[^a-z0-9]+alex[^a-z0-9]+kidd[^a-z0-9]+in[^a-z0-9]+shinobi[^a-z0-9]+world$|master[^a-z0-9]+system[^a-z0-9]+alex[^a-z0-9]+kidd[^a-z0-9]+in[^a-z0-9]+shinobi[^a-z0-9]+world[^a-z0-9]+flapperultra$)"
+        },
+        {
+            "game": "Alien Syndrome",
+            "file": "jingles/master system/flapperultra/Alien Syndrome (flapperultra).ogg",
+            "regex": "(?:alien[^a-z0-9]+syndrome$|alien[^a-z0-9]+syndrome[^a-z0-9]+flapperultra$|master[^a-z0-9]+system[^a-z0-9]+alien[^a-z0-9]+syndrome$|master[^a-z0-9]+system[^a-z0-9]+alien[^a-z0-9]+syndrome[^a-z0-9]+flapperultra$)"
+        },
+        {
+            "game": "Bonanza Bros",
+            "file": "jingles/master system/flapperultra/Bonanza Bros (flapperultra).ogg",
+            "regex": "(?:bonanza[^a-z0-9]+bros$|bonanza[^a-z0-9]+bros[^a-z0-9]+flapperultra$|master[^a-z0-9]+system[^a-z0-9]+bonanza[^a-z0-9]+bros$|master[^a-z0-9]+system[^a-z0-9]+bonanza[^a-z0-9]+bros[^a-z0-9]+flapperultra$)"
+        },
+        {
+            "game": "Bram Stokers Dracula",
+            "file": "jingles/master system/flapperultra/Bram Stokers Dracula (flapperultra).ogg",
+            "regex": "(?:bram[^a-z0-9]+stokers[^a-z0-9]+dracula$|bram[^a-z0-9]+stokers[^a-z0-9]+dracula[^a-z0-9]+flapperultra$|master[^a-z0-9]+system[^a-z0-9]+bram[^a-z0-9]+stokers[^a-z0-9]+dracula$|master[^a-z0-9]+system[^a-z0-9]+bram[^a-z0-9]+stokers[^a-z0-9]+dracula[^a-z0-9]+flapperultra$)"
+        },
+        {
+            "game": "Cloud Master",
+            "file": "jingles/master system/flapperultra/Cloud Master (flapperultra).ogg",
+            "regex": "(?:cloud[^a-z0-9]+master$|cloud[^a-z0-9]+master[^a-z0-9]+flapperultra$|master[^a-z0-9]+system[^a-z0-9]+cloud[^a-z0-9]+master$|master[^a-z0-9]+system[^a-z0-9]+cloud[^a-z0-9]+master[^a-z0-9]+flapperultra$)"
+        },
+        {
+            "game": "Fantasy Zone",
+            "file": "jingles/master system/flapperultra/Fantasy Zone (flapperultra).ogg",
+            "regex": "(?:fantasy[^a-z0-9]+zone$|fantasy[^a-z0-9]+zone[^a-z0-9]+flapperultra$|master[^a-z0-9]+system[^a-z0-9]+fantasy[^a-z0-9]+zone$|master[^a-z0-9]+system[^a-z0-9]+fantasy[^a-z0-9]+zone[^a-z0-9]+flapperultra$)"
+        },
+        {
+            "game": "Fantasy Zone II",
+            "file": "jingles/master system/flapperultra/Fantasy Zone II (flapperultra).ogg",
+            "regex": "(?:fantasy[^a-z0-9]+zone[^a-z0-9]+(?:ii|2)$|fantasy[^a-z0-9]+zone[^a-z0-9]+(?:ii|2)[^a-z0-9]+flapperultra$|master[^a-z0-9]+system[^a-z0-9]+fantasy[^a-z0-9]+zone[^a-z0-9]+(?:ii|2)$|master[^a-z0-9]+system[^a-z0-9]+fantasy[^a-z0-9]+zone[^a-z0-9]+(?:ii|2)[^a-z0-9]+flapperultra$)"
+        },
+        {
+            "game": "Gauntlet",
+            "file": "jingles/master system/flapperultra/Gauntlet (flapperultra).ogg",
+            "regex": "(?:gauntlet$|gauntlet[^a-z0-9]+flapperultra$|master[^a-z0-9]+system[^a-z0-9]+gauntlet$|master[^a-z0-9]+system[^a-z0-9]+gauntlet[^a-z0-9]+flapperultra$)"
+        },
+        {
+            "game": "Land of Illusion",
+            "file": "jingles/master system/flapperultra/Land of Illusion (flapperultra).ogg",
+            "regex": "(?:land[^a-z0-9]+of[^a-z0-9]+illusion$|land[^a-z0-9]+of[^a-z0-9]+illusion[^a-z0-9]+flapperultra$|master[^a-z0-9]+system[^a-z0-9]+land[^a-z0-9]+of[^a-z0-9]+illusion$|master[^a-z0-9]+system[^a-z0-9]+land[^a-z0-9]+of[^a-z0-9]+illusion[^a-z0-9]+flapperultra$)"
+        },
+        {
+            "game": "Legend of Illusion",
+            "file": "jingles/master system/flapperultra/Legend of Illusion (flapperultra).ogg",
+            "regex": "(?:legend[^a-z0-9]+of[^a-z0-9]+illusion$|legend[^a-z0-9]+of[^a-z0-9]+illusion[^a-z0-9]+flapperultra$|master[^a-z0-9]+system[^a-z0-9]+legend[^a-z0-9]+of[^a-z0-9]+illusion$|master[^a-z0-9]+system[^a-z0-9]+legend[^a-z0-9]+of[^a-z0-9]+illusion[^a-z0-9]+flapperultra$)"
+        },
+        {
+            "game": "Ninja Gaiden",
+            "file": "jingles/master system/flapperultra/Ninja Gaiden (flapperultra).ogg",
+            "regex": "(?:ninja[^a-z0-9]+gaiden$|ninja[^a-z0-9]+gaiden[^a-z0-9]+flapperultra$|master[^a-z0-9]+system[^a-z0-9]+ninja[^a-z0-9]+gaiden$|master[^a-z0-9]+system[^a-z0-9]+ninja[^a-z0-9]+gaiden[^a-z0-9]+flapperultra$)"
+        },
+        {
+            "game": "Phantasy Star",
+            "file": "jingles/master system/flapperultra/Phantasy Star (flapperultra).ogg",
+            "regex": "(?:phantasy[^a-z0-9]+star$|phantasy[^a-z0-9]+star[^a-z0-9]+flapperultra$|master[^a-z0-9]+system[^a-z0-9]+phantasy[^a-z0-9]+star$|master[^a-z0-9]+system[^a-z0-9]+phantasy[^a-z0-9]+star[^a-z0-9]+flapperultra$)"
+        },
+        {
+            "game": "Putt & Putter",
+            "file": "jingles/master system/flapperultra/Putt & Putter (flapperultra).ogg",
+            "regex": "(?:putt[^a-z0-9]+putter$|putt[^a-z0-9]+putter[^a-z0-9]+flapperultra$|master[^a-z0-9]+system[^a-z0-9]+putt[^a-z0-9]+putter$|master[^a-z0-9]+system[^a-z0-9]+putt[^a-z0-9]+putter[^a-z0-9]+flapperultra$)"
+        },
+        {
+            "game": "Sonic Blast",
+            "file": "jingles/master system/flapperultra/Sonic Blast (flapperultra).ogg",
+            "regex": "(?:sonic[^a-z0-9]+blast$|sonic[^a-z0-9]+blast[^a-z0-9]+flapperultra$|master[^a-z0-9]+system[^a-z0-9]+sonic[^a-z0-9]+blast$|master[^a-z0-9]+system[^a-z0-9]+sonic[^a-z0-9]+blast[^a-z0-9]+flapperultra$)"
+        },
+        {
+            "game": "Sonic Chaos",
+            "file": "jingles/master system/flapperultra/Sonic Chaos (flapperultra).ogg",
+            "regex": "(?:sonic[^a-z0-9]+chaos$|sonic[^a-z0-9]+chaos[^a-z0-9]+flapperultra$|master[^a-z0-9]+system[^a-z0-9]+sonic[^a-z0-9]+chaos$|master[^a-z0-9]+system[^a-z0-9]+sonic[^a-z0-9]+chaos[^a-z0-9]+flapperultra$)"
+        },
+        {
+            "game": "Sonic the Hedgehog",
+            "file": "jingles/master system/flapperultra/Sonic the Hedgehog (flapperultra).ogg",
+            "regex": "(?:sonic[^a-z0-9]+the[^a-z0-9]+hedgehog$|sonic[^a-z0-9]+the[^a-z0-9]+hedgehog[^a-z0-9]+flapperultra$|master[^a-z0-9]+system[^a-z0-9]+sonic[^a-z0-9]+the[^a-z0-9]+hedgehog$|master[^a-z0-9]+system[^a-z0-9]+sonic[^a-z0-9]+the[^a-z0-9]+hedgehog[^a-z0-9]+flapperultra$)"
+        },
+        {
+            "game": "Sonic the Hedgehog 2",
+            "file": "jingles/master system/flapperultra/Sonic the Hedgehog 2 (flapperultra).ogg",
+            "regex": "(?:sonic[^a-z0-9]+the[^a-z0-9]+hedgehog[^a-z0-9]+(?:2|ii)$|sonic[^a-z0-9]+the[^a-z0-9]+hedgehog[^a-z0-9]+(?:2|ii)[^a-z0-9]+flapperultra$|master[^a-z0-9]+system[^a-z0-9]+sonic[^a-z0-9]+the[^a-z0-9]+hedgehog[^a-z0-9]+(?:2|ii)$|master[^a-z0-9]+system[^a-z0-9]+sonic[^a-z0-9]+the[^a-z0-9]+hedgehog[^a-z0-9]+(?:2|ii)[^a-z0-9]+flapperultra$)"
+        },
+        {
+            "game": "The New Zealand Story",
+            "file": "jingles/master system/flapperultra/The New Zealand Story (flapperultra).ogg",
+            "regex": "(?:the[^a-z0-9]+new[^a-z0-9]+zealand[^a-z0-9]+story$|the[^a-z0-9]+new[^a-z0-9]+zealand[^a-z0-9]+story[^a-z0-9]+flapperultra$|master[^a-z0-9]+system[^a-z0-9]+the[^a-z0-9]+new[^a-z0-9]+zealand[^a-z0-9]+story$|master[^a-z0-9]+system[^a-z0-9]+the[^a-z0-9]+new[^a-z0-9]+zealand[^a-z0-9]+story[^a-z0-9]+flapperultra$)"
+        },
+        {
+            "game": "Wonder Boy",
+            "file": "jingles/master system/flapperultra/Wonder Boy (flapperutra).ogg",
+            "regex": "(?:wonder[^a-z0-9]+boy$|wonder[^a-z0-9]+boy[^a-z0-9]+flapperutra$|master[^a-z0-9]+system[^a-z0-9]+wonder[^a-z0-9]+boy$|master[^a-z0-9]+system[^a-z0-9]+wonder[^a-z0-9]+boy[^a-z0-9]+flapperutra$)"
+        },
+        {
+            "game": "Wonder Boy III - The Dragons Trap",
+            "file": "jingles/master system/flapperultra/Wonder Boy III - The Dragons Trap (flapperultra).ogg",
+            "regex": "(?:wonder[^a-z0-9]+boy[^a-z0-9]+(?:iii|3)[^a-z0-9]+the[^a-z0-9]+dragons[^a-z0-9]+trap$|wonder[^a-z0-9]+boy[^a-z0-9]+(?:iii|3)$|wonder[^a-z0-9]+boy[^a-z0-9]+(?:iii|3)[^a-z0-9]+the[^a-z0-9]+dragons[^a-z0-9]+trap[^a-z0-9]+flapperultra$|wonder[^a-z0-9]+boy[^a-z0-9]+(?:iii|3)[^a-z0-9]+flapperultra$|master[^a-z0-9]+system[^a-z0-9]+wonder[^a-z0-9]+boy[^a-z0-9]+(?:iii|3)[^a-z0-9]+the[^a-z0-9]+dragons[^a-z0-9]+trap$|master[^a-z0-9]+system[^a-z0-9]+wonder[^a-z0-9]+boy[^a-z0-9]+(?:iii|3)$|master[^a-z0-9]+system[^a-z0-9]+wonder[^a-z0-9]+boy[^a-z0-9]+(?:iii|3)[^a-z0-9]+the[^a-z0-9]+dragons[^a-z0-9]+trap[^a-z0-9]+flapperultra$|master[^a-z0-9]+system[^a-z0-9]+wonder[^a-z0-9]+boy[^a-z0-9]+(?:iii|3)[^a-z0-9]+flapperultra$)"
+        },
+        {
+            "game": "Wonder Boy in Monster World",
+            "file": "jingles/master system/flapperultra/Wonder Boy in Monster World (flapperultra).ogg",
+            "regex": "(?:wonder[^a-z0-9]+boy[^a-z0-9]+in[^a-z0-9]+monster[^a-z0-9]+world$|wonder[^a-z0-9]+boy[^a-z0-9]+in[^a-z0-9]+monster[^a-z0-9]+world[^a-z0-9]+flapperultra$|master[^a-z0-9]+system[^a-z0-9]+wonder[^a-z0-9]+boy[^a-z0-9]+in[^a-z0-9]+monster[^a-z0-9]+world$|master[^a-z0-9]+system[^a-z0-9]+wonder[^a-z0-9]+boy[^a-z0-9]+in[^a-z0-9]+monster[^a-z0-9]+world[^a-z0-9]+flapperultra$)"
+        }
+    ],
     "mega cd": [
         {
             "game": "Android Assault",
