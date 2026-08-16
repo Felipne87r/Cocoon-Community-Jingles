@@ -8,6 +8,88 @@
 	"Mr": [
 		"Mr."
 	],
+	"Color": [
+		"Colour",
+		"Colors",
+		"Colours"
+	],
+	"&": [
+		"and",
+		"y",
+		"e"
+	],
+	"Deluxe": [
+		"Deluxe Edition",
+		"Complete Edition",
+		"Definitive Edition",
+		"DX"
+	],
+	"'s": [
+		"s'"
+	],
+	"vs": [
+		"vs."
+	],
+	"I": [
+		"1"
+	],
+	"II": [
+		"2"
+	],
+	"III": [
+		"3"
+	],
+	"IV": [
+		"4"
+	],
+	"V": [
+		"5"
+	],
+	"VI": [
+		"6"
+	],
+	"VII": [
+		"7"
+	],
+	"VIII": [
+		"8"
+	],
+	"IX": [
+		"9"
+	],
+	"X": [
+		"10"
+	],
+	"XI": [
+		"11"
+	],
+	"XII": [
+		"12"
+	],
+	"XIII": [
+		"13"
+	],
+	"XIV": [
+		"14"
+	],
+	"XV": [
+		"15"
+	],
+	"XVI": [
+		"16"
+	],
+	"XVII": [
+		"17"
+	],
+	"XVIII": [
+		"18"
+	],
+	"XIX": [
+		"19"
+	],
+	"XX": [
+		"20"
+	],
 	"Star Fox": [
         "Starwing",
 		"Starfox"
@@ -20,6 +102,10 @@
 		"Pocket Monsters",
 		"Pocketto Monstars"
     ],
+	"The Legend of Zelda": [
+		"Legend of Zelda, The",
+		"Zelda"
+	],
 	"Kirby": [
 		"Kirby's",
 		"Kaabi",
@@ -28,6 +114,9 @@
     ],
 	"Yoshi": [
 		"Yoshi's"
+	],
+	"Paper Mario": [
+		"Mario Story"
 	],
 	"Pac-Man": [
 		"Pac Man",
@@ -44,6 +133,51 @@
 		"Youkai Uotchi",
 		"Yōkai Uotchi"
 	],
+	"Mickey": [
+		"Mickey Mouse",
+		"Topolino"
+	],
+	"Wolverine": [
+		"Lobezno"
+	],
+	"Simpsons": [
+		"The Simpsons",
+		"Simpson",
+		"The Simpsons",
+		"Simpsons, The"
+	],
+	"Family Guy": [
+		"Padre de Familia"
+	],
+	"Spider-man":[
+		"Spiderman",
+		"Spider man",
+		"Hombre Araña",
+		"Homem Aranha"
+	],
+	"X-Men": [
+		"xmen",
+		"X Men",
+		"Hombres X"
+	],
+	"El Chavo": [
+		"Chaves"
+	],
+	"Doraemon": [
+		"Gato Cosmico",
+		"Gato Cósmico",
+	],
+	"The Fast and the Furious": [
+		"Fast and the Furious, The",
+		"Rápidos y Furiosos",
+		"Rapidos y Furiosos",
+		"A Todo Gas"
+	],
+	"Addams Family": [
+		"The Addams Family",
+		"Addams Family, The",
+		"Locos Addams"
+	],
 	"SpongeBob": [
 		"SpongeBob SquarePants",
         "Nickelodeon SpongeBob SquarePants",
@@ -57,21 +191,30 @@
 		"BFBB",
 		"Battle for Bikini Bottom - Rehydrated"
 	],
+	"King of Fighters": [
+		"KOF"
+	],
     "Contra III The Alien Wars": [
 		"Contra 3",
+		"Contra III",
         "Super Probotector - Alien Rebels"
     ],
 	"Luigi's Mansion 2": [
         "Luigi's Mansion Dark Moon",
-		"Luigi's Mansion 2 - Dark Moon"
+		"Luigi's Mansion 2 - Dark Moon",
+		"Luigi Mansion 2",
+		"Luigi Mansion Dark Moon",
+		"Luigi Mansion 2 - Dark Moon"
     ],
+	"Luigi's Mansion": [
+		"Luigi Mansion",
+		"Luigi's Mansion Premium Deluxe",
+		"Luigi Mansion Premium Deluxe"
+	],
 	"Sonic Colors": [
 		"Sonic Colours",
 		"Sonic Colors Ultimate",
 		"Sonic Colours Ultimate"
-    ],
-	"Paper Mario Color Splash": [
-		"Paper Mario Colour Splash"
     ],
 	"Epic Mickey": [
 		"Disney Epic Mickey",
@@ -92,11 +235,13 @@
 		"Sonic Unleashed - La Malédiction du Hérisson",
 		"Sonic Unleashed - La Malediction du Herisson",
 		"UnleashedRecompiled",
-		"Unleashed Recompiled"
+		"Unleashed Recompiled",
+		"UnleashedRecomp",
+		"Unleashed Recomp"
 	],
 	"Mario Online Rx":[
 		"Mario & Germ Buster",
-		"Mario & Bactericida",
+		"Mario & Bactericida"
 	],
 	"Super Mario Bros.": [
 		"Super Mario Bros",
@@ -107,7 +252,9 @@
 	],
 	"Super Mario Bros. 2": [
 		"Super Mario Bros 2",
-		"Super Mario Advance"
+		"Super Mario Advance",
+		"Super Mario USA",
+		"Lost Levels"
 	],
 	"Super Mario Bros. 3": [
 		"Super Mario Bros 3",
@@ -118,9 +265,149 @@
 		"Super Mario Bros. 4",
 		"Super Mario Advance 4"
 	],
+	"Mario Kart Double Dash": [
+		"Mario Kart Double Dash Plus",
+		"Mario Kart Double Dash Deluxe",
+		"Mario Kart Double Dash Extended",
+		"Mario Kart Double Dash Retro GP"
+	],
+	"Mario Kart DS": [
+		"CTGP Nitro",
+		"Mario Kart Deluxe",
+		"Ermii Kart"
+	],
+	"Mario Kart Wii": [
+		"Mario Kart Channel",
+		"Mario Kart Retro Rewind",
+		"Insane Kart Wii",
+		"Mario Kart Wii Deluxe",
+		"CTGP Revolution"
+	],
+	"Mario Kart 7": [
+		"CTGP-7",
+		"CTGP 7"
+	],
+	"Mario Kart 8": [
+		"Mario Kart 8 Deluxe",
+		"Mario Kart Generations",
+		"CTGP Deluxe"
+	],
+	"New Super Mario Bros. U": [
+		"New Super Mario Bros U",
+		"New Super Mario Bros. U + New Super Luigi U",
+		"New Super Mario Bros U + New Super Luigi U",
+		"New Super Luigi U"
+	],
+	"Super Mario Sunshine": [
+		"Super Mario Sunburn",
+		"Super Mario Eclipse"
+	],
 	"Yoshi's Island": [
 		"Yoshi Island",
 		"Super Mario World 2",
 		"Super Mario Advance 3"
+	],
+	"Sonic the Hedgehog": [
+		"Sonic"
+	],
+	"Sonic the Hedgehog 3": [
+		"Sonic 3",
+		"Sonic 3 & Knuckles",
+		"Sonic 3 Complete",
+		"Sonic 3 AIR",
+		"Sonic 3 A.I.R",
+		"Sonic the Hedgehog 3 A.I.R",
+		"Sonic the Hedgehog 3 AIR",
+		"Sonic the Hedgehog 3 & Knuckles",
+		"Sonic the Hedgehog 3 Complete"
+	],
+	"Friday Night Funkin'": [
+		"Friday Night Funkin",
+		"FNF",
+		"Friday Night",
+		"Psych Engine",
+		"Psych Online",
+		"Psych Engine Online",
+		"Kade Engine",
+		"Codename Engine",
+		"V-Slice",
+		"VSlice",
+		"V Slice",
+		"P-Slice",
+		"PSlice",
+		"P Slice",
+		"ALE Psych",
+		"ALE Psych Engine",
+		"Yoshi Engine",
+		"Leather Engine",
+		"Impostor",
+		"Imposter",
+		"Sonic EXE",
+		"Sonic.EXE",
+		"Garcello",
+		"Hazy River"
+	],
+	"Twilight Princess": [
+		"Twilight Princess HD",
+		"Dusk",
+		"Dusklight",
+		"Dusk Light"
+	],
+	"Wind Waker": [
+		"The Wind Waker",
+		"The Wind Waker HD",
+		"Wind Waker HD"
+	],
+	"Ocarina of Time": [
+		"Ocarina of Time 3D",
+		"Ocarina of Time HD",
+		"Ship of Harkinian",
+		"Zelda Recompiled"
+	],
+	"Majora's Mask": [
+		"Majora Mask",
+		"Majora's Mask 3D",
+		"Majora Mask 3D",
+		"Majora's Mask HD",
+		"Majora Mask HD",
+		"Zelda Recompiled",
+		"2Ship2Harkinian"
+	],
+	"Sonic Boom": [
+		"Sonic Toon"
+	],
+	"Sonic Lost World": [
+		"Sonic Lost Hex"
+	],
+	"Wii Sports": [
+		"Wii Sports + Wii Sports Resort",
+		"Wii Sports + Resort"
+	],
+	"Wii Sports Resort": [
+		"Wii Sports + Wii Sports Resort",
+		"Wii Sports + Resort"
+	],
+	"Pokémon RBY": [
+		"Gen1Recomp",
+		"Gen 1 Recomp",
+		"RBY",
+		"Red",
+		"Red Version",
+		"Rojo",
+		"Edición Roja",
+		"Edicion Roja",
+		"Edicin Roja",
+		"Blue",
+		"Blue Version",
+		"Azul",
+		"Edición Azul",
+		"Edicion Azul",
+		"Edicin Azul",
+		"Yellow",
+		"Yellow Version",
+		"Yellow Version - Special Pikachu Edition",
+		"Edición Amarilla",
+		"Edicion Amarilla",
+		"Edicin Amarilla"
 	]
 }
