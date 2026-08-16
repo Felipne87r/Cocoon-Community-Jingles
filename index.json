@@ -14399,7 +14399,7 @@
         {
             "game": "Contra 3",
             "file": "jingles/snes/flapperultra/Contra 3 (flapperultra).ogg",
-            "regex": "(?:contra[^a-z0-9]+(?:3|iii)$|contra[^a-z0-9]+(?:iii|3)[^a-z0-9]+the[^a-z0-9]+alien[^a-z0-9]+wars$|super[^a-z0-9]+probotector[^a-z0-9]+alien[^a-z0-9]+rebels$|super[^a-z0-9]+probotector$|contra[^a-z0-9]+(?:3|iii)[^a-z0-9]+flapperultra$|contra[^a-z0-9]+(?:iii|3)[^a-z0-9]+the[^a-z0-9]+alien[^a-z0-9]+wars[^a-z0-9]+flapperultra$|super[^a-z0-9]+probotector[^a-z0-9]+alien[^a-z0-9]+rebels[^a-z0-9]+flapperultra$|super[^a-z0-9]+probotector[^a-z0-9]+flapperultra$|snes[^a-z0-9]+contra[^a-z0-9]+(?:3|iii)$|snes[^a-z0-9]+contra[^a-z0-9]+(?:iii|3)[^a-z0-9]+the[^a-z0-9]+alien[^a-z0-9]+wars$|snes[^a-z0-9]+super[^a-z0-9]+probotector[^a-z0-9]+alien[^a-z0-9]+rebels$|snes[^a-z0-9]+super[^a-z0-9]+probotector$|snes[^a-z0-9]+contra[^a-z0-9]+(?:3|iii)[^a-z0-9]+flapperultra$|snes[^a-z0-9]+contra[^a-z0-9]+(?:iii|3)[^a-z0-9]+the[^a-z0-9]+alien[^a-z0-9]+wars[^a-z0-9]+flapperultra$|snes[^a-z0-9]+super[^a-z0-9]+probotector[^a-z0-9]+alien[^a-z0-9]+rebels[^a-z0-9]+flapperultra$|snes[^a-z0-9]+super[^a-z0-9]+probotector[^a-z0-9]+flapperultra$)"
+            "regex": "(?:contra[^a-z0-9]+(?:3|iii)$|contra[^a-z0-9]+(?:3|iii)[^a-z0-9]+flapperultra$|snes[^a-z0-9]+contra[^a-z0-9]+(?:3|iii)$|snes[^a-z0-9]+contra[^a-z0-9]+(?:3|iii)[^a-z0-9]+flapperultra$)"
         },
         {
             "game": "Cybernator",
@@ -14749,12 +14749,12 @@
         {
             "game": "Star Fox",
             "file": "jingles/snes/CirnoWaifu/Star Fox (CirnoWaifu).ogg",
-            "regex": "(?:star[^a-z0-9]+fox$|starwing$|starfox$|star[^a-z0-9]+fox[^a-z0-9]+cirnowaifu$|starwing[^a-z0-9]+cirnowaifu$|starfox[^a-z0-9]+cirnowaifu$|snes[^a-z0-9]+star[^a-z0-9]+fox$|snes[^a-z0-9]+starwing$|snes[^a-z0-9]+starfox$|snes[^a-z0-9]+star[^a-z0-9]+fox[^a-z0-9]+cirnowaifu$|snes[^a-z0-9]+starwing[^a-z0-9]+cirnowaifu$|snes[^a-z0-9]+starfox[^a-z0-9]+cirnowaifu$)"
+            "regex": "(?:star[^a-z0-9]+fox$|star[^a-z0-9]+fox[^a-z0-9]+cirnowaifu$|snes[^a-z0-9]+star[^a-z0-9]+fox$|snes[^a-z0-9]+star[^a-z0-9]+fox[^a-z0-9]+cirnowaifu$)"
         },
         {
             "game": "Star Fox",
             "file": "jingles/snes/flapperultra/Star Fox (flapperultra).ogg",
-            "regex": "(?:star[^a-z0-9]+fox$|starwing$|starfox$|star[^a-z0-9]+fox[^a-z0-9]+flapperultra$|starwing[^a-z0-9]+flapperultra$|starfox[^a-z0-9]+flapperultra$|snes[^a-z0-9]+star[^a-z0-9]+fox$|snes[^a-z0-9]+starwing$|snes[^a-z0-9]+starfox$|snes[^a-z0-9]+star[^a-z0-9]+fox[^a-z0-9]+flapperultra$|snes[^a-z0-9]+starwing[^a-z0-9]+flapperultra$|snes[^a-z0-9]+starfox[^a-z0-9]+flapperultra$)"
+            "regex": "(?:star[^a-z0-9]+fox$|star[^a-z0-9]+fox[^a-z0-9]+flapperultra$|snes[^a-z0-9]+star[^a-z0-9]+fox$|snes[^a-z0-9]+star[^a-z0-9]+fox[^a-z0-9]+flapperultra$)"
         },
         {
             "game": "Star Fox 2",
